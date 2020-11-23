@@ -1,0 +1,301 @@
+scientific_name_from	aphia_id_from	dyntaxa_from	scientific_name_to	aphia_id_to	dyntaxa_to
+Achnanthes delicatula			Achnanthes delicatula subsp. septentrionalis	688181	
+Achnanthes dispar			Achnanthes dispar	961097	
+Achnanthes lanceolata			Planothidium lanceolatum	669893	
+Achnanthes taeniata			Achnanthes taeniata	961159	
+Amphora coffeaeformis			Amphora coffeaeformis	961353	
+Amphora holsatica			Amphora subholsatica	665145	
+Amphora lineolata			Amphora lineolata	961378	
+Amphora veneta			Amphora veneta	964328	
+Brachysira brebissonii			Brachysira brebissonii	959297	
+Brachysira zellensis			Navicula zellensis var. zellensis	976657	
+Caloneis undulata			Caloneis undulata	961334	
+Campylodiscus clypeus			Campylodiscus clypeus	163816	
+Ceratium longipes			Tripos longipes	841259	
+Ceratium macroceros			Tripos macroceros	841260	
+Ceratium tripos			Tripos muelleri	495363	
+Chaetoceros debilis			Chaetoceros debilis	961758	
+Chaetoceros eibenii			Chaetoceros eibenii	160521	
+Corethron criophilum			Corethron criophilum	966704	
+Coscinodiscus centralis			Coscinodiscus centralis	966480	
+Coscinodiscus radiatus			Coscinodiscus radiatus	962316	
+Craticula molestiformis			Navicula molestiformis	661372	
+Ctenophora pulchella			Ctenophora pulchella	961829	
+Cymatopleura elliptica			Cymatopleura elliptica	964792	
+Cymatopleura solea			Cymatopleura solea	966623	
+Cymbella cymbiformis			Frustulia cymbiformis	669568	
+Cymbella helvetica			Cymbella helvetica	965473	
+Cymbella lanceolata			Frustulia lanceolata	172817	
+Dinobryon bavaricum var. vanhoeffenii			Dinobryon vanhoeffeni	655021	
+Dinophysis rotundata			Phalacroma rotundatum	156505	
+Diploneis didyma			Navicula didyma	962642	
+Encyonema prostratum			Monema prostratum	172272	
+Epithemia adnata			Frustulia adnata	172277	
+Epithemia turgida var. westermannii			Epithemia turgida var. westermannii	972343	
+Eucocconeis flexella			Cymbella flexella	163553	
+Eunotia diodon			Eunotia diodon	963832	
+Guinardia striata			Guinardia striata	967041	
+Gyrosigma fasciola			Ceratoneis fasciola	172535	
+Gyrosigma strigilis			Pleurosigma strigilis f. strigilis	985896	
+Karayevia laterostrata			Achnanthes laterostrata	179085	
+Leptocylindrus danicus			Leptocylindrus danicus	962746	
+Mastogloia elliptica			Mastogloia elliptica	180399	
+Melosira arctica			Melosira arctica var. arctica	976453	
+Melosira nummuloides			Melosira nummuloides	966672	
+Navicula lanceolata			Navicula lanceolata	963484	
+Navicula perminuta			Navicula perminuta	963126	
+Navicula salinarum			Navicula salinarum	966706	
+Nitzschia acicularis			Nitzschia acicularis	967235	
+Nitzschia brevissima			Nitzschia obtusa var. brevissima	977063	
+Nitzschia filiformis			Nitzschia filiformis	958492	
+Nitzschia microcephala			Nitzschia microcephala	960981	
+Nitzschia paleacea			Nitzschia paleacea	609727	
+Peridinium umbonatum var. deflandrei			Parvodinium deflandrei	838485	
+Pinnularia appendiculata			Frustulia appendiculata	175588	
+Planothidium oestrupii			Planothidium oestrupii	610725	
+Pleurosigma angulatum			Pleurosigma angulatum	149183	
+Rhizosolenia hebetata f. semispina			Rhizosolenia semispina	163348	
+Staurastrum planctonicum			Staurastrum pingue var. planctonicum	1373157	
+Stauroneis spicula			Stauroneis spicula	669081	
+Surirella crumena			Surirella crumena	965392	
+Thalassionema nitzschioides			Synedra nitzschioides f. nitzschioides	985570	
+Thalassiosira delicatula			Thalassiosira delicatula	555264	
+Thalassiosira minima			Thalassiosira minima	960559	
+Tryblionella coarctata			Tryblionella coarctata	961062	
+Tryblionella gracilis			Tryblionella gracilis	966095	
+Tryblionella hungarica			Nitzschia hungarica f. hungarica	984543	
+Xanthidium octocorne			Staurodesmus octocornis	839096	
+Strobilidium spiralis	101236		Pelagostrobilidium spirale	341692	
+Diaphanoeca undulata	105575				
+Gymnodinium aeruginosum	109782		Nusuttodinium aeruginosum	837252	
+Gymnodinium chlorophorum	109785		Lepidodinium chlorophorum	345481	
+Gymnodinium conicum	109787		Spatulodinium pseudonoctiluca	109923	
+Gymnodinium helveticum	109804		Gyrodinium helveticum	639206	
+Ceratium candelabrum	109935		Tripos candelabrum	841193	
+Ceratium furca	109950		Tripos furca	840627	
+Ceratium fusus	109951		Tripos fusus	840626	
+Ceratium horridum	109956		Tripos horridus	837453	
+Ceratium lineatum	109963		Tripos lineatus	837459	
+Ceratium setaceum	109977		Tripos setaceus	837446	
+Amphidoma caudata	110005		Azadinium caudatum	837075	
+Heterocapsa triquetra	110153		Kryptoperidinium triquetrum	1346683	
+Peridiniopsis dinobryonis	110160		Staszicella dinobryonis	663841	
+Scrippsiella trochoidea	110172		Scrippsiella acuminata	1321853	
+Peridinium goslaviense	110186		Parvodinium goslaviense	838486	
+Peridinium palatinum	110191		Palatinus apiculatus	623653	
+Prorocentrum compressum	110295		Pyxidicula compressa var. compressa	978142	
+Prorocentrum minimum	110304		Prorocentrum cordatum	232376	
+Prorocentrum redfieldii	110310		Prorocentrum triestinum	110316	
+Chrysochromulina brevifilum	115112		Haptolina brevifila	624975	
+Chrysochromulina hirta	115119		Haptolina hirta	699623	
+Chrysochromulina kappa	115120		Prymnesium kappa	624968	
+Chrysochromulina polylepis	115127		Prymnesium polylepis	670030	
+Rhizomonas setigera	118071		Solenicola setigera	118073	
+Kathablepharis remigera	119081		Katablepharis remigera	627117	
+Chroococcus limneticus	146568		Limnococcus limneticus	576250	
+Merismopedia punctata	146577		Merismopedia tranquilla	627627	
+Microcystis holsatica	146642		Aphanocapsa holsatica	146647	
+Thalassiosira angulata	148913		Orthosira angulata	966467	
+Thalassiosira anguste-lineata	148914		Coscinodiscus angustelineatus	964359	
+Thalassiosira punctigera	148936		Ethmodiscus punctiger	148941	
+Actinoptychus senarius	148948		Actinocyclus senarius	162810	
+Cyclostephanos dubius	148996		Cyclotella dubia var. dubia	976114	
+Epithemia turgida	149027		Navicula turgida	172289	
+Odontella sinensis	149095		Biddulphia sinensis	148969	
+Roperia tesselata	149105		Eupodiscus tesselatus	163388	
+Guinardia delicatula	149112		Rhizosolenia delicatula	149114	
+Chaetoceros diadema	149128		Syndendrium diadema	163042	
+Guinardia flaccida	149132		Rhizosolenia flaccida	160530	
+Asterionellopsis glacialis	149139		Asterionella glacialis	148955	
+Amphiprora alata	149141		Entomoneis alata	157428	
+Meuniera membranacea	149145		Navicula membranacea	149232	
+Actinocyclus octonarius	149164		Actinocyclus octonarius var. octonarius	162770	
+Striatella unipunctata	149177		Fragilaria unipunctata	573470	
+Diploneis oculata	149197		Navicula oculata f. oculata	984160	
+Haslea ostrearia	149211		Vibrio ostrearius	573681	
+Detonula confervacea	149286		Lauderia confervacea	163224	
+Dactyliosolen fragilissimus	149310		Rhizosolenia fragilissima f. fragilissima	985165	
+Diploneis smithii	149397		Navicula smithii f. smithii	984388	
+Navicula directa	149467		Pinnularia directa var. directa	977537	
+Amphiprora paludosa	149514		Entomoneis paludosa	163646	
+Asterionellopsis kariana	149618		Asterionella kariana	148956	
+Cerataulina pelagica	149619		Cerataulina bergonii	961694	
+Detonula pumila	149647		Lauderia pumila	163226	
+Stellarima stellaris	149653		Coscinodiscus stellaris var. stellaris	975029	
+Nitzschia scalaris	156544		Synedra scalaris	175445	
+Dictyocha speculum	157260		Octactis speculum	1310442	
+Urosolenia eriensis	157455		Rhizosolenia eriensis f. eriensis	985162	
+Pediastrum boryanum	160562		Pseudopediastrum boryanum	621601	
+Actinocyclus octonarius var. tenellus	160650		Eupodiscus tenellus	162803	
+Amphipleura rutilans	160655		Berkeleya rutilans	156955	
+Aphanothece bachmannii	162682		Anathece bachmannii	624957	
+Aphanothece clathrata	162686		Anathece clathrata	699619	
+Aphanothece minutissima	162689		Anathece minutissima	624955	
+Aphanothece smithii	162692		Anathece smithii	624960	
+Chroococcus aphanocapsoides	162696		Eucapsis aphanocapsoides	1345052	
+Planctonema lauterbornii	162716		Binuclearia lauterbornii	575737	
+Attheya septentrionalis	162823		Chaetoceros septentrionalis	962003	
+Aulacoseira granulata var. angustissima	162865		Melosira granulata f. angustissima	984183	
+Aulacoseira subarctica	162903		Melosira italica	963135	
+Scenedesmus acuminatus	162928		Tetradesmus lagerheimii	1289276	
+Tetrastrum staurogeniaeforme	162935		Tetrastrum staurogeniiforme	610934	
+Chaetoceros anastomosans var. externa	162998		Chaetoceros externus	160522	
+Chaetoceros impressus	163080		Chaetoceros castracanei	341473	
+Chaetoceros minimus	163089		Rhizosolenia minima	149287	
+Imantonia rotunda	163096		Dicrateria rotunda	840109	
+Euglena oxyuris	163119		Lepocinclis oxyuris	624255	
+Euglena spirogyra	163128		Lepocinclis spirogyroides	576887	
+Chaetoceros throndsenii	163137		Miraltia throndsenii	163143	
+Cyclotella antiqua	163195		Lindavia antiqua	1289916	
+Ellerbeckia arenaria	163240		Melosira arenaria var. arenaria	976131	
+Phacus pyrum	163341		Monomorphina pyrum	447754	
+Euglena acus	163399		Lepocinclis acus	624247	
+Euglena proxima	163466		Euglenaformis proxima	836927	
+Pediastrum simplex	163483		Monactinus simplex	621192	
+Thalassiosira hyperborea var. pelagica	163499		Coscinodiscus lacustris var. pelagica	969455	
+Thalassiosira weissflogii	163513		Eupodiscus weissflogii	668848	
+Urosolenia longiseta	163520		Rhizosolenia longiseta var. longiseta	978224	
+Amphiprora pseudoduplex	163650				
+Amphora copulata	163656		Frustulia copulata	163657	
+Ardissonea fulgens	163708		Synedra fulgens	163712	
+Brachysira serians	163748		Frustulia serians	669754	
+Caloneis crassa	163777		Navicula crassa	163778	
+Cavinula cocconeiformis	163847		Navicula cocconeiformis f. cocconeiformis	983790	
+Cocconeis stauroneiformis	163885		Cocconeis scutellum f. stauroneiformis	983494	
+Cosmioneis pusilla	163894		Navicula pusilla f. pusilla	984285	
+Craticula ambigua	163903		Navicula ambigua f. ambigua	983613	
+Kirchneriella contorta	164067		Raphidocelis danubiana	616378	
+Encyonema lacustre	164099		Schizonema lacustre	164101	
+Eunotia bilunaris	172305		Synedra bilunaris var. bilunaris	978837	
+Eunotia faba	172322		Himantidium faba	180178	
+Fallacia cryptolyra	172376		Navicula cryptolyra	172377	
+Crucigeniella apiculata	172485		Willea apiculata	839163	
+Gomphonemopsis exigua	172503				
+Gomphonemopsis pseudexigua	172506		Gomphonema pseudoexiguum	622154	
+Gyrosigma eximium	172522		Schizonema eximium	172525	
+Haslea crucigera	172588		Schizonema cruciger f. cruciger	985254	
+Luticola mutica	172645		Navicula mutica f. mutica	984026	
+Navicula duerrenbergiana	172795		Haslea duerrenbergiana	1288236	
+Neosynedra provincialis	175369		Synedra provincialis var. provincialis	978930	
+Opephora mutabilis	175467		Sceptroneis mutabilis var. mutabilis	978379	
+Petroneis granulata	175568		Navicula granulata	175572	
+Petroneis humerosa	175573		Navicula humerosa f. humerosa	983924	
+Petroneis latissima	175574		Navicula latissima f. latissima	983961	
+Staurophora amphioxys	175922		Stauroneis amphioxys var. amphioxys	978465	
+Thalassiophysa hyalina	176371		Amphiprora hyalina	661779	
+Tryblionella littoralis	176527		Nitzschia littoralis var. littoralis	977047	
+Phormidium dictyothallum	177536		Pseudanabaena dictyothalla	619481	
+Anabaena subcylindrica	177650		Anabaena cylindrica	177649	
+Coccolithus pelagicus	178600				
+Dictyosphaerium pulchellum	178933		Mucidosphaerium pulchellum	624695	
+Brachysira follis	179426		Navicula follis	661935	
+Brachysira styriaca	179430		Navicula styriaca	179431	
+Dactyliosolen blavyanus	179786		Guinardia blavyana var. blavyana	975336	
+Eunotia exigua	180063		Himantidium exiguum	172319	
+Eunotia serra var. diadema	180151		Eunotia diadema	180152	
+Planktoniella sol	196815		Coscinodiscus sol	573437	
+Ceratium bucephalum	196820		Tripos bucephalus	841190	
+Favella serrata	196835		Schmidingerella serrata	732868	
+Encyonema lunatum	232084		Cymbella lunata	661814	
+Karlodinium micrum	233027		Karlodinium veneficum	233037	
+Scrippsiella hangoei	233093		Apocalathium malmogiense	1380043	
+Proterythropsis vigilans	233115		Nematopsides vigilans	547527	
+Cladopyxis claytonii	233351		Micracanthodinium claytonii	109992	
+Peridinium quinquecorne	233804		Peridinium quadridentatum	1305343	
+Dactyliosolen phuketensis	248064		Rhizosolenia phuketensis	573582	
+Apedinella spinifera	248098		Apedinella radians	248097	
+Aphanizomenon flos-aquae	248099		Aphanizomenon flosaquae	609460	
+Aphanizomenon issatschenkoi	248102		Cuspidothrix issatschenkoi	621617	
+Pediastrum tetras	248147		Stauridium tetras	248146	
+Scenedesmus acutus	248155		Tetradesmus obliquus	1359367	
+Asteroplanus karianus	251745		Asterionella kariana	148956	
+Neocalyptrella robusta	345491		Rhizosolenia robusta var. robusta	978230	
+Proboscia indica	345513		Rhizosolenia indica	231887	
+Thalassiosira mediterranea	345547		Coscinosira mediterranea	573444	
+Woloszynskia halophila	376737		Biecheleria halophila	626298	
+Staurastrum lunatum	410026		Staurastrum avicula var. lunatum	846509	
+Fallacia tenera	418418		Navicula tenera	669023	
+Craticula accomoda	418460		Navicula accommoda	628362	
+Martyana atomus	418628		Fragilaria atomus	180189	
+Martyana schulzii	418629		Fragilaria schulzii	617200	
+Lemnicola hungarica	447727		Achnanthidium hungaricum	179058	
+Hippodonta hungarica	447740		Navicula hungarica f. hungarica	983926	
+Minutocellus polymorphus	464449		Bellerochea polymorpha	464448	
+Amphidinium elenkinii	503865		Prosoaulax lacustris	503329	
+Bacillaria paxillifera	558243		Vibrio paxillifer	163728	
+Monoraphidium arcuatum	558764		Ankistrodesmus arcuatus	575733	
+Rossithidium nodosum	574046		Achnanthes nodosa	179110	
+Karayevia oblongella	574047		Achnanthes oblongella	163595	
+Rossithidium pusillum	574051		Achnanthes pusilla	163602	
+Extubocellulus spinifer	577628		Bellerochea spinifera	669620	
+Chrysosphaerella coronacircumspina	577814		Spiniferomonas coronacircumspina	610049	
+Coelastrum reticulatum	577819		Hariotina reticulata	616367	
+Pediastrum biradiatum	577882		Parapediastrum biradiatum	577885	
+Cyclostephanos invisitatus	577910		Stephanodiscus invisitatus	577909	
+Cyclotella tripartita	578223		Pantocsekiella tripartita	1304232	
+Tabellaria flocculosa var. asterionelloides	578550		Tabellaria fenestrata var. asterionelloides	176272	
+Strobilidium sphaericum	578585		Rimostrombidium sphaericum	595200	
+Diadesmis contenta	593885		Navicula contenta f. contenta	180507	
+Karayevia bottnica	597250		Achnanthes clevei var. bottnica	163526	
+Haematococcus pluvialis	608431		Haematococcus lacustris	661559	
+Euastrum denticulatum	608987		Euastrum amoenum	664383	
+Staurodesmus indentatus	609274		Staurodesmus incus var. indentatus	674113	
+Cavinula jaernefeltii	609750		Navicula jaernefeltii	180621	
+Spiniferomonas bourrellyi	610048		Paraphysomonas bourrellyi	620018	
+Aulacoseira lacustris	610325		Melosira lyrata f. lacustris	984206	
+Aneumastus stroesei	610377		Navicula tuscula var. stroesei	695209	
+Encyonema gaeumannii	610426		Cymbella gaeumannii	179735	
+Encyonema latens	610431		Cymbella latens	661508	
+Encyonema obscurum	610432		Cymbella obscura	661509	
+Encyonema reichardtii	610434		Cymbella reichardtii	661511	
+Psammothidium levanderi	610732		Achnanthes levanderi var. levanderi	969015	
+Staurastrum brebissonii	611267		Staurastrum pilosum	669377	
+Brachysira garrensis	611560		Anomoeoneis garrensis	611546	
+Chrysochromulina scutellum	612318				
+Craticula dissociata	612392		Navicula dissociata	662450	
+Lobocystis planctonica	616373		Dictyosphaerium planctonicum	647499	
+Craticula minusculoides	617371		Navicula minusculoides	180675	
+Planothidium daui	618217		Achnanthes daui	661344	
+Psammothidium chlidanos	618239		Achnanthes chlidanos	661772	
+Didymocystis bicellularis	619986		Desmodesmus bicellularis	249712	
+Achnanthes linearioides	621632				
+Cyclotella costei	621783		Pantocsekiella costei	1304201	
+Encyonopsis cesatii	622720		Navicula cesatii	163962	
+Delicata delicatula	623357		Delicatophycus delicatulus	1334252	
+Cymbopleura naviculiformis	623652		Cymbella naviculiformis	163980	
+Cymbopleura subaequalis	623805		Cymbella subaequalis	179777	
+Cymbopleura hybrida	623913		Cymbella hybrida	179742	
+Planothidium lemmermannii	624657		Achnanthes lemmermannii var. lemmermannii	160637	
+Spiniferomonas serrata	625474		Chromophysomonas serrata	708716	
+Caloneis tenuis	626515		Pinnularia tenuis var. tenuis	977751	
+Amphipleura kriegeriana	626555		Fragilaria kriegeriana	614177	
+Psammothidium rossii	626605		Achnanthes rossii	179138	
+Cavinula scutelloides	627519		Navicula scutelloides f. scutelloides	984372	
+Chamaepinnularia soehrensis	627521		Navicula soehrensis f. soehrensis	984391	
+Chamaepinnularia mediocris	627522		Navicula mediocris var. mediocris	970731	
+Cavinula mollicula	627783		Navicula mollicula	611733	
+Planothidium joursacense	627789		Achnanthes joursacense	610367	
+Planothidium pericavum	627793		Achnanthes pericava	611527	
+Psammothidium perpusillum	627796		Pinnularia perpusilla	665265	
+Karayevia suchlandtii	656297		Achnanthes suchlandtii var. suchlandtii	969061	
+Pediastrum kawraiskyi	661417		Pseudopediastrum kawraiskyi	621602	
+Achnanthidium exiguum	662108		Achnanthes exigua var. exigua	974062	
+Chrysochromulina fragaria	662243		Haptolina fragaria	624977	
+Lepocinclis texta	662394		Euglena texta	163306	
+Woloszynskia coronata	663475		Tovellia coronata	619818	
+Peridiniopsis edax	663826		Tyrannodinium edax	625986	
+Ankyra lanceolata	666617		Lanceola spatulifera	618770	
+Psammothidium didymum	670163		Achnanthes didyma	609696	
+Psammothidium marginulatum	670164		Achnanthes marginulata var. marginulata	973665	
+Chamaepinnularia soehrensis var. muscicola	674865		Pinnularia muscicola	661543	
+Cavinula cocconeiformis f. elliptica	689133		Navicula cocconeiformis f. elliptica	690685	
+Diadesmis perpusilla	699380		Navicula perpusilla var. perpusilla	976258	
+Dolichospermum circinale	699631		Dolichospermum sigmoideum	625408	
+Achnanthidium bioretii	699656		Psammothidium bioretii	700441	
+Achnanthidium catenatum	699707		Achnanthes catenata	611525	
+Phacus suecicus	700453		Phacus monilatus var. suecicus	671164	
+Scenedesmus carinatus	700695		Desmodesmus opoliensis var. carinatus	672037	
+Achnanthidium subatomoides	707997		Navicula subatomoides	661254	
+Achnanthidium helveticum	708290		Psammothidium helveticum	626600	
+Achnanthidium kriegeri	708715		Rossithidium kriegeri	1379953	
+Achnanthidium lauenburgianum	708731		Achnanthes lauenburgiana	179086	
