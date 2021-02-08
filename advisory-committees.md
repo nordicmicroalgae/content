@@ -9,7 +9,7 @@ Nordic microalgae and aquatic protozoa is operated by the Swedish Meteorological
   
     * Ann-Turi Skjevik
     * Marie Johansen
-      Kalle Anka
+      
     * Arnold Andreasson
     * Andreas Loo
 * __The Swedish Microalgae Committee (SMAC)__
