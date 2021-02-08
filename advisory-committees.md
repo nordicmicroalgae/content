@@ -24,7 +24,7 @@ Nordic microalgae and aquatic protozoa is operated by the Swedish Meteorological
     * Bente Edvardsen
     * Wenche Eikrem (chair)
     * Birger Skjelbred
-    * Karl Tangen
+  
     * Cecilie von Quilfeldt
 * __The Unofficial Icelandic Microalgae Committee__
     * Hafsteinn Guðfinnsson
