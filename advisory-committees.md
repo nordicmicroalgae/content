@@ -6,9 +6,10 @@ Nordic microalgae and aquatic protozoa is operated by the Swedish Meteorological
 
 * __The Nordic Microalgae team at [SMHI](http://www.smhi.se/Kontakt/SMHIs-lokalkontor/smhi-goteborg-1.6449)__
     * Bengt Karlson
-    * Malin Mohlin
+  
     * Ann-Turi Skjevik
     * Marie Johansen
+      Kalle Anka
     * Arnold Andreasson
     * Andreas Loo
 * __The Swedish Microalgae Committee (SMAC)__
@@ -17,14 +18,14 @@ Nordic microalgae and aquatic protozoa is operated by the Swedish Meteorological
     * Eva Herlitz
     * Maria Kahlert
     * Bengt Karlson (chair)
-    * Malin Mohlin
+    
     * Anders Stehn
     * Eva Willén
 * __The Norwegian Microalgae Naming Committee__
     * Bente Edvardsen
     * Wenche Eikrem (chair)
     * Birger Skjelbred
-  
+    * Karl Tangen
     * Cecilie von Quilfeldt
 * __The Unofficial Icelandic Microalgae Committee__
     * Hafsteinn Guðfinnsson
