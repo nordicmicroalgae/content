@@ -2,7 +2,7 @@
 title: Help
 ---
 
-## Basic funtionality
+## Basic functionality
 
 Nordic Microalgae is built upon the concept of taxon sheets. The most interesting sheets are at the species level where you will find illustrations and other information about a species. To reach species sheets you can use the TAXON TREE view or the QUICK VIEW. Filters can be used to restrict what you see. If you know the name or part of the name of an organism the search funtion may be useful. Hopefully most of the web site is self explanatory.
 
