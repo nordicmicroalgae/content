@@ -4,7 +4,7 @@ title: About
 
 ## Operation and funding
 
-Nordic microalgae and aquatic protozoa is operated by the Swedish Meteorological and Hydrological Institute ([SMHI](http://www.smhi.se/en)) as part of the [Swedish Lifewatch](http://www.svenskalifewatch.se/) programme.
+The Nordic microalgae and aquatic protozoa website is operated by the Swedish Meteorological and Hydrological Institute ([SMHI](http://www.smhi.se/en)) as part of the [SBDI](https://biodiversitydata.se/) platform.
 
 The project [Swedish Lifewatch](http://www.svenskalifewatch.se/), funded by the [Swedish Research Council](http://vr.se/inenglish.4.12fff4451215cbd83e4800015152.html) is providing funds for the development and operation of Nordic Microalgae since October 2010.  The Swedish Lifewatch project contributes to [European Lifewatch](http://www.lifewatch.eu/).
 
