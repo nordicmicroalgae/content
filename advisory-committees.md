@@ -2,14 +2,13 @@
 title: Advisory committees
 ---
 
-Nordic microalgae and aquatic protozoa is operated by the Swedish Meteorological and Hydrological Institute as part of the Swedish Lifewatch programme. The following committees/societies contributes to species lists and gives advice on the content and functionality of the web site:
+Nordic microalgae and aquatic protozoa is operated by the Swedish Meteorological and Hydrological Institute as part of the SBDI platform. The following committees/societies contributes to species lists and gives advice on the content and functionality of the web site:
 
-* __The Nordic Microalgae team at [SMHI](http://www.smhi.se/Kontakt/SMHIs-lokalkontor/smhi-goteborg-1.6449)__
+* __The Nordic Microalgae team at [SMHI](https://www.smhi.se/kontakta-smhi/smhis-lokalkontor/smhi-goteborg-1.6449)__
     * Bengt Karlson
-  
     * Ann-Turi Skjevik
+    * Maria Karlberg
     * Marie Johansen
-      
     * Arnold Andreasson
     * Andreas Loo
 * __The Swedish Microalgae Committee (SMAC)__
@@ -18,7 +17,6 @@ Nordic microalgae and aquatic protozoa is operated by the Swedish Meteorological
     * Eva Herlitz
     * Maria Kahlert
     * Bengt Karlson (chair)
-    
     * Anders Stehn
     * Eva Willén
 * __The Norwegian Microalgae Naming Committee__
@@ -33,14 +31,14 @@ Nordic microalgae and aquatic protozoa is operated by the Swedish Meteorological
     * Agnes Eydal
     * Kristin Valsdottir
     * Karl Gunnarsson
-* __The Finnish Phytoplankton Society__ ([Link to site in Finnish](http://www.kasviplanktonseura.fi/))
+* [__The Finnish Phytoplankton Society__](http://www.kasviplanktonseura.fi/en/home/)
     * Kristiina Vuorio (chair)
-    * Marko Järvinen  (vice chair)
-    * Laura Forsström
-    * Päivi Hakanen
-    * Maija Niemelä
-    * Arja Palomäki (deputy member)
+    * Jonna Hänninenn  (vice chair)
+    * Päivi Hakanen (secretary)
+    * Raino-Lars Albert (treasurer)
+    * Jere Laine (member)
     * Sanna Autio (deputy member)
+    * Marko Järvinen (deputy member)
 * __A group of danish microalgae taxonomists__
     * Øjvind Moestrup
     * Nina Lundholm
