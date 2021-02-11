@@ -6,17 +6,22 @@ title: About
 
 The Nordic microalgae and aquatic protozoa website is operated by the Swedish Meteorological and Hydrological Institute ([SMHI](http://www.smhi.se/en)) as part of the [SBDI](https://biodiversitydata.se/) platform.
 
-The project [Swedish Lifewatch](http://www.svenskalifewatch.se/), funded by the [Swedish Research Council](http://vr.se/inenglish.4.12fff4451215cbd83e4800015152.html) is providing funds for the development and operation of Nordic Microalgae since October 2010.  The Swedish Lifewatch project contributes to [European Lifewatch](http://www.lifewatch.eu/).
+Swedish LifeWatch ([SLW](http://www.svenskalifewatch.se/)) and Biodiversity Atlas Sweden ([BAS](https://bioatlas.se/)), including GBIF Sweden, have been the key biodiversity infrastructures in Sweden. They have now merged to become the Swedish Biodiversity Data Infrastructure (SBDI), a single platform making biodiversity data accessible providing powerful analysis and visualization tools. SBDI is developed in collaboration with the Living Atlases community, and will offer unprecedented opportunities for innovative, interdisciplinary research on biodiversity and ecosystems. Swedish LifeWatch, funded by the [Swedish Research Council](https://www.vr.se/english.html), has provided funds for the development and operation of Nordic Microalgae since October 2010.  The Swedish Lifewatch project contributes to [European Lifewatch](http://www.lifewatch.eu/).
 
-## The partners in Swedish Lifewatch are:
+## The partners in Swedish Biodiversity Data Infrastructure (SBDI) are:
 
-* [The Swedish Species Information Centre](http://www.artdata.slu.se/english/) at the Swedish University of Agricultural Sciences (lead partner).
-* [Department of Aquatic Sciences and Assessment](http://www.slu.se/en/faculties/nl/about-the-faculty/departments/department-of-aquatic-sciences-and-assessment/), Swedish University of Agricultural Sciences
-* [The University of Gothenburg](http://gu.se/english/)
-* [Lund University](http://www.lunduniversity.lu.se/)
-* [Umeå University](http://www.umu.se/english/?languageId=1)
+* [Swedish Museum of Natural History](https://www.nrm.se/en/16.html)
+* [The Swedish Species Information Centre](https://www.artdatabanken.se/en/)
+* [Department of Aquatic Resources (SLU Aqua)](https://www.slu.se/en/departments/aquatic-resources1/)
+* [Karolinska Institutet](https://ki.se/en)
+* [Linnaeus University](https://lnu.se/en/)
+* [Lund University](https://www.lunduniversity.lu.se//)
+* [Royal Institute of Technology](https://www.kth.se/en)
+* [Stockholm University](https://www.su.se/english/)
 * [Swedish Meteorological and Hydrological Institute, SMHI](http://www.smhi.se/en)
-* [The Swedish Museum of Natural History](http://www.nrm.se/en/frontpage.16_en.html)
+* [Umeå University](http://www.umu.se/english/?languageId=1)
+* [The University of Gothenburg](http://gu.se/english/)
+* [Uppsala University](https://www.uu.se/en/)
 
 ## Links and logotypes
 <ul class="partners-links-and-logotypes">
