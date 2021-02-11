@@ -15,12 +15,12 @@ You simply click on Register in the top right corner of the web page. Please ent
 
 ## Step by step guides
 
-How to contrbitute images. [Download pdf](http://downloads.nordicmicroalgae.org/nordic_microalgae_guide_for_contriburs.pdf)
+How to contribute images. [Download pdf](http://downloads.nordicmicroalgae.org/nordic_microalgae_guide_for_contriburs.pdf)
 How to create YouTube account and Upload videos. [Download pdf](http://downloads.nordicmicroalgae.org/CreateYouTubeaccount&UploadVideo.pdf)
 
 ## About contribution of images
 
-Please contribute images for any organism in Nordic Microalgae. There is no restriction of the number of images per taxon but more than ten is seldom useful. Most important are images of organisms that are not yet well illustrated. Before you consider contribution make sure that you understand the implications for copyright holders by reading the [Copyright notice](/copyright-notice). All types of high quality images are requested, e.g.
+Please contribute images for any organism in Nordic Microalgae. There is no restriction of the number of images per taxon but more than ten is seldom useful. Most important are images of organisms that are not yet well illustrated. Before you consider contribution make sure that you understand the implications for copyright holders by reading the [Copyright notice](/copyright-notice). All types of high-quality images are requested, e.g.
 
 * Images of the whole organism
 * Images showing details important for identification
