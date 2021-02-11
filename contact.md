@@ -9,4 +9,5 @@ title: Contact
 Nordic Microalgae<br />
 c/o SMHI Oceanographic unit<br />
 Sven Källfelts gata 15<br />
-SE-426 71 Västra Frölunda Sweden
+SE-426 71 Västra Frölunda<br />
+Sweden
