@@ -8,7 +8,7 @@ Nordic Microalgae is built upon the concept of taxon sheets. The most interestin
 
 There is no extensive help for Nordic Microalgae. Do get in touch with one of the administrators if you have problems or suggestions for new functionality.
 
-e-mail: [info@nordicmicroalgae.org](mailto:info@nordicmicroalgae.org)
+e-mail: [nordicmicroalgae@smhi.se](mailto:nordicmicroalgae@smhi.se)
 
 ## For contributors
 
@@ -34,4 +34,4 @@ Answer: Try a different web browser, e.g. Firefox or Safari. Internet Explorer 7
 
 * Question: I cannot find a species I expect to find.
 
-Answer: Try a synonym in the search field. If you still do not find the species it should probably be added to the species list. Contact Nordic Microalgae at [info@nordicmicroalgae.org](mailto:info@nordicmicroalgae.org) or a member of your national microalgae committee. (At present Finland, Norway and Sweden).
+Answer: Try a synonym in the search field. If you still do not find the species it should probably be added to the species list. Contact Nordic Microalgae at [nordicmicroalgae@smhi.se](mailto:nordicmicroalgae@smhi.se) or a member of your national microalgae committee. (At present Finland, Norway and Sweden).
