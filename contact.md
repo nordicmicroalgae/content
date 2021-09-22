@@ -3,7 +3,7 @@ title: Contact
 ---
 
 ## E-mail
-[info@nordicmicroalgae.org](mailto:info@nordicmicroalgae.org)
+[nordicmicroalgae@smhi.se](mailto:nordicmicroalgae@smhi.se)
 
 ## Mail and visiting address
 Nordic Microalgae<br />
