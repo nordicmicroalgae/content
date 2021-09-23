@@ -4,7 +4,7 @@ title: About
 
 ## Operation and funding
 
-The Nordic microalgae and aquatic protozoa website is operated by the Swedish Meteorological and Hydrological Institute ([SMHI](http://www.smhi.se/en)) as part of the [SBDI](https://biodiversitydata.se/) platform.
+The Nordic microalgae and aquatic protozoa website is operated by the Swedish Meteorological and Hydrological Institute ([SMHI](http://www.smhi.se/en)) as service part of the [Swedish Biodiversity Data Infrastructure](https://biodiversitydata.se/),funded by SMHI and the Swedish Research Coulcil through Grant No 2019-00242.
 
 Swedish LifeWatch ([SLW](http://www.svenskalifewatch.se/)) and Biodiversity Atlas Sweden ([BAS](https://bioatlas.se/)), including GBIF Sweden, have been the key biodiversity infrastructures in Sweden. They have now merged to become the Swedish Biodiversity Data Infrastructure (SBDI), a single platform making biodiversity data accessible providing powerful analysis and visualization tools. SBDI is developed in collaboration with the Living Atlases community, and will offer unprecedented opportunities for innovative, interdisciplinary research on biodiversity and ecosystems. Swedish LifeWatch, funded by the [Swedish Research Council](https://www.vr.se/english.html), has provided funds for the development and operation of Nordic Microalgae since October 2010.  The Swedish LifeWatch project contributes to [European LifeWatch](http://www.lifewatch.eu/).
 
