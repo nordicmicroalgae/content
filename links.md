@@ -19,6 +19,7 @@ title: Links
 * [PhycoKey - University of New Hampshire](http://cfb.unh.edu/phycokey/phycokey.htm)
 * [The International Nannoplankton Association](http://ina.tmsoc.org/)
 * [Nannotax3 - interactive database of nannofossil taxonomy, coccolithoporids etc.](http://ina.tmsoc.org/Nannotax3/index.html)
+* [Diatom flora of Britain and Ireland](https://naturalhistory.museumwales.ac.uk/diatoms/)
 
 ## Information about microzooplankton
 
