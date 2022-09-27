@@ -15,7 +15,7 @@ You simply click on Register in the top right corner of the web page. Please ent
 
 ## Step by step guides
 
-How to contribute images. [Download pdf](http://downloads.nordicmicroalgae.org/nordic_microalgae_guide_for_contriburs.pdf)
+How to contribute images or image library. (Två nya word-dokument finns här: \\winfs-proj\data\proj\havgem\Lifewatch_II_2018-\Nordic_microalgae. När de är kollade kan de bli pdf:er.) [Download pdf](http://downloads.nordicmicroalgae.org/nordic_microalgae_guide_for_contriburs.pdf)
 How to create YouTube account and Upload videos. [Download pdf](http://downloads.nordicmicroalgae.org/CreateYouTubeaccount&UploadVideo.pdf)
 
 ## About contribution of images
