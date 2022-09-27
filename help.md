@@ -14,7 +14,8 @@ e-mail: [nordicmicroalgae@smhi.se](mailto:nordicmicroalgae@smhi.se)
 
 Step by step guides:
 
-* How to contribute  images. [Download pdf](http://downloads.nordicmicroalgae.org/nordic_microalgae_guide_for_contriburs.pdf)
+* How to contribute  images. New pdf coming soon! [Download pdf](http://downloads.nordicmicroalgae.org/nordic_microalgae_guide_for_contriburs.pdf)
+* How to create image library. New pdf coming soon!
 * How to create YouTube account and Upload videos. [Download pdf](http://downloads.nordicmicroalgae.org/CreateYouTubeaccount&UploadVideo.pdf)
 
 ## Use the right browser
