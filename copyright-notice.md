@@ -21,4 +21,4 @@ You agree that your name is shown on [www.nordicmicroalgae.org](http://nordicmic
 
 ## Reference (more names are likely to be added)
 
-Cite Nordic Microalgae as: Karlson, B. et al. 2015. Nordic Microalgae. World-wide electronic publication,  [http://nordicmicroalgae.org](http://nordicmicroalgae.org/).
+Cite Nordic Microalgae as: Karlson, B. et al. 2022. Nordic Microalgae. World-wide electronic publication,  [http://nordicmicroalgae.org](http://nordicmicroalgae.org/).

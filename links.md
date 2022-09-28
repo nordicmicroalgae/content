@@ -19,10 +19,11 @@ title: Links
 * [PhycoKey - University of New Hampshire](http://cfb.unh.edu/phycokey/phycokey.htm)
 * [The International Nannoplankton Association](http://ina.tmsoc.org/)
 * [Nannotax3 - interactive database of nannofossil taxonomy, coccolithoporids etc.](http://ina.tmsoc.org/Nannotax3/index.html)
+* [Diatom flora of Britain and Ireland](https://naturalhistory.museumwales.ac.uk/diatoms/)
 
 ## Information about microzooplankton
 
-* [Planktonic Ciliate Project](http://ciliate.zooplankton.cn/)
+* [Planktonic Ciliate Project](http://ciliate.zooplankton.cn/) Link doesn´t work 2022-09-27
 
 ## Other links
 
@@ -33,5 +34,5 @@ title: Links
 * [HELCOM - Helsinki Commission - Baltic Marine Environment Protection Commission](http://www.helcom.fi/)
 * [ICES - International Council for the Exploration of the Sea](http://www.ices.dk/)
 * [IOC - Intergovernmental Oceanographic Commission](http://www.ioc-unesco.org/)
-* [NEAT (North East Atlantic Taxa)](http://www.tmbl.gu.se/libdb/taxon/taxa.html)
+* [NEAT (North East Atlantic Taxa)](https://www.gu.se/sites/default/files/2020-10/NEAT%2ALophophorata.pdf)
 * [Swedish Museum of Natural History](https://www.nrm.se/en/16.html)

@@ -6,6 +6,12 @@ title: NOMP
 
 NOMP - Nordic Marine Phytoplankton Group consists of persons in Denmark (including Faroe Islands), Iceland, Norway and Sweden  working with research and environmental monitoring related to phytoplankton, algal blooms and harmful algae. One aim of the group is to improve quality and inter-comparability  of results by using consistent names of organisms and algal groups. Other aims include collaboration through yearly meetings to share recent results, comparisons of methods etc. The sea areas in focus are the  Kattegat, the Skagerrak, the North Sea, the Norwegian Sea, the Barents Sea, the Iceland Sea and the Greenland Sea.
 
+### 2022
+NOMP – Nordic Marine Phytoplankton group workshop 3-5 October in Tórshavn, Faroe Islands
+
+### 2021
+NOMP – Nordic Marine Phytoplankton group virtual workshop 25-26 November
+
 ### 2020
 NOMP – Nordic Marine Phytoplankton group virtual workshop 26-27 November
 
