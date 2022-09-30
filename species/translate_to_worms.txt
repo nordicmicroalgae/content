@@ -1,4 +1,4 @@
-ScientificName Nua	AphiaID	ScientificName_accepted	AphiaID_accepted
+scientific_name	aphia_id	scientific_name_accepted	aphia_id_accepted
 Siphonema	603298	Siphononema	600988
 Phormidium subuliforme	177552	Phormidium thwaitesii	657811
 Tychonema exposirum	619653	Phormidium exospirum	619653
