@@ -22,37 +22,3 @@ SBDI is making biodiversity data accessible providing powerful analysis and visu
 * [Umeå University](http://www.umu.se/english/?languageId=1)
 * [The University of Gothenburg](http://gu.se/english/)
 * [Uppsala University](https://www.uu.se/en/)
-
-## Links and logotypes
-<ul class="partners-links-and-logotypes">
-  <li>
-    <a href="http://www.svenskalifewatch.se/"><img src="/sites/default/files/swedish_lifewatch.png" alt="" /></a>
-  </li>
-  <li>
-    <a href="http://www.lifewatch.eu/"><img src="/sites/default/files/lifewatch.png" alt="" /></a>
-  </li>
-  <li>
-    <a href="http://www.slu.se/en/collaborative-centres-and-projects/artdatabanken/"><img src="/sites/default/files/slu_artdatabanken_0.jpg" alt="" /></a>
-  </li>
-  <li>
-    <a href="http://www.smhi.se/en"><img src="/sites/default/files/SMHI-logotype36x88.gif" alt="" /></a>
-  </li>
-  <li>
-    <a href="http://www.vr.se/"><img src="/sites/default/files/vetenskapsradet-logotyp.png" alt="" /></a>
-  </li>
-  <li>
-    <a href="http://www.nrm.se/en/frontpage.16_en.html"><img src="/sites/default/files/nrm_logo-startsida.gif" alt="" /></a>
-  </li>
-  <li>
-    <a href="http://www.slu.se/en/faculties/nl/about-the-faculty/departments/department-of-aquatic-sciences-and-assessment/"><img src="/sites/default/files/SLU_0.jpg" alt="" /></a>
-  </li>
-  <li>
-    <a href="http://www.umu.se/english/?languageId=1"><img src="/sites/default/files/umu_logo.png" alt="" /></a>
-  </li>
-  <li>
-    <a href="http://www.gu.se/english"><img src="/sites/default/files/blue_gu_logo_eng.jpg" alt="" /></a>
-  </li>
-  <li>
-    <a href="http://www.lunduniversity.lu.se/"><img src="/sites/default/files/lu_logo.png" alt="" /></a>
-  </li>
-</ul>
