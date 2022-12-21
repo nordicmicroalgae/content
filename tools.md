@@ -20,12 +20,12 @@ Features include:
 * Statistics (in early development)
 * Export data in .txt or .xlsx for further analyses or plotting
 
-The software is available as version 1.3.3 for Windows and for MacOS.
+The software is available as version 1.4.0 for Windows and for MacOS.
 
-Update  December 2020
+Update  December 2022
 
-Version 1.3.3 for Windows is available
-Version 1.3.3 for Mac is available.
+Version 1.4.0 for Windows is available
+Version 1.4.0 for Mac is available.
 
 Notes for Mac users:
 
