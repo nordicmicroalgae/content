@@ -36,10 +36,10 @@ You will get a warning the first time you start the software. Go to Settings -> 
 
 #### Latest version
 
-* [Plankton Toolbox version 1.3.3 and users guide 1.3.3](http://downloads.nordicmicroalgae.org/PlanktonToolbox_1_3_3/)
+* [Plankton Toolbox version 1.4.0 and users guide 1.4.0](http://downloads.nordicmicroalgae.org/PlanktonToolbox_1_4_0/)
 
 #### Earlier versions
-
+* [Plankton Toolbox version 1.3.3 and users guide 1.3.3](http://downloads.nordicmicroalgae.org/PlanktonToolbox_1_3_3/)
 * [Plankton Toolbox version 1.2.0 and users guide 1.2.0](http://downloads.nordicmicroalgae.org/PlanktonToolbox_1_2_0/)
 * [Plankton Toolbox 1.1.1 and Plankton toolbox User's guide version 1](http://downloads.nordicmicroalgae.org/PlanktonToolbox_1_1_1/)
 * [Plankton Toolbox older version](http://downloads.nordicmicroalgae.org/PlanktonToolbox/)
