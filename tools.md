@@ -3,7 +3,7 @@ title: Tools
 ---
 
 <h2>
-  <img src="/sites/default/files/plankton_toolbox_icon.png" alt="" width="50" height="50" style="vertical-align: middle;" />
+  <img src="/assets/plankton_toolbox_icon.png" alt="" width="50" height="50" style="vertical-align: middle;" />
   PlanktonToolbox
 </h2>
 
