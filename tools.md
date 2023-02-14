@@ -41,10 +41,10 @@ Karlson, B., Andreasson, A., Johansen, M., Mohlin, M., Skjevik, A.-T., Strömber
 
 ### Downloads
 
-#### Latest version (December 2022)
+#### Latest version (January 2023)
 Plankton Toolbox version 1.4.0
-* [Mac - download](https://data.smhi.se/oce/SLW/plankton_toolbox_1_4_0/plankton_toolbox_1_4_0_mac_20221222.tar.gz)
-* [Windows - download](https://data.smhi.se/oce/SLW/plankton_toolbox_1_4_0/plankton_toolbox_1_4_0_windows_20221222.zip)
+* [Mac - download](https://data.smhi.se/oce/SLW/plankton_toolbox_1_4_0/plankton_toolbox_1_4_0_mac_20230131.tar.gz)
+* [Windows - download](https://data.smhi.se/oce/SLW/plankton_toolbox_1_4_0/plankton_toolbox_1_4_0_windows_20230131.zip)
 * [Users guide - download the pdf](https://data.smhi.se/oce/SLW/plankton_toolbox_1_4_0/Plankton_Toolbox_users_guide_1_4_0.pdf)
 
 #### Earlier versions
