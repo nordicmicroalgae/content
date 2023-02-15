@@ -45,8 +45,8 @@ Karlson, B., Andreasson, A., Johansen, M., Mohlin, M., Skjevik, A.-T., Strömber
 Plankton Toolbox version 1.4.0
 * [Mac - download](https://data.smhi.se/oce/SLW/plankton_toolbox_1_4_0/plankton_toolbox_1_4_0_mac_20230131.tar.gz)
 * [Windows - download](https://data.smhi.se/oce/SLW/plankton_toolbox_1_4_0/plankton_toolbox_1_4_0_windows_20230131.zip)
-* [Users guide - download the pdf](https://data.smhi.se/oce/SLW/plankton_toolbox_1_4_0/Plankton_Toolbox_users_guide_1_4_0.pdf)
-* [NOMP biovolumelist 2022- download excel (in zip)](https://data.smhi.se/oce/SLW/plankton_toolbox_1_4_0/nomp_taxa_biovolumes_and_carbon_2022.zip)
+* [Users guide - download pdf](https://data.smhi.se/oce/SLW/plankton_toolbox_1_4_0/Plankton_Toolbox_users_guide_1_4_0.pdf)
+* [NOMP biovolume list 2022- download excel (in zip)](https://data.smhi.se/oce/SLW/plankton_toolbox_1_4_0/nomp_taxa_biovolumes_and_carbon_2022.zip)
 
 #### Earlier versions
 * [Plankton Toolbox version 1.3.4 and users guide 1.3.4](https://data.smhi.se/oce/SLW/plankton_toolbox_1_3_4/)
