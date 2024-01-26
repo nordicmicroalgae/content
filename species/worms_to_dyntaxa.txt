@@ -674,8 +674,6 @@ AphiaID	scientific_name	dyntaxa_id
 143981	Protectocarpus	1008515
 143982	Ulonema	1008529
 143984	Pseudolithoderma	1008531
-143985	Ralfsia	232732
-143985	Ralfsia	1008532
 143986	Stragularia	1008525
 143989	Spermatochnus	1008520
 143990	Stilophora	1008524
@@ -1945,8 +1943,6 @@ AphiaID	scientific_name	dyntaxa_id
 163747	Tetraselmis convolutae	238990
 163748	Brachysira serians	237505
 163765	Brebissonia lanceolata	237822
-163775	Caloneis bacillum	6006317
-163775	Caloneis bacillum	6006318
 163777	Caloneis crassa	237536
 163780	Tintinnopsis	1009936
 163782	Tintinnopsis beroidea	238545
@@ -2237,8 +2233,6 @@ AphiaID	scientific_name	dyntaxa_id
 175649	Pinnularia polaris	237627
 175654	Pinnularia subcapitata	237628
 175666	Placoneis	1010474
-175668	Placoneis clementis	6053322
-175668	Placoneis clementis	6053323
 175671	Placoneis elginensis	237818
 175680	Placoneis exigua	237819
 175690	Placoneis gastrum	237820
@@ -2633,7 +2627,6 @@ AphiaID	scientific_name	dyntaxa_id
 196207	Ptychocylididae	2003257
 196245	Scytonemataceae	2003562
 196248	Gomontiaceae	2002560
-196347	Actinocyclus	1010407
 196803	Climacodium	1010384
 196815	Planktoniella sol	237249
 196833	Dictyocystidae	2003255
@@ -2675,8 +2668,6 @@ AphiaID	scientific_name	dyntaxa_id
 22564	Strombidinopsidae	2003264
 22574	Bicosoecaceae	2003143
 22576	Campylomonadaceae	2003219
-22577	Chilomonas	1010525
-22577	Chilomonas	6329124
 22582	Geminigeraceae	2003223
 22613	Pycnococcaceae	2003304
 22968	Cutleriales	3000328
@@ -3332,7 +3323,6 @@ AphiaID	scientific_name	dyntaxa_id
 494171	Isocystis	1014027
 494173	Gonatozygon	1015147
 494184	Stigonema	1010162
-494309	Uronema	1008560
 494791	Sargassum muticum	232761
 494940	Leathesia marina	232680
 494992	Ulvaria splendens	232810
@@ -5682,8 +5672,6 @@ AphiaID	scientific_name	dyntaxa_id
 662957	Hapalosiphon pumilus	263709
 663025	Nephrochlamys subsolitaria	238863
 663914	Phytodinium globosum	257905
-665106	Eolimna minima	262898
-665106	Eolimna minima	6053320
 665148	Craticula molestiformis	262469
 665154	Eolimna subminuscula	262581
 665157	Fragilaria delicatissima	256820
@@ -6086,7 +6074,6 @@ AphiaID	scientific_name	dyntaxa_id
 961873	Chaetoceros pseudobrevis	237341
 965738	Tetracyclus rupestris	237975
 966501	Podosira stelligera	237437
-967160	Melosira arctica	237438
 971969	Tabellaria flocculosa var. flocculosa	256824
 972849	Stephanodiscus rotula var. minutula	257392
 973152	Encyonema ventricosum var. ventricosum	262568
@@ -6278,16 +6265,6 @@ AphiaID	scientific_name	dyntaxa_id
 292894	Mesodiniidae	6009241
 163741	Brachysira brebissonii	237504
 180506	Navicula contenta	262525
-51	Mollusca	5000023
-101	Gastropoda	4000055
-14712	Heterobranchia	3000119
-1057247	Euthyneura	1010897
-1057247	Euthyneura	6034828
-1057249	Ringipleura	6034830
-1762	Nudibranchia	3000128
-1052385	Doridina	6002537
-246038	Doridoidei	6001632
-1370609	Chromodoridoidea	6052342
 231768	Brachidiniaceae	6012105
 231813	Suessiaceae	6012150
 232245	Polarella	6012331
@@ -6316,6 +6293,7 @@ AphiaID	scientific_name	dyntaxa_id
 582176	Diplonemea	6011698
 1307156	Gonatozygaceae	6017777
 1306574	Uronemataceae	6007686
+494309	Uronema	1008560
 547453	Conticribra	6020320
 547536	Okellyaceae	6018105
 547537	Okellya	6018106
@@ -6447,8 +6425,6 @@ AphiaID	scientific_name	dyntaxa_id
 180190	Fragilaria bicapitata	262672
 180464	Navicula brekkaensis	262524
 614196	Gomphonema sarcophagus	262792
-967227	Navicula cocconeiformis	237507
-967227	Navicula cocconeiformis	262445
 180566	Navicula fossalis	262840
 148910	Cyclotella comta	256794
 963171	Navicula pusilla	262872
@@ -6459,6 +6435,9 @@ AphiaID	scientific_name	dyntaxa_id
 176232	Synedra capitata	238003
 176423	Nitzschia levidensis	263001
 520950	Psammosiphonella	6325449
+51	Mollusca	5000023
+101	Gastropoda	4000055
+14712	Heterobranchia	3000119
 1057250	Tectipleura	6034845
 412657	Eupulmonata	6037373
 447	Stylommatophora	3000131
@@ -6475,4 +6454,9 @@ NA	Tetraëdriella spinigera	257527
 NA	Tetraëdriella jovetii	237203
 NA	Proterospongia dybsoeënsis	238136
 NA	Tetraëdriella patiens	257868
+NA	Ringipleura	6034830
+NA	Nudibranchia	3000128
+NA	Doridina	6002537
+NA	Doridoidei	6001632
+NA	Chromodoridoidea	6052342
 NA	Chlorotetraëdron	6326586
