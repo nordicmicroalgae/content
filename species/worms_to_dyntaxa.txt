@@ -138,7 +138,6 @@ AphiaID	scientific_name	dyntaxa_id
 106310	Hemiselmis virescens	238049
 106314	Rhodomonas marina	238074
 106316	Rhodomonas salina	238075
-108733	Didymocystis	1015208
 109386	Blastodiniales	3000849
 109388	Desmocapsales	3000672
 109390	Dinophysiales	3000625
@@ -501,6 +500,7 @@ AphiaID	scientific_name	dyntaxa_id
 119081	Kathablepharis remigera	238625
 120561	Tetramitus	1015152
 120566	Vannella	6009388
+1282	Filosa	4000233
 1289276	Tetradesmus lagerheimii	238809
 1292123	Karayevia amoena	262817
 1304220	Pantocsekiella polymorpha	262479
@@ -3903,6 +3903,7 @@ AphiaID	scientific_name	dyntaxa_id
 600802	Fusola	1010730
 600809	Dysmorphococcus	1010784
 600813	Diplochloris	1016192
+600814	Didymocystis	1015208
 600816	Komarekia	1010748
 600817	Tetradesmus	1010750
 600818	Tetrallantos	1015212
@@ -6088,7 +6089,6 @@ AphiaID	scientific_name	dyntaxa_id
 983790	Navicula cocconeiformis f. cocconeiformis	237507
 984620	Nitzschia palea f. major	263026
 993559	Psammosiphonella discreta	257989
-996112	Filosa	4000233
 1	Biota	0
 582419	Harosa	6011755
 536209	Alveolata	6011759
@@ -6108,16 +6108,6 @@ AphiaID	scientific_name	dyntaxa_id
 105498	Acanthoecidae	2003923
 581514	Craspedida	6018121
 582418	Hacrobia	6011754
-2	Animalia	5000001
-793	Platyhelminthes	5000007
-479175	Rhabditophora	4000018
-853123	Neodermata	4000029
-19948	Trematoda	6009945
-108400	Digenea	6009945
-108402	Plagiorchiida	6005733
-468918	Hemiurata	6005744
-108418	Hemiuroidea	6005745
-108470	Didymozoidae	2000210
 562620	Dinozoa	6011725
 146203	Dinoflagellata	6011726
 109430	Kolkwitziellaceae	2003227
@@ -6137,7 +6127,6 @@ AphiaID	scientific_name	dyntaxa_id
 236093	Prymnesiophycidae	6012363
 115057	Prymnesiophyceae	4000153
 599689	Chrysochromulinaceae	6012367
-1282	Filosa	4000233
 536210	Excavata	6011685
 582163	Loukozoa	6011687
 582179	Jakobea	6011694
@@ -6435,16 +6424,6 @@ AphiaID	scientific_name	dyntaxa_id
 176232	Synedra capitata	238003
 176423	Nitzschia levidensis	263001
 520950	Psammosiphonella	6325449
-51	Mollusca	5000023
-101	Gastropoda	4000055
-14712	Heterobranchia	3000119
-1057250	Tectipleura	6034845
-412657	Eupulmonata	6037373
-447	Stylommatophora	3000131
-994701	Helicina	6002552
-1057257	Clausilioidei	6037360
-833935	Clausilioidea	6002561
-833936	Clausiliidae	2000684
 NA	Terpsinoë	1010395
 NA	Terpsinoë americana	237388
 NA	Metacylis jörgensenii	238512
@@ -6454,9 +6433,29 @@ NA	Tetraëdriella spinigera	257527
 NA	Tetraëdriella jovetii	237203
 NA	Proterospongia dybsoeënsis	238136
 NA	Tetraëdriella patiens	257868
+NA	Animalia	5000001
+NA	Platyhelminthes	5000007
+NA	Rhabditophora	4000018
+NA	Neodermata	4000029
+NA	Trematoda	6009945
+NA	Digenea	6009945
+NA	Plagiorchiida	6005733
+NA	Hemiurata	6005744
+NA	Hemiuroidea	6005745
+NA	Didymozoidae	2000210
+NA	Mollusca	5000023
+NA	Gastropoda	4000055
+NA	Heterobranchia	3000119
 NA	Ringipleura	6034830
 NA	Nudibranchia	3000128
 NA	Doridina	6002537
 NA	Doridoidei	6001632
 NA	Chromodoridoidea	6052342
 NA	Chlorotetraëdron	6326586
+NA	Tectipleura	6034845
+NA	Eupulmonata	6037373
+NA	Stylommatophora	3000131
+NA	Helicina	6002552
+NA	Clausilioidei	6037360
+NA	Clausilioidea	6002561
+NA	Clausiliidae	2000684

@@ -79,10 +79,6 @@ worms	Rhodomonas pelagica	106314
 worms	Chroomonas salina	106316
 worms	Cryptomonas salina	106316
 worms	Pyrenomonas salina	106316
-worms	Coeliodidymocystis	108733
-worms	Didymocystoides	108733
-worms	Lagenocystis	108733
-worms	Univitellodidymocystis	108733
 worms	Blastodinida	109386
 worms	Dinophysida	109390
 worms	Gonyaulacida	109391
@@ -582,6 +578,7 @@ worms	Telonema subtilis	118075
 worms	Bodo marinus	119077
 worms	Chilomonas marina	119077
 worms	Copromastix	120561
+worms	Filosea	1282
 worms	Acutodesmus acuminatus	1289276
 worms	Scenedesmus acuminatus	1289276
 worms	Scenedesmus acuminatus var. elongatus	1289276
@@ -8569,20 +8566,10 @@ worms	Bathysiphon discretus	993559
 worms	Rhabdammina discreta	993559
 worms	Rhabdammina subdiscreta	993559
 worms	Labyrinthulata	449151
-worms	Metazoa	2
-worms	Echinostomida	108402
-worms	Faustulida	108402
-worms	Didymozoata	468918
-worms	Didymoclinidae	108470
-worms	Didymodiclinidae	108470
-worms	Adenodidymocystiinae	724971
-worms	Metadidymozoinae	724971
-worms	Neodidymozoinae	724971
 worms	Syndinida	146213
 worms	Suessiida	109399
 worms	Murrayella	109527
 worms	Astrorhizacea	465767
-worms	Filosea	1282
 worms	Thalassiosirophycidae	591189
 worms	Rhodophyceae	852
 worms	Rhodophycota	852
@@ -8653,8 +8640,3 @@ worms	Johansenia	836655
 worms	Conferva decimina	609372
 worms	Spirogyra porticalis var. decima	609372
 worms	Bathysiphonidae	737017
-worms	Angiogastropoda	101
-worms	Orthogastropoda	101
-worms	Psilogastropoda	101
-worms	Sigmurethra	994701
-worms	Euxininae	994886
