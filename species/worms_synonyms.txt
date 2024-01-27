@@ -4262,7 +4262,6 @@ worms	Dinoflagellida	19542
 worms	Dinomastigota	19542
 worms	Dinophyta	19542
 worms	Pyrrophyta	19542
-worms	Sphaerodoris	196347
 worms	Goniodoma polyedricum	196828
 worms	Heteraulacus polyedricus	196828
 worms	Peridinium polyedricum	196828
@@ -8623,13 +8622,6 @@ worms	Corethrophycidae	591194
 worms	Tintinnida	732976
 worms	Peronosporomycetidae	591221
 worms	Saprolegniomycetidae	591222
-worms	Angiogastropoda	101
-worms	Orthogastropoda	101
-worms	Psilogastropoda	101
-worms	Anthobranchia	1052385
-worms	Euctenidiacea	1052385
-worms	Holohepatica	1052385
-worms	Eudoridacea	246038
 worms	Brachydiniaceae	231768
 worms	Chlorarachniophyceae	590917
 worms	Chlorarachniophyta	590917
@@ -8661,5 +8653,8 @@ worms	Johansenia	836655
 worms	Conferva decimina	609372
 worms	Spirogyra porticalis var. decima	609372
 worms	Bathysiphonidae	737017
+worms	Angiogastropoda	101
+worms	Orthogastropoda	101
+worms	Psilogastropoda	101
 worms	Sigmurethra	994701
 worms	Euxininae	994886
