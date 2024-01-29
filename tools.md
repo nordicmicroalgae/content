@@ -23,17 +23,17 @@ Features include:
 * Statistics (in early development)
 * Export data in .txt or .xlsx for further analyses or plotting
 
-The software is available as version 1.4.0 for Windows and MacOS, released in december 2022. The new release includes an update of the counting module and several minor tweaks. In addition the NOMP 2022 biovolume list, which includes information from the HELCOM-PEG 2022 biovolume list and addtional taxa from the Skagerrak and the North Sea, is included in Plankton Toolbox 1.4.0. The list of potentially harmful taxa has been updated accorrding to the IOC-UNESCO Taxonomic Reference List of Harmful Micro Algae.
+Plankton Toolbox is now accessible in version 1.4.1 designed for both Windows and MacOS, with dedicated versions for both Intel and M1 processors. This latest release incorporates an updated counting module and various minor optimizations for an improved user experience. Reports now also include AphiaID. Notably, the NOMP 2023 biovolume list has been integrated, comprising data from the HELCOM-PEG 2023 biovolume list and additional taxa sourced from the Skagerrak and the North Sea. The list of potentially harmful taxa has been updated accorrding to the [IOC-UNESCO Taxonomic Reference List of Harmful Micro Algae](http://www.marinespecies.org/hab/).
 
 ### Notes for Windows 10 users:
 You will need to allow the software to run on your PC When starting the software the first time you will get a warning.
 
 ### Notes for Mac users:
-Place the software in your App folder. The folders "toolbox_data" and "toolbox_counter" can be placed in your home folder, e.g. in "Mike". You will need to allow the software to run on your Mac. When starting the software the first time you will get a warning. To avoid this ctrl-click on the software the first time you run it and click on open. You need to do this only once. Alternatively: go to Settings -> Security and allow Plankton Toolbox to start. In MacOS 13 (currently 13.1) addtional security was added. Contact nordicmicroalgae@smhi.se if you have problems starting Plankton Toolbox.
+Place the software in your App folder. The folders "toolbox_data" and "toolbox_counter" can be placed in your home folder, e.g. in "Mike". You will need to allow the software to run on your Mac. When starting the software the first time you will get a warning. To avoid this ctrl-click on the software the first time you run it and click on open. You need to do this only once. Alternatively: go to Settings -> Security and allow Plankton Toolbox to start. In MacOS 13 addtional security was added, please see the [Users guide](https://data.smhi.se/oce/SLW/plankton_toolbox_1_4_1/Plankton_Toolbox_users_guide_1_4_1.pdf) for further instructions. Contact nordicmicroalgae@smhi.se if you have problems starting Plankton Toolbox.
 
 ### Reference
 Current version
-Karlson, B., Andreasson, A., Johansen, M., Karlberg, M., Skjevik, A.-T., 2022. Plankton Toolbox – open source software making it easier to work with plankton data, version 1.4.0, accessed at http://nordicmicroalgae.org/tools
+Karlson, B., Andreasson, A., Johansen, M., Karlberg, M., Skjevik, A.-T., A. Torstensson, 2023. Plankton Toolbox – open source software making it easier to work with plankton data, version 1.4.1, accessed at http://nordicmicroalgae.org/tools
 
 ### Publication in 2015
 Karlson, B., Andreasson, A., Johansen, M., Mohlin, M., Skjevik, A.-T., Strömberg, P., 2015. Plankton Toolbox – open source software making it easier to work with plankton data, In: MacKenzie, A.L. (Ed.), 16th International Conference on Harmful Algae. Cawthron Institute, Nelson, New Zealand and the International Society for the Study of Harmful Algae (ISSHA), Wellington, New Zealand, pp. 194-197.
@@ -41,14 +41,16 @@ Karlson, B., Andreasson, A., Johansen, M., Mohlin, M., Skjevik, A.-T., Strömber
 
 ### Downloads
 
-#### Latest version (January 2023)
-Plankton Toolbox version 1.4.0
-* [Mac - download](https://data.smhi.se/oce/SLW/plankton_toolbox_1_4_0/plankton_toolbox_1_4_0_mac_20230131.tar.gz)
-* [Windows - download](https://data.smhi.se/oce/SLW/plankton_toolbox_1_4_0/plankton_toolbox_1_4_0_windows_20230131.zip)
-* [Users guide - download pdf](https://data.smhi.se/oce/SLW/plankton_toolbox_1_4_0/Plankton_Toolbox_users_guide_1_4_0.pdf)
-* [NOMP biovolume list 2022- download excel (in zip)](https://data.smhi.se/oce/SLW/plankton_toolbox_1_4_0/nomp_taxa_biovolumes_and_carbon_2022.zip)
+#### Plankton Toolbox
+##### Latest version (January 2024)
+Plankton Toolbox version 1.4.1
+* [Mac Intel - download](https://data.smhi.se/oce/SLW/plankton_toolbox_1_4_1/plankton_toolbox_1_4_1_mac_intel_20240125.tar.gz)
+* [Mac M1 Silicon - download](https://data.smhi.se/oce/SLW/plankton_toolbox_1_4_1/plankton_toolbox_1_4_1_mac_m1_20240125.tar.gz)
+* [Windows - download](https://data.smhi.se/oce/SLW/plankton_toolbox_1_4_1/plankton_toolbox_1_4_1_windows_20240125.zip)
+* [Users guide - download pdf](https://data.smhi.se/oce/SLW/plankton_toolbox_1_4_1/Plankton_Toolbox_users_guide_1_4_1.pdf)
 
-#### Earlier versions
+##### Earlier versions
+* [Plankton Toolbox version 1.4.0 and users guide 1.4.0](https://data.smhi.se/oce/SLW/plankton_toolbox_1_4_0/)
 * [Plankton Toolbox version 1.3.4 and users guide 1.3.4](https://data.smhi.se/oce/SLW/plankton_toolbox_1_3_4/)
 * [Plankton Toolbox version 1.3.3 and users guide 1.3.3](https://data.smhi.se/oce/SLW/plankton_toolbox_1_3_3/)
 * [Plankton Toolbox version 1.3.2 and users guide 1.3.2](https://data.smhi.se/oce/SLW/plankton_toolbox_1_3_2/)
@@ -56,6 +58,10 @@ Plankton Toolbox version 1.4.0
 * [Plankton Toolbox version 1.3.0 and users guide 1.3.0](https://data.smhi.se/oce/SLW/plankton_toolbox_1_3_0/)
 * [Plankton Toolbox version 1.2.0 and users guide 1.2.1](https://data.smhi.se/oce/SLW/plankton_toolbox_1_2_1/)
 
+#### Lists of taxa with biovolumes, carbon content and trophic type
+A Microsoft Excel file compressed in a zip-archive. The file is also part of the download of Plankton Toolbox
+* [NOMP biovolume list 2023- download excel (in zip)](https://data.smhi.se/oce/SLW/plankton_toolbox_1_4_1/nomp_taxa_biovolumes_and_carbon_2023.zip)
+* [NOMP biovolume list 2022- download excel (in zip)](https://data.smhi.se/oce/SLW/plankton_toolbox_1_4_0/nomp_taxa_biovolumes_and_carbon_2022.zip)
 
 ### For developers
 
