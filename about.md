@@ -4,9 +4,9 @@ title: About
 
 ## Operation and funding
 
-The Nordic microalgae and aquatic protozoa website is operated by the Swedish Meteorological and Hydrological Institute ([SMHI](http://www.smhi.se/en)) as service part of the [Swedish Biodiversity Data Infrastructure](https://biodiversitydata.se/),funded by SMHI and the Swedish Research Coulcil through Grant No 2019-00242.
+The Nordic microalgae and aquatic protozoa website is operated by the Swedish Meteorological and Hydrological Institute ([SMHI](http://www.smhi.se/en)) as service part of the [Swedish Biodiversity Data Infrastructure](https://biodiversitydata.se/), funded by SMHI and the Swedish Research Coulcil through Grant No 2019-00242.
 
-SBDI is making biodiversity data accessible providing powerful analysis and visualization tools. SBDI is a merge of the former infrastructures Swedish LifeWatch ([SLW](https://www.slu.se/en/subweb/swedish-lifewatch/)) and Biodiversity Atlas Sweden ([BAS](https://www.nrm.se/en/forskningochsamlingar/bioinformatikochgenetik/varforskning/svenskbiodiversitetsdatainfrastrukturgbifsweden.9004662.html)). SBDI also includes GBIF Sweden. SBDI is developed in collaboration with the Living Atlases community, and will offer unprecedented opportunities for innovative, interdisciplinary research on biodiversity and ecosystems. The [Swedish Research Council](https://www.vr.se/english.html), has provided funds for the development and operation of Nordic Microalgae since October 2010.  
+SBDI is making biodiversity data accessible providing powerful analysis and visualization tools. SBDI is a merge of the former infrastructures Swedish LifeWatch ([SLW](https://www.slu.se/en/subweb/swedish-lifewatch/)) and Biodiversity Atlas Sweden ([BAS](https://www.nrm.se/en/forskningochsamlingar/bioinformatikochgenetik/varforskning/svenskbiodiversitetsdatainfrastrukturgbifsweden.9004662.html)). SBDI also includes [GBIF Sweden](https://www.gbif.se/). SBDI is developed in collaboration with the Living Atlases community, and will offer unprecedented opportunities for innovative, interdisciplinary research on biodiversity and ecosystems. The [Swedish Research Council](https://www.vr.se/english.html), has provided funds for the development and operation of Nordic Microalgae since October 2010.  
 
 ## The partners in Swedish Biodiversity Data Infrastructure (SBDI) are:
 
