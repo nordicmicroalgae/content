@@ -19,6 +19,6 @@ You agree that your name is shown on [www.nordicmicroalgae.org](http://nordicmic
 3. Creative Commons Attribution-ShareAlike 3.0 Unported
 4. Public domain
 
-## Reference (more names are likely to be added)
+## Reference
 
-Cite Nordic Microalgae as: Karlson, B. et al. 2022. Nordic Microalgae. World-wide electronic publication,  [http://nordicmicroalgae.org](http://nordicmicroalgae.org/).
+Cite Nordic Microalgae as: Karlson B, Skjevik A-T, Karlberg M, Johansen M, Andreasson A, Loo A, Torstensson A. 2024. Nordic Microalgae. World-wide electronic publication,  [http://nordicmicroalgae.org](http://nordicmicroalgae.org/).
