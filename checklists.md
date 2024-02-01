@@ -12,11 +12,11 @@ Please note that the taxonomic information (including the higher taxonomy and sy
 
 ### Excel file format
 
-* [nordicmicroalgae_checklist_2024_Jan_29.xlsx](https://data.smhi.se/oce/SLW/checklists/2024_01-29/nordicmicroalgae_checklist_2024_Jan_29.xlsx)
+* [Nordic Microalgae checklist 2024-01-29 Excel file](https://data.smhi.se/oce/SLW/checklists/2024_01-29/nordicmicroalgae_checklist_2024_Jan_29.xlsx)
 
 ### Text file (tab delimited, UTF-8 encoding)
 
-* [nordicmicroalgae_checklist_2024_Jan_29.txt](https://data.smhi.se/oce/SLW/checklists/2024_01-29/nordicmicroalgae_checklist_2024_Jan_29.txt)
+* [Nordic Microalgae checklist 2024-01-29 text file](https://data.smhi.se/oce/SLW/checklists/2024_01-29/nordicmicroalgae_checklist_2024_Jan_29.txt)
 
 ### Previous versions
 
