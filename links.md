@@ -14,22 +14,17 @@ title: Links
 * [NorBaf - the Nordic-Baltic Network for Benthic Algae in Freshwater](http://www.norbaf.net/index.html)
 * [Phyto'pedia - Univ. of British Columbia](http://www.eos.ubc.ca/research/phytoplankton/)
 * [Plankton*net Alfred Wegener Institute for Polar and Marine Research](http://planktonnet.awi.de/) 
-* [Phytoplankton of the Southern Baltic - National Marine Fisheries Research Institute](http://integryb.mir.gdynia.pl/atlasy/Fitoplankton.xhtml)
 * [World Register of Marine Species](http://www.marinespecies.org/)
 * [PhycoKey - University of New Hampshire](http://cfb.unh.edu/phycokey/phycokey.htm)
 * [The International Nannoplankton Association](http://ina.tmsoc.org/)
 * [Nannotax3 - interactive database of nannofossil taxonomy, coccolithoporids etc.](http://ina.tmsoc.org/Nannotax3/index.html)
 * [Diatom flora of Britain and Ireland](https://naturalhistory.museumwales.ac.uk/diatoms/)
 
-## Information about microzooplankton
-
-* [Planktonic Ciliate Project](http://ciliate.zooplankton.cn/) Link doesn´t work 2022-09-27
-
 ## Other links
 
 * [Tree of life](http://tolweb.org/tree)
 * [Swedish Species Information Centre](https://www.artdatabanken.se/en/)
-* [Dyntaxa - taxonomic database at the Swedish Species Information Centre](https://www.dyntaxa.se/)
+* [Dyntaxa - taxonomic database at the Swedish Species Information Centre](https://namnochslaktskap.artfakta.se/)
 * [Norwegian Biodiversity Information Centre](https://www.biodiversity.no/)
 * [HELCOM - Helsinki Commission - Baltic Marine Environment Protection Commission](http://www.helcom.fi/)
 * [ICES - International Council for the Exploration of the Sea](http://www.ices.dk/)
