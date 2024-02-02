@@ -33,6 +33,7 @@ Place the software in your App folder. The folders "toolbox_data" and "toolbox_c
 
 ### Reference
 Current version
+
 Karlson, B., Andreasson, A., Johansen, M., Karlberg, M., Skjevik, A.-T., Torstensson, A., 2023. Plankton Toolbox – open source software making it easier to work with plankton data, version 1.4.1, accessed at http://nordicmicroalgae.org/tools
 
 ### Publication in 2015
