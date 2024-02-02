@@ -6,7 +6,7 @@ title: Checklists
 
 The Nordic Microalgae checklists contain comprehensive lists of all taxa included on this website. You can download the complete lists below.
 
-The taxonomic content is derived from the original [Nordic Microalgae checklist of 2011](http://nordicmicroalgae.org/history) (accessible below), supplemented by additional entries from the current NOMP biovolume file, available under [Tools](http://nordicmicroalgae.org/tools).
+The taxonomic content is derived from [the original Nordic Microalgae checklist of 2011](http://nordicmicroalgae.org/history) (accessible below), supplemented by additional entries from the current NOMP biovolume file, available under [Tools](http://nordicmicroalgae.org/tools).
 
 Please note that the taxonomic information (including the higher taxonomy and synonyms) of Nordic Microalge is based on the current accepted name in [World Register of Marine Species (WoRMS)](https://www.marinespecies.org/). Supplementary information, including geometric shapes, is sourced from the NOMP biovolume file. Links are also provided for taxa present on [AlgaeBase](https://www.algaebase.org/), [Dyntaxa](https://namnochslaktskap.artfakta.se/) and [NORCCA: The Norwegian Culture Collection of Algae](https://norcca.scrol.net/).
 
