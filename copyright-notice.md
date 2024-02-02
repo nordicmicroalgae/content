@@ -21,4 +21,4 @@ You agree that your name is shown on [www.nordicmicroalgae.org](http://nordicmic
 
 ## Reference
 
-Cite Nordic Microalgae as: Karlson, B., Skjevik, A.-T., Karlberg, M., Johansen, M., Andreasson, A., Loo, A., Torstensson, A. 2024. Nordic Microalgae. World-wide electronic publication,  [http://nordicmicroalgae.org](http://nordicmicroalgae.org/).
+Cite Nordic Microalgae as: Karlson, B., Skjevik, A.-T., Karlberg, M., Johansen, M., Andreasson, A., Loo, A., Sundqvist, L., Torstensson, A. 2024. Nordic Microalgae. World-wide electronic publication,  [http://nordicmicroalgae.org](http://nordicmicroalgae.org/).
