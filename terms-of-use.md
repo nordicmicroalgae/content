@@ -21,4 +21,4 @@ A step by step guide describing how to contribute images. [Download pdf](http://
 
 ## Reference
 
-(more names are likely to be added) Cite Nordic Microalgae as: Karlson, B. et al. 2012. Nordic Microalgae. World-wide electronic publication, [http://www.nordicmicroalgae.org](http://nordicmicroalgae.org).
+Cite Nordic Microalgae as: Karlson, B., Skjevik, A.-T., Karlberg, M., Johansen, M., Andreasson, A., Loo, A., Torstensson, A. 2024. Nordic Microalgae. World-wide electronic publication, [http://www.nordicmicroalgae.org](http://nordicmicroalgae.org).
