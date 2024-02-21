@@ -4,7 +4,7 @@ title: Tools
 
 ## HELCOM EG PHYTO Biovolume list
 
-The latest update of the HELCOM EG PHYTO (previously PEG) list of biovolumes of phytoplankton in the Baltic Sea and the Kattegat-Skagerrak is available at ICES as a [zip-file](http://ices.dk/data/Documents/ENV/PEG_BVOL.zip).
+The HELCOM EG PHYTO (previously PEG) biovolume list is used in routine monitoring of Baltic Sea phytoplankton. The latest update of the HELCOM EG PHYTO list is available at ICES as a [zip-file](http://ices.dk/data/Documents/ENV/PEG_BVOL.zip). The list contains biovolumes and fixed size-classes used for the calculation of phytoplankton biomass in routine monitoring of Baltic Sea phytoplankton. 
 
 ## NOMP Biovolume list
 
@@ -14,3 +14,7 @@ The Nordic Marine Phytoplankton Group (NOMP) biovolume list comprise of data fro
 A Microsoft Excel file compressed in a zip-archive. The file is also part of the download of Plankton Toolbox
 * [NOMP biovolume list 2023- download excel (in zip)](https://data.smhi.se/oce/SLW/plankton_toolbox_1_4_1/nomp_taxa_biovolumes_and_carbon_2023.zip)
 * [NOMP biovolume list 2022- download excel (in zip)](https://data.smhi.se/oce/SLW/plankton_toolbox_1_4_0/nomp_taxa_biovolumes_and_carbon_2022.zip)
+
+For geometrical shapes used, see Olenina et al 2006. 
+
+Olenina, I., Hajdu, S., Edler, L., Andersson, A., Wasmund, N., Busch, S., Göbel, J., Gromisz, S., Huseby, S., Huttunen, M., Jaanus, A., Kokkonen, P., Ledaine, I. and Niemkiewicz, E. 2006 Biovolumes and size-classes of phytoplankton in the Baltic Sea HELCOM Balt.Sea Environ. Proc. No. 106, 144pp. [http://helcom.fi/Lists/Publications/BSEP106.pdf](http://helcom.fi/Lists/Publications/BSEP106.pdf)
