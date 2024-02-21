@@ -10,8 +10,8 @@ Features include:
 
 * Plankton counter - use the PlanktonToolbox as a counting tool by the microscope
 * Consistent use of names and taxonomic hierachy based on World Register of Marine Species
-* Cell abundance, cells L-1
-* Automatically calculate biomass based on cell volumes from HELCOM-PEG and NOMP. Biomass in µg C L-1 or in biovolume mm3 L-1
+* Cell abundance, cells L<sup>-1</sup>
+* Automatically calculate biomass based on cell volumes from HELCOM-PEG and NOMP. Biomass in µg C L<sup>-1</sup> or in biovolume mm3 L<sup>-1</sup>
 * Imports phyto- or zooplankton data in .txt and .xlsx files in different formats (configurable)
 * Work with data on abundance, biovolume and carbon content
 * Data screening - quality control of data
@@ -36,7 +36,6 @@ Karlson, B., Andreasson, A., Johansen, M., Karlberg, M., Skjevik, A.-T., Torsten
 ### Publication in 2015
 Karlson, B., Andreasson, A., Johansen, M., Mohlin, M., Skjevik, A.-T., Strömberg, P., 2015. Plankton Toolbox – open source software making it easier to work with plankton data, In: MacKenzie, A.L. (Ed.), 16th International Conference on Harmful Algae. Cawthron Institute, Nelson, New Zealand and the International Society for the Study of Harmful Algae (ISSHA), Wellington, New Zealand, pp. 194-197.
 
-
 ### Downloads
 
 #### Plankton Toolbox
@@ -55,11 +54,6 @@ Plankton Toolbox version 1.4.1
 * [Plankton Toolbox version 1.3.1 and users guide 1.3.1](https://data.smhi.se/oce/SLW/plankton_toolbox_1_3_1/)
 * [Plankton Toolbox version 1.3.0 and users guide 1.3.0](https://data.smhi.se/oce/SLW/plankton_toolbox_1_3_0/)
 * [Plankton Toolbox version 1.2.0 and users guide 1.2.1](https://data.smhi.se/oce/SLW/plankton_toolbox_1_2_1/)
-
-#### Lists of taxa with biovolumes, carbon content and trophic type
-A Microsoft Excel file compressed in a zip-archive. The file is also part of the download of Plankton Toolbox
-* [NOMP biovolume list 2023- download excel (in zip)](https://data.smhi.se/oce/SLW/plankton_toolbox_1_4_1/nomp_taxa_biovolumes_and_carbon_2023.zip)
-* [NOMP biovolume list 2022- download excel (in zip)](https://data.smhi.se/oce/SLW/plankton_toolbox_1_4_0/nomp_taxa_biovolumes_and_carbon_2022.zip)
 
 ### For developers
 
