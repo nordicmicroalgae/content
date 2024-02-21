@@ -2,7 +2,7 @@
 title: Tools
 ---
 
-## PlanktonToolbox
+## Plankton Toolbox
 
 The Plankton Toolbox is a free tool for aquatic scientists, and others, working with environmental monitoring related to phyto- and zooplankton. It is available for MacOS and Windows. A Linux verion will be produced upon request.
 
@@ -26,7 +26,7 @@ Plankton Toolbox is now accessible in version 1.4.1 designed for both Windows an
 You will need to allow the software to run on your PC When starting the software the first time you will get a warning.
 
 ### Notes for Mac users:
-Place the software in your App folder. The folders "toolbox_data" and "toolbox_counter" can be placed in your home folder, e.g. in "Mike". You will need to allow the software to run on your Mac. When starting the software the first time you will get a warning. To avoid this ctrl-click on the software the first time you run it and click on open. You need to do this only once. Alternatively: go to Settings -> Security and allow Plankton Toolbox to start. In MacOS 13 addtional security was added, please see the [Users guide](https://data.smhi.se/oce/SLW/plankton_toolbox_1_4_1/Plankton_Toolbox_users_guide_1_4_1.pdf) for further instructions. Contact nordicmicroalgae@smhi.se if you have problems starting Plankton Toolbox.
+Place the software in your App folder. The folders "toolbox_data" and "toolbox_counter" can be placed in your home folder, e.g. in "Mike". You will need to allow the software to run on your Mac. When starting the software the first time you will get a warning. To avoid this ctrl-click on the software the first time you run it and click on open. You need to do this only once. Alternatively: go to Settings -> Security and allow Plankton Toolbox to start. In MacOS 13 addtional security was added, please see the User guide below for further instructions. Contact nordicmicroalgae@smhi.se if you have problems starting Plankton Toolbox.
 
 ### Reference
 Current version
@@ -44,7 +44,7 @@ Plankton Toolbox version 1.4.1
 * [Mac Intel - download](https://data.smhi.se/oce/SLW/plankton_toolbox_1_4_1/plankton_toolbox_1_4_1_mac_intel_20240125.tar.gz)
 * [Mac M1 Silicon - download](https://data.smhi.se/oce/SLW/plankton_toolbox_1_4_1/plankton_toolbox_1_4_1_mac_m1_20240125.tar.gz)
 * [Windows - download](https://data.smhi.se/oce/SLW/plankton_toolbox_1_4_1/plankton_toolbox_1_4_1_windows_20240125.zip)
-* [Users guide - download pdf](https://data.smhi.se/oce/SLW/plankton_toolbox_1_4_1/Plankton_Toolbox_users_guide_1_4_1.pdf)
+* [User guide - download pdf](https://data.smhi.se/oce/SLW/plankton_toolbox_1_4_1/Plankton_Toolbox_users_guide_1_4_1.pdf)
 
 ##### Earlier versions
 * [Plankton Toolbox version 1.4.0 and users guide 1.4.0](https://data.smhi.se/oce/SLW/plankton_toolbox_1_4_0/)
