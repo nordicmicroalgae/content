@@ -18,10 +18,6 @@ Step by step guides:
 * How to create image library. New pdf coming soon!
 * How to create YouTube account and Upload videos. [Download pdf](http://downloads.nordicmicroalgae.org/CreateYouTubeaccount&UploadVideo.pdf)
 
-## Use the right browser
-
-Nordic Microalgae works best with Firefox and Safari, but most browsers do work.
-
 ## Frequently asked questions, FAQ
 
 * Question: I want to use one or several images from Nordic Microalgae in  a publication. Can you give me permission to use them?
