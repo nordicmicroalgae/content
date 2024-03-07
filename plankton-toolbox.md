@@ -11,7 +11,7 @@ Features include:
 * Plankton counter - use the PlanktonToolbox as a counting tool by the microscope
 * Consistent use of names and taxonomic hierachy based on World Register of Marine Species
 * Cell abundance, cells L<sup>-1</sup>
-* Automatically calculate biomass based on cell volumes from HELCOM-PEG and NOMP. Biomass in µg C L<sup>-1</sup> or in biovolume mm<sup>3</sup> L<sup>-1</sup>
+* Automatically calculate biomass based on cell volumes from HELCOM EG Phyto and NOMP. Biomass in µg C L<sup>-1</sup> or in biovolume mm<sup>3</sup> L<sup>-1</sup>
 * Imports phyto- or zooplankton data in .txt and .xlsx files in different formats (configurable)
 * Work with data on abundance, biovolume and carbon content
 * Data screening - quality control of data
@@ -20,7 +20,7 @@ Features include:
 * Statistics (in early development)
 * Export data in .txt or .xlsx for further analyses or plotting
 
-Plankton Toolbox is now accessible in version 1.4.1 designed for both Windows and MacOS, with dedicated versions for both Intel and M1 processors. This latest release incorporates an updated counting module and various minor optimizations for an improved user experience. Reports now also include AphiaID. Notably, the NOMP 2023 biovolume list has been integrated, comprising data from the HELCOM-PEG 2023 biovolume list and additional taxa sourced from the Skagerrak and the North Sea. The list of potentially harmful taxa has been updated accorrding to the [IOC-UNESCO Taxonomic Reference List of Harmful Micro Algae](http://www.marinespecies.org/hab/).
+Plankton Toolbox is now accessible in version 1.4.1 designed for both Windows and MacOS, with dedicated versions for both Intel and M1 processors. This latest release incorporates an updated counting module and various minor optimizations for an improved user experience. Reports now also include AphiaID. Notably, the NOMP 2023 biovolume list has been integrated, comprising data from the HELCOM EG Phyto 2023 biovolume list and additional taxa sourced from the Skagerrak and the North Sea. The list of potentially harmful taxa has been updated accorrding to the [IOC-UNESCO Taxonomic Reference List of Harmful Micro Algae](http://www.marinespecies.org/hab/).
 
 ### Notes for Windows 10 users:
 You will need to allow the software to run on your PC When starting the software the first time you will get a warning.

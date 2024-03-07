@@ -2,13 +2,13 @@
 title: Tools
 ---
 
-## HELCOM EG PHYTO Biovolume list
+## HELCOM EG Phyto Biovolume list
 
-The HELCOM EG PHYTO (previously PEG) biovolume list is used in routine monitoring of Baltic Sea phytoplankton. The latest update of the HELCOM EG PHYTO list is available at ICES as a [zip-file](http://ices.dk/data/Documents/ENV/PEG_BVOL.zip). The list contains biovolumes and fixed size-classes used for the calculation of phytoplankton biomass in routine monitoring of Baltic Sea phytoplankton. 
+The HELCOM EG Phyto (previously PEG) biovolume list is used in routine monitoring of Baltic Sea phytoplankton. The latest update of the HELCOM EG Phyto list is available at ICES as a [zip-file](http://ices.dk/data/Documents/ENV/PEG_BVOL.zip). The list contains biovolumes and fixed size-classes used for the calculation of phytoplankton biomass in routine monitoring of Baltic Sea phytoplankton. 
 
 ## NOMP Biovolume list
 
-The Nordic Marine Phytoplankton Group (NOMP) biovolume list comprise of data from the HELCOM EG PHYTO biovolume list and data from additional taxa sourced from the Skagerrak and the North Sea, provided by the Swedish Meteorological and Hydrological Institute and the Norwegian Institute for Water Research. The list is updated once per year, normally after the [annual NOMP workshop](nordicmicroalgae.org/nomp/), and can be accessed below.
+The Nordic Marine Phytoplankton Group (NOMP) biovolume list comprise of data from the HELCOM EG Phyto biovolume list and data from additional taxa sourced from the Skagerrak and the North Sea, provided by the Swedish Meteorological and Hydrological Institute and the Norwegian Institute for Water Research. The list is updated once per year, normally after the [annual NOMP workshop](nordicmicroalgae.org/nomp/), and can be accessed below.
 
 #### Lists of taxa with biovolumes, carbon content and trophic type
 A Microsoft Excel file compressed in a zip-archive. The file is also part of the download of Plankton Toolbox
