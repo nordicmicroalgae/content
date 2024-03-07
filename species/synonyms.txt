@@ -39,7 +39,7 @@ worms	Acanthoecopsis apoda	Leadbeater, 1972	105542
 worms	Acanthoecopsis campanula	Espeland, 1986	105544
 worms	Acanthoecopsis unguiculata	Thomsen, 1973	105546
 worms	Acanthocorbis brevipoda		105547
-worms	Salpingoeca minor	Reynolds, 1976	105557
+worms	Salpingoeca minor	N.Reynolds, 1976	105557
 worms	Salpingoeca virgata	Parke & Leadbeater, 1977	105557
 worms	Salpingoeca spinifera	Throndsen, 1970	105558
 worms	Salpingoeca longicaudata	Leadbeater, 1975	105559
@@ -117,6 +117,7 @@ worms	Spiraulaxina	Loeblich III, 1970	109519
 worms	Steiniella	Schütt, 1895	109519
 worms	Scripsiella		109545
 worms	Podolampus		109550
+worms	Congruentidium	T.H.Abé, 1927	109553
 worms	Multispinula	M.R.Bradford, 1975	109553
 worms	Mesoporus		109564
 worms	Exuviaella	Cienkowski, 1881	109566
@@ -220,13 +221,13 @@ worms	Gymnodinium spirale var. pepo	Schütt, 1895	109871
 worms	Spirodinium spirale var. pepo	Lemmermann, 1899	109871
 worms	Gymnodinium spirale var. pinguis	Schütt, 1895	109872
 worms	Spirodinium spirale var. pingue	Lemmermann, 1899	109872
-worms	Gymnodinium spirale	Bergh, 1881	109876
+worms	Gymnodinium spirale	Bergh, 1882	109876
 worms	Spirodinium spirale	Entz, 1884	109876
 worms	Gymnodinium asymmetricum	Massart, 1920	109882
 worms	Massartia asymmetrica	Schiller, 1933	109882
 worms	Massartia asymmetrica	Carter, 1937	109882
 worms	Gymnodinium teredo	Pouchet, 1885	109890
-worms	Hemidinium brasiliense	C.E.M.Bicudo & Skvortzov, 1970	109891
+worms	Hemidinium brasiliense	C.E.M.Bicudo & Skvortsov, 1970	109891
 worms	Hemidinium nasutum var. tatricum	Woloszynska, 1930	109891
 worms	Hemidinium nobile	Skuja, 1964	109891
 worms	Hemidinium olivaceum	Skvortzov, 1968	109891
@@ -235,7 +236,7 @@ worms	Heminidium brasiliense	Bicudo & Skvortzov, 1970	109891
 worms	Polykrikos beauchampii	(Chatton) Dodge, 1982	109896
 worms	Polykrikos beauchampii	(Chatton) A.R.Loeblich, 1980	109896
 worms	Polykrikos schwarzii	Kofoid, 1907	109899
-worms	Polykrikos auricularia	Bergh, 1881	109901
+worms	Polykrikos auricularia	Bergh, 1882	109901
 worms	Oxyrrhis maritima	van Meel, 1969	109902
 worms	Oxyrrhis tentaculifera	W.Conrad, 1939	109902
 worms	Pelagorhynchus marina	(Lohmann) Pavillard, 1917	109903
@@ -275,14 +276,15 @@ worms	Gonyaulax triacantha	Jörgensen, 1899	110007
 worms	Gonyaulax triacantha var. subinermis	Conrad, 1939	110007
 worms	Gonyaulax digitale	Lemmermann, 1899	110015
 worms	Gonyaulax schuettii	Lemmermann, 1899	110035
-worms	Spiniferites bulloideus	(Deflandre & Cookson) Sargeant.	110039
+worms	Hystrichosphaera bulloidea	Deflandre & Cookson, 1955	110039
+worms	Spiniferites bulloideus	(Deflandre & Cookson) Sarjeant, 1970	110039
 worms	Achomosphaera hyperacantha	(Deflandre & Cookson) R.J.Davey & G.L.Williams, 1969	110041
 worms	Gonyaulax levanderi	(Lemmermann) Paulsen, 1907	110041
 worms	Gonyaulax spinifera var. levanderi	(Lemmermann) Lindeman, 1924	110041
 worms	Peridinium levanderi	Lemmermann, 1900	110041
 worms	Peridinium spiniferum	Claparède & Lachmann, 1859	110041
 worms	Spiniferites ramosus	(Ehrenberg) Mantell	110041
-worms	Tectatodinium pellitum	Wall, 1967	110041
+worms	Tectatodinium pellitum	D.Wall, 1967	110041
 worms	Amylax diacantha	Meunier, 1919	110045
 worms	Gonyaulax diacantha	(Meunier) Schiller, 1937	110045
 worms	Gonyaulax longispina	Lebour, 1925	110045
@@ -401,7 +403,7 @@ worms	Peridinium divergens var. conica	Gran, 1900	110213
 worms	Selenopemphix quanta	(M.R.Bradford) Matsuoka, 1985	110213
 worms	Peridinium crassipes	Kofoid, 1907	110214
 worms	Peridinium curtipes	Jørgensen, 1912	110215
-worms	Peridinium clavus	Abe, 1936	110216
+worms	Peridinium clavus	T.H.Abe, 1936	110216
 worms	Peridinium denticulatum	Gran & Braarud, 1935	110216
 worms	Protoperidinium clavus	(Abé) Abé	110216
 worms	Peridinium depressum	Bailey, 1854	110217
@@ -409,7 +411,7 @@ worms	Protoperidinium parallelum	Paulsen, 1907	110217
 worms	Protoperidinium parallelum	Broch, 1906	110217
 worms	Ceratium divergens	(Ehrenberg) Claparède & Lachmann, 1859	110219
 worms	Glenodinium divergens	(Ehrenberg) Dangeard	110219
-worms	Peridinium divergens	Ehrenberg, 1841	110219
+worms	Peridinium divergens	Ehrenberg, 1840	110219
 worms	Peridinium excentricum	Paulsen, 1907	110220
 worms	Peridinium granii	Ostenfeld, 1907	110223
 worms	Peridinium islandicum	Paulsen, 1904	110227
@@ -488,7 +490,7 @@ worms	Prorocentrum setoutii	Hada, 1975	110316
 worms	Gonyaulax grindleyi	Reinecke, 1967	110321
 worms	Peridiniopsis reticulata	(Claparède & Lachmann) Starmach	110321
 worms	Peridinium reticulatum	Claparède & Lachmann, 1859	110321
-worms	Protoceratium aceros	Bergh, 1881	110321
+worms	Protoceratium aceros	Bergh, 1882	110321
 worms	Sporodinium pseudocalani	Gonnert, 1936	110324
 worms	Euglena deses f. intermedia	G.A.Klebs, 1883	110631
 worms	Euglena deses f. klebsii	(Lemmermann) T.G.Popova, 1966	110631
@@ -507,8 +509,8 @@ worms	Euglena intermedia var. brevis	F.E.Fritsch & M.F.Rich, 1930	110631
 worms	Euglena intermedia var. klebsii	Lemmermann, 1910	110631
 worms	Euglena klebsii	(Lemmermann) Mainx, 1928	110631
 worms	Euglena sima	Wermel, 1924	110631
-worms	Hueber-Pestalozziamonas pusilla	(Skuja) Skvortzov, 1967	110651
-worms	Petalomonas poosilla	Larsen & Patterson, 1990	110651
+worms	Hueber-Pestalozziamonas pusilla	(Skuja) Skvortsov, 1967	110651
+worms	Petalomonas poosilla	J.Larsen & D.J.Patterson, 1990	110651
 worms	Arastrorhizum	Rhumbler, 1913	112299
 worms	Arenistella	Fischer, 1875	112299
 worms	Astrodiscus	Schulze, 1875	112299
@@ -538,17 +540,19 @@ worms	Syracorhabdus	Lecal & Bernheim, 1960	115084
 worms	Chrysocampanula	Fournier, 1971	115090
 worms	Erkenia	Skuja, 1948	115090
 worms	Anthosphaera quadricornu	(J.Schiller) Halldal & Markali, 1955	115093
-worms	Syracosphaera quadricornu	Schiller, 1914	115093
+worms	Syracosphaera quadricornu	J.Schiller, 1914	115093
 worms	Syracosphaera quatricornu	Schiller, 1914	115093
 worms	Meringosphaera hydroidea	Lohmann, 1902	115099
 worms	Syracorhabdus fertii	Lecal-Schlauder, 1967	115099
+worms	Coccolithus huxleyi	(Lohmann) Kamptner, 1943	115104
 worms	Tetraspora pouchetii	Hariot, 1892	115106
 worms	Chrysocampanula spinifera	Fournier, 1971	115129
 worms	Bodo cephaloporus	Larsen & Patterson, 1990	118040
 worms	Dictyocha tripartita	J.Schumann, 1867	118051
 worms	Cryptobia libera	Ruinen, 1938	118052
 worms	Tetramitus rotundata	Skuja, 1948	118070
-worms	Rhizomonas setigera	(Pavillard) Patterson, Nygaard, Steinberg & Turley, 1993	118073
+worms	Tetramitus rotundatus	Skuja, 1948	118070
+worms	Rhizomonas setigera	(Pavillard) D.J.Patterson, K.Nygaard, G.Steinberg & Turley, 1993	118073
 worms	Telonema subtilis	Griessmann, 1913	118075
 worms	Bodo marinus	Braarud, 1935	119077
 worms	Chilomonas marina	(Braarud) Halldal, 1953	119077
@@ -705,8 +709,9 @@ worms	Hyalobryon stokesii	(Lemmermann) Matvienko, 1965	1356478
 worms	Lyngbya aerugineocaerulea	Gomont, 1892	1356531
 worms	Lyngbya tenuis var. aerugineocaerulea	(Kirchner) Hasgirg, 1892	1356531
 worms	Phormidium aerugineocaeruleum	(Gomont) Anagnostidis & Komárek, 1988	1356531
+worms	Hemidinium montanum	C.E.M.Bicudo & Skvortsov, 1970	1356541
 worms	Hemidinium ochraceum	Levander, 1900	1356541
-worms	Hemidinium pseudochraceum	C.E.M.Bicudo & Skvortzov, 1970	1356541
+worms	Hemidinium pseudochraceum	C.E.M.Bicudo & Skvortsov, 1970	1356541
 worms	Heminidium montanum	Bicudo & Skvortzov, 1970	1356541
 worms	Astasia aculeata	(Skvortsov & Noda) Skvortsov & Noda, 1975	1358450
 worms	Astasia brasiliana	Skvortsov & Noda, 1975	1358450
@@ -789,8 +794,9 @@ worms	Glenodinium pascheri	Suchlandt, 1916	1380298
 worms	Glenodinium polonicum	Woloszynska, 1916	1380298
 worms	Gymnodinium pascheri	(Suchlandt) Schiller, 1954	1380298
 worms	Gymnodinium polonicum	(Woloszynska) Woloszynska, 1917	1380298
+worms	Gymnodinium tatricum	Wołoszyńska, 1919	1380298
 worms	Gyrodinium nivale	Lindemann, 1929	1380298
-worms	Gyrodinium pascheri	(Suchlandt) Schiller, 1933	1380298
+worms	Gyrodinium pascheri	(Suchlandt) J.Schiller, 1933	1380298
 worms	Katodinium hiemale	(J.Schiller) A.R.Loeblich III, 1965	1380298
 worms	Woloszynskia pascheri	(Suchlandt) Stosch, 1973	1380298
 worms	Woloszynskia polonica	(Woloszynska) R.H.Thompson, 1951	1380298
@@ -804,7 +810,7 @@ worms	Woloszynskia ordinata	(Skuja) R.H.Thompson, 1950	1380415
 worms	Gymnodinium hiemale	Woloszynska, 1917	1380416
 worms	Woloszynskia hiemalis	(Woloszynska) R.H.Thompson, 1951	1380416
 worms	Glenodinium neglectum	A.J.Schilling, 1891	1380418
-worms	Gymnodinium hiemale	Skvortzov, 1927	1380418
+worms	Gymnodinium hiemale	Skvortsov, 1927	1380418
 worms	Gymnodinium neglectum	(A.J.Schilling) Er.Lindemann, 1928	1380418
 worms	Gymnodinium neglectum var. astigmatum	Christen, 1959	1380418
 worms	Woloszynskia neglecta	(A.J.Schilling) R.H.Thompson, 1951	1380418
@@ -1466,13 +1472,6 @@ worms	Conferva laetevirens	Dillwyn, 1805	145051
 worms	Conferva rudolphiana var. meneghiniana	(Kützing) Rabenhorst, 1847	145051
 worms	Conferva trichocoma	(Kützing) P.L.Crouan & H.M.Crouan, 1867	145051
 worms	Siphonocladus rhodensis	Reinbold, 1898	145051
-worms	Aegagropila biformis	Wittrock, 1878	145064
-worms	Annulina rupestris	(Linnaeus) Link, 1820	145064
-worms	Ceramium rupestre	(Linnaeus) de Lamarck & De Candolle, 1805	145064
-worms	Chloronitum rupestre	(Linnaeus) Gallion, 1828	145064
-worms	Cladophora opposita	Kützing, 1843	145064
-worms	Cladophora plumosa	Kützing, 1843	145064
-worms	Cladophora ramosissima	(Draparnaud ex Kützing) Kützing, 1843	145064
 worms	Cladophora rupestris f. contracta	Simmons, 1897	145064
 worms	Cladophora rupestris f. flaccida	Suringar, 1857	145064
 worms	Cladophora rupestris f. mediterranea	(Kützing) Ardissone	145064
@@ -1483,7 +1482,6 @@ worms	Cladophora rupestris var. baltica	Kützing, 1845	145064
 worms	Cladophora rupestris var. mediterranea	Kützing, 1849	145064
 worms	Cladophora rupestris var. nuda	Hamel, 1925	145064
 worms	Cladophora sertularina var. adriatica	Kützing, 1849	145064
-worms	Conferva glauca	Roth, 1800	145064
 worms	Conferva lyngbyana	(Kützing) Rabenhorst, 1847	145064
 worms	Conferva rupestris var. glauca	(Roth) Roth, 1806	145064
 worms	Aegagropila rudolphiana	(C.Agardh) Kützing, 1845	145065
@@ -1545,6 +1543,7 @@ worms	Cladophora adriatica	Schiffner, 1938	145070
 worms	Cladophora aegaea	Kützing, 1843	145070
 worms	Cladophora brachyclona	Montagne ex Kützing, 1849	145070
 worms	Cladophora ceratina	Kützing, 1845	145070
+worms	Cladophora conglomerata	Küzting, 1853	145070
 worms	Cladophora daveyana	Reinbold, 1899	145070
 worms	Cladophora densa	(Roth) Kützing, 1845	145070
 worms	Cladophora divergens	Schiffner, 1937	145070
@@ -1587,7 +1586,6 @@ worms	Conferva expansa	Mertens ex Jürgens, 1817	145070
 worms	Conferva fascicularis	Mertens ex C.Agardh, 1824	145070
 worms	Conferva glomerata var. rigida	C.A.Agardh, 1817	145070
 worms	Conferva heterochloa	C.A.Agardh, 1824	145070
-worms	Conferva implicata	Zanardini, 1847	145070
 worms	Cladophora basiramosa	Schmidle, 1896	145074
 worms	Cladophora glomerata var. petraea	Hansgirg, 1891	145074
 worms	Cladophora pachyderma	(Kjellman) Brand, 1908	145074
@@ -2139,7 +2137,7 @@ worms	Fucus esculentus var. ß minor	Turner, 1802	145716
 worms	Fucus pinnatus	Gunnerus, 1766	145716
 worms	Fucus teres	Goodenough & Woodward, 1797	145716
 worms	Laminaria esculenta	(Linnaeus) C.Agardh, 1817	145716
-worms	Laminaria musaefolia	Bachelot de la Pylaie, 1830	145716
+worms	Laminaria musaefolia	Bachelot Pylaie, 1830	145716
 worms	Laminaria musaefolia var. ß remotifolia	Bachelot de la Pylaie, 1830	145716
 worms	Laminaria polyphylla	(S.G.Gmelin) Steudel, 1824	145716
 worms	Musaefolia esculenta	(Linnaeus) Stackhouse, 1809	145716
@@ -2483,8 +2481,10 @@ worms	Monostroma lactuca	(Linnaeus) J.Agardh, 1883	145984
 worms	Phycoseris fasciata	(Delile) Montagne, 1856	145984
 worms	Phycoseris lobata	Kützing, 1847	145984
 worms	Phyllona lactuca	(Linnaeus) F.H.Wiggers, 1780	145984
+worms	Ulva costata	(M.Howe) Hollenberg, 1971	145984
 worms	Ulva crassa	Kjellman, 1877	145984
 worms	Ulva fasciata	Delile, 1813	145984
+worms	Ulva fasciata f. costata	M.Howe, 1914	145984
 worms	Ulva fasciata f. lobata	Setchell, 1901	145984
 worms	Ulva lactuca f. fasciata	(Delile) Hering, 1846	145984
 worms	Ulva lactucaefolia	S.F.Gray, 1821	145984
@@ -3288,7 +3288,7 @@ worms	Selenastrum minutum	(Nägeli) Collins, 1907	163101
 worms	Kirchneria	F.Hindák, 1988	163110
 worms	Pseudokirchneriella	F.Hindák, 1990	163110
 worms	Scenedesmus ecornis var. flexuosus	Lemmermann	163125
-worms	Scenedesmus flexuosus	(Lemmermann) Ahlstrom	163125
+worms	Scenedesmus flexuosus	(Lemmermann) Ahlstrom, 1935	163125
 worms	Scenedesmus linearis	Komárek, 1974	163125
 worms	Astasia haematodes	Ehrenberg, 1830	163127
 worms	Euglena fundoversata	L.P.Johnson, 1944	163127
@@ -3296,6 +3296,7 @@ worms	Euglena haematodes	(Ehrenberg) Lemmermann, 1908	163127
 worms	Euglena magnifica	E.G.Pringsheim, 1956	163127
 worms	Euglena mucifera	Mainx, 1926	163127
 worms	Euglena paludosa	Mainx, 1926	163127
+worms	Euglena rubida	Mainx, 1928	163127
 worms	Euglena sanguinea var. furcata	Hübner, 1886	163127
 worms	Euglena viridis var. sanguinea	(Ehrenberg) Playfair	163127
 worms	Oscillaria sanguinea	(Ehrenberg) Itzigsohn & Rothe, 1852	163127
@@ -3332,6 +3333,8 @@ worms	Euglena geniculata var. guttula	Playfair, 1923	163316
 worms	Euglena proxima var. anglesia	Pringsheim, 1953	163316
 worms	Cerataulus laevis	(Ehrenberg) Ralfs, 1861	163322
 worms	Hyalophacus	Pringsheim, 1936	163339
+worms	Phacus brevicaudata	(G.A.Klebs) Lemmermann, 1904	163353
+worms	Phacus pleuronectes var. brevicaudata	G.A.Klebs, 1883	163353
 worms	Cercaria pleuronectes	O.F.Müller, 1773	163354
 worms	Phacus acuminata var. megapyrenoidea	(Roll) Pochmann, 1942	163354
 worms	Phacus granulata	Roll, 1925	163354
@@ -3340,7 +3343,7 @@ worms	Phacus granulatus var. laevis	Z.X.Shi, 1996	163354
 worms	Phacus megapyrenoidea	Roll, 1925	163354
 worms	Phacus pleuronectes var. prunoideus	(Roll) T.G.Popova, 1955	163354
 worms	Phacus pleuronectes var. triquetra	(Ehrenberg) Klebs, 1883	163354
-worms	Phacus prunoideus	Roll, 1925	163354
+worms	Phacus prunoideus	Y.V.Roll, 1925	163354
 worms	Phacus pulcher	Y.V.Roll, 1925	163354
 worms	Phacus longicauda var. tortus	Lemmermann, 1910	163356
 worms	Phacus alata	Klebs	163362
@@ -3404,8 +3407,7 @@ worms	Trachelomonas deflandrei	Y.V.Roll, 1928	163423
 worms	Trachelomonas tambowika	Svirenko, 1914	163426
 worms	Peridinium deficiens	Meunier, 1919	163429
 worms	Glenodinium quadridens var. wildemanii	(Woloszynska) J.Schiller, 1935	1634355
-worms	Glenodinium sedens	Er.Lindemann, 1928	1634355
-worms	Heterocapsa quinquecuspidata	Massart, 1920	1634355
+worms	Glenodinium sedens	Lindemann, 1928	1634355
 worms	Peridiniopsis cunningtonii	Lemmermann, 1907	1634355
 worms	Peridinium cunningtonii	(Lemmermann) Lemmermann, 1910	1634355
 worms	Peridinium cunningtonii f. quadrispinum	Woloszynska, 1935	1634355
@@ -3423,9 +3425,9 @@ worms	Euglena polymorpha	P.A.Dangeard, 1902	163465
 worms	Euglena velata var. granulata	G.A.Klebs, 1883	163465
 worms	Diacanthos	Korshikov, 1953	163478
 worms	Errerella	Conrad, 1913	163478
-worms	Crucigenia multiseta	(Schmidle) Schmidle	163479
+worms	Crucigenia multiseta	(Schmidle) Schmidle, 1900	163479
 worms	Golenkinia botryoides	Schmidle, 1896	163479
-worms	Micractinium eriense	Tiffany & Ahlstrom	163479
+worms	Micractinium eriense	Tiffany & Ahlstrom, 1931	163479
 worms	Micractinium pusillum var. longisetum	Tiffany & Ahlstrom, 1931	163479
 worms	Micractinium pusillum var. mucosa	Korshikov	163479
 worms	Richteriella botryoides	(Schmidle) Lemmermann	163479
@@ -3662,6 +3664,8 @@ worms	Mastogloia pseudotuscula	(Hustedt) Loseva, 1982	172850
 worms	Schizonema scutelloides	(W. Smith ex Gregory) Kuntze, 1898	172855
 worms	Prasinomonadina		17329
 worms	Prasinophyta		17329
+worms	Pouchetia parva	Lohmann, 1908	1737580
+worms	Warnowia parva	(Lohmann) Er.Lindemann, 1928	1737580
 worms	Uroglena lindiae	Bourrelly, 1957	1739878
 worms	Navicula reinhardtii var. gracilior	Grunow, 1885	175308
 worms	Navicula derasa	Grunow, 1880	175320
@@ -4216,7 +4220,6 @@ worms	Woloszynskia micra	B.Leadbeater & J.D.Dodge, 1966	233037
 worms	Gymnodinium vitiligo	D.Ballantine, 1956	233038
 worms	Gymnodinium pulchellum	J.Larsen, 1994	233084
 worms	Gyrodinium pulchellum		233084
-worms	Pouchetia parva	Lohmann, 1908	233143
 worms	Gymnodinium polyphemus	Pouchet	233144
 worms	Pouchetia polyphemus	(Pouchet) Kofoid & Swezy, 1921	233144
 worms	Gymnodinium polyphemus var. roseum	Pouchet	233154
@@ -4229,7 +4232,7 @@ worms	Peridinium defectum	Balech, 1965	233388
 worms	Peridinium decipiens	Jörgensen, 1899	233390
 worms	Gonyaulax polyedra	F.Stein, 1883	233592
 worms	Hystrichosphaeridium machaerophorum	Deflandre & Cookson, 1955	233592
-worms	Lingulodinium machaerophorum	(Deflandre & Cookson) Wall, 1967	233592
+worms	Lingulodinium machaerophorum	(Deflandre & Cookson) D.Wall, 1967	233592
 worms	Cachonina niei	A.R.Loeblich, 1968	233620
 worms	Diplopsalis excentrica	Nie, 1943	233667
 worms	Dissodium excentricum	(Nie) Loeblich, 1970	233667
@@ -4239,11 +4242,8 @@ worms	Dissodium parvum	Abé, 1941	233677
 worms	Oxytoxum curvicaudatum	Kofoid, 1907	233754
 worms	Chattonella japonica	(S.Toriumi & H.Takano) Loeblich III & K.E.Fine, 1977	233761
 worms	Hornellia	Subrahmanyan, 1954	233776
-worms	Chattonella marina var. antiqua	(Hada) Demura & Kawachi, 2009	233778
-worms	Hemieutreptia antiqua	Hada, 1974	233778
 worms	Hemieutreptia antiqua	Y.Hada, 1974	233778
 worms	Hemieutreptia corallina	Hada, 1974	233778
-worms	Hornellia marina	Subrahmanyan, 1954	233780
 worms	Conferva compressa	(Linnaeus) Roth, 1797	234462
 worms	Enteromorpha chlorotica	J.Agardh, 1883	234462
 worms	Enteromorpha clathrata var. usneoides	(J.Agardh) V.J.Chapman, 1956	234462
@@ -4470,6 +4470,7 @@ worms	Vaucheria sessilis subsp. cespitosa	(Vaucher) Balsamo, 1885	238754
 worms	Ectosperma cruciata	Vaucher, 1803	238755
 worms	Vaucheria debaryana	Woronin, 1880	238755
 worms	Chantransia infusionum	Schrank, 1814	238812
+worms	Chlorococcum echinozygotum	R.C.Starr, 1955	238812
 worms	Chlorococcum humicola	(Nägeli) Rabenhorst, 1868	238812
 worms	Chlorococcum humicola var. incrassatum	F.E.Fritsch & R.P.John, 1942	238812
 worms	Cystococcus humicola	Nägeli, 1849	238812
@@ -4685,6 +4686,7 @@ worms	Heterokontophyta	Moestrup	345465
 worms	Gymnodinium chlorophorum	Elbrächter & Schnepf, 1996	345481
 worms	Pterosphaera vanhoffenii	Jørgensen, 1900	345881
 worms	Pterosphaera moebii	Jørgensen, 1899	345882
+worms	Tintinnus urnula	Claparéde and Lachmann	345883
 worms	Lophodinida		368684
 worms	Haptomonada		369190
 worms	Raphidomonas	F.Stein, 1878	369698
@@ -4721,48 +4723,6 @@ worms	Conferva reticulata	Linnaeus, 1753	381000
 worms	Conferva reticulosa	Linnaeus, 1753	381000
 worms	Hydrodictyon pentagonum	Vaucher, 1803	381000
 worms	Hydrodictyon utriculatum	Roth, 1800	381000
-worms	Aegagropila armeniaca	(Wittrock) Heering, 1921	381150
-worms	Aegagropila canescens	Kjellmann, 1898	381150
-worms	Aegagropila froelichiana	Kützing, 1845	381150
-worms	Aegagropila holsatica	(Kützing) Kützing, 1854	381150
-worms	Aegagropila lagerheimii	Brand, 1906	381150
-worms	Aegagropila martensii	(Meneghini ex Kützing) Kützing, 1854	381150
-worms	Aegagropila minima	(Okada) Okada, 1957	381150
-worms	Aegagropila muscoides	(Meneghini ex Kützing) Kützing, 1854	381150
-worms	Aegagropila muscoides var. armeniaca	Wittrock, 1878	381150
-worms	Aegagropila profunda	(Brand) Heering, 1921	381150
-worms	Aegagropila sauteri	Kützing, 1845	381150
-worms	Aegagropila sauteri f. profunda	Brand, 1906	381150
-worms	Aegagropila sauteri var. borgeana	(Brand) Heering, 1921	381150
-worms	Aegagropila sauteri var. yamanakaensis	Okada, 1957	381150
-worms	Ceramium aegagropilum	(Linnaeus) De Candolle, 1805	381150
-worms	Chantransia aegagrophila	(Linnaeus) Chevalier, 1836	381150
-worms	Chloronitum aegagropila	(Linnaeus) Gaillon, 1833	381150
-worms	Cladophora aegagropila	(Linnaeus) Trevisan, 1845	381150
-worms	Cladophora aegagropila var. brownii	(Dillwyn) Rabenhorst, 1868	381150
-worms	Cladophora aegagropila var. bulnheimii	(Rabenhorst) Rabenhorst, 1868	381150
-worms	Cladophora aegagropila var. daldinii	(Cesati & De Notaris ex Bertoloni) Rabenhorst, 1868	381150
-worms	Cladophora aegagropila var. holsatica	(Kützing) Rabenhorst, 1868	381150
-worms	Cladophora aegagropila var. linnaei	(Kützing) Rabenhorst, 1868	381150
-worms	Cladophora aegagropila var. martensii	(Meneghini ex Kützing) Rabenhorst, 1868	381150
-worms	Cladophora aegagropila var. muscoides	(Meneghini ex Kützing) Rabenhorst, 1868	381150
-worms	Cladophora aegagropila var. sauteri	(Nees von Eisenbeck ex Kützing) Rabenhorst, 1868	381150
-worms	Cladophora aegagropila var. thermalis	Wolle	381150
-worms	Cladophora armeniaca	(Wittrock) Brand, 1902	381150
-worms	Cladophora glomerata var. nana	Wang, 1935	381150
-worms	Cladophora holsatica	Kützing	381150
-worms	Cladophora koktschetavensis	Sviridenko, 1995	381150
-worms	Cladophora profunda	Brand, 1895	381150
-worms	Cladophora profunda var. nordstedtiana	Brand, 1902	381150
-worms	Cladophora sauteri	(Nees) Trevisan, 1845	381150
-worms	Cladophora sauteri var. borgeana	Brand, 1902	381150
-worms	Cladophora shensiensis	C.C.Jao, 1948	381150
-worms	Cladophora yuennanensis	Skuja, 1937	381150
-worms	Conferva aegagropila var. adnata	Agardh, 1824	381150
-worms	Conferva coactilis	Sauter ex Nees von Eisenbeck, 1824	381150
-worms	Conferva pusilla	Rabenhorst, 1846	381150
-worms	Conferva sauteri f. suecica	Areschoug, 1862	381150
-worms	Oscillatoria aegagropila	(Linnaeus) Corda, 1836	381150
 worms	Conferva paradoxa	Dillwyn, 1809	382510
 worms	Enteromorpha clathrata var. hopkirkii	(M'Calla ex Harvey) G.Hamel, 1931	382510
 worms	Enteromorpha flexuosa subsp. paradoxa	(C.Agardh) Bliding, 1963	382510
@@ -4905,6 +4865,7 @@ worms	Tintinnopsis fusus	Meunier, 1910	417153
 worms	Amphorella fusiformis	Meunier, 1919	417184
 worms	Tintinnus tubulosa	Ostenfeld, 1899	417222
 worms	Tintinnus acuminatus	Claparède & Lachmann, 1858	417228
+worms	Tintinnus acuminatus	Claparéde and Lachmann	417228
 worms	Gymnodinium mirabile var. rufescens	Penard, 1891	418124
 worms	Gymnodinium rufescens	(Penard) Lemmermann, 1910	418124
 worms	Ceratium curvirostre	Huitfeld-Kaas, 1901	418140
@@ -4935,6 +4896,7 @@ worms	Conferva affinis	Kützing, 1845	422904
 worms	Cyttarocylis annulata	Daday 1887	427479
 worms	Cyttarocylis annulata	Daday 1886	427479
 worms	Cyttarocylis obtusaangula	Ostenfeld, 1899	427609
+worms	Favella denticulata var. tenuis	Schulz and Wulf 1929	427609
 worms	Disceraea	A.Morren & C.Morren, 1841	428522
 worms	Closterium pronum var. pronum f. brevius	West, 1912	431957
 worms	Navicula capitata	Ehrenberg, 1838	447739
@@ -4985,6 +4947,7 @@ worms	Calocylindrus	(C.Nägeli) O.Kirchner, 1878	478557
 worms	Disphinctium		478557
 worms	Dysphinctium	Nägeli, 1849	478557
 worms	Nothocosmarium	Raciborski, 1889	478557
+worms	Pleurotaeniopsis	(P.Lundell) Lagerheim, 1887	478557
 worms	Coccidinida		493844
 worms	Poroceratium	Vanhöffen, 1896	494057
 worms	Charina	Filarszky & G O.Allen ex Filarszky, 1937	494066
@@ -5451,7 +5414,7 @@ worms	Schizothrix perforans	Geitler, 1927	547484
 worms	Proterythropsis vigilans	Marshall, 1925	547527
 worms	Uronema curvatum	Printz, 1926	547538
 worms	Urospora curvata	(Printz) Kornmann	547538
-worms	Amphidinium lohammari	Skuja, 1956	547541
+worms	Amphidinium lohammarii	Skuja, 1956	547541
 worms	Amphidinium multiplex	J.Schiller, 1955	547541
 worms	Amphidinium vorax	Schiller, 1955	547541
 worms	Carteria micropapillata	Alvik, 1934	547683
@@ -5492,8 +5455,8 @@ worms	Thalassiothrix frauenfeldii	Cleve, 1894	555052
 worms	Thalassiothrix frauenfeldii var. frauenfeldii	(Grunow) Grunow in Cleve & Grunow, 1880	555052
 worms	Carteria globosa	Korshikov, 1927	555694
 worms	Chodatella longiseta	Lemmermann, 1898	555799
-worms	Scenedesmus costato-granulatus	Skuja, 1948	555806
-worms	Scenedesmus elegans	L.S.Péterfi	555806
+worms	Scenedesmus costatogranulatus	Skuja, 1948	555806
+worms	Scenedesmus elegans	L.Ș.Péterfi, 1964	555806
 worms	Scenedesmus transilvanicus	Kirjakov [Kiriakov], 1977	555806
 worms	Acanthoica aculeata	Kamptner, 1941	555888
 worms	Crystallolithus braarudii	Gaarder, 1962	555898
@@ -5621,6 +5584,7 @@ worms	Palmodactylon varium	Nägeli, 1849	576279
 worms	Scenedesmus armatus var. dispar	Philipose, 1967	576694
 worms	Scenedesmus intermedius f. granulatus	Hortobagyi, 1960	576694
 worms	Siderocystis	Korshikov, 1953	576696
+worms	Golenkinia punctifera	Bolochonzew, 1903	576697
 worms	Siderocystis fusca	Korshikov, 1953	576697
 worms	Siderocystopsis fusca	(Korshikov) Swale, 1964	576697
 worms	Palmellocystis planctonica	Korshikov, 1953	576698
@@ -6031,7 +5995,7 @@ worms	Conferva undulata	Brébisson, 1849	608573
 worms	Cymatonema confervaceum	Kützing, 1849	608573
 worms	Ankistrodesmus braunii	(Nägeli) Lemmermann, 1908	608582
 worms	Keratococcus braunii	(Nägeli) Hindák, 1977	608582
-worms	Monoraphidium braunii	(Nägeli) Komárková-Legnerová, 1969	608582
+worms	Monoraphidium braunii	(Nägeli ex Kützing) Komárková-Legnerová, 1969	608582
 worms	Rhaphidium braunii	Nägeli	608582
 worms	Bernardia chodati	(C.Bernard) Playfair, 1917	608589
 worms	Chodatella chodatii	(C.Bernard) S.-H.Ley, 1948	608589
@@ -6091,14 +6055,14 @@ worms	Closterium cynthia f. lata	Schmidle	608735
 worms	Closterium cynthia var. jenneri	(Ralfs) Willi Krieger, 1935	608735
 worms	Closterium cynthia var. latum	(Schmidle) Willi Krieger, 1933	608735
 worms	Closterium acerosum var. lanceolatum	(Kützing ex Ralfs) Playfair, 1914	608737
-worms	Closterium leibleinii var. manchuricum	Skvortzov	608738
+worms	Closterium leibleinii var. manchuricum	Skvortsov	608738
 worms	Closterium lineatum var. multinucleatum	Deflandre	608739
 worms	Closterium lineatum var. sublaeve	Brébisson	608739
 worms	Closterium affine	F.Gay	608740
 worms	Closterium lunula f. coloratum	(G.A.Klebs) Kossinskaja, 1951	608740
 worms	Closterium lunula f. minus	West & G.S.West, 1904	608740
 worms	Closterium lunula var. coloratum	G.A.Klebs, 1879	608740
-worms	Echinella radiosa	Acharius	608740
+worms	Echinella radiosa	Acharius, 1810	608740
 worms	Closterium praelongum var. porosum	(Gutwinski) Krieger, 1935	608748
 worms	Closterium leibleinii f. minor	(Schmidle) Rich	608751
 worms	Closterium ralfsii var. immane	J.A.Cushman, 1908	608751
@@ -6405,6 +6369,7 @@ worms	Trachelomonas allorgei	Deflandre, 1927	609636
 worms	Trachelomonas allorgei var. molesta	(Deflandre) Balech, 1944	609636
 worms	Trachelomonas bernardinensis	Vischer, 1916	609636
 worms	Trachelomonas caudata f. pseudocaudata	(Deflandre) Popova, 1966	609636
+worms	Trachelomonas fusiformis	A.C.Stokes, 1894	609636
 worms	Trachelomonas molesta	Deflandre, 1927	609636
 worms	Trachelomonas pseudocaudata	Deflandre, 1927	609636
 worms	Trachelomonas volvocina var. pascheri	Dreżepolski	609637
@@ -6564,7 +6529,7 @@ worms	Kirchneriella subcapitata	Korshikov, 1953	610914
 worms	Pseudokirchneriella subcapitata	(Korshikov) F.Hindák, 1990	610914
 worms	Scenedesmus quadricauda var. dentatus	Dedusenko	610917
 worms	Oocystis ornata	Fott, 1933	610927
-worms	Siderocelis balatonica	Hortobágyi	610927
+worms	Siderocelis balatonica	Hortobágyi, 1948	610927
 worms	Selenastrum americanum	(Bohlin) Schmidle	610928
 worms	Selenosphaerium americanum	Bohlin, 1897	610928
 worms	Cohniella staurogeniiforme	Schröder, 1897	610934
@@ -6745,7 +6710,7 @@ worms	Lyngbya calcicola var. parietina	(Stizenberger) Kützing ex Hansgirg, 1892
 worms	Lyngbya coriacea var. parietina	(Stizenberger) Richter ex Hansgirg, 1887	614448
 worms	Scytonema ambiguum	Kützing ex Bornet & Flahault, 1886	614448
 worms	Scytonema mirabile var. ambiguum	(Kützing) Playfair	614448
-worms	Menoidium costatum	Korshikov, 1929	614517
+worms	Menoidium costatum	Korshikov, 1928	614517
 worms	Bambusina brebissonii	Kützing, 1849	614572
 worms	Bambusina moniliformis	Teiling	614572
 worms	Desmidium borreri	Ralfs, 1848	614572
@@ -7164,6 +7129,7 @@ worms	Pseudodictyosphaerium anomalum	(Korshikov) Hindák, 1988	624369
 worms	Dictyosphaerium botrytella	Komárek & Perman, 1978	624370
 worms	Dactylosphaerium jurisii	Hindák, 1977	624375
 worms	Pseudodictyosphaerium jurisii	(Hindák) Hindák, 1988	624375
+worms	Gloeophyllum fimbriatum	Korshikov, 1953	624469
 worms	Pediastrum duplex var. gracillimum	West & G.S.West, 1895	624469
 worms	Pediastrum gracile	A.Braun	624469
 worms	Pediastrum gracillimum	(West & G.S.West) Thunmark, 1945	624469
@@ -7386,7 +7352,7 @@ worms	Sphaerellopsis crassicauda	Korshikov, 1925	637365
 worms	Sphaerellopsis fluviatilis	(F.Stein) Pascher, 1927	637365
 worms	Synochromonas gracilis	Korshikov, 1941	638504
 worms	Uroglena gracilis	(Korshikov) Bourrelly, 1957	638504
-worms	Glenodinium apiculatum	Zacharias, 1901	639206
+worms	Glenodinium apiculatum	O.Zacharias, 1901	639206
 worms	Gymnodinium coeruleum	Antipova, 1955	639206
 worms	Gymnodinium helveticum	Penard, 1891	639206
 worms	Gymnodinium helveticum f. achroum	Skuja, 1948	639206
@@ -7398,6 +7364,7 @@ worms	Phacus hispidula		639485
 worms	Phacus hispidulus	(K.E.Eichwald) Klebs, 1883	639485
 worms	Phacus hispidulus var. latus	(Y.V.Roll) Deflandre, 1932	639485
 worms	Phacus latus	(Y.V.Roll) Pochmann, 1942	639485
+worms	Phacus papillaris	Stawiński, 1969	639485
 worms	Phacus suecicus var. latus	Y.V.Roll, 1925	639485
 worms	Stenokalyx inconstans	Gerlinde Schmid, 1934	640124
 worms	Oedogonium monticchii	Fiorini-Mazzanti, 1860	640621
@@ -7415,6 +7382,7 @@ worms	Dictyosphaerium planctonica	Tiffany & Ahlstrom, 1931	647499
 worms	Lobocystis planctonica	(Tiffany & Ahlstrom) Fott, 1975	647499
 worms	Lobocystis planctonica var. mucosa	Bourrelly	647499
 worms	Tetraëdron planctonicum	G.M.Smith, 1916	647501
+worms	Rhynchobodo taeniata	(Skuja) Vørs, 1992	653172
 worms	Dinobryon bavaricum var. vanhoeffenii	(H.Bachmann) Krieger, 1930	655021
 worms	Oedogonium diandronites	H.J.Carter, 1858	655137
 worms	Oedogonium monandronites	H.J.Carter	655137
@@ -7542,7 +7510,6 @@ worms	Sphaerella wrangelii	Sommerfelt, 1824	661559
 worms	Volvox lacustris	Girod-Chantrans, 1802	661559
 worms	Staurodesmus pachyrhynchus	(Nordstedt) Teiling, 1967	661691
 worms	Staurodesmus pachyrhynchus var. pachyrhynchus	Teiling, 1967	661691
-worms	Amphipleura kriegeriana	(Krasske) Hustedt, 1954	661792
 worms	Cymbella integra	(W.Smith) A.W.F.Schmidt, 1881	662000
 worms	Navicula integra	(W.Smith) Ralfs, 1861	662000
 worms	Navicula integra var. integra	(W. Smith) Ralfs in Pritchard, 1861	662000
@@ -7550,6 +7517,7 @@ worms	Prestauroneis integra	(W.Smith) K.Bruder, 2008	662000
 worms	Schizonema integrum	(W.Smith) Kuntze, 1898	662000
 worms	Gonyaulax apiculata	Entz, 1904	662355
 worms	Gonyaulax apiculata var. clevei	(Ostenfeld) Ostenfeld, 1908	662355
+worms	Gonyaulax austriaca	J.Schiller, 1926	662355
 worms	Gonyaulax limnetica	Lindemann, 1919	662355
 worms	Gonyaulax polonica	Woloszynska, 1916	662355
 worms	Peridinium apiculatum	Penard, 1891	662355
@@ -7572,6 +7540,27 @@ worms	Peridiniopsis dinobryonis	(Woloszynska) Bourrelly, 1968	663841
 worms	Gymnodinium rotundatum	Klebs, 1912	663873
 worms	Gymnodinium uberrimum var. rotundatum	(G.A.Klebs) Popovsky, 1968	663873
 worms	Gymnodinium unicorne	(G.A.Klebs) Er.Lindemann, 1928	663873
+worms	Aegagropila armeniaca	(Wittrock) Heering, 1921	664371
+worms	Aegagropila bulnheimii	Rabenhorst, 1859	664371
+worms	Aegagropila canescens	Kjellmann, 1898	664371
+worms	Aegagropila froelichiana	Kützing, 1845	664371
+worms	Aegagropila holsatica	(Kützing) Kützing, 1854	664371
+worms	Aegagropila lagerheimii	Brand, 1906	664371
+worms	Aegagropila linnaei	Kützing, 1843	664371
+worms	Aegagropila martensii	(Meneghini ex Kützing) Kützing, 1854	664371
+worms	Aegagropila muscoides	(Meneghini ex Kützing) Kützing, 1854	664371
+worms	Aegagropila profunda	(Brand) Heering, 1921	664371
+worms	Aegagropila sauteri	Kützing, 1845	664371
+worms	Chloronitum aegagropila	(Linnaeus) Gaillon, 1833	664371
+worms	Cladophora armeniaca	(Wittrock) Brand, 1902	664371
+worms	Cladophora brownii	(Dillwyn) Harvey, 1846	664371
+worms	Cladophora bulnheimii	(Rabenhorst) Rabenhorst, 1863	664371
+worms	Cladophora holsatica	Kützing, 1849	664371
+worms	Cladophora profunda	Brand, 1895	664371
+worms	Cladophora yuennanensis	Skuja, 1937	664371
+worms	Conferva aegagropila	Linnaeus, 1753	664371
+worms	Conferva brownii	Dillwyn, 1809	664371
+worms	Conferva pusilla	Rabenhorst, 1846	664371
 worms	Euastrum denticulatum	F.Gay, 1884	664383
 worms	Euastrum denticulatum var. granulatum	West, 1892	664383
 worms	Lyngbya tinctoria	(Kützing ex Gomont) Kirchner ex Forti, 1907	665181
@@ -7632,6 +7621,7 @@ worms	Sphaerozosma wallichii var. anglicum	West & G.S.West, 1897	671719
 worms	Suriraya linearis	(W.Smith) Pfitzer, 1871	671902
 worms	Scenedesmus acutiformis var. bicaudatus	Guglielmetti, 1910	672032
 worms	Scenedesmus armatus var. bicaudatus	(Guglielmetti) Chodat, 1926	672032
+worms	Scenedesmus bicaudatus	(Hansgirg) Chodat, 1926	672032
 worms	Scenedesmus columnatus var. bicaudatus	Hortobágyi	672032
 worms	Scenedesmus denticulatus var. linearis	Hansgirg, 1888	672034
 worms	Scenedesmus carinatus	(Lemmermann) Chodat, 1913	672037
@@ -7733,6 +7723,7 @@ worms	Stramenopila		7
 worms	Achnanthidium bioretii	(Germain) O.Monnier, Lange-Bert. & L.Ector, 2007	700441
 worms	Nodularia harveyana var. sphaerocarpa	(Bornet & Flahault) Elenkin, 1916	700452
 worms	Karayevia carissima	(Lange-Bertalot) Bukhtiyarova, 2006	700472
+worms	Chattonella marina	(Subrahmanyan) Y.Hara & Chihara, 1982	700515
 worms	Navicula rhynchocephala var. germainii	(Wallace) Patrick, 1966	700531
 worms	Navicula viridula var. germainii	(Wallace) Lange-Bertalot, 1993	700531
 worms	Nematonostoc flagelliforme	(Bornet & Flahault) Elenkin, 1934	700733
@@ -7759,9 +7750,8 @@ worms	Meringosphaera tenerrima	Schiller, 1925	708245
 worms	Crucigenia hastifera	Arnoldi, 1924	708267
 worms	Glenodinium bernardinense	Chodat & Zender, 1923	708284
 worms	Astasia trichophora	(Ehrenberg) Claparède & Lachmann, 1859	708291
-worms	Peranema trichophorum	(Ehrenberg) Stein, 1859	708291
 worms	Peranemopsis trichophora	(Ehrenberg) L.S.Péterfi, 1986	708291
-worms	Peranemopsis trichophora	(Ehrenberg) Skvortzov & Noda, 1974	708291
+worms	Peranemopsis trichophora	(Ehrenberg) Skvortsov & Noda, 1974	708291
 worms	Trachelius trichophorus	Ehrenberg, 1832	708291
 worms	Spiniferomonas serrata	Nicholls, 1981	708716
 worms	Diplotheca	Matthew, 1885	724313
@@ -7897,12 +7887,10 @@ worms	Navicula brebissonii	Kützing, 1844	837975
 worms	Pinnularia brebissonii	(Kützing) Rabenhorst, 1864	837975
 worms	Scenedesmus aculeolatus	Reinsch, 1877	838101
 worms	Scenedesmus bicaudatus	Dedusenko, 1925	838103
-worms	Scenedesmus bicaudatus	(Hansgirg) Chodat	838103
 worms	Scenedesmus quadricauda var. bicaudata	Hansgirg, 1890	838103
 worms	Entocladia testarum	Kylin, 1935	838154
 worms	Epicladia testarum	(Kylin) R.Nielsen, 1980	838154
-worms	Chalubinskia tatrica	Woloszynska, 1916	838278
-worms	Glenodinium lomnickii	(Woloszynska) Er.Lindemann, 1925	838278
+worms	Glenodinium lomnickii	(Wołoszyńska) Er.Lindemann, 1925	838278
 worms	Peridinium lomnickii	Wołoszyńska, 1916	838278
 worms	Peridinium lomnickii var. punctulatum	Lindemann, 1924	838278
 worms	Peridinium tatrae	Schiller, 1937	838278
@@ -7953,9 +7941,10 @@ worms	Pediastrum tetras var. tetrapedia	(Kirchner) Playfair	839081
 worms	Staurogenia tetrapedia	Kirchner, 1880	839081
 worms	Tetrapedia emarginata	Schröder, 1897	839081
 worms	Tetrapedia kirchneri	Lemmermann, 1900	839081
-worms	Crucigenia minima	(Fitschen) Brunnthaler	839083
+worms	Crucigenia minima	(Fitschen) Brunnthaler, 1915	839083
 worms	Crucigenia triangularis	(Chodat) Schmidle, 1900	839083
 worms	Pediastrum tetras var. triangulare	(R.Chodat) Playfair	839083
+worms	Staurogenia minima	Fitschen, 1905	839083
 worms	Staurogenia triangularis	Chodat, 1900	839083
 worms	Tetrastrum staurogeniaeforme var. glabrum	Y.V.Roll	839083
 worms	Tetrastrum staurogeniiforme var. glabrum	Y.V.Roll	839083
@@ -8021,7 +8010,7 @@ worms	Phormidium autumnale	Gomont, 1892	840016
 worms	Imantonia rotunda	N.Reynolds, 1974	840109
 worms	Stromatella monostromatica	(P.J.L.Dangeard) Kornmann & Sahling, 1985	840291
 worms	Ulvella monostromatica	P.J.L.Dangeard, 1965	840291
-worms	Crucigenia cruciata	Schmidle	840470
+worms	Crucigenia cruciata	Schmidle, 1900	840470
 worms	Crucigenia crucifera	(Wolle) O.Kuntze, 1898	840470
 worms	Crucigeniella crucifera	(Wolle) Komárek, 1974	840470
 worms	Staurogenia cruciata	Wolle, 1887	840470
@@ -8181,7 +8170,7 @@ worms	Pediastrum duplex var. longicorne	Reinsch, 1867	846302
 worms	Pediastrum glanduliferum	A.W.Bennett, 1892	846302
 worms	Pediastrum muticum var. longicorne	Raciborski, 1889	846302
 worms	Staurastrum lunatum	Ralfs, 1848	846509
-worms	Euglena oxyuris var. minor	(Skvortzov) Popova	846535
+worms	Euglena oxyuris var. minor	(Skvortsov) Popova	846535
 worms	Euglena oxyuris var. minor	Prescott, 1944	846535
 worms	Amylax buxus	(Balech) J.D.Dodge, 1989	846758
 worms	Gonyaulax buxus	Balech, 1967	846758

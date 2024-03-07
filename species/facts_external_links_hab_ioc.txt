@@ -19,8 +19,6 @@ Aphanizomenon gracile	248100	https://www.marinespecies.org/hab/aphia.php?p=taxde
 Azadinium spinosum	391509	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=391509
 Blennothrix lyngbyacea	213723	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=213723
 Calothrix parietina	239094	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=239094
-Chattonella antiqua	233778	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=233778
-Chattonella marina	233780	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=233780
 Chattonella subsalsa	246590	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=246590
 Chrysochromulina leadbeateri	246591	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=246591
 Cuspidothrix issatschenkoi	621617	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=621617

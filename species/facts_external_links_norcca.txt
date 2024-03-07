@@ -627,7 +627,6 @@ NIVA-CHL 107	Tetradesmus obliquus	Chlorophyta	Chlorophyceae	Freshwater	https://n
 NIVA-CHL 108	Chlorella vulgaris	Chlorophyta	Trebouxiophyceae	Freshwater	https://norcca.scrol.net/strain/niva-chl-108	https://norcca.scrol.net/species/chlorella-vulgaris	Chlorella vulgaris	532029	niva-chl-108
 NIVA-CHL 110	Pseudococcomyxa chodatii	Chlorophyta	Trebouxiophyceae	Soil	https://norcca.scrol.net/strain/niva-chl-110	https://norcca.scrol.net/species/pseudococcomyxa-chodatii	Pseudococcomyxa chodatii	1379956	niva-chl-110
 NIVA-CHL 111	Chlorella vulgaris	Chlorophyta	Trebouxiophyceae	Soil	https://norcca.scrol.net/strain/niva-chl-111	https://norcca.scrol.net/species/chlorella-vulgaris	Chlorella vulgaris	532029	niva-chl-111
-NIVA-CHL 112	Chlorella sp.	Chlorophyta	Trebouxiophyceae	Soil	https://norcca.scrol.net/strain/niva-chl-112	https://norcca.scrol.net/species/chlorella-sp	Chlorella	160576	niva-chl-112
 NIVA-CHL 113	Chlorococcum sp.	Chlorophyta	Chlorophyceae	Soil	https://norcca.scrol.net/strain/niva-chl-113	https://norcca.scrol.net/species/chlorococcum-sp	Chlorococcum	143946	niva-chl-113
 NIVA-CHL 114	Scenedesmus sp.	Chlorophyta	Chlorophyceae	Freshwater	https://norcca.scrol.net/strain/niva-chl-114	https://norcca.scrol.net/species/scenedesmus-sp	Scenedesmus	160602	niva-chl-114
 NIVA-CHL 115	Chlorella sp.	Chlorophyta	Trebouxiophyceae	Freshwater	https://norcca.scrol.net/strain/niva-chl-115	https://norcca.scrol.net/species/chlorella-sp	Chlorella	160576	niva-chl-115
