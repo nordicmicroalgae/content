@@ -1,13 +1,14 @@
 ---
-title: Tools
+title: Checklists and biovolumes
 ---
 ## Biovolumes and Size-Classes of Phytoplankton
 
-### HELCOM EG Phyto Biovolume list
+
+#### HELCOM EG Phyto Biovolume list
 
 The HELCOM EG Phyto (previously PEG) biovolume list is used in routine monitoring of Baltic Sea phytoplankton. The latest update of the HELCOM EG Phyto list is available at ICES as a [zip-file](http://ices.dk/data/Documents/ENV/PEG_BVOL.zip). The list contains biovolumes and fixed size-classes used for the calculation of phytoplankton biomass in routine monitoring of Baltic Sea phytoplankton. 
 
-### NOMP Biovolume list
+#### NOMP Biovolume list
 
 The Nordic Marine Phytoplankton Group (NOMP) biovolume list comprise of data from the HELCOM EG Phyto biovolume list and data from additional taxa sourced from the Skagerrak and the North Sea, provided by the Swedish Meteorological and Hydrological Institute and the Norwegian Institute for Water Research. The list is updated once per year, normally after the [annual NOMP workshop](nordicmicroalgae.org/nomp/), and can be accessed below.
 
@@ -28,19 +29,19 @@ The taxonomic content is derived from [the original Nordic Microalgae checklist 
 
 Please note that the taxonomic information (including the higher taxonomy and synonyms) of Nordic Microalge is based on the current accepted name in [World Register of Marine Species (WoRMS)](https://www.marinespecies.org/). Supplementary information, including geometric shapes, is sourced from the NOMP biovolume file. Links are also provided for taxa present on [AlgaeBase](https://www.algaebase.org/), [Dyntaxa](https://namnochslaktskap.artfakta.se/) and [NORCCA: The Norwegian Culture Collection of Algae](https://norcca.scrol.net/).
 
-### Excel file format
+#### Excel file format
 
 * [Nordic Microalgae checklist 2024-01-29 Excel file](https://data.smhi.se/oce/SLW/checklists/2024_01-29/nordicmicroalgae_checklist_2024_Jan_29.xlsx)
 
-### Text file (tab delimited, UTF-8 encoding)
+#### Text file (tab delimited, UTF-8 encoding)
 
 * [Nordic Microalgae checklist 2024-01-29 text file](https://data.smhi.se/oce/SLW/checklists/2024_01-29/nordicmicroalgae_checklist_2024_Jan_29.txt)
 
-### Previous versions
+#### Previous versions
 
 * [Nordic Microalgae checklist 2011-10-10](https://data.smhi.se/oce/SLW/checklists/2011-10-10/)
 
-### Literature used to compile the original microalgae checklist
+#### Literature used to compile the original microalgae checklist
 
 [Classic monographs](http://www.obs-vlfr.fr/LOV/aquaparadox/html/ClassicMonographs.php) available at Aquaparadox maintained at Observatoire Océanologique de Villefranche sur Mer
 
