@@ -1484,7 +1484,7 @@ taxon_id	ab_id	scientific_name	kingdom	phylum	class	order	family	genus	species	t
 162704	29989	Chroococcus distans	Bacteria	Cyanobacteria	Cyanophyceae	Chroococcales	Chroococcaceae	Chroococcus	distans	species	https://www.algaebase.org/search/species/detail/?species_id=29989
 162714	29992	Chroococcus minimus	Bacteria	Cyanobacteria	Cyanophyceae	Chroococcales	Chroococcaceae	Chroococcus	minimus	species	https://www.algaebase.org/search/species/detail/?species_id=29992
 162715	43490	Planctonema	Plantae	Chlorophyta	Trebouxiophyceae	Chlorellales	Oocystaceae	Planctonema		genus	https://www.algaebase.org/search/genus/detail/?genus_id=43490
-162717	43369	Stigeoclonium	Plantae	Chlorophyta	Chlorophyceae	Chaetophorales	Chaetophoraceae	Stigeoclonium		genus	https://www.algaebase.org/search/genus/detail/?genus_id=43369
+162717	43369	Stigeoclonium	Plantae	Chlorophyta	Chlorophyceae	Chaetophorales	Fritschiellaceae	Stigeoclonium		genus	https://www.algaebase.org/search/genus/detail/?genus_id=43369
 162718	43358	Desmococcus	Plantae	Chlorophyta	Trebouxiophyceae	Prasiolales	Stichococcaceae	Desmococcus		genus	https://www.algaebase.org/search/genus/detail/?genus_id=43358
 162719	27263	Desmococcus olivaceus	Plantae	Chlorophyta	Trebouxiophyceae	Prasiolales	Stichococcaceae	Desmococcus	olivaceus	species	https://www.algaebase.org/search/species/detail/?species_id=27263
 162726	28145	Closterium acutum	Plantae	Charophyta	Zygnematophyceae	Desmidiales	Closteriaceae	Closterium	acutum	species	https://www.algaebase.org/search/species/detail/?species_id=28145
@@ -1515,7 +1515,7 @@ taxon_id	ab_id	scientific_name	kingdom	phylum	class	order	family	genus	species	t
 162934	43477	Tetrastrum	Plantae	Chlorophyta	Chlorophyceae	Sphaeropleales	Scenedesmaceae	Tetrastrum		genus	https://www.algaebase.org/search/genus/detail/?genus_id=43477
 162940	37301	Biddulphia obtusa	Chromista	Heterokontophyta	Mediophyceae	Biddulphiales	Biddulphiaceae	Biddulphia	obtusa	species	https://www.algaebase.org/search/species/detail/?species_id=37301
 162941	29237	Staurastrum alternans	Plantae	Charophyta	Zygnematophyceae	Desmidiales	Desmidiaceae	Staurastrum	alternans	species	https://www.algaebase.org/search/species/detail/?species_id=29237
-162943	27281	Stigeoclonium amoenum	Plantae	Chlorophyta	Chlorophyceae	Chaetophorales	Chaetophoraceae	Stigeoclonium	amoenum	species	https://www.algaebase.org/search/species/detail/?species_id=27281
+162943	27281	Stigeoclonium amoenum	Plantae	Chlorophyta	Chlorophyceae	Chaetophorales	Fritschiellaceae	Stigeoclonium	amoenum	species	https://www.algaebase.org/search/species/detail/?species_id=27281
 162952	37297	Biddulphia biddulphiana	Chromista	Heterokontophyta	Mediophyceae	Biddulphiales	Biddulphiaceae	Biddulphia	biddulphiana	species	https://www.algaebase.org/search/species/detail/?species_id=37297
 162953	121733	Biddulphia subaequa	Chromista	Heterokontophyta	Mediophyceae	Biddulphiales	Biddulphiaceae	Biddulphia	subaequa	species	https://www.algaebase.org/search/species/detail/?species_id=121733
 162981	49560	Cyathomonas	Chromista	Cryptista	Goniomonadophyceae	Goniomonadales	Cyathomonadaceae	Cyathomonas		genus	https://www.algaebase.org/search/genus/detail/?genus_id=49560
@@ -2738,7 +2738,7 @@ taxon_id	ab_id	scientific_name	kingdom	phylum	class	order	family	genus	species	t
 422896	28009	Coleochaete irregularis	Plantae	Charophyta	Coleochaetophyceae	Coleochaetales	Coleochaetaceae	Coleochaete	irregularis	species	https://www.algaebase.org/search/species/detail/?species_id=28009
 422898	43361	Draparnaldia	Plantae	Chlorophyta	Chlorophyceae	Chaetophorales	Chaetophoraceae	Draparnaldia		genus	https://www.algaebase.org/search/genus/detail/?genus_id=43361
 422901	36454	Microthamnion strictissimum	Plantae	Chlorophyta	Trebouxiophyceae	Microthamniales	Microthamniaceae	Microthamnion	strictissimum	species	https://www.algaebase.org/search/species/detail/?species_id=36454
-422903	60904	Stigeoclonium tenue	Plantae	Chlorophyta	Chlorophyceae	Chaetophorales	Chaetophoraceae	Stigeoclonium	tenue	species	https://www.algaebase.org/search/species/detail/?species_id=60904
+422903	60904	Stigeoclonium tenue	Plantae	Chlorophyta	Chlorophyceae	Chaetophorales	Fritschiellaceae	Stigeoclonium	tenue	species	https://www.algaebase.org/search/species/detail/?species_id=60904
 422904	32403	Tribonema affine	Chromista	Heterokontophyta	Xanthophyceae	Tribonematales	Tribonemataceae	Tribonema	affine	species	https://www.algaebase.org/search/species/detail/?species_id=32403
 427290	56536	Balanion comatum	Chromista	Ciliophora	Prostomatea	Prorodontida	Balanionidae	Balanion	comatum	species	https://www.algaebase.org/search/species/detail/?species_id=56536
 427413	141160	Tintinnopsis elongata	Chromista	Ciliophora	Spirotrichea	Tintinnida	Codonellidae 	Tintinnopsis	elongata	species	https://www.algaebase.org/search/species/detail/?species_id=141160
@@ -2919,7 +2919,6 @@ taxon_id	ab_id	scientific_name	kingdom	phylum	class	order	family	genus	species	t
 571657	66914	Chrysochromulina adriatica	Chromista	Haptophyta	Coccolithophyceae	Prymnesiales	Chrysochromulinaceae	Chrysochromulina	adriatica	species	https://www.algaebase.org/search/species/detail/?species_id=66914
 571658	66915	Chrysochromulina brachycylindra	Chromista	Haptophyta	Coccolithophyceae	Prymnesiales	Chrysochromulinaceae	Chrysochromulina	brachycylindra	species	https://www.algaebase.org/search/species/detail/?species_id=66915
 571659	66931	Chrysochromulina simplex	Chromista	Haptophyta	Coccolithophyceae	Prymnesiales	Chrysochromulinaceae	Chrysochromulina	simplex	species	https://www.algaebase.org/search/species/detail/?species_id=66931
-571662	72719	Mallomonas crassisquama	Chromista	Heterokontophyta	Chrysophyceae	Synurales	Mallomonadaceae	Mallomonas	crassisquama	species	https://www.algaebase.org/search/species/detail/?species_id=72719
 571666	94239	Paraphysomonas gladiata	Chromista	Heterokontophyta	Chrysophyceae	Paraphysomonadales	Paraphysomonadaceae	Paraphysomonas	gladiata	species	https://www.algaebase.org/search/species/detail/?species_id=94239
 571667	114418	Paraphysomonas punctata	Chromista	Heterokontophyta	Chrysophyceae	Paraphysomonadales	Paraphysomonadaceae	Paraphysomonas	punctata	species	https://www.algaebase.org/search/species/detail/?species_id=114418
 571982	72548	Aulomonas purdyi	Amorphea	Choanozoa	Choanoflagellatea	Craspedida	Salpingoecidae	Aulomonas	purdyi	species	https://www.algaebase.org/search/species/detail/?species_id=72548
@@ -3104,7 +3103,7 @@ taxon_id	ab_id	scientific_name	kingdom	phylum	class	order	family	genus	species	t
 577678	43543	Sphaerozosma	Plantae	Charophyta	Zygnematophyceae	Desmidiales	Desmidiaceae	Sphaerozosma		genus	https://www.algaebase.org/search/genus/detail/?genus_id=43543
 577679	43564	Spirogyra	Plantae	Charophyta	Zygnematophyceae	Spirogyrales	Spirogyraceae	Spirogyra		genus	https://www.algaebase.org/search/genus/detail/?genus_id=43564
 577680	43547	Staurodesmus	Plantae	Charophyta	Zygnematophyceae	Desmidiales	Desmidiaceae	Staurodesmus		genus	https://www.algaebase.org/search/genus/detail/?genus_id=43547
-577681	34842	Stigeoclonium lubricum	Plantae	Chlorophyta	Chlorophyceae	Chaetophorales	Chaetophoraceae	Stigeoclonium	lubricum	species	https://www.algaebase.org/search/species/detail/?species_id=34842
+577681	34842	Stigeoclonium lubricum	Plantae	Chlorophyta	Chlorophyceae	Chaetophorales	Fritschiellaceae	Stigeoclonium	lubricum	species	https://www.algaebase.org/search/species/detail/?species_id=34842
 577703	138581	Eutreptiella pomquetensis	Protozoa	Euglenophyta	Euglenophyceae	Eutreptiales	Eutreptiaceae	Eutreptiella	pomquetensis	species	https://www.algaebase.org/search/species/detail/?species_id=138581
 577715	28525	Cosmarium phaseolus	Plantae	Charophyta	Zygnematophyceae	Desmidiales	Desmidiaceae	Cosmarium	phaseolus	species	https://www.algaebase.org/search/species/detail/?species_id=28525
 577723	43424	Oedogonium	Plantae	Chlorophyta	Chlorophyceae	Oedogoniales	Oedogoniaceae	Oedogonium		genus	https://www.algaebase.org/search/genus/detail/?genus_id=43424
@@ -3402,11 +3401,11 @@ taxon_id	ab_id	scientific_name	kingdom	phylum	class	order	family	genus	species	t
 608375	27261	Chaetophora tuberculosa	Plantae	Chlorophyta	Chlorophyceae	Chaetophorales	Chaetophoraceae	Chaetophora	tuberculosa	species	https://www.algaebase.org/search/species/detail/?species_id=27261
 608377	27264	Dicranochaete reniformis	Plantae	Chlorophyta	Chlorophyceae	Chaetopeltidales	Dicranochaetaceae	Dicranochaete	reniformis	species	https://www.algaebase.org/search/species/detail/?species_id=27264
 608380	27269	Draparnaldia mutabilis	Plantae	Chlorophyta	Chlorophyceae	Chaetophorales	Chaetophoraceae	Draparnaldia	mutabilis	species	https://www.algaebase.org/search/species/detail/?species_id=27269
-608387	27286	Stigeoclonium elongatum	Plantae	Chlorophyta	Chlorophyceae	Chaetophorales	Chaetophoraceae	Stigeoclonium	elongatum	species	https://www.algaebase.org/search/species/detail/?species_id=27286
-608388	27287	Stigeoclonium farctum	Plantae	Chlorophyta	Chlorophyceae	Chaetophorales	Chaetophoraceae	Stigeoclonium	farctum	species	https://www.algaebase.org/search/species/detail/?species_id=27287
-608389	27288	Stigeoclonium flagelliferum	Plantae	Chlorophyta	Chlorophyceae	Chaetophorales	Chaetophoraceae	Stigeoclonium	flagelliferum	species	https://www.algaebase.org/search/species/detail/?species_id=27288
-608390	27289	Stigeoclonium nanum	Plantae	Chlorophyta	Chlorophyceae	Chaetophorales	Chaetophoraceae	Stigeoclonium	nanum	species	https://www.algaebase.org/search/species/detail/?species_id=27289
-608393	27292	Stigeoclonium subuligerum	Plantae	Chlorophyta	Chlorophyceae	Chaetophorales	Chaetophoraceae	Stigeoclonium	subuligerum	species	https://www.algaebase.org/search/species/detail/?species_id=27292
+608387	27286	Stigeoclonium elongatum	Plantae	Chlorophyta	Chlorophyceae	Chaetophorales	Fritschiellaceae	Stigeoclonium	elongatum	species	https://www.algaebase.org/search/species/detail/?species_id=27286
+608388	27287	Stigeoclonium farctum	Plantae	Chlorophyta	Chlorophyceae	Chaetophorales	Fritschiellaceae	Stigeoclonium	farctum	species	https://www.algaebase.org/search/species/detail/?species_id=27287
+608389	27288	Stigeoclonium flagelliferum	Plantae	Chlorophyta	Chlorophyceae	Chaetophorales	Fritschiellaceae	Stigeoclonium	flagelliferum	species	https://www.algaebase.org/search/species/detail/?species_id=27288
+608390	27289	Stigeoclonium nanum	Plantae	Chlorophyta	Chlorophyceae	Chaetophorales	Fritschiellaceae	Stigeoclonium	nanum	species	https://www.algaebase.org/search/species/detail/?species_id=27289
+608393	27292	Stigeoclonium subuligerum	Plantae	Chlorophyta	Chlorophyceae	Chaetophorales	Fritschiellaceae	Stigeoclonium	subuligerum	species	https://www.algaebase.org/search/species/detail/?species_id=27292
 608427	27365	Chlorogonium elongatum	Plantae	Chlorophyta	Chlorophyceae	Chlamydomonadales	Haematococcaceae	Chlorogonium	elongatum	species	https://www.algaebase.org/search/species/detail/?species_id=27365
 608429	27367	Chlorogonium minimum	Plantae	Chlorophyta	Chlorophyceae	Chlamydomonadales	Haematococcaceae	Chlorogonium	minimum	species	https://www.algaebase.org/search/species/detail/?species_id=27367
 608439	27390	Characium ornithocephalum	Plantae	Chlorophyta	Chlorophyceae	Sphaeropleales	Characiaceae	Characium	ornithocephalum	species	https://www.algaebase.org/search/species/detail/?species_id=27390
@@ -3717,7 +3716,6 @@ taxon_id	ab_id	scientific_name	kingdom	phylum	class	order	family	genus	species	t
 609967	32106	Stauroneis agrestis	Chromista	Heterokontophyta	Bacillariophyceae	Naviculales	Stauroneidaceae	Stauroneis	agrestis	species	https://www.algaebase.org/search/species/detail/?species_id=32106
 609970	32116	Stauroneis borrichii	Chromista	Heterokontophyta	Bacillariophyceae	Naviculales	Stauroneidaceae	Stauroneis	borrichii	species	https://www.algaebase.org/search/species/detail/?species_id=32116
 609973	32124	Stauroneis kriegeri	Chromista	Heterokontophyta	Bacillariophyceae	Naviculales	Stauroneidaceae	Stauroneis	kriegeri	species	https://www.algaebase.org/search/species/detail/?species_id=32124
-609980	32183	Surirella amphioxys	Chromista	Heterokontophyta	Bacillariophyceae	Surirellales	Surirellaceae	Surirella	amphioxys	species	https://www.algaebase.org/search/species/detail/?species_id=32183
 610009	32273	Epipyxis utriculus	Chromista	Heterokontophyta	Chrysophyceae	Chromulinales	Dinobryaceae	Epipyxis	utriculus	species	https://www.algaebase.org/search/species/detail/?species_id=32273
 610020	32297	Mallomonas annulata	Chromista	Heterokontophyta	Chrysophyceae	Synurales	Mallomonadaceae	Mallomonas	annulata	species	https://www.algaebase.org/search/species/detail/?species_id=32297
 610023	32302	Mallomonas calceolus	Chromista	Heterokontophyta	Chrysophyceae	Synurales	Mallomonadaceae	Mallomonas	calceolus	species	https://www.algaebase.org/search/species/detail/?species_id=32302
@@ -4257,7 +4255,7 @@ taxon_id	ab_id	scientific_name	kingdom	phylum	class	order	family	genus	species	t
 616416	58806	Oedogonium rivulare	Plantae	Chlorophyta	Chlorophyceae	Oedogoniales	Oedogoniaceae	Oedogonium	rivulare	species	https://www.algaebase.org/search/species/detail/?species_id=58806
 616417	58809	Oedogonium rufescens	Plantae	Chlorophyta	Chlorophyceae	Oedogoniales	Oedogoniaceae	Oedogonium	rufescens	species	https://www.algaebase.org/search/species/detail/?species_id=58809
 616419	58817	Oedogonium zigzag	Plantae	Chlorophyta	Chlorophyceae	Oedogoniales	Oedogoniaceae	Oedogonium	zigzag	species	https://www.algaebase.org/search/species/detail/?species_id=58817
-616423	58887	Stigeoclonium variabile	Plantae	Chlorophyta	Chlorophyceae	Chaetophorales	Chaetophoraceae	Stigeoclonium	variabile	species	https://www.algaebase.org/search/species/detail/?species_id=58887
+616423	58887	Stigeoclonium variabile	Plantae	Chlorophyta	Chlorophyceae	Chaetophorales	Fritschiellaceae	Stigeoclonium	variabile	species	https://www.algaebase.org/search/species/detail/?species_id=58887
 616425	58922	Mougeotia abnormis	Plantae	Charophyta	Zygnematophyceae	Zygnematales	Zygnemataceae	Mougeotia	abnormis	species	https://www.algaebase.org/search/species/detail/?species_id=58922
 616428	58930	Mougeotia calcarea	Plantae	Charophyta	Zygnematophyceae	Zygnematales	Zygnemataceae	Mougeotia	calcarea	species	https://www.algaebase.org/search/species/detail/?species_id=58930
 616432	58949	Mougeotia pulchella	Plantae	Charophyta	Zygnematophyceae	Zygnematales	Zygnemataceae	Mougeotia	pulchella	species	https://www.algaebase.org/search/species/detail/?species_id=58949
@@ -4278,7 +4276,7 @@ taxon_id	ab_id	scientific_name	kingdom	phylum	class	order	family	genus	species	t
 616625	60043	Trigonaspis diskoensis	Chromista	Haptophyta	Haptophyta classis incertae sedis	Haptophyta ordo incertae sedis	Papposphaeraceae	Trigonaspis	diskoensis	species	https://www.algaebase.org/search/species/detail/?species_id=60043
 616649	60393	Vaucheria walzii	Chromista	Heterokontophyta	Xanthophyceae	Vaucheriales	Vaucheriaceae	Vaucheria	walzii	species	https://www.algaebase.org/search/species/detail/?species_id=60393
 616667	60868	Prasiola velutina	Plantae	Chlorophyta	Trebouxiophyceae	Prasiolales	Prasiolaceae	Prasiola	velutina	species	https://www.algaebase.org/search/species/detail/?species_id=60868
-616772	61977	Stigeoclonium setigerum	Plantae	Chlorophyta	Chlorophyceae	Chaetophorales	Chaetophoraceae	Stigeoclonium	setigerum	species	https://www.algaebase.org/search/species/detail/?species_id=61977
+616772	61977	Stigeoclonium setigerum	Plantae	Chlorophyta	Chlorophyceae	Chaetophorales	Fritschiellaceae	Stigeoclonium	setigerum	species	https://www.algaebase.org/search/species/detail/?species_id=61977
 616784	62030	Spirulina albida	Bacteria	Cyanobacteria	Cyanophyceae	Spirulinales	Spirulinaceae	Spirulina	albida	species	https://www.algaebase.org/search/species/detail/?species_id=62030
 616791	62062	Gyromitus disomatus	Plantae	Chlorophyta	Pyramimonadophyceae	Pyramimonadales	Polyblepharidaceae	Gyromitus	disomatus	species	https://www.algaebase.org/search/species/detail/?species_id=62062
 616793	62066	Paramastix truncata	Hemimastigophoria	Spironematellophyta	Spironematellophyceae	Spironematellales	Paramastigaceae	Paramastix	truncata	species	https://www.algaebase.org/search/species/detail/?species_id=62066
