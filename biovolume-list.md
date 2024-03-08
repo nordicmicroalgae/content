@@ -45,7 +45,7 @@ Olenina, I., Hajdu, S., Edler, L., Andersson, A., Wasmund, N., Busch, S., Göbel
 
 
 
-#### Literature used to compile the original microalgae checklist
+## Literature used to compile the original microalgae checklist
 
 [Classic monographs](http://www.obs-vlfr.fr/LOV/aquaparadox/html/ClassicMonographs.php) available at Aquaparadox maintained at Observatoire Océanologique de Villefranche sur Mer
 
