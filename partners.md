@@ -18,7 +18,7 @@ NOMP - Nordic Marine Phytoplankton Group consists of persons in Denmark (includi
 ## AlgaeBase
 [AlgaeBase, National University of Ireland, Galway, Ireland](http://www.algaebase.org/)
 
-## Other collaboarations and contributers
+## Other collaborations and contributers
 
 * [Finnish Environment Institute, Finland](https://www.ymparisto.fi/en-US)
 * [Institute of Marine Research, Norway](https://www.hi.no/en)
