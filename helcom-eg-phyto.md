@@ -1,3 +1,0 @@
----
-title: HELCOM EG Phyto
----
