@@ -2,9 +2,9 @@
 title: How to contribute
 ---
 
-Nordic Microalgae caters for scientists and persons involved in environmental monitoring of aquatic microalgae and related organisms in the Nordic area. This includes the Baltic Sea, the North East Atlantic and lakes, rivers and streams in the area. The web site is maintained by active biologists in the area. Experts on the different groups of organisms maintain the species lists and the other information on taxon sheets. Anyone with illustrative images, videos and other material is welcome to contribute. Since Nordic Microalgae is user driven your contribution is very important. There are four types of users/contributors to Nordic Microalgae
+Nordic Microalgae caters for scientists and persons involved in environmental monitoring of aquatic microalgae and related organisms in the Nordic area. This includes the Baltic Sea, the North East Atlantic and lakes, rivers and streams in the area. The website is maintained by active biologists in the area. Experts on the different groups of organisms maintain the species lists and the other information on taxon sheets. Anyone with illustrative images, videos and other material is welcome to contribute. Since Nordic Microalgae is user driven your contribution is very important. There are four types of users/contributors to Nordic Microalgae
 
-1. Anyone using the internet can browse the web site and download species lists and images (with copyright restrictions)
+1. Anyone using the internet can browse the website and download species lists and images (with copyright restrictions)
 2. Contributors of images and videos can upload images and videos, add texts about the images and edit and delete his or her own material – a username and password is needed
 3. A smaller group of ”experts” can in addition edit information about species
 4. Nordic Microalgae administrators can edit everything and also add and delete species names
