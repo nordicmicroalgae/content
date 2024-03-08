@@ -1,13 +1,13 @@
 ---
 title: Tools
 ---
-# Biovolumes and Size-Classes of Phytoplankton in the Baltic Sea
+## Biovolumes and Size-Classes of Phytoplankton
 
-## HELCOM EG Phyto Biovolume list
+### HELCOM EG Phyto Biovolume list
 
 The HELCOM EG Phyto (previously PEG) biovolume list is used in routine monitoring of Baltic Sea phytoplankton. The latest update of the HELCOM EG Phyto list is available at ICES as a [zip-file](http://ices.dk/data/Documents/ENV/PEG_BVOL.zip). The list contains biovolumes and fixed size-classes used for the calculation of phytoplankton biomass in routine monitoring of Baltic Sea phytoplankton. 
 
-## NOMP Biovolume list
+### NOMP Biovolume list
 
 The Nordic Marine Phytoplankton Group (NOMP) biovolume list comprise of data from the HELCOM EG Phyto biovolume list and data from additional taxa sourced from the Skagerrak and the North Sea, provided by the Swedish Meteorological and Hydrological Institute and the Norwegian Institute for Water Research. The list is updated once per year, normally after the [annual NOMP workshop](nordicmicroalgae.org/nomp/), and can be accessed below.
 
@@ -20,7 +20,7 @@ For geometrical shapes used, see Olenina et al 2006.
 
 Olenina, I., Hajdu, S., Edler, L., Andersson, A., Wasmund, N., Busch, S., Göbel, J., Gromisz, S., Huseby, S., Huttunen, M., Jaanus, A., Kokkonen, P., Ledaine, I. and Niemkiewicz, E. 2006 Biovolumes and size-classes of phytoplankton in the Baltic Sea HELCOM Balt.Sea Environ. Proc. No. 106, 144pp. [http://helcom.fi/Lists/Publications/BSEP106.pdf](http://helcom.fi/Lists/Publications/BSEP106.pdf)
 
-# Nordic Microalgae checklists
+## Nordic Microalgae checklists
 
 The Nordic Microalgae checklists contain comprehensive lists of all taxa included on this website. You can download the complete lists below.
 
