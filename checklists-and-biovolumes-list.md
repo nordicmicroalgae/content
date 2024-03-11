@@ -22,7 +22,7 @@ Please note that the taxonomic information (including the higher taxonomy and sy
 * [Nordic Microalgae checklist 2011-10-10](https://data.smhi.se/oce/SLW/checklists/2011-10-10/)
 
 
-## Biovolumes and Size-Classes of Phytoplankton
+## Biovolumes and Size-Classes
 
 
 #### HELCOM EG Phyto Biovolume list
