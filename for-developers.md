@@ -6,6 +6,6 @@ title: For developers
 
 https://next.nordicmicroalgae.org/api/
 
-## Nordic Microalgae at GIthub
+## Nordic Microalgae at Github
 
 https://github.com/nordicmicroalgae
