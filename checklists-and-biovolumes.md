@@ -3,13 +3,9 @@ title: Checklists and biovolumes
 ---
 ## Nordic Microalgae checklist
 
-The Nordic Microalgae checklist contain a comprehensive list of all taxa included on this website. You can download the complete list below.
+The Nordic Microalgae checklist contain all taxa included on this website and aim to include all taxa occuring in Nordic waters.
 
-The taxonomic content is derived from [the original Nordic Microalgae checklist of 2011](http://nordicmicroalgae.org/history) (accessible below), supplemented by additional entries from the current NOMP biovolume file.
-
-Please note that the taxonomic information (including the higher taxonomy and synonyms) of Nordic Microalge is based on the current accepted name in [World Register of Marine Species (WoRMS)](https://www.marinespecies.org/). Supplementary information, including geometric shapes, is sourced from the NOMP biovolume file. Links are also provided for taxa present on [AlgaeBase](https://www.algaebase.org/), [Dyntaxa](https://namnochslaktskap.artfakta.se/) and [NORCCA: The Norwegian Culture Collection of Algae](https://norcca.scrol.net/).
-
-The original nordic microalgae list combind in 2011 contain the following lists and additional taxa found in the literate below
+The original checklist was combind from the following lists and additional taxa found in the literate below
 * Skagerrak-Kattegat checklist, a list of marine phytoplankton monitored in Sweden provided by SMHI 
 * The HELCOM Phytoplankton Expert Group list of taxa and biovolumes
 * Swedish freshwater phytoplankton from the Swedish Freshwater monitoring database at SLU
@@ -19,7 +15,8 @@ The original nordic microalgae list combind in 2011 contain the following lists 
 * Freshwater phytoplankton from Norway from the REBECCA database provided by Birger Skjelbred at NIVA 
 * Taxa from the Finnish Phytoplankton Society provided by Kristiina Vuorio at SYKE 
 
-
+The taxonomic content is derived from the original list and updated to the current accepted name in [World Register of Marine Species (WoRMS)](https://www.marinespecies.org/) the update also include higher taxonomy and synonyms. Supplementary information, including geometric shapes, is sourced from the NOMP biovolume file. Links are provided for taxa present on [AlgaeBase](https://www.algaebase.org/), [Dyntaxa](https://namnochslaktskap.artfakta.se/) and [NORCCA: The Norwegian Culture Collection of Algae](https://norcca.scrol.net/).
+ 
 #### Excel file format
 
 * [Nordic Microalgae checklist 2024-01-29 Excel file](https://data.smhi.se/oce/SLW/checklists/2024_01-29/nordicmicroalgae_checklist_2024_Jan_29.xlsx)
@@ -28,7 +25,7 @@ The original nordic microalgae list combind in 2011 contain the following lists 
 
 * [Nordic Microalgae checklist 2024-01-29 text file](https://data.smhi.se/oce/SLW/checklists/2024_01-29/nordicmicroalgae_checklist_2024_Jan_29.txt)
 
-#### Previous versions
+#### Original version
 
 * [Nordic Microalgae checklist 2011-10-10](https://data.smhi.se/oce/SLW/checklists/2011-10-10/)
 
