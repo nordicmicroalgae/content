@@ -33,10 +33,6 @@ Please contribute images for any organism in Nordic Microalgae. There is no rest
 
 It is also useful showing an organism at different focus levels. Taking several photographs at different z-level (focus) and stitching them together in the computer is one way to achieve a useful film. Please use arrows and other markers where appropriate. Scale bars are very useful in images.
 
-## About manipulations of images and video
-
-With the software and computers available today it is tempting to manipulate images to make them “better” or more “beautiful” in some way. This is allowed for images contributed to Nordic Microalgae but it must be clearly stated in the caption for the image that it has been manipulated. Contrast adjustments etc. to make images more similar to what you see in the microscope are not considered manipulations.
-
 ## Change history
 
 Please note that all changes in Nordic Microalgae, e.g. the addition of images and changes in texts on taxon sheets are recorded. The records can be found at the end of each taxon sheet. The latest added images show up on the start page.
