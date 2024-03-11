@@ -51,10 +51,6 @@ A Microsoft Excel file compressed in a zip-archive. The file is also part of the
 
 For geometrical shapes used, see Olenina et al 2006. 
 
-Olenina, I., Hajdu, S., Edler, L., Andersson, A., Wasmund, N., Busch, S., Göbel, J., Gromisz, S., Huseby, S., Huttunen, M., Jaanus, A., Kokkonen, P., Ledaine, I. and Niemkiewicz, E. 2006 Biovolumes and size-classes of phytoplankton in the Baltic Sea HELCOM Balt.Sea Environ. Proc. No. 106, 144pp. [http://helcom.fi/Lists/Publications/BSEP106.pdf](http://helcom.fi/Lists/Publications/BSEP106.pdf)
-
-
-
 
 ## Literature used to compile the original nordic microalgae checklist
 
