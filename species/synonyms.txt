@@ -146,6 +146,12 @@ worms	Phalacroma contractum	Kofoid & Skogsberg, 1928	109614
 worms	Phalacroma ruudii	Braarud, 1935	109614
 worms	Prodinophysis contracta	(Kofoid & Skogsberg) Balech, 1944	109614
 worms	Prodinophysis ruudii	(Braarud) Loeblich III, 1965	109614
+worms	Dinophysis brevisulca	Tai & Skogsberg, 1934	109624
+worms	Dinophysis brevisulcus	Tai & Skogsberg, 1934	109624
+worms	Dinophysis intermedia	Pavillard, 1916	109624
+worms	Dinophysis lapidistrigiliformis	Abé, 1967	109624
+worms	Dinophysis ovum	Schütt, 1895 sensu Martin, 1929	109624
+worms	Dinophysis ovum	Schütt, 1895	109624
 worms	Phalacroma groenlandicum	J.Schiller, 1931	109626
 worms	Phalacroma hastatum	Pavillard	109627
 worms	Dinophysis debilior	Paulsen, 1949	109637
@@ -544,7 +550,6 @@ worms	Syracosphaera quadricornu	J.Schiller, 1914	115093
 worms	Syracosphaera quatricornu	Schiller, 1914	115093
 worms	Meringosphaera hydroidea	Lohmann, 1902	115099
 worms	Syracorhabdus fertii	Lecal-Schlauder, 1967	115099
-worms	Coccolithus huxleyi	(Lohmann) Kamptner, 1943	115104
 worms	Tetraspora pouchetii	Hariot, 1892	115106
 worms	Chrysocampanula spinifera	Fournier, 1971	115129
 worms	Bodo cephaloporus	Larsen & Patterson, 1990	118040
@@ -4451,6 +4456,10 @@ worms	Helladosphaera fragaria	(Kamptner) Gaarder, 1962	236039
 worms	Syracorhabdus molischii	(J.Schiller) Lecal-Schlauder & Bernheim, 1960	236039
 worms	Syracosphaera corrugis	Okada & McIntyre, 1977	236039
 worms	Syracosphaera elatensis	Winter, 1979	236039
+worms	Coccolithus huxleyi	(Lohmann) Kamptner, 1943	236056
+worms	Emiliania huxleyi	(Lohmann) W.W.Hay & H.Mohler, 1967	236056
+worms	Hymenomonas huxleyi	(Lohmann) Kamptner, 1930	236056
+worms	Pontosphaera huxleyi	Lohmann, 1902	236056
 worms	Gaarderia corolla	(J.Lecal) A.Kleijne, 1993	236074
 worms	Gaarderia corolla	(Lecal-Schlauder) Kleijne, 1993	236074
 worms	Syracolithus corolla	J.Lecal, 1965	236074
@@ -7628,6 +7637,7 @@ worms	Cosmarium ellipsoideum	Elfving, 1881	670688
 worms	Cosmarium depressum var. limneticum	West	670699
 worms	Cosmarium subpunctulatum	Nordstedt, 1887	670740
 worms	Cosmarium subpunctulatum var. boergesenii	West, 1892	670740
+worms	Staurastrum mamillatum var. maximum	West, 1891	671051
 worms	Sphaerozosma excavatum var. subquadratum	West & G.S.West ex N.Carter, 1923	671061
 worms	Phacus hispidulus f. suecicus	(Lemmermann) T.G.Popova, 1951	671164
 worms	Phacus suecicus	Lemmermann	671164
@@ -7727,6 +7737,8 @@ worms	Penium digitus	Brébisson ex Ralfs, 1848	699368
 worms	Navicula confervacea	(Kützing) Grunow, 1880	699370
 worms	Navicula confervacea f. confervacea	(Kützing) Grunow in Van Heurck, 1880	699370
 worms	Peronia erinacea	Brébisson & Arnott ex Kitton, 1868	699373
+worms	Microcystis aeruginosa f. flos-aquae	(Wittrock) Elenkin, 1938	699375
+worms	Polycystis flosaquae	Wittrock, 1879	699375
 worms	Navicula parvula var. producta	(Grunow) Hustedt, 1909	699382
 worms	Pleurostaurum parvulum var. productum	(Grunow in Van Heurck) Schonfeldt, 1907	699382
 worms	Stauroneis parvula f. producta	(Grunow in Van Heurck) Cleve, 1894	699382

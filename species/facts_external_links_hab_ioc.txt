@@ -27,6 +27,7 @@ Cylindrospermum stagnale	609468	https://www.marinespecies.org/hab/aphia.php?p=ta
 Dinophysis acuminata	109603	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=109603
 Dinophysis acuta	109604	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=109604
 Dinophysis caudata	109612	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=109612
+Dinophysis fortii	109624	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=109624
 Dinophysis norvegica	109637	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=109637
 Dinophysis ovum	646201	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=646201
 Dinophysis sacculus	232261	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=232261
@@ -53,6 +54,7 @@ Lingulodinium polyedra	233592	https://www.marinespecies.org/hab/aphia.php?p=taxd
 Lyngbya majuscula	660754	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=660754
 Microcystis aeruginosa	146558	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=146558
 Microcystis botrys	578236	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=578236
+Microcystis flosaquae	699375	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=699375
 Microcystis ichthyoblabe	177245	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=177245
 Microcystis viridis	177400	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=177400
 Microcystis wesenbergii	146561	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=146561
@@ -76,6 +78,7 @@ Prymnesium polylepis	670030	https://www.marinespecies.org/hab/aphia.php?p=taxdet
 Pseudochattonella farcimen	531467	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=531467
 Pseudochattonella verruculosa	531446	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=531446
 Pseudo-nitzschia calliantha	246605	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=246605
+Pseudo-nitzschia cuspidata	370512	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=370512
 Pseudo-nitzschia delicatissima	149153	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=149153
 Pseudo-nitzschia fraudulenta	246606	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=246606
 Pseudo-nitzschia granii	375883	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=375883
