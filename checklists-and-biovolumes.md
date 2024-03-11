@@ -9,6 +9,17 @@ The taxonomic content is derived from [the original Nordic Microalgae checklist 
 
 Please note that the taxonomic information (including the higher taxonomy and synonyms) of Nordic Microalge is based on the current accepted name in [World Register of Marine Species (WoRMS)](https://www.marinespecies.org/). Supplementary information, including geometric shapes, is sourced from the NOMP biovolume file. Links are also provided for taxa present on [AlgaeBase](https://www.algaebase.org/), [Dyntaxa](https://namnochslaktskap.artfakta.se/) and [NORCCA: The Norwegian Culture Collection of Algae](https://norcca.scrol.net/).
 
+The original nordic microalgae list combind in 2011 contain the following lists and additional taxa found in the literate below
+* Skagerrak-Kattegat checklist, a list of marine phytoplankton monitored in Sweden provided by SMHI 
+* The HELCOM Phytoplankton Expert Group list of taxa and biovolumes
+* Swedish freshwater phytoplankton from the Swedish Freshwater monitoring database at SLU
+* Swedish freshwater benthic diatoms provided by Maria Kahlert at SLU 
+* Marine phytoplankton from the Danish database STOCK 
+* Marine phytoplankton from Norway provided by Wenche Eikrem and Bente Edvardsen at University of Oslo
+* Freshwater phytoplankton from Norway from the REBECCA database provided by Birger Skjelbred at NIVA 
+* Taxa from the Finnish Phytoplankton Society provided by Kristiina Vuorio at SYKE 
+
+
 #### Excel file format
 
 * [Nordic Microalgae checklist 2024-01-29 Excel file](https://data.smhi.se/oce/SLW/checklists/2024_01-29/nordicmicroalgae_checklist_2024_Jan_29.xlsx)
@@ -45,7 +56,7 @@ Olenina, I., Hajdu, S., Edler, L., Andersson, A., Wasmund, N., Busch, S., Göbel
 
 
 
-## Literature used to compile the original microalgae checklist
+## Literature used to compile the original nordic microalgae checklist
 
 [Classic monographs](http://www.obs-vlfr.fr/LOV/aquaparadox/html/ClassicMonographs.php) available at Aquaparadox maintained at Observatoire Océanologique de Villefranche sur Mer
 
