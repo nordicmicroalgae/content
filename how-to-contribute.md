@@ -5,7 +5,7 @@ title: How to contribute
 Nordic Microalgae caters for scientists and persons involved in environmental monitoring of aquatic microalgae and related organisms in the Nordic area. This includes the Baltic Sea, the North East Atlantic and lakes, rivers and streams in the area. The website is maintained by active biologists in the area. Experts on the different groups of organisms maintain the species lists and the other information on taxon sheets. Anyone with illustrative images, videos and other material is welcome to contribute. Since Nordic Microalgae is user driven your contribution is very important. There are four types of users/contributors to Nordic Microalgae
 
 1. Anyone using the internet can browse the website and download species lists and images (with copyright restrictions)
-2. Contributors of images and videos can upload images and videos, add texts about the images and edit and delete his or her own material – a username and password is needed
+2. Contributors of images can upload images, add texts about the images and edit and delete his or her own material – a username and password is needed
 3. A smaller group of ”experts” can in addition edit information about species
 4. Nordic Microalgae administrators can edit everything and also add and delete species names
 
@@ -16,7 +16,6 @@ You simply click on Register in the top right corner of the web page. Please ent
 ## Step by step guides
 
 How to contribute images or image library. (Två nya word-dokument finns här: \\winfs-proj\data\proj\havgem\Lifewatch_II_2018-\Nordic_microalgae. När de är kollade kan de bli pdf:er.) [Download pdf](http://downloads.nordicmicroalgae.org/nordic_microalgae_guide_for_contriburs.pdf)
-How to create YouTube account and Upload videos. [Download pdf](http://downloads.nordicmicroalgae.org/CreateYouTubeaccount&UploadVideo.pdf)
 
 ## About contribution of images
 
