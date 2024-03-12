@@ -1,7 +1,7 @@
 ---
 title: Privacy Policy
 ---
-Here you will find information about how personal data is being processed at Nordic Microalgae. Nordic Microalgae complies with the General Data Protection Regulation (GDPR). Nordic Microalgae is responsible for all processing of personal data in its operations. Here it is explained how your personal data is processed within Nordic Microalgae. Nordic Microalgae processes personal data in accordance with [Regulation (EU) 2016/679 of the European Parliament and Council (https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32016R0679).
+Here you will find information about how personal data is being processed at Nordic Microalgae. Nordic Microalgae complies with the General Data Protection Regulation (GDPR). Nordic Microalgae is responsible for all processing of personal data in its operations. Here it is explained how your personal data is processed within Nordic Microalgae. Nordic Microalgae processes personal data in accordance with [Regulation (EU) 2016/679 of the European Parliament and Council](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32016R0679)
 
 ## What do Nordic Microalgae do with your personal data and why do we collect it?
 Nordic Microalgae processes personal data to provide authentication for contributors, review, develop and improve our services and tools and to fulfill our mission as part of the research infrastructure SBDI. All processing of personal data within Nordic Microalgae is done to promote these purposes. The processing must have legal basis and we only process personal data when needed for a specific purpose. We may use your information to:
