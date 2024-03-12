@@ -68,7 +68,7 @@ Any changes we may make to this policy in the future will be posted on this page
 If you have questions regarding data protection, you can always contact the Nordic Microalgae team.
 ________________________________________
 
-## LINKS
+## Links
 *	[Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32016R0679)
 *	[The Swedish Data Protection Authority’s (DPA) pages on GDPR](www.datainspektionen.se/)
 *	[Swedish Biodiversity Data Infrastructure](https://biodiversitydata.se/)
