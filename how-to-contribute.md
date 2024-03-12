@@ -13,6 +13,13 @@ Nordic Microalgae caters for scientists and persons involved in environmental mo
 
 You simply click on Register in the top right corner of the web page. Please enter your e-mail and a username (your name) of your own choice. You will receive a temporary password in an e-mail, usually within hours. Sometimes it may take a few days. Then you choose your own password and enter your contact information. The normal procedure is that a person first gets rights to contribute images and videos and at a later stage the right to edit the content of taxon sheets.
 
+If you register you agree that your name is shown on [www.nordicmicroalgae.org](http://nordicmicroalgae.org) and that information about you is stored in the contributor database. Your e-mail address will not be shown to the public. It is your responsibility to make sure that you have the right to upload images to Nordic Microalgae. The creator (photographer or artist) keeps the copyright to the image. Please select one of the four options below when you upload images. Number 2 is recommended in general.
+
+1. Creative Commons Attribution 3.0 Unported
+2. Creative Commons Attribution-NoDerivs 3.0 Unported
+3. Creative Commons Attribution-ShareAlike 3.0 Unported
+4. Public domain
+
 ## Step by step guides
 
 How to contribute images or image library. (Två nya word-dokument finns här: \\winfs-proj\data\proj\havgem\Lifewatch_II_2018-\Nordic_microalgae. När de är kollade kan de bli pdf:er.) [Download pdf](http://downloads.nordicmicroalgae.org/nordic_microalgae_guide_for_contriburs.pdf)
