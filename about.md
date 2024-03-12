@@ -2,19 +2,6 @@
 title: About
 ---
 
-## Contact
-
-[nordicmicroalgae@smhi.se](mailto:nordicmicroalgae@smhi.se)
-
-Nordic Microalgae  
-c/o SMHI Oceanographic unit  
-Göteborgseskaderns Plats 3  
-SE-426 71 Västra Frölunda  
-Sweden
-
-
-## About
-
 Nordic microalgae aim to provide high quality images, illustrations and information (e.g. habitat, trophic role, size, morphology and harmfulness) of aquatic microalgae and related organisms. The organisms included are Phytoplankton, microzooplankton (i.e. cyanobacteria, unicellular eukaryotic algae and heterotrophic protists), benthic microalgae and benthic microheterotrophs. 
 
 The images on the website are provided by microalgae experts.
@@ -24,3 +11,5 @@ Nordic microalgae also provide a species checklist for Nordic waters. The taxono
 The first version of Nordic Microalgae was released in 2011 and was based on a checklist launched in 1996 by Bengt Karlson and Mats Kuylenstierna at Göteborg University. In 2007 the inter-regional EU project Forum Skagerrak II provided initial funding for transferring the checklist to a website. Since 2010 the Swedish Research Council has provided long-term funding of Nordic Microalgae through Swedish Lifewatch (2010-2020) and Swedish Biodiversity Data Infrastructure (2021-Present).
 
 In 2024 the taxonomic backbone of Nordic Microalgae was updated and the website was moved to a new platform.
+
+If you have any questions please contact us at [nordicmicroalgae@smhi.se](mailto:nordicmicroalgae@smhi.se)
