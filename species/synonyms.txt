@@ -7921,7 +7921,6 @@ worms	Peridinium umbonatum	F.Stein, 1883	837535
 worms	Peridinium umbonatum f. spiniferum	(Lindemann) Lefèvre, 1932	837535
 worms	Peridinium umbonatum var. inaequale	Lemmermann, 1910	837535
 worms	Properidinium inaequale	(Lemmermann) Meunier, 1919	837535
-worms	Fragilaria nitzschioides	Grunow, 1881	837746
 worms	Spirogyra liana	Transeau, 1934	837808
 worms	Chlamydomonas braunii	Goroschankin [Gorozhankin], 1890	837834
 worms	Hyalotheca indica var. fennica	Grönblad, 1921	837963
