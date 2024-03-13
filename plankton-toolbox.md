@@ -10,8 +10,8 @@ Features include:
 
 * Plankton counter - use the PlanktonToolbox as a counting tool by the microscope
 * Consistent use of names and taxonomic hierachy based on World Register of Marine Species
-* Cell abundance, cells L<sup>-1</sup>
-* Automatically calculate biomass based on cell volumes from HELCOM EG Phyto and NOMP. Biomass in µg C L<sup>-1</sup> or in biovolume mm<sup>3</sup> L<sup>-1</sup>
+* Cell abundance, cells L⁻¹
+* Automatically calculate biomass based on cell volumes from HELCOM EG Phyto and NOMP. Biomass in µg C L⁻¹ or in biovolume mm³ L⁻¹
 * Imports phyto- or zooplankton data in .txt and .xlsx files in different formats (configurable)
 * Work with data on abundance, biovolume and carbon content
 * Data screening - quality control of data
