@@ -9,4 +9,4 @@ Thank you for your request. You need to get in touch directly with the copyright
 
 ### I cannot find a species I expect to find.
 
-Try a synonym in the search field. If you still do not find the species it could probably be added to the species list. Contact Nordic Microalgae at [nordicmicroalgae@smhi.se](mailto:nordicmicroalgae@smhi.se) and provide a link to the taxa in WoRMS and/or AlgaeBase.
+Try a synonym in the search field. If you still do not find the species it could probably be added to the species list. Contact Nordic Microalgae at [nordicmicroalgae@smhi.se](mailto:nordicmicroalgae@smhi.se) and provide a link to the taxon in WoRMS and/or AlgaeBase.
