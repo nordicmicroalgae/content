@@ -3000,6 +3000,15 @@ taxon_id	itis_id	url
 627627	733	http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=733
 627635	697	http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=697
 627704	8977	http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=8977
+634861	7125	http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=7125
+638507	8988	http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=8988
+638520	9109	http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=9109
+640115	9055	http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=9055
+642480	8993	http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=8993
+642971	8994	http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=8994
+643083	9072	http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=9072
+644115	9073	http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=9073
+644215	9074	http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=9074
 645504	5953	http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=5953
 646201	9936	http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=9936
 646229	189536	http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=189536

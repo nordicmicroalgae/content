@@ -10,48 +10,48 @@ taxon_id	species	hab_effect	scientific_name	authority	link
 149152	Pseudo-nitzschia seriata	ASP	Pseudo-nitzschia seriata	(Cleve) H.Peragallo, 1899	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=149152
 246591	Chrysochromulina leadbeateri	Fish killer	Chrysochromulina leadbeateri	Estep, Davis, Hargreaves & Sieburth, 1984	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=246591
 160538	Phaeocystis globosa	Fish killer	Phaeocystis globosa	Scherffel, 1899	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=160538
-NA	Phaeocystis pouchetii	Fish killer	Phaeocystis pouchetii	(Hariot) Lagerheim, 1896	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=115106
-NA	Prymnesium parvum	Fish killer	Prymnesium parvum	N.Carter, 1937	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=160564
-NA	Prymnesium polylepis	Fish killer	Prymnesium polylepis	(Manton & Parke) Edvardsen, Eikrem & Probert, 2011	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=670030
-NA	Amphidinium carterae	Fish killer, haemolytic	Amphidinium carterae	Hulburt, 1957	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=109723
-NA	Amphidinium operculatum	Fish killer, haemolytic	Amphidinium operculatum	Claparède & Lachmann, 1859	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=109745
-NA	Dinophysis acuminata	DSP	Dinophysis acuminata	Claparède & Lachmann, 1859	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=109603
-NA	Dinophysis acuta	DSP	Dinophysis acuta	Ehrenberg, 1839	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=109604
-NA	Dinophysis caudata	DSP	Dinophysis caudata	Saville-Kent, 1881	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=109612
-NA	Dinophysis fortii	DSP	Dinophysis fortii	Pavillard, 1924	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=109624
-NA	Dinophysis norvegica	DSP	Dinophysis norvegica	Claparède & Lachmann, 1859	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=109637
-NA	Dinophysis tripos	DSP	Dinophysis tripos	Gourret, 1883	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=109662
-NA	Alexandrium minutum	PSP	Alexandrium minutum	Halim, 1960	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=109711
-NA	Alexandrium ostenfeldii	PSP	Alexandrium ostenfeldii	(Paulsen) Balech & Tangen, 1985	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=109712
-NA	Alexandrium pseudogonyaulax	PSP	Alexandrium pseudogonyaulax	(Biecheler) Horiguchi ex K.Yuki & Y.Fukuyo, 1992	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=109713
-NA	Alexandrium tamarense	PSP	Alexandrium tamarense	(Lebour) Balech, 1995	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=109714
-NA	Gonyaulax spinifera	YTX	Gonyaulax spinifera	(Claparède & Lachmann) Diesing, 1866	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=110041
-NA	Lingulodinium polyedra	YTX	Lingulodinium polyedra	(F.Stein) J.D.Dodge, 1989	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=233592
-NA	Protoceratium reticulatum	YTX	Protoceratium reticulatum	(Claparède & Lachmann) Bütschli, 1885	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=110321
-NA	Karenia mikimotoi	Fish killer	Karenia mikimotoi	(Miyake & Kominami ex Oda) Gert Hansen & Moestrup, 2000	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=233024
-NA	Karlodinium veneficum	Fish killer	Karlodinium veneficum	(D.Ballantine) J.Larsen, 2000	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=233037
-NA	Prorocentrum lima	DSP	Prorocentrum lima	(Ehrenberg) F.Stein, 1878	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=110301
-NA	Azadinium spinosum	AZA	Azadinium spinosum	Elbrächter & Tillmann, 2009	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=391509
-NA	Fibrocapsa japonica	Fish killer	Fibrocapsa japonica	S.Toriumi & H.Takano, 1973	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=233761
-NA	Heterosigma akashiwo	Fish killer	Heterosigma akashiwo	(Y.Hada) Y.Hada ex Y.Hara & M.Chihara, 1987	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=160585
-NA	Pseudochattonella farcimen	Fish killer	Pseudochattonella farcimen	(Eikrem, Edvardsen & J.Throndsen) Eichrem, 2009	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=531467
-NA	Pseudochattonella verruculosa	Fish killer	Pseudochattonella verruculosa	(Y.Hara & M.Chihara) S.Tanabe-Hosoi, D.Honda, S.Fukaya, Y.Inagaki & Y.Sako, 2007	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=531446
-NA	Anagnostidinema amphibium	Cyano toxins	Anagnostidinema amphibium	(C.Agardh ex Gomont) Strunecký, Bohunická, J.R.Johansen & J.Komárek, 2017	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=1313613
-NA	Aphanizomenon flosaquae	Cyano toxins	Aphanizomenon flosaquae	Ralfs ex Bornet & Flahault, 1886	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=609460
-NA	Coelosphaerium kuetzingianum	Cyano toxins	Coelosphaerium kuetzingianum	Nägeli, 1849	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=177100
-NA	Dolichospermum flosaquae	Cyano toxins	Dolichospermum flosaquae	(Brébisson ex Bornet & Flahault) P.Wacklin, L.Hoffmann & J.Komárek, 2009	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=623803
-NA	Dolichospermum lemmermannii	Cyano toxins	Dolichospermum lemmermannii	(Richter) P.Wacklin, L.Hoffmann & J.Komárek, 2009	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=625374
-NA	Dolichospermum macrosporum	Cyano toxins	Dolichospermum macrosporum	(Klebhan) Wacklin, L.Hoffmann & Komárek, 2009	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=625403
-NA	Dolichospermum planctonicum	Cyano toxins	Dolichospermum planctonicum	(Brunnthaler) Wacklin, L.Hoffmann & Komárek, 2009	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=625407
-NA	Dolichospermum sigmoideum	Cyano toxins	Dolichospermum sigmoideum	(Nygaard) Wacklin, L.Hoffmann & Komárek, 2009	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=625408
-NA	Dolichospermum spiroides	Cyano toxins	Dolichospermum spiroides	(Klebhan) Wacklin, L.Hoffmann & Komárek, 2009	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=625411
-NA	Gloeotrichia echinulata	Cyano toxins	Gloeotrichia echinulata	P.G.Richter, 1894	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=409630
-NA	Limnothrix redekei	Cyano toxins	Limnothrix redekei	(Goor) Meffert, 1988	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=177508
-NA	Microcystis aeruginosa	Cyano toxins	Microcystis aeruginosa	(Kützing) Kützing, 1846	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=146558
-NA	Microcystis flosaquae	Cyano toxins	Microcystis flosaquae	(Wittrock) Kirchner, 1898	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=699375
-NA	Microcystis ichthyoblabe	Cyano toxins	Microcystis ichthyoblabe	(G.Kunze) Kützing, 1843	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=177245
-NA	Microcystis wesenbergii	Cyano toxins	Microcystis wesenbergii	(Komárek) Komárek ex Komárek, 2006	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=146561
-NA	Microcystis viridis	Cyano toxins	Microcystis viridis	(A.Braun) Lemmermann, 1903	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=177400
-NA	Nodularia spumigena	Cyano toxins	Nodularia spumigena	Mertens ex Bornet & Flahault, 1888	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=160566
-NA	Planktothrix agardhii	Cyano toxins	Planktothrix agardhii	(Gomont) Anagnostidis & Komárek, 1988	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=146552
-NA	Snowella lacustris	Cyano toxins	Snowella lacustris	(Chodat) Komárek & Hindák, 1988	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=146645
+115106	Phaeocystis pouchetii	Fish killer	Phaeocystis pouchetii	(Hariot) Lagerheim, 1896	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=115106
+160564	Prymnesium parvum	Fish killer	Prymnesium parvum	N.Carter, 1937	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=160564
+670030	Prymnesium polylepis	Fish killer	Prymnesium polylepis	(Manton & Parke) Edvardsen, Eikrem & Probert, 2011	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=670030
+109723	Amphidinium carterae	Fish killer, haemolytic	Amphidinium carterae	Hulburt, 1957	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=109723
+109745	Amphidinium operculatum	Fish killer, haemolytic	Amphidinium operculatum	Claparède & Lachmann, 1859	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=109745
+109603	Dinophysis acuminata	DSP	Dinophysis acuminata	Claparède & Lachmann, 1859	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=109603
+109604	Dinophysis acuta	DSP	Dinophysis acuta	Ehrenberg, 1839	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=109604
+109612	Dinophysis caudata	DSP	Dinophysis caudata	Saville-Kent, 1881	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=109612
+109624	Dinophysis fortii	DSP	Dinophysis fortii	Pavillard, 1924	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=109624
+109637	Dinophysis norvegica	DSP	Dinophysis norvegica	Claparède & Lachmann, 1859	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=109637
+109662	Dinophysis tripos	DSP	Dinophysis tripos	Gourret, 1883	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=109662
+109711	Alexandrium minutum	PSP	Alexandrium minutum	Halim, 1960	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=109711
+109712	Alexandrium ostenfeldii	PSP	Alexandrium ostenfeldii	(Paulsen) Balech & Tangen, 1985	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=109712
+109713	Alexandrium pseudogonyaulax	PSP	Alexandrium pseudogonyaulax	(Biecheler) Horiguchi ex K.Yuki & Y.Fukuyo, 1992	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=109713
+109714	Alexandrium tamarense	PSP	Alexandrium tamarense	(Lebour) Balech, 1995	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=109714
+110041	Gonyaulax spinifera	YTX	Gonyaulax spinifera	(Claparède & Lachmann) Diesing, 1866	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=110041
+233592	Lingulodinium polyedra	YTX	Lingulodinium polyedra	(F.Stein) J.D.Dodge, 1989	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=233592
+110321	Protoceratium reticulatum	YTX	Protoceratium reticulatum	(Claparède & Lachmann) Bütschli, 1885	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=110321
+233024	Karenia mikimotoi	Fish killer	Karenia mikimotoi	(Miyake & Kominami ex Oda) Gert Hansen & Moestrup, 2000	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=233024
+233037	Karlodinium veneficum	Fish killer	Karlodinium veneficum	(D.Ballantine) J.Larsen, 2000	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=233037
+110301	Prorocentrum lima	DSP	Prorocentrum lima	(Ehrenberg) F.Stein, 1878	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=110301
+391509	Azadinium spinosum	AZA	Azadinium spinosum	Elbrächter & Tillmann, 2009	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=391509
+233761	Fibrocapsa japonica	Fish killer	Fibrocapsa japonica	S.Toriumi & H.Takano, 1973	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=233761
+160585	Heterosigma akashiwo	Fish killer	Heterosigma akashiwo	(Y.Hada) Y.Hada ex Y.Hara & M.Chihara, 1987	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=160585
+531467	Pseudochattonella farcimen	Fish killer	Pseudochattonella farcimen	(Eikrem, Edvardsen & J.Throndsen) Eichrem, 2009	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=531467
+531446	Pseudochattonella verruculosa	Fish killer	Pseudochattonella verruculosa	(Y.Hara & M.Chihara) S.Tanabe-Hosoi, D.Honda, S.Fukaya, Y.Inagaki & Y.Sako, 2007	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=531446
+1313613	Anagnostidinema amphibium	Cyano toxins	Anagnostidinema amphibium	(C.Agardh ex Gomont) Strunecký, Bohunická, J.R.Johansen & J.Komárek, 2017	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=1313613
+609460	Aphanizomenon flosaquae	Cyano toxins	Aphanizomenon flosaquae	Ralfs ex Bornet & Flahault, 1886	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=609460
+177100	Coelosphaerium kuetzingianum	Cyano toxins	Coelosphaerium kuetzingianum	Nägeli, 1849	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=177100
+623803	Dolichospermum flosaquae	Cyano toxins	Dolichospermum flosaquae	(Brébisson ex Bornet & Flahault) P.Wacklin, L.Hoffmann & J.Komárek, 2009	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=623803
+625374	Dolichospermum lemmermannii	Cyano toxins	Dolichospermum lemmermannii	(Richter) P.Wacklin, L.Hoffmann & J.Komárek, 2009	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=625374
+625403	Dolichospermum macrosporum	Cyano toxins	Dolichospermum macrosporum	(Klebhan) Wacklin, L.Hoffmann & Komárek, 2009	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=625403
+625407	Dolichospermum planctonicum	Cyano toxins	Dolichospermum planctonicum	(Brunnthaler) Wacklin, L.Hoffmann & Komárek, 2009	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=625407
+625408	Dolichospermum sigmoideum	Cyano toxins	Dolichospermum sigmoideum	(Nygaard) Wacklin, L.Hoffmann & Komárek, 2009	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=625408
+625411	Dolichospermum spiroides	Cyano toxins	Dolichospermum spiroides	(Klebhan) Wacklin, L.Hoffmann & Komárek, 2009	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=625411
+409630	Gloeotrichia echinulata	Cyano toxins	Gloeotrichia echinulata	P.G.Richter, 1894	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=409630
+177508	Limnothrix redekei	Cyano toxins	Limnothrix redekei	(Goor) Meffert, 1988	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=177508
+146558	Microcystis aeruginosa	Cyano toxins	Microcystis aeruginosa	(Kützing) Kützing, 1846	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=146558
+699375	Microcystis flosaquae	Cyano toxins	Microcystis flosaquae	(Wittrock) Kirchner, 1898	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=699375
+177245	Microcystis ichthyoblabe	Cyano toxins	Microcystis ichthyoblabe	(G.Kunze) Kützing, 1843	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=177245
+146561	Microcystis wesenbergii	Cyano toxins	Microcystis wesenbergii	(Komárek) Komárek ex Komárek, 2006	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=146561
+177400	Microcystis viridis	Cyano toxins	Microcystis viridis	(A.Braun) Lemmermann, 1903	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=177400
+160566	Nodularia spumigena	Cyano toxins	Nodularia spumigena	Mertens ex Bornet & Flahault, 1888	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=160566
+146552	Planktothrix agardhii	Cyano toxins	Planktothrix agardhii	(Gomont) Anagnostidis & Komárek, 1988	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=146552
+146645	Snowella lacustris	Cyano toxins	Snowella lacustris	(Chodat) Komárek & Hindák, 1988	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=146645
