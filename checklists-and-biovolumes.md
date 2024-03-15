@@ -15,7 +15,7 @@ The original checklist was combind from the following lists and additional taxa 
 * Freshwater phytoplankton from Norway from the REBECCA database provided by Birger Skjelbred at NIVA 
 * Taxa from the Finnish Phytoplankton Society provided by Kristiina Vuorio at SYKE 
 
-The taxonomic content is derived from the original list and updated to the current accepted name in [World Register of Marine Species (WoRMS)](https://www.marinespecies.org/) the update also include higher taxonomy and synonyms. Supplementary information, including geometric shapes, is sourced from the NOMP biovolume file. Links are provided for taxa present on [AlgaeBase](https://www.algaebase.org/), [Dyntaxa](https://namnochslaktskap.artfakta.se/) and [NORCCA: The Norwegian Culture Collection of Algae](https://norcca.scrol.net/).
+The taxonomic content on this website is derived from the original Nordic Microalgae checklist (see below), complemented with taxa from the Nordic Marine Phytoplankton Group (NOMP) biovolume list (see below), and updated to the current accepted name in World Register of Marine Species (WoRMS). The update also encompasses higher taxonomy and synonyms while ensuring that no unaccepted names are included in the database. Supplementary information, such as geometric shapes, is sourced from the NOMP biovolume file. Taxa occurences are collected from the GBIF Maps API. Links are provided for taxa present on AlgaeBase, Dyntaxa, GBIF, ENA, NCBI, ITIS, IOC HAB, and NORCCA: The Norwegian Culture Collection of Algae (only strains originating from Northern Europe).
  
 #### Excel file format
 
@@ -39,7 +39,7 @@ The HELCOM EG Phyto (previously PEG) biovolume list is used in routine monitorin
 
 #### NOMP Biovolume list
 
-The Nordic Marine Phytoplankton Group (NOMP) biovolume list comprise of data from the HELCOM EG Phyto biovolume list and data from additional taxa sourced from the Skagerrak and the North Sea, provided by the Swedish Meteorological and Hydrological Institute and the Norwegian Institute for Water Research. The list is updated once per year, normally after the [annual NOMP workshop](nordicmicroalgae.org/nomp/), and can be accessed below.
+The NOMP biovolume list comprise of data from the HELCOM EG Phyto biovolume list and data from additional taxa sourced from the Skagerrak and the North Sea, provided by the Swedish Meteorological and Hydrological Institute and the Norwegian Institute for Water Research. The list is updated once per year, normally after the [annual NOMP workshop](nordicmicroalgae.org/nomp/), and can be accessed below.
 
 #### Lists of taxa with biovolumes, carbon content and trophic type
 A Microsoft Excel file compressed in a zip-archive. The file is also part of the download of Plankton Toolbox
