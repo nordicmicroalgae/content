@@ -1,7 +1,7 @@
 ---
 title: Tools
 ---
-![alt text](/assets/plankton_toolbox_icon.png)
+![ptbx_logo](/assets/plankton_toolbox_icon.png)
 ## Plankton Toolbox
 
 The Plankton Toolbox is a free tool for aquatic scientists, and others, working with environmental monitoring related to phyto- and zooplankton. It is available for MacOS and Windows. A Linux verion will be produced upon request.
