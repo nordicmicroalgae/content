@@ -4,10 +4,10 @@ title: For developers
 
 ## Nordic Microalgae API
 
-[https://nordicmicroalgae.org/api/](https://nordicmicroalgae.org/api/)
+All data available on Nordic Microalgae can be accessed from through our [API](/nordicmicroalgae.org/api/).
 
-## Github
+## GitHub
 
-[https://github.com/nordicmicroalgae](https://github.com/nordicmicroalgae)
+The source code for Nordic Microalgae, including the code utilized for updating the taxonomic backbone, is accessible on [GitHub](https://github.com/nordicmicroalgae).
 
-[https://github.com/planktontoolbox](https://github.com/planktontoolbox)
+The source code for Plankton Toolbox, is accessible on [GitHub](https://github.com/planktontoolbox).
