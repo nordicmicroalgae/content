@@ -37,13 +37,13 @@ NOMP – Nordic Marine Phytoplankton group workshop 15-17 November in Gothenburg
 
 NOMP – Nordic Marine Phytoplankton group workshop 14-16 September 2015 in Arendal, Norway
 
-* [NOMP Minutes 2015](http://downloads.nordicmicroalgae.org/NOMP/NOMP_minutes_2015.pdf)
+* [NOMP Minutes 2015](https://data.smhi.se/oce/SLW/NOMP/NOMP_minutes_2015.pdf)
 
 ### 2013
 
 Minutes from the Scandinavian Marine Phytoplankton Workshop held in Fiskebäckskil, Sweden, 26-28 August, 2013
 
-* [Draft minutes NOMP-SCAMPY workshop 2013 version 2 September](http://downloads.nordicmicroalgae.org/NOMP/Draft_minutes_NOMP-SCAMPY_2013_version_2_September_2013.pdf)
+* [Draft minutes NOMP-SCAMPY workshop 2013 version 2 September](https://data.smhi.se/oce/SLW/NOMP/Draft_minutes_NOMP-SCAMPY_2013_version_2_September_2013.pdf)
 
 #### Autumn 2013
 
