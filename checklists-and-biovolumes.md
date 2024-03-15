@@ -19,11 +19,11 @@ The taxonomic content on this website is derived from the original Nordic Microa
  
 #### Excel file format
 
-* [Nordic Microalgae checklist 2024-01-29 Excel file](https://data.smhi.se/oce/SLW/checklists/2024_01-29/nordicmicroalgae_checklist_2024_Jan_29.xlsx)
+* [Nordic Microalgae checklist 2024-03-15 Excel file](https://data.smhi.se/oce/SLW/checklists/2024-03-15/nordicmicroalgae_checklist_2024_mar_15.xlsx)
 
 #### Text file (tab delimited, UTF-8 encoding)
 
-* [Nordic Microalgae checklist 2024-01-29 text file](https://data.smhi.se/oce/SLW/checklists/2024_01-29/nordicmicroalgae_checklist_2024_Jan_29.txt)
+* [Nordic Microalgae checklist 2024-03-15 text file](https://data.smhi.se/oce/SLW/checklists/2024-03-15/nordicmicroalgae_checklist_2024_mar_15.txt)
 
 #### Original version
 
