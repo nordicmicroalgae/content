@@ -16,7 +16,7 @@ Established in 1991, [HELCOM EG Phyto](https://helcom.fi/helcom-at-work/projects
 
 NOMP - Nordic Marine Phytoplankton Group consists of persons in Denmark (including Faroe Islands), Iceland, Norway and Sweden working with research and environmental monitoring related to phytoplankton, algal blooms and harmful algae. One aim of the group is to improve quality and inter-comparability  of results by using consistent names of organisms and algal groups. Other aims include collaboration through yearly meetings to share recent results, comparisons of methods etc. The sea areas in focus are the  Kattegat, the Skagerrak, the North Sea, the Norwegian Sea, the Barents Sea, the Iceland Sea and the Greenland Sea.
 
-## ![algaebase_logo](/assets/algaebase-logo-214.png)
+## ![AlgaeBase](/assets/algaebase-logo-214.png)
 Taxonomic data from [AlgaeBase](http://www.algaebase.org/), provided by the National University of Ireland, Galway, Ireland, complements our taxonomic backbone derived from the World Register of Marine Species.
 
 ## Other collaborations and contributers
