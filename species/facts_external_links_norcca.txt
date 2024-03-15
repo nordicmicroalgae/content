@@ -70,6 +70,7 @@ taxon_id	scientific_name	valid_name	strain_name	species	habitat	strain_link	spec
 625374	Dolichospermum lemmermannii	Dolichospermum lemmermannii	K-0544	Dolichospermum lemmermannii	Freshwater	https://norcca.scrol.net/strain/k-0544	https://norcca.scrol.net/species/dolichospermum-lemmermannii	k-0544
 146557	Microcystis	Microcystis	K-0545	Microcystis sp.	Freshwater	https://norcca.scrol.net/strain/k-0545	https://norcca.scrol.net/species/microcystis-sp	k-0545
 146552	Planktothrix cf. agardhii	Planktothrix agardhii	K-0546	Planktothrix cf. agardhii	Freshwater	https://norcca.scrol.net/strain/k-0546	https://norcca.scrol.net/species/planktothrix-cf-agardhii	k-0546
+149123	Chaetoceros socialis	Chaetoceros socialis	K-0550	Chaetoceros socialis	Marine	https://norcca.scrol.net/strain/k-0550	https://norcca.scrol.net/species/chaetoceros-socialis	k-0550
 160550	Coelastrum	Coelastrum	K-0559	Coelastrum sp.	Freshwater	https://norcca.scrol.net/strain/k-0559	https://norcca.scrol.net/species/coelastrum-sp	k-0559
 624976	Haptolina ericina	Haptolina ericina	K-0562	Haptolina ericina	Marine	https://norcca.scrol.net/strain/k-0562	https://norcca.scrol.net/species/haptolina-ericina	k-0562
 624968	Prymnesium kappa	Prymnesium kappa	K-0563	Prymnesium kappa	Marine	https://norcca.scrol.net/strain/k-0563	https://norcca.scrol.net/species/prymnesium-kappa	k-0563
@@ -978,6 +979,8 @@ taxon_id	scientific_name	valid_name	strain_name	species	habitat	strain_link	spec
 236056	Emiliania huxleyi	Gephyrocapsa huxleyi	UIO 371	Emiliania huxleyi		https://norcca.scrol.net/strain/uio-371	https://norcca.scrol.net/species/emiliania-huxleyi	uio-371
 236056	Emiliania huxleyi	Gephyrocapsa huxleyi	UIO 372	Emiliania huxleyi		https://norcca.scrol.net/strain/uio-372	https://norcca.scrol.net/species/emiliania-huxleyi	uio-372
 236056	Emiliania huxleyi	Gephyrocapsa huxleyi	UIO 373	Emiliania huxleyi		https://norcca.scrol.net/strain/uio-373	https://norcca.scrol.net/species/emiliania-huxleyi	uio-373
+246591	Chrysochromulina leadbeateri	Chrysochromulina leadbeateri	UIO 393	Chrysochromulina leadbeateri	Marine	https://norcca.scrol.net/strain/uio-393	https://norcca.scrol.net/species/chrysochromulina-leadbeateri	uio-393
+246591	Chrysochromulina leadbeateri	Chrysochromulina leadbeateri	UIO 394	Chrysochromulina leadbeateri	Marine	https://norcca.scrol.net/strain/uio-394	https://norcca.scrol.net/species/chrysochromulina-leadbeateri	uio-394
 178207	Chaetoceros neogracilis	Chaetoceros neogracilis	UIO 407	Chaetoceros neogracilis	Marine plankton	https://norcca.scrol.net/strain/uio-407	https://norcca.scrol.net/species/chaetoceros-neogracilis	uio-407
 148985	Chaetoceros	Chaetoceros	UIO 409	Chaetoceros sp.	Marine plankton	https://norcca.scrol.net/strain/uio-409	https://norcca.scrol.net/species/chaetoceros-sp	uio-409
 148985	Chaetoceros	Chaetoceros	UIO 410	Chaetoceros sp.	Marine plankton	https://norcca.scrol.net/strain/uio-410	https://norcca.scrol.net/species/chaetoceros-sp	uio-410
@@ -1044,10 +1047,13 @@ taxon_id	scientific_name	valid_name	strain_name	species	habitat	strain_link	spec
 157430	Eucampia groenlandica	Eucampia groenlandica	UIO 486	Eucampia groenlandica	Marine plankton	https://norcca.scrol.net/strain/uio-486	https://norcca.scrol.net/species/eucampia-groenlandica	uio-486
 149128	Chaetoceros diadema	Syndendrium diadema	UIO 488	Chaetoceros diadema	Marine plankton	https://norcca.scrol.net/strain/uio-488	https://norcca.scrol.net/species/chaetoceros-diadema	uio-488
 148985	Chaetoceros	Chaetoceros	UIO 489	Chaetoceros sp.	Marine plankton	https://norcca.scrol.net/strain/uio-489	https://norcca.scrol.net/species/chaetoceros-sp	uio-489
+367250	Carteria	Carteria	UIO 500	Carteria sp.	Melt pond	https://norcca.scrol.net/strain/uio-500	https://norcca.scrol.net/species/carteria-sp	uio-500
+367250	Carteria	Carteria	UIO 501	Carteria sp.	Melt pond	https://norcca.scrol.net/strain/uio-501	https://norcca.scrol.net/species/carteria-sp	uio-501
 148985	Chaetoceros	Chaetoceros	UIO 510	Chaetoceros sp.	Marine plankton	https://norcca.scrol.net/strain/uio-510	https://norcca.scrol.net/species/chaetoceros-sp	uio-510
 106289	Rhodomonas	Rhodomonas	UIO 511	Rhodomonas sp.	Marine plankton	https://norcca.scrol.net/strain/uio-511	https://norcca.scrol.net/species/rhodomonas-sp	uio-511
 106289	Rhodomonas	Rhodomonas	UIO 512	Rhodomonas sp.	Marine plankton	https://norcca.scrol.net/strain/uio-512	https://norcca.scrol.net/species/rhodomonas-sp	uio-512
 148912	Thalassiosira	Thalassiosira	UIO 514	Thalassiosira sp.	Marine plankton	https://norcca.scrol.net/strain/uio-514	https://norcca.scrol.net/species/thalassiosira-sp	uio-514
+109925	Pentapharsodinium dalei	Pentapharsodinium dalei	UIO 517	Pentapharsodinium dalei	Marine plankton	https://norcca.scrol.net/strain/uio-517	https://norcca.scrol.net/species/pentapharsodinium-dalei	uio-517
 375971	Pelagococcus subviridis	Pelagococcus subviridis	UIO 518	Pelagococcus subviridis	Marine plankton	https://norcca.scrol.net/strain/uio-518	https://norcca.scrol.net/species/pelagococcus-subviridis	uio-518
 375971	Pelagococcus subviridis	Pelagococcus subviridis	UIO 520	Pelagococcus subviridis	Marine plankton	https://norcca.scrol.net/strain/uio-520	https://norcca.scrol.net/species/pelagococcus-subviridis	uio-520
 134564	Micromonas pusilla	Micromonas pusilla	UIO 523	Micromonas pusilla	Marine plankton	https://norcca.scrol.net/strain/uio-523	https://norcca.scrol.net/species/micromonas-pusilla	uio-523

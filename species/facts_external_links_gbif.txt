@@ -429,7 +429,7 @@ taxon_id	scientific_name_authority	usage_key	url
 115071	Hymenomonadaceae Senn in Engler & Prant, 1900, emend. Gayral, 1989	2906	www.gbif.org/species/2906
 115072	Phaeocystaceae Lagerheim, 1896	7126	www.gbif.org/species/7126
 115073	Prymnesiaceae Conrad, 1926	2910	www.gbif.org/species/2910
-115075	Meringosphaera Lohmann, 1903	3201429	www.gbif.org/species/3201429
+115075	Meringosphaera Lohmann, 1902	3201429	www.gbif.org/species/3201429
 115077	Balaniger Thomsen & Oates, 1978	4377992	www.gbif.org/species/4377992
 115078	Trigonaspis H.A.Thomsen, 1980	3202041	www.gbif.org/species/3202041
 115079	Turrisphaera I.Manton, J.Sutherland & K.Oates, 1976	3201892	www.gbif.org/species/3201892
@@ -448,7 +448,6 @@ taxon_id	scientific_name_authority	usage_key	url
 115094	Balaniger balticus H.A.Thomsen & K.Oates, 1978	4377993	www.gbif.org/species/4377993
 115095	Trigonaspis minutissima H.A.Thomsen, 1980	5730596	www.gbif.org/species/5730596
 115097	Pappomonas flabellifera Manton & Oates, 1975	4378026	www.gbif.org/species/4378026
-115098	Pappomonas virgulosa Manton & J.Sutherland, 1975	4378025	www.gbif.org/species/4378025
 115099	Ophiaster hydroideus (Lohmann) Lohmann, 1913	3202209	www.gbif.org/species/3202209
 115103	Dicrateria inornata Parke, 1949	3202316	www.gbif.org/species/3202316
 115106	Phaeocystis pouchetii (Hariot) Lagerheim, 1896	9150298	www.gbif.org/species/9150298
@@ -477,8 +476,8 @@ taxon_id	scientific_name_authority	usage_key	url
 118017	Luffisphaera J.H.Belcher & Swale, 1975	4382230	www.gbif.org/species/4382230
 118018	Metopion Larsen & Patterson, 1990	4382209	www.gbif.org/species/4382209
 118019	Metromonas (Griessmann, 1913) Larsen & Patterson, 1990	9545014	www.gbif.org/species/9545014
-118021	Phyllomitus Stein	4382211	www.gbif.org/species/4382211
-118023	Postgaardi NA	4382239	www.gbif.org/species/4382239
+118021	Phyllomitus F.Stein, 1878	4382211	www.gbif.org/species/4382211
+118023	Postgaardi Fenchel, Cath.Bernard, Esteban, Finlay, P.J.Hansen & N.Iversen, 1995	4382239	www.gbif.org/species/4382239
 118024	Quadricilia Vors, 1992	8428576	www.gbif.org/species/8428576
 118025	Rhizomonas W.S.Kent, 1880	6320188	www.gbif.org/species/6320188
 118028	Telonema Griessmann, 1913	3202490	www.gbif.org/species/3202490
@@ -497,7 +496,7 @@ taxon_id	scientific_name_authority	usage_key	url
 118058	Metopion fluens Larsen & Patterson, 1990	4382210	www.gbif.org/species/4382210
 118059	Metromonas simplex (Griessmann, 1913) Larsen & Patterson, 1990	4382188	www.gbif.org/species/4382188
 118062	Phyllomitus granulatus Larsen & D.J.Patterson	4382212	www.gbif.org/species/4382212
-118069	Postgaardi mariagerensis Fenchel, Bernard, Esteban, Finlay, Hansen & Iversen, 1995	4382240	www.gbif.org/species/4382240
+118069	Postgaardi mariagerensis Fenchel, Cath.Bernard, Esteban, Finlay, P.J.Hansen & N.Iversen, 1995	4382240	www.gbif.org/species/4382240
 118070	Quadricilia rotundata (Skuja) Vørs, 1992	7595674	www.gbif.org/species/7595674
 118073	Solenicola setigera Pavillard, 1916	3208057	www.gbif.org/species/3208057
 118075	Telonema subtile Griessmann, 1913	8396488	www.gbif.org/species/8396488
@@ -554,7 +553,7 @@ taxon_id	scientific_name_authority	usage_key	url
 134524	Nephroselmis F.Stein, 1878	2688009	www.gbif.org/species/2688009
 134526	Tetraselmis F.Stein, 1878	2688033	www.gbif.org/species/2688033
 134527	Cymbomonas J.Schiller, 1913	4375567	www.gbif.org/species/4375567
-134528	Halosphaera K.J.F.Schmitz, 1878	2688121	www.gbif.org/species/2688121
+134528	Halosphaera F.Schmitz, 1878	2688121	www.gbif.org/species/2688121
 134529	Pyramimonas Schmarda, 1849	9618316	www.gbif.org/species/9618316
 134530	Dolichomastix Manton, 1977	6320684	www.gbif.org/species/6320684
 134531	Mamiella Ø.Moestrup, 1984	2688073	www.gbif.org/species/2688073
@@ -972,6 +971,7 @@ taxon_id	scientific_name_authority	usage_key	url
 146157	Bodo saltans Ehrenberg, 1832	7761641	www.gbif.org/species/7761641
 146161	Rhynchomonas G.A.Klebs, 1892	7881688	www.gbif.org/species/7881688
 146163	Rhynchomonas nasuta (A.Stokes) G.A.Klebs, 1892	7618167	www.gbif.org/species/7618167
+146166	Hemistasia phaeocysticola (Scherffel, 1900) Elbrächter & Schnepf, 1996	11886783	www.gbif.org/species/11886783
 146167	Cryptaulax Skuja, 1948	3244805	www.gbif.org/species/3244805
 146168	Cryptaulax marina J.Throndsen, 1969	7752813	www.gbif.org/species/7752813
 146182	Rhynchobodo Vørs, 1992	8213518	www.gbif.org/species/8213518
@@ -1085,9 +1085,9 @@ taxon_id	scientific_name_authority	usage_key	url
 146665	Xenococcaceae Ercegovic, 1932	7110	www.gbif.org/species/7110
 146667	Spirulina subtilissima Kützing ex Gomont, 1892	7635981	www.gbif.org/species/7635981
 146668	Spirulina tenerrima Kützing ex Gomont, 1892	7828622	www.gbif.org/species/7828622
-146672	Leibleinia (M.Gomont) L.Hoffman, 1985	3218063	www.gbif.org/species/3218063
+146672	Leibleinia (Gomont) Hoffman, 1985	3218063	www.gbif.org/species/3218063
 146673	Leibleinia epiphytica (Hieronymus) Compère, 1985	7440437	www.gbif.org/species/7440437
-146675	Heteroleibleinia (Geitler) L.Hoffmann, 1905	3217980	www.gbif.org/species/3217980
+146675	Heteroleibleinia (Geitler) Hoffmann, 1985	3217980	www.gbif.org/species/3217980
 146676	Heteroleibleinia infixa (Frémy) Anagnostidis & Komárek, 1988	3217987	www.gbif.org/species/3217987
 146677	Planktolyngbya Anagnostidis & Komárek, 1988	3217896	www.gbif.org/species/3217896
 146680	Porphyrosiphon Kützing ex Gomont, 1892	10250846	www.gbif.org/species/10250846
@@ -1957,6 +1957,7 @@ taxon_id	scientific_name_authority	usage_key	url
 163580	Achnanthes minuscula Hustedt, 1945	7880088	www.gbif.org/species/7880088
 163582	Achnanthes minutissima Kützing, 1833	8078711	www.gbif.org/species/8078711
 163594	Achnanthidium minutissimum (Kützing) Czarnecki, 1994	7485766	www.gbif.org/species/7485766
+1636127	Balaniger virgulosus (Manton & J.Sutherland) H.A.Thomsen & J.B.Østergaard, 2014	4377992	www.gbif.org/species/4377992
 163617	Didiniidae Poche, 1913	8153440	www.gbif.org/species/8153440
 163623	Pauliella F.E. Round & P.W. Basson, 1997	8342676	www.gbif.org/species/8342676
 163624	Pauliella taeniata (Grunow) F.E.Round & P.W.Basson, 1997	7512943	www.gbif.org/species/7512943
@@ -2390,7 +2391,7 @@ taxon_id	scientific_name_authority	usage_key	url
 176544	Tryblionella victoriae Grunow, 1862	8180487	www.gbif.org/species/8180487
 176545	Nitzschia tryblionella var. victoriae (Grunow) Grunow, 1879	7906994	www.gbif.org/species/7906994
 17655	Eutreptiaceae Hollande, 1942	9694	www.gbif.org/species/9694
-17657	Eutreptiella A.da Cunha, 1914	3210212	www.gbif.org/species/3210212
+17657	Eutreptiella A.M.Cunha, 1913	3210212	www.gbif.org/species/3210212
 17662	Mamiellales Moestrup, 1984	1376	www.gbif.org/species/1376
 17663	Mamiellaceae Moestrup, 1984	5428	www.gbif.org/species/5428
 17666	Chlorodendrales Melkonian, 1990	1374	www.gbif.org/species/1374
@@ -2866,7 +2867,6 @@ taxon_id	scientific_name_authority	usage_key	url
 235934	Coronosphaera Gaarder, 1977	3235135	www.gbif.org/species/3235135
 235937	Umbellosphaera Paasche, 1955	7952443	www.gbif.org/species/7952443
 235941	Wigwamma I.Manton, J.Sutherland & K.Oates, 1977	3202102	www.gbif.org/species/3202102
-235942	Coronosphaera binodata (Kamptner) Gaarder, 1977	5730599	www.gbif.org/species/5730599
 235944	Coronosphaera mediterranea (Lohmann) Gaarder, 1977	5730600	www.gbif.org/species/5730600
 235951	Discosphaera Haeckel, 1894	3201906	www.gbif.org/species/3201906
 235955	Gephyrocapsa oceanica Kamptner, 1943	3202309	www.gbif.org/species/3202309
@@ -2880,7 +2880,7 @@ taxon_id	scientific_name_authority	usage_key	url
 235982	Umbellosphaera irregularis Paasche, 1955	3201575	www.gbif.org/species/3201575
 235983	Umbellosphaera tenuis (Kamptner) Paasche, 1955	3201574	www.gbif.org/species/3201574
 236039	Syracosphaera molischii J.Schiller, 1925	3201634	www.gbif.org/species/3201634
-236056	Gephyrocapsa huxleyi (Lohmann) P. Reinhardt, 1972	4378088	www.gbif.org/species/4378088
+236056	Gephyrocapsa huxleyi (Lohmann) P.Reinhardt, 1972	4378088	www.gbif.org/species/4378088
 236074	Syracosphaera corolla J.Lecal, 1966	3202160	www.gbif.org/species/3202160
 236091	Hymenomonas roseola F.Stein, 1878	3202286	www.gbif.org/species/3202286
 236094	Zygodiscales J.R.Young & Bown, 1997	8232986	www.gbif.org/species/8232986
@@ -2978,7 +2978,7 @@ taxon_id	scientific_name_authority	usage_key	url
 248172	Uroglena Ehrenberg, 1834	9635629	www.gbif.org/species/9635629
 248174	Willea Schmidle, 1900	2641004	www.gbif.org/species/2641004
 248176	Willea irregularis (Wille) Schmidle, 1900	2640958	www.gbif.org/species/2640958
-248178	Holococcolithophora L.Cros & J.R.Young, 2005	4377979	www.gbif.org/species/4377979
+248178	Holococcolithophora L.Cros & Jer.R.Young, 2005	4377979	www.gbif.org/species/4377979
 249689	Chromulina Cienkowsky, 1870	3194489	www.gbif.org/species/3194489
 249691	Achroonema lentum Skuja, 1956	4382346	www.gbif.org/species/4382346
 249704	Aphanothece parallelliformis Cronberg, 2003	7480079	www.gbif.org/species/7480079
@@ -3092,7 +3092,7 @@ taxon_id	scientific_name_authority	usage_key	url
 345881	Pterosperma vanhoeffenii (Jørgensen) Ostenfeld, 1899	2688130	www.gbif.org/species/2688130
 345882	Pterosperma moebii (Jørgensen) Ostenfeld, 1901	2688132	www.gbif.org/species/2688132
 345883	Ptychocylis urnula (Claparède & Lachmann, 1858)	8138234	www.gbif.org/species/8138234
-345886	Trochiscia brachiolata (Möbius) Lemmermann	5731429	www.gbif.org/species/5731429
+345886	Trochiscia brachiolata (Möbius) Lemmermann, 1903	5731429	www.gbif.org/species/5731429
 366595	Pseudanabaenales L. Hoffmann, J. Komárek & J. Katovský, 2005	10745203	www.gbif.org/species/10745203
 366598	Geitlerinema (Anagnostidis & Komárek) Anagnostidis, 1989	3218020	www.gbif.org/species/3218020
 367195	Rossithidium F.E. Round & L. Bukhtiyarova, 1996	7563882	www.gbif.org/species/7563882
@@ -3169,7 +3169,7 @@ taxon_id	scientific_name_authority	usage_key	url
 375674	Gonyostomum semen (Ehrenberg) Diesing, 1866	3194431	www.gbif.org/species/3194431
 375675	Vacuolaria virescens Cienkowski, 1870	3194446	www.gbif.org/species/3194446
 375676	Pedinella hexacostata Vysotskii [Vysotskij, Wysotzki, Wyssotzki], 1887	5422293	www.gbif.org/species/5422293
-375678	Nephroselmis olivacea Stein, 1878	2688013	www.gbif.org/species/2688013
+375678	Nephroselmis olivacea F.Stein, 1878	2688013	www.gbif.org/species/2688013
 375679	Pedinomonas major Korshikov, 1923	7970280	www.gbif.org/species/7970280
 375685	Scourfieldia complanata G.S.West, 1912	2688026	www.gbif.org/species/2688026
 375687	Scherffelia pelagica Skuja, 1948	5286259	www.gbif.org/species/5286259
@@ -3201,13 +3201,13 @@ taxon_id	scientific_name_authority	usage_key	url
 376565	Thecadinium yashimaense S.Yoshimatsu, S.Toriumi & J.D.Dodge, 2004	8019265	www.gbif.org/species/8019265
 376667	Skeletonema marinoi Sarno & Zingone, 2005	4376733	www.gbif.org/species/4376733
 376688	Pterosperma rotundum Pouchet	4267695	www.gbif.org/species/4267695
-376689	Pterosperma citriforme Parke	4375541	www.gbif.org/species/4375541
+376689	Pterosperma citriforme Parke, 1976	4375541	www.gbif.org/species/4375541
 376690	Pterosperma cuboides Gaarder, 1954	4267694	www.gbif.org/species/4267694
-376691	Pterosperma eurypteron Parke	4375540	www.gbif.org/species/4375540
-376692	Pterosperma inornatum Parke	4375542	www.gbif.org/species/4375542
-376693	Pterosperma porosum Parke	4375538	www.gbif.org/species/4375538
+376691	Pterosperma eurypteron Parke, 1978	4375540	www.gbif.org/species/4375540
+376692	Pterosperma inornatum Parke, 1976	4375542	www.gbif.org/species/4375542
+376693	Pterosperma porosum Parke, 1976	4375538	www.gbif.org/species/4375538
 376694	Halosphaera minor Ostenfeld	4375566	www.gbif.org/species/4375566
-376695	Halosphaera parkeae Boalch & Mommaerts	4375565	www.gbif.org/species/4375565
+376695	Halosphaera parkeae Boalch & Mommaerts, 1969	4375565	www.gbif.org/species/4375565
 376696	Halosphaera russellii Parke	4375564	www.gbif.org/species/4375564
 377005	Pedinomonas minutissima Skuja, 1956	7726559	www.gbif.org/species/7726559
 378493	Tintinnopsis brandtii Nordqvist, 1890	7599643	www.gbif.org/species/7599643
@@ -3496,7 +3496,7 @@ taxon_id	scientific_name_authority	usage_key	url
 551461	Rhizoclonium hieroglyphicum var. dimorphum (Wittrock) Stockmayer, 1890	6452167	www.gbif.org/species/6452167
 552664	Chara baltica var. liljebladii (J.Wallman) A.Braun, 1859	6452059	www.gbif.org/species/6452059
 553115	Stigonema panniforme Bornet & Flahault, 1887	3215774	www.gbif.org/species/3215774
-554978	Cafeteria minuta (Ruinen) Larsen & D.J.Patterson, 1990	8671991	www.gbif.org/species/8671991
+554978	Cafeteria minuta (Ruinen) J.Larsen & D.J.Patterson, 1990	8671991	www.gbif.org/species/8671991
 555052	Thalassionema frauenfeldii (Grunow) Tempère & Peragallo, 1910	7463353	www.gbif.org/species/7463353
 555264	Thalassiosira delicatula Ostenfeld, 1908	3193533	www.gbif.org/species/3193533
 555270	Uronema marinum Womersley, 1984	2639786	www.gbif.org/species/2639786
@@ -3769,7 +3769,7 @@ taxon_id	scientific_name_authority	usage_key	url
 577815	Chrysostephanosphaera Scherffel, 1911	3194360	www.gbif.org/species/3194360
 577816	Chrysostephanosphaera globulifera Scherffel, 1911	3194361	www.gbif.org/species/3194361
 577818	Closterium gracile Brébisson ex Ralfs, 1848	2646362	www.gbif.org/species/2646362
-577821	Cryptaulax conoidea Skuja	7745194	www.gbif.org/species/7745194
+577821	Cryptaulax conoidea Skuja, 1956	7745194	www.gbif.org/species/7745194
 577822	Cryptomonas gracilis Skuja, 1948	6540137	www.gbif.org/species/6540137
 577825	Dicellula Svirenko, 1926	2641713	www.gbif.org/species/2641713
 577830	Dimorphococcus Braun, 1855	9461939	www.gbif.org/species/9461939
@@ -4073,6 +4073,7 @@ taxon_id	scientific_name_authority	usage_key	url
 601289	Choricystis (Skuja) Fott, 1976	2638450	www.gbif.org/species/2638450
 601313	Chlorangiella De Toni, 1889	2640545	www.gbif.org/species/2640545
 601327	Adlafia G. Moser, H. Lange-Bertalot & D. Metzeltin, 1998	7938439	www.gbif.org/species/7938439
+601409	Bicosoeca H.J.Clark, 1866	3202325	www.gbif.org/species/3202325
 601591	Encyonopsis K. Krammer, 1997	7906724	www.gbif.org/species/7906724
 601613	Eutetramorus Walton, 1918	2640493	www.gbif.org/species/2640493
 601632	Geissleria H. Lange-Bertalot & D. Metzeltin, 1996	7390652	www.gbif.org/species/7390652
@@ -5174,7 +5175,7 @@ taxon_id	scientific_name_authority	usage_key	url
 619060	Vaucheria mulleola Skuja, 1964	8134656	www.gbif.org/species/8134656
 619068	Phormidium pseudopriestleyi Anagnostidis & Komárek, 1988	7495069	www.gbif.org/species/7495069
 619105	Pseudophormidium radiosum (Gomont) Anagnostidis & Komárek, 1988	4306722	www.gbif.org/species/4306722
-619120	Holococcolithophora sphaeroidea (Schiller) J.W.Jordan, L.Cros & J.R.Young, 2005	8060528	www.gbif.org/species/8060528
+619120	Holococcolithophora sphaeroidea (Schiller) J.W.Jordan, L.Cros & Jer.R.Young, 2005	8060528	www.gbif.org/species/8060528
 619131	Planktothrix compressa (Utermöhl) Anagnostidis & Komárek, 1988	7639818	www.gbif.org/species/7639818
 619163	Heteroleibleinia leptonema (Skuja) Anagnostidis & Komárek, 1988	7732304	www.gbif.org/species/7732304
 619172	Picochlorum atomus (Butcher) Henley, Hironaka, Guillou, M.Buchheim, J.Buchheim, M.Fawley & K.Fawley, 2004	7709697	www.gbif.org/species/7709697
@@ -5197,7 +5198,7 @@ taxon_id	scientific_name_authority	usage_key	url
 619540	Leptolyngbya benthonica (Skuja) Anagnostidis, 2001	7473768	www.gbif.org/species/7473768
 619544	Leptolyngbya crassior (Skuja) Anagnostidis, 2001	7716264	www.gbif.org/species/7716264
 619562	Mallomonas trummensis Cronberg, 1975	8048619	www.gbif.org/species/8048619
-619574	Phaeoschizochlamys delicatula (West) Bourrelly, 1957	8079110	www.gbif.org/species/8079110
+619574	Phaeoschizochlamys delicatula (West) R.A.Andersen, 2019	8079110	www.gbif.org/species/8079110
 619579	Synura splendida Korshikov, 1941	7419101	www.gbif.org/species/7419101
 619587	Leptolyngbya subtilis (West) Anagnostidis, 2001	7761649	www.gbif.org/species/7761649
 619612	Schizothrix facilis (Skuja) Anagnostidis, 2001	7836270	www.gbif.org/species/7836270
@@ -5488,6 +5489,7 @@ taxon_id	scientific_name_authority	usage_key	url
 625455	Pseudokephyrion angulosum D.K.Hilliard, 1967	8385065	www.gbif.org/species/8385065
 625456	Pseudokephyrion attenuatum D.K.Hilliard	8060004	www.gbif.org/species/8060004
 625458	Pseudokephyrion poculum W.Conrad, 1939	8015651	www.gbif.org/species/8015651
+625460	Pseudokephyrion taeniatum K.H. Nicholls	7863153	www.gbif.org/species/7863153
 625461	Pteridomonas salina Bourrelly	7792397	www.gbif.org/species/7792397
 625462	Pteromonas denticulata Skuja	8210013	www.gbif.org/species/8210013
 625463	Pterosperma ornatum J.Schiller, 1925	7381119	www.gbif.org/species/7381119
@@ -5608,13 +5610,12 @@ taxon_id	scientific_name_authority	usage_key	url
 627860	Petalonema velutinum Migula, 1907	8717479	www.gbif.org/species/8717479
 627974	Anabaena miniata Skuja, 1956	7729191	www.gbif.org/species/7729191
 628010	Fortiea tenuissima (West & G.S.West) G.De Toni, 1926	7627037	www.gbif.org/species/7627037
-628093	Hexamita crassa Klebs	8343436	www.gbif.org/species/8343436
+628093	Hexamita crassa G.A.Klebs, 1892	8343436	www.gbif.org/species/8343436
 628095	Hexamita pusilla Klebs	7675362	www.gbif.org/species/7675362
 628097	Lepochromulina calyx Scherffel, 1911	7953936	www.gbif.org/species/7953936
-628126	Tetramitus pyriformis Klebs	7944245	www.gbif.org/species/7944245
+628126	Tetramitus pyriformis G.A.Klebs, 1892	7944245	www.gbif.org/species/7944245
 628127	Tetramitus rostratus Perty	7557680	www.gbif.org/species/7557680
 628164	Goniochloris pulchra Pascher, 1938	7732675	www.gbif.org/species/7732675
-628518	Euglena acusformis J.Schiller, 1925	8017301	www.gbif.org/species/8017301
 628666	Trigonomonas aechme Skuja, 1939	7823495	www.gbif.org/species/7823495
 628881	Bicosoeca alaskana Hilliard	8253288	www.gbif.org/species/8253288
 629033	Oedogonium alsium Skuja	7358400	www.gbif.org/species/7358400
@@ -5625,7 +5626,7 @@ taxon_id	scientific_name_authority	usage_key	url
 631091	Euastrum bipapillatum Grönblad, 1920	8090109	www.gbif.org/species/8090109
 631342	Bicoeca borealis Hilliard	8205856	www.gbif.org/species/8205856
 632839	Paraphysomonas circumvallata Thomsen	8150508	www.gbif.org/species/8150508
-633305	Trigonomonas compressa Klebs	7583843	www.gbif.org/species/7583843
+633305	Trigonomonas compressa G.A.Klebs, 1892	7583843	www.gbif.org/species/7583843
 633464	Bicoeca conica Lemmermann	7885513	www.gbif.org/species/7885513
 634861	Zygnema decussatum (Vaucher) C.Agardh, 1817	7566049	www.gbif.org/species/7566049
 636076	Navicula elaphros M.H.Hohn & Hellerman, 1963	8222883	www.gbif.org/species/8222883
@@ -6008,6 +6009,7 @@ taxon_id	scientific_name_authority	usage_key	url
 699623	Haptolina hirta (Manton) Edvardsen & Eikrem, 2011	7547729	www.gbif.org/species/7547729
 699624	Brachysira zellensis (Grunow) Round & D.G.Mann, 1981	7750604	www.gbif.org/species/7750604
 699631	Dolichospermum circinale (Rabenhorst ex Bornet & Flahault) P.Wacklin, L.Hoffmann & J.Komárek, 2009	7427230	www.gbif.org/species/7427230
+699637	Chamaepinnularia hassiaca (Krasske) Cantonati & Lange-Bertalot, 2009	8050713	www.gbif.org/species/8050713
 699641	Auliscus sculptus (W.Smith) Brightwell, 1860	8084656	www.gbif.org/species/8084656
 699668	Biecheleria pseudopalustris (J.Schiller) Moestrup, K.Lindberg & Daugbjerg, 2009	7376777	www.gbif.org/species/7376777
 699706	Achnanthidium caledonicum (Lange-Bertalot) Lange-Bertalot, 1999	7736445	www.gbif.org/species/7736445
@@ -6032,6 +6034,7 @@ taxon_id	scientific_name_authority	usage_key	url
 704183	Cosmarium regnesi Reinsch, 1866	5273960	www.gbif.org/species/5273960
 704277	Encyonema cespitosum NA	7888138	www.gbif.org/species/7888138
 704540	Oedogonium acmandrium Elfving ex Hirn, 1900	7972155	www.gbif.org/species/7972155
+704541	Oedogonium alternans Wittrock & P.Lundell ex Hirn, 1900	7530163	www.gbif.org/species/7530163
 704773	Staurastrum sebaldi NA	2648232	www.gbif.org/species/2648232
 705193	Staurastrum petsamoense var. minus (Messikommer) Thomasson	8226755	www.gbif.org/species/8226755
 705198	Cosmarium depressum f. minutum Heimerl, 1891	12374522	www.gbif.org/species/12374522
@@ -6193,6 +6196,7 @@ taxon_id	scientific_name_authority	usage_key	url
 842	Ectocarpales Bessey, 1907	1181	www.gbif.org/species/1181
 842517	Tripos trichoceros (Ehrenberg) Gómez, 2013	7816592	www.gbif.org/species/7816592
 842705	Chrysotila dentata (J.R.Johansen & G.J.Doucette) R.A.Andersen, J.I.Kim, Tittley & H.S.Yoon, 2015	7863416	www.gbif.org/species/7863416
+843863	Aulacoseira pseudodistans Lange-Bertalot	8024679	www.gbif.org/species/8024679
 844	Fucales Bory de Saint-Vincent, 1827	1182	www.gbif.org/species/1182
 844028	Spirogyra setiformis Kützing, 1845	2646881	www.gbif.org/species/2646881
 845	Laminariales Migula, 1909	560	www.gbif.org/species/560
@@ -6241,6 +6245,7 @@ taxon_id	scientific_name_authority	usage_key	url
 973663	Achnanthes dispar var. dispar Cleve, 1891	7582715	www.gbif.org/species/7582715
 973675	Achnanthes exilis var. exilis Kützing, 1833	9373219	www.gbif.org/species/9373219
 974020	Amphiprora kjellmanii var. kjellmanii Cleve in Cleve & Grunow, 1880	4376842	www.gbif.org/species/4376842
+974573	Cyclotella bodanica var. borealis Cleve-Euler, 1911	9545555	www.gbif.org/species/9545555
 974733	Fragilaria arcus var. arcus (Ehrenberg) Cleve, 1898	7883411	www.gbif.org/species/7883411
 974939	Coscinodiscus granulosus var. granulosus Grunow in Cleve & Grunow, 1880	9287972	www.gbif.org/species/9287972
 974963	Gomphonema exiguum var. exiguum Kützing, 1844	8010578	www.gbif.org/species/8010578
@@ -6298,7 +6303,12 @@ taxon_id	scientific_name_authority	usage_key	url
 101193	Paratontonia Jankowski, 1978	8384752	www.gbif.org/species/8384752
 368898	Heterokonta NA	4	www.gbif.org/species/4
 1304855	Dictyotophycidae Silberfeld, F.Rousseau & Reviers, 2014	7073593	www.gbif.org/species/7073593
-22718	Protozoa incertae sedis NA	7	www.gbif.org/species/7
+582160	Sarcomastigota NA	7	www.gbif.org/species/7
+1486539	Sulcozoa Cavalier-Smith, 2013	8199256	www.gbif.org/species/8199256
+1486546	Apusozoa Cavalier-Smith, 1997 emend. Cavalier-Smith, 2013	8199256	www.gbif.org/species/8199256
+1737087	Apusomonadea Tedersoo, 2017	8199256	www.gbif.org/species/8199256
+103423	Apusomonadida Karpov & Mylnikov, 1989	9669912	www.gbif.org/species/9669912
+103424	Apusomonadidae Karpov & Mylnikov, 1989	4378322	www.gbif.org/species/4378322
 449151	Bigyra Cavalier-Smith, 1998	8158183	www.gbif.org/species/8158183
 1731966	Bicosoecophytina Cavalier-Smith, 1990	8158183	www.gbif.org/species/8158183
 1731967	Bicosoecophyceae Margulis, 1974	8158183	www.gbif.org/species/8158183
@@ -6309,8 +6319,6 @@ taxon_id	scientific_name_authority	usage_key	url
 591171	Cyathobodoniae NA	8158183	www.gbif.org/species/8158183
 591173	Anoecida NA	8158183	www.gbif.org/species/8158183
 593499	Caecitellidae NA	6539132	www.gbif.org/species/6539132
-601409	Bicosoeca H.J.Clark, 1866	3202325	www.gbif.org/species/3202325
-582160	Sarcomastigota NA	7	www.gbif.org/species/7
 562871	Choanofila Cavalier-Smith, 2009	97	www.gbif.org/species/97
 580117	Acanthoecida NA	3236036	www.gbif.org/species/3236036
 105498	Acanthoecidae Norris, 1965	3236036	www.gbif.org/species/3236036
@@ -6386,6 +6394,7 @@ taxon_id	scientific_name_authority	usage_key	url
 582219	Jakobida Cavalier-Smith, 1993	7921062	www.gbif.org/species/7921062
 1738361	Histionina Cavalier-Smith, 2012	7921062	www.gbif.org/species/7921062
 599668	Jakobidae D.J.Patterson, 1990	4900145	www.gbif.org/species/4900145
+22718	Protozoa incertae sedis NA	7	www.gbif.org/species/7
 391848	Amoebozoa Lühe, 1913, emend. Cavalier-Smith, 1998	7509337	www.gbif.org/species/7509337
 582169	Conosa Cavalier-Smith, 1998	11046470	www.gbif.org/species/11046470
 582172	Mycetozoa NA	33	www.gbif.org/species/33
@@ -6398,8 +6407,12 @@ taxon_id	scientific_name_authority	usage_key	url
 591244	Metopiida NA	4898656	www.gbif.org/species/4898656
 872111	Metopiida incertae sedis NA	38	www.gbif.org/species/38
 872109	Metromonadea incertae sedis NA	38	www.gbif.org/species/38
+591238	Imbricatea Cavalier-Smith, 2003	38	www.gbif.org/species/38
+591248	Marimonadida Cavalier-Smith & Bass, 2011	38	www.gbif.org/species/38
+872066	Marimonadida incertae sedis NA	38	www.gbif.org/species/38
 582178	Postgaardea NA	7502057	www.gbif.org/species/7502057
-582218	Postgaardida NA	8330909	www.gbif.org/species/8330909
+582218	Postgaardida Cavalier-Smith, 2013	8330909	www.gbif.org/species/8330909
+1742428	Postgaardidae Cavalier-Smith, 2016	10076901	www.gbif.org/species/10076901
 1652872	Phalansteriida Hibberd, 1963	9791297	www.gbif.org/species/9791297
 1741215	Rhizomonadidae Cavalier-Smith, 2013	10815018	www.gbif.org/species/10815018
 582426	Telonemea NA	7969060	www.gbif.org/species/7969060
@@ -6471,7 +6484,6 @@ taxon_id	scientific_name_authority	usage_key	url
 163155	Allogromiida Loeblich & Tappan, 1961	7617014	www.gbif.org/species/7617014
 1603744	Lagynidoidea Schultze, 1854	7617014	www.gbif.org/species/7617014
 111894	Lagynidae Schultze, 1854	6601	www.gbif.org/species/6601
-591238	Imbricatea Cavalier-Smith, 2003	38	www.gbif.org/species/38
 22624	Euglyphida NA	38	www.gbif.org/species/38
 1368612	Torodiniales Boutrup, Moestrup & Daugbjerg, 2016	9049014	www.gbif.org/species/9049014
 1368613	Kapelodiniaceae Boutrup, Moestrup & Daugbjerg, 2016	10782259	www.gbif.org/species/10782259
@@ -6525,6 +6537,10 @@ taxon_id	scientific_name_authority	usage_key	url
 22556	Bodonidae Bütschli, 1887	3235464	www.gbif.org/species/3235464
 582216	Neobodonida Vickerman, 2004	8200943	www.gbif.org/species/8200943
 1741383	Rhynchomonadidae Hada, 1968	10378876	www.gbif.org/species/10378876
+582176	Diplonemea NA	8242259	www.gbif.org/species/8242259
+582207	Diplonemida Cavalier-Smith, 1993	8013077	www.gbif.org/species/8013077
+1736185	Hemistasiidae Cavalier-Smith, 2016	10375567	www.gbif.org/species/10375567
+146165	Hemistasia Griessmann, 1913	4380615	www.gbif.org/species/4380615
 836366	Microcoleaceae O.Strunecky, J.R.Johansen & J.Komárek, 2013	7941427	www.gbif.org/species/7941427
 1293730	Spirulinales J.Komárek, J.Kastovsky, J.Mares & J.R.Johansen, 2014	10924166	www.gbif.org/species/10924166
 599619	Spirulinaceae (Gomont) L.Hoffmann, J.Komárek & J.Ka in J.Komárek et al., 2014	3237676	www.gbif.org/species/3237676
@@ -6623,7 +6639,8 @@ taxon_id	scientific_name_authority	usage_key	url
 1649049	Schroederiaceae Fuciková, P.O.Lewis & L.A.Lewis, 2014	9612693	www.gbif.org/species/9612693
 599718	Sphaerocystidaceae Fott ex P.M.Tsarenko, 1990	6784762	www.gbif.org/species/6784762
 1649155	Makinoelloideae Stenclová, 2017	4684	www.gbif.org/species/4684
-182753	Bacteria incertae sedis NA	3	www.gbif.org/species/3
+1738660	Pelonematales Skuja, 1956	68	www.gbif.org/species/68
+1738661	Pelonemataceae Skuja, 1956	3237617	www.gbif.org/species/3237617
 249690	Achroonema Skuja, 1948	4382345	www.gbif.org/species/4382345
 249728	Pavlovophycidae Cavalier-Smith, 1986	7773832	www.gbif.org/species/7773832
 101182	Pelagostrobilidium Petz, Song & Wilbert, 1995	7623276	www.gbif.org/species/7623276
@@ -6648,8 +6665,6 @@ taxon_id	scientific_name_authority	usage_key	url
 562616	Hexamitidae Kent, 1880	5858	www.gbif.org/species/5858
 447753	Monomorphina Mereschkowsky, 1877	3209622	www.gbif.org/species/3209622
 450728	Coscinodiscopsis Sar, Sunesen & Hinz, 2008	7867479	www.gbif.org/species/7867479
-582176	Diplonemea NA	8242259	www.gbif.org/species/8242259
-582207	Diplonemida Cavalier-Smith, 1993	8013077	www.gbif.org/species/8013077
 1737174	Nitelleae (Leonhardi) Zaneveld, 1940	8782	www.gbif.org/species/8782
 1307156	Gonatozygaceae G.S.West, 1927	7484177	www.gbif.org/species/7484177
 503328	Prosoaulax (F.Stein) Calado & Moestrup, 2005	4895438	www.gbif.org/species/4895438
@@ -6783,8 +6798,6 @@ taxon_id	scientific_name_authority	usage_key	url
 836655	Johanseninema P.Hasler, P.Dvorák & A.Poulücková, 2014	8068236	www.gbif.org/species/8068236
 609372	Spirogyra decimina (O.F.Müller) Dumortier, 1822	7605433	www.gbif.org/species/7605433
 376160	Tetraselmis verrucosa Butcher, 1959	2688058	www.gbif.org/species/2688058
-591248	Marimonadida Cavalier-Smith & Bass, 2011	38	www.gbif.org/species/38
-872066	Marimonadida incertae sedis NA	38	www.gbif.org/species/38
 652510	Pinnularia subborealis Hustedt, 1922	7800516	www.gbif.org/species/7800516
 960450	Stephanodiscus tenuis Skabichevskii, 1960	9301909	www.gbif.org/species/9301909
 961097	Achnanthes dispar Mann, 1907	9069601	www.gbif.org/species/9069601
