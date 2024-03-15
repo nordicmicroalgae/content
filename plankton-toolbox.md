@@ -1,7 +1,7 @@
 ---
 title: Tools
 ---
-
+![alt text](/assets/plankton_toolbox_icon.png)
 ## Plankton Toolbox
 
 The Plankton Toolbox is a free tool for aquatic scientists, and others, working with environmental monitoring related to phyto- and zooplankton. It is available for MacOS and Windows. A Linux verion will be produced upon request.
@@ -46,7 +46,7 @@ Plankton Toolbox version 1.4.1
 * [Windows - download](https://data.smhi.se/oce/SLW/plankton_toolbox_1_4_1/plankton_toolbox_1_4_1_windows_20240125.zip)
 * [User guide - download pdf](https://data.smhi.se/oce/SLW/plankton_toolbox_1_4_1/Plankton_Toolbox_users_guide_1_4_1.pdf)
 
-##### Earlier versions
+##### Previous versions
 * [Plankton Toolbox version 1.4.0 and users guide 1.4.0](https://data.smhi.se/oce/SLW/plankton_toolbox_1_4_0/)
 * [Plankton Toolbox version 1.3.4 and users guide 1.3.4](https://data.smhi.se/oce/SLW/plankton_toolbox_1_3_4/)
 * [Plankton Toolbox version 1.3.3 and users guide 1.3.3](https://data.smhi.se/oce/SLW/plankton_toolbox_1_3_3/)
