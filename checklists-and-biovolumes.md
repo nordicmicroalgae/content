@@ -15,7 +15,7 @@ The original checklist was combind from the following lists and additional taxa 
 * Freshwater phytoplankton from Norway from the REBECCA database provided by Birger Skjelbred at NIVA 
 * Taxa from the Finnish Phytoplankton Society provided by Kristiina Vuorio at SYKE 
 
-The taxonomic content on this website is derived from the original Nordic Microalgae checklist (see below), complemented with taxa from the Nordic Marine Phytoplankton Group (NOMP) biovolume list (see below), and updated to the current accepted name in World Register of Marine Species (WoRMS). The update also encompasses higher taxonomy and synonyms while ensuring that no unaccepted names are included in the database. Supplementary information, such as geometric shapes, is sourced from the NOMP biovolume file. Taxa occurences are collected from the GBIF Maps API. Links are provided for taxa present on AlgaeBase, Dyntaxa, GBIF, ENA, NCBI, ITIS, IOC HAB, and NORCCA: The Norwegian Culture Collection of Algae (only strains originating from Northern Europe).
+The taxonomic content on this website is derived from the original Nordic Microalgae checklist (see below), complemented with taxa from the Nordic Marine Phytoplankton Group (NOMP) biovolume list (see below), and updated to the current accepted name in World Register of Marine Species (WoRMS). The update also encompasses higher taxonomy and synonyms while ensuring that no unaccepted names are included in the database. 
  
 #### Excel file format
 
