@@ -1,8 +1,9 @@
 ---
 title: Collaborations
 ---
-## SBDI
 
+
+## <img src="/assets/eng-SBDI-med-text-rgb.svg" width="100" height="100">
 The Nordic microalgae website is operated by the Swedish Meteorological and Hydrological Institute ([SMHI](http://www.smhi.se/en)) as  part of the [Swedish Biodiversity Data Infrastructure](https://biodiversitydata.se/), funded by SMHI and the Swedish Research Coulcil through Grant No 2019-00242.
 
 SBDI is making biodiversity data accessible providing powerful analysis and visualization tools. SBDI also includes [GBIF Sweden](https://www.gbif.se/). SBDI is developed in collaboration with the Living Atlases community, and will offer unprecedented opportunities for innovative, interdisciplinary research on biodiversity and ecosystems. The [Swedish Research Council](https://www.vr.se/english.html), has provided funds for the development and operation of Nordic Microalgae since October 2010.  
@@ -15,8 +16,8 @@ Established in 1991, [HELCOM EG Phyto](https://helcom.fi/helcom-at-work/projects
 
 NOMP - Nordic Marine Phytoplankton Group consists of persons in Denmark (including Faroe Islands), Iceland, Norway and Sweden working with research and environmental monitoring related to phytoplankton, algal blooms and harmful algae. One aim of the group is to improve quality and inter-comparability  of results by using consistent names of organisms and algal groups. Other aims include collaboration through yearly meetings to share recent results, comparisons of methods etc. The sea areas in focus are the  Kattegat, the Skagerrak, the North Sea, the Norwegian Sea, the Barents Sea, the Iceland Sea and the Greenland Sea.
 
-## AlgaeBase
-[AlgaeBase, National University of Ireland, Galway, Ireland](http://www.algaebase.org/)
+## ![algaebase_logo](/assets/algaebase-logo-214.png)
+Taxonomic data from [AlgaeBase](http://www.algaebase.org/), provided by the National University of Ireland, Galway, Ireland, complements our taxonomic backbone derived from the World Register of Marine Species.
 
 ## Other collaborations and contributers
 
