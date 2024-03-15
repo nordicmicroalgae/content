@@ -4,7 +4,7 @@ title: For developers
 
 ## Nordic Microalgae API
 
-All data available on Nordic Microalgae can be accessed from through our [API](/nordicmicroalgae.org/api/).
+All data available on Nordic Microalgae can be accessed from through our [API](/api).
 
 ## GitHub
 
