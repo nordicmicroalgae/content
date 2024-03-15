@@ -2,11 +2,9 @@
 title: About
 ---
 
-Nordic microalgae aim to provide high quality images, illustrations and information (e.g. habitat, trophic role, size, morphology and harmfulness) of aquatic microalgae and related organisms. The organisms included are Phytoplankton, microzooplankton (i.e. cyanobacteria, unicellular eukaryotic algae and heterotrophic protists), benthic microalgae and benthic microheterotrophs. 
+Nordic microalgae aim to provide high quality images, illustrations and information (e.g. occurrences, trophic role, size, morphology and harmfulness) of aquatic microalgae and related organisms in the Nordic region. The organisms included are Phytoplankton, microzooplankton (i.e. cyanobacteria, unicellular eukaryotic algae and heterotrophic protists), benthic microalgae and benthic microheterotrophs. All images on the website are provided by microalgae experts.
 
-The images on the website are provided by microalgae experts.
-
-Nordic microalgae also provide a species checklist for Nordic waters. The taxonomic information (including the higher taxonomy and synonyms) of Nordic Microalge is based on the current accepted name in World Register of Marine Species (WoRMS). Supplementary information, including geometric shapes, is sourced from the NOMP biovolume file. Links are also provided for taxa present on AlgaeBase, Dyntaxa and NORCCA: The Norwegian Culture Collection of Algae.
+Nordic microalgae also provide a species checklist for Nordic waters. The taxonomic information (including the higher taxonomy and synonyms) of Nordic Microalge is based on the current accepted name in World Register of Marine Species (WoRMS). Supplementary information, including geometric shapes, is sourced from the Nordic Marine Phytoplankton Group (NOMP) biovolume list. Taxa occurences are collected from the GBIF Maps API. Links are provided for taxa present on AlgaeBase, Dyntaxa, GBIF, ENA, NCBI, ITIS, IOC HAB, and NORCCA: The Norwegian Culture Collection of Algae (only strains originating from Northern Europe).
 
 The first version of Nordic Microalgae was released in 2011 and was based on a checklist launched in 1996 by Bengt Karlson and Mats Kuylenstierna at Göteborg University. In 2007 the inter-regional EU project Forum Skagerrak II provided initial funding for transferring the checklist to a website. Since 2010 the Swedish Research Council has provided long-term funding of Nordic Microalgae through Swedish Lifewatch (2010-2020) and Swedish Biodiversity Data Infrastructure (2021-Present).
 
