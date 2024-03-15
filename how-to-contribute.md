@@ -26,7 +26,7 @@ How to contribute images or image library. (Två nya word-dokument finns här: \
 
 ## About contribution of images
 
-Please contribute images for any organism in Nordic Microalgae. There is no restriction of the number of images per taxon but more than ten is seldom useful. Most important are images of organisms that are not yet well illustrated. Before you consider contribution make sure that you understand the implications for copyright holders by reading the [Copyright notice](/copyright-notice). All types of high-quality images are requested, e.g.
+Please contribute images for any organism in Nordic Microalgae. There is no restriction of the number of images per taxon but more than ten is seldom useful. Most important are images of organisms that are not yet well illustrated. Before you consider contribution make sure that you understand the implications for copyright holders by reading the [Terms of use](/terms-of-use). All types of high-quality images are requested, e.g.
 
 * Images of the whole organism
 * Images showing details important for identification
