@@ -11,9 +11,9 @@ Nordic Microalgae caters for scientists and persons involved in environmental mo
 
 ## How to get a user identity and a password
 
-You simply click on Register in the top right corner of the web page. Please enter your e-mail and a username (your name) of your own choice. You will receive a temporary password in an e-mail, usually within hours. Sometimes it may take a few days. Then you choose your own password and enter your contact information. The normal procedure is that a person first gets rights to contribute images and videos and at a later stage the right to edit the content of taxon sheets.
+Please register as a contributor by sending an e-mail to nordicmicroalgae@smhi.se. You will receive a temporary password, and will be asked to log in and change your password and enter your contact information.
 
-If you register you agree that your name is shown on [www.nordicmicroalgae.org](http://nordicmicroalgae.org) and that information about you is stored in the contributor database. Your e-mail address will not be shown to the public. It is your responsibility to make sure that you have the right to upload images to Nordic Microalgae. The creator (photographer or artist) keeps the copyright to the image. Please select one of the four options below when you upload images. Number 2 is recommended in general.
+When you register you agree that your name is shown on [www.nordicmicroalgae.org](http://nordicmicroalgae.org) and that information about you is stored in the contributor database. Your e-mail address will not be shown to the public. It is your responsibility to make sure that you have the right to upload images to Nordic Microalgae. The creator (photographer or artist) keeps the copyright to the image. Please select one of the four options below when you upload images. Option number 2 is recommended in general.
 
 1. Creative Commons Attribution 3.0 Unported
 2. Creative Commons Attribution-NoDerivs 3.0 Unported
@@ -22,7 +22,7 @@ If you register you agree that your name is shown on [www.nordicmicroalgae.org](
 
 ## Step by step guides
 
-How to contribute images or image library. (Två nya word-dokument finns här: \\winfs-proj\data\proj\havgem\Lifewatch_II_2018-\Nordic_microalgae. När de är kollade kan de bli pdf:er.) [Download pdf](http://downloads.nordicmicroalgae.org/nordic_microalgae_guide_for_contriburs.pdf)
+How to contribute with images and image galleries: [Download pdf](https://data.smhi.se/oce/SLW/nordic_microalgae_contributor_guide.pdf)
 
 ## About contribution of images
 
@@ -41,4 +41,4 @@ It is also useful showing an organism at different focus levels. Taking several 
 
 ## Change history
 
-Please note that all changes in Nordic Microalgae, e.g. the addition of images and changes in texts on taxon sheets are recorded. The records can be found at the end of each taxon sheet. The latest added images show up on the start page.
+Please note that all changes in Nordic Microalgae, e.g. the addition of images and changes in texts on taxon sheets are recorded. The latest added images show up on the start page.
