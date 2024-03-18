@@ -10,11 +10,13 @@ The first version of Nordic Microalgae was released in 2011 and was based on a c
 
 ![checklist](/assets/checklist_1996.png)
 
-Fig 1. 
+Fig 1. Checklist of phytoplankton in the Skagerrak-Kattegat launched in 1996
+
 ![old nua](/assets/nordic-microalgae_old.png)
 
-Fig 2.
-Since 2010 the Swedish Research Council has provided long-term funding of Nordic Microalgae through Swedish Lifewatch (2010-2020) and Swedish Biodiversity Data Infrastructure (2021-Present).
+Fig 2. Nordic microalgae 2011-2024
+
+The Swedish Research Council have provided long-term funding of Nordic Microalgae through Swedish Lifewatch (2010-2020) and Swedish Biodiversity Data Infrastructure (2021-Present).
 
 In 2024 the taxonomic backbone of Nordic Microalgae was updated and the website was moved to a new platform.
 
