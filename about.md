@@ -9,7 +9,7 @@ Nordic microalgae also provide a species checklist for Nordic waters. The taxono
 The Swedish Research Council have provided long-term funding of Nordic Microalgae since 2010 through Swedish Lifewatch (2010-2020) and Swedish Biodiversity Data Infrastructure (2021-Present).
 
 The Nordic microalgae history started in 1996 when Mats Kuylenstierna and Bengt Karlson lanched the first webside with a checklist of phytoplankton in the Skagerrak-Kattegat. The inter-regional EU project Forum Skagerrak II provided initial funding for transferring the checklist to a website. 
-In 2011 the first version of Nordic microalgae was released based on the Skagerrak-Kattegat checklist combined with a number of other specieslists, read more under[Checklists and biovolumes](/nordicmicroalgae.org/checklists-and-biovolumes/).
+In 2011 the first version of Nordic microalgae was released based on the Skagerrak-Kattegat checklist combined with a number of other specieslists, read more under [Checklists and biovolumes](https://next.nordicmicroalgae.org/checklists-and-biovolumes/).
 
 ![checklist](/assets/checklist_1996.png)
 
