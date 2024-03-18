@@ -6,7 +6,7 @@ title: Checklists and biovolumes
 The Nordic Microalgae checklist contain all taxa included on this website and aim to include all taxa occuring in Nordic waters.
 
 The original Nordic microalgae checklist was created in 2011 by combining the following lists and additional taxa found in the literate below.
-* [Skagerrak-Kattegat checklist](https://www.smhi.se/oceanografi/oce_info_data/plankton_checklist/ssshome.htm), a list of marine phytoplankton monitored in Sweden provided by Mats Kuylenstierna at GU and Bengt Karlson at SMHI.
+* [Skagerrak-Kattegat checklist](https://www.smhi.se/oceanografi/oce_info_data/plankton_checklist/ssshome.htm), a list of marine phytoplankton monitored in Sweden provided by Mats Kuylenstierna at GU and Bengt Karlson at SMHI
 * The HELCOM Phytoplankton Expert Group list of taxa and biovolumes
 * Swedish freshwater phytoplankton from the Swedish Freshwater monitoring database at SLU
 * Swedish freshwater benthic diatoms provided by Maria Kahlert at SLU 
