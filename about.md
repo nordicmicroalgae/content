@@ -19,6 +19,9 @@ Fig 1. Checklist of phytoplankton in the Skagerrak-Kattegat launched in 1996
 
 Fig 2. Nordic microalgae 2011-2024
 
-In 2024 the taxonomic backbone of Nordic Microalgae was updated and the website was moved to a new platform.
+![Mats K](/assets/mats_kuylenstierna.jpg)
+Fig 3. Mats Kuylenstierna (1951-2008)
+
+In 2024 a new version of Nordic microalgae was released. The page was moved to a new platform and was updated with an updated taxonomic backbone.
 
 If you have any questions please contact us at [nordicmicroalgae@smhi.se](mailto:nordicmicroalgae@smhi.se)
