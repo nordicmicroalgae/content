@@ -26,4 +26,3 @@ Fig 2. Former version of Nordic microalgae 2011-2024
 
 Fig 3. Mats Kuylenstierna (1951-2008)
 
-If you have any questions please contact us at [nordicmicroalgae@smhi.se](mailto:nordicmicroalgae@smhi.se)
