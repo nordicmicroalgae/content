@@ -17,7 +17,7 @@ Fig 1. Checklist of phytoplankton in the Skagerrak-Kattegat launched in 1996
 
 ![old nua](/assets/Nordic_microalgae_old.PNG)
 
-Fig 2. Nordic microalgae 2011-2024
+Fig 2. Former version of Nordic microalgae 2011-2024
 
 ![Mats K](/assets/mats_kuylenstierna.jpg)
 
