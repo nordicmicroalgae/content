@@ -1,4 +1,4 @@
-taxon_id	scientific_name_authority	usage_key	url	n_nordic_occurances	point_style
+taxon_id	scientific_name_authority	usage_key	url	n_nordic_occurrences	point_style
 101179	Leegaardiella Lynn & Montagnes, 1988	8332570	www.gbif.org/species/8332570	293	scaled.circles
 101180	Lohmanniella Leegaard, 1915	7413590	www.gbif.org/species/7413590	478	scaled.circles
 101185	Strobilidium Schewiakoff, 1892	7868132	www.gbif.org/species/7868132	292	scaled.circles
