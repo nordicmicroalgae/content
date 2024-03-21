@@ -239,6 +239,8 @@ taxon_id	ab_id	scientific_name	kingdom	phylum	class	order	family	genus	species	t
 109773	52202	Cochlodinium pupa	Chromista	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Cochlodinium	pupa	species	https://www.algaebase.org/search/species/detail/?species_id=52202
 109777	52330	Gymnodinium abbreviatum	Chromista	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Gymnodinium	abbreviatum	species	https://www.algaebase.org/search/species/detail/?species_id=52330
 109784	52337	Gymnodinium catenatum	Chromista	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Gymnodinium	catenatum	species	https://www.algaebase.org/search/species/detail/?species_id=52337
+109791	52344	Gymnodinium elongatum	Chromista	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Gymnodinium	elongatum	species	https://www.algaebase.org/search/species/detail/?species_id=52344
+109791	170195	Gymnodinium elongatum	Chromista	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Gymnodinium	elongatum	species	https://www.algaebase.org/search/species/detail/?species_id=170195
 109792	52345	Gymnodinium endofasciculum	Chromista	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Gymnodinium	endofasciculum	species	https://www.algaebase.org/search/species/detail/?species_id=52345
 109793	54352	Gymnodinium filum	Chromista	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Gymnodinium	filum	species	https://www.algaebase.org/search/species/detail/?species_id=54352
 109794	30398	Gymnodinium fuscum	Chromista	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Gymnodinium	fuscum	species	https://www.algaebase.org/search/species/detail/?species_id=30398
@@ -529,6 +531,7 @@ taxon_id	ab_id	scientific_name	kingdom	phylum	class	order	family	genus	species	t
 1361452	17889	Monostroma grevillei var. arcticum	Plantae	Chlorophyta	Ulvophyceae	Ulotrichales	Monostromataceae	Monostroma	grevillei	variety	https://www.algaebase.org/search/species/detail/?species_id=17889
 136147	141008	Diplophrys archeri	Chromista	Retaria	Polythalamea	Allogromiida 	Lagynidae	Diplophrys	archeri	species	https://www.algaebase.org/search/species/detail/?species_id=141008
 1361680	129156	Ceratium hirundinella f. silesiacum	Chromista	Dinoflagellata	Dinophyceae	Gonyaulacales	Ceratiaceae	Ceratium	hirundinella	variety	https://www.algaebase.org/search/species/detail/?species_id=129156
+1361943	163511	Protoperidinium oblongum var. latidorsale	Chromista	Dinoflagellata	Dinophyceae	Peridiniales	Protoperidiniaceae	Protoperidinium	oblongum	variety	https://www.algaebase.org/search/species/detail/?species_id=163511
 136779	45017	Paulinella	Chromista	Cercozoa	Imbricatea	Euglyphida	Paulinellidae	Paulinella		genus	https://www.algaebase.org/search/genus/detail/?genus_id=45017
 1367877	52105	Amphidinium steinii	Chromista	Dinoflagellata	Dinophyceae	Amphidiniales	Amphidiniaceae	Amphidinium	steinii	species	https://www.algaebase.org/search/species/detail/?species_id=52105
 1368615	158691	Kapelodinium vestifici	Chromista	Dinoflagellata	Dinophyceae	Torodiniales	Kapelodiniaceae	Kapelodinium	vestifici	species	https://www.algaebase.org/search/species/detail/?species_id=158691
@@ -2578,6 +2581,7 @@ taxon_id	ab_id	scientific_name	kingdom	phylum	class	order	family	genus	species	t
 341343	44236	Polytoma	Plantae	Chlorophyta	Chlorophyceae	Chlamydomonadales	Chlamydomonadaceae	Polytoma		genus	https://www.algaebase.org/search/genus/detail/?genus_id=44236
 341352	44811	Pteridomonas	Chromista	Heterokontophyta	Dictyochophyceae	Pedinellales	Actinomonadaceae	Pteridomonas		genus	https://www.algaebase.org/search/genus/detail/?genus_id=44811
 341361	44845	Triparma	Chromista	Heterokontophyta	Bolidophyceae	Parmales	Triparmaceae	Triparma		genus	https://www.algaebase.org/search/genus/detail/?genus_id=44845
+341370	148598	Stephanoeca diplocostata var. paucicostata	Amorphea	Choanozoa	Choanoflagellatea	Acanthoecida	Acanthoecidae	Stephanoeca	diplocostata	variety	https://www.algaebase.org/search/species/detail/?species_id=148598
 341381	59398	Eucampia antarctica	Chromista	Heterokontophyta	Mediophyceae	Hemiaulales	Hemiaulaceae	Eucampia	antarctica	species	https://www.algaebase.org/search/species/detail/?species_id=59398
 341391	48711	Triparma columacea	Chromista	Heterokontophyta	Bolidophyceae	Parmales	Triparmaceae	Triparma	columacea	species	https://www.algaebase.org/search/species/detail/?species_id=48711
 341473	66819	Chaetoceros castracanei	Chromista	Heterokontophyta	Mediophyceae	Chaetocerotales	Chaetocerotaceae	Chaetoceros	castracanei	species	https://www.algaebase.org/search/species/detail/?species_id=66819
@@ -4956,6 +4960,7 @@ taxon_id	ab_id	scientific_name	kingdom	phylum	class	order	family	genus	species	t
 634861	87364	Zygnema decussatum	Plantae	Charophyta	Zygnematophyceae	Zygnematales	Zygnemataceae	Zygnema	decussatum	species	https://www.algaebase.org/search/species/detail/?species_id=87364
 636076	89836	Navicula elaphros	Chromista	Heterokontophyta	Bacillariophyceae	Naviculales	Naviculaceae	Navicula	elaphros	species	https://www.algaebase.org/search/species/detail/?species_id=89836
 636223	90151	Trachydiscus ellipsoideus	Chromista	Heterokontophyta	Eustigmatophyceae	Goniochloridales	Goniochloridaceae	Trachydiscus	ellipsoideus	species	https://www.algaebase.org/search/species/detail/?species_id=90151
+636279	90277	Koliella elongata	Plantae	Chlorophyta	Trebouxiophyceae	Prasiolales	Koliellaceae	Koliella	elongata	species	https://www.algaebase.org/search/species/detail/?species_id=90277
 636409	90545	Gomphonema entolejum	Chromista	Heterokontophyta	Bacillariophyceae	Cymbellales	Gomphonemataceae	Gomphonema	entolejum	species	https://www.algaebase.org/search/species/detail/?species_id=90545
 637365	92486	Vitreochlamys fluviatilis	Plantae	Chlorophyta	Chlorophyceae	Chlamydomonadales	Chlamydomonadaceae	Vitreochlamys	fluviatilis	species	https://www.algaebase.org/search/species/detail/?species_id=92486
 638450	94689	Trichonema gracile	Amorphea	Amoebozoa	Variosea	Phalansteriida	Trichonematidae	Trichonema	gracile	species	https://www.algaebase.org/search/species/detail/?species_id=94689

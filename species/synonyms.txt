@@ -2527,10 +2527,12 @@ worms	Chaetobolus gibbus	Rosenvinge, 1893	146012
 worms	Ochlochaete lentiformis	Huber, 1892	146012
 worms	Vaucheria piloboloides var. compacta	Collins, 1900	146019
 worms	Vaucheria sphaerospora var. dioica	Rosenvinge, 1879	146019
+worms	Ceramium dichotomum	(Linnaeus) Roth, 1797	146021
 worms	Conferva dichotoma	Linnaeus, 1753	146021
 worms	Vaucheria pyrifera	Kützing, 1843	146021
 worms	Vaucheria starmachii	Kadlubowska, 1972	146021
 worms	Vaucheria hamata f. salina	Rieth, 1956	146022
+worms	Vaucheria decumbens	Wisłouch, 1922	146028
 worms	Vaucheria nicholsii	H.J.Brown, 1937	146028
 worms	Vaucheria subschleicheri	C.-C.Jao, 1939	146028
 worms	Vaucheria dichotoma f. arternensis	Rieth, 1953	146029
@@ -3553,6 +3555,7 @@ worms	Diplodinium lunula	(Schütt) Klebs, 1912	164053
 worms	Dissodinium lunula	(Schütt) Klebs, 1916	164053
 worms	Gymnodinium lunula	Schütt, 1895	164053
 worms	Diploneis papula var. papula	(A. Schmidt) Cleve	164057
+worms	Micrasterias duplex	(Meyen) Kützing, 1834	164061
 worms	Oplaria numismaticum	Losana, 1829	164061
 worms	Oplaria speciosum	Losana, 1829	164061
 worms	Pediastrum asperum	Braun, 1855	164061
@@ -3970,6 +3973,8 @@ worms	Oocystella parva	(West & G.S.West) Hindák, 1988	178613
 worms	Oocystis planctonica	Chodat, 1931	178613
 worms	Crucigeniella	Lemmermann, 1900	178617
 worms	Lemmermannia	Chodat, 1900	178617
+worms	Actidesmium ehrenbergianum	(Nägeli) Kuntze, 1898	178625
+worms	Pectoralina ehrenbergiana	(Nägeli) Kuntze, 1891	178625
 worms	Luminella	Kofoid & Campbell, 1939	178825
 worms	Chlorococcum gigas	(Kützing) Grunow, 1868	178930
 worms	Chrysocapsella planctonica	(West & G.S.West) Bourrelly, 1957	178930
@@ -4636,6 +4641,7 @@ worms	Mallomonas paucispinosa	W.Conrad, 1927	249722
 worms	Mallomonas quadricornis	Wermel, 1924	249722
 worms	Chlorochromonas	I.F.Lewis, 1913	249725
 worms	Corcontochrysis	Kalina, 1970	249731
+worms	Didymogenes dubia	Fott, 1933	254441
 worms	Oocystella rhomboidea	(Fott) Hindák, 1988	254441
 worms	Cyttarocylis denticulata	Ehrenburg, 1840	254723
 worms	Favella denticulata	(Ehrenberg) Jörgensen, 1927	254723
@@ -5606,6 +5612,7 @@ worms	Chroococcus helveticus f. major	Lagerheim ex Forti, 1907	576250
 worms	Chroococcus limneticus	Lemmermann, 1898	576250
 worms	Gloeocapsa limnetica	(Lemmermann) Hollerbach, 1938	576250
 worms	Golenkinia longispina	Korshikov, 1937	576260
+worms	Lagerheimia cyanea	Schiller, 1954	576260
 worms	Dactylococcopsis irregularis	G.M.Smith, 1922	576274
 worms	Ankistrodesmus tortilis	West & G.S.West, 1912	576275
 worms	Palmodactylon simplex	Nägeli, 1849	576279
@@ -5711,7 +5718,7 @@ worms	Closterium gracile var. elongatum	West & G.S.West, 1904	577818
 worms	Closterium gracile var. tenue	(Lemmermann) West & G.S.West, 1902	577818
 worms	Closterium limneticum var. tenue	Lemmermann, 1899	577818
 worms	Chodatella droescheri	Lemmermann, 1900	577838
-worms	Lagerheimia droescheri	(Lemmermann) Printz	577838
+worms	Lagerheimia droescheri	(Lemmermann) Printz, 1914	577838
 worms	Phythelios ovalis	Francé, 1894	577840
 worms	Gloeotila pelagica	(Nyegaard) Skuja, 1956	577863
 worms	Ulothrix pelagica	Nygaard	577863
@@ -5779,6 +5786,7 @@ worms	Pleurodiscus	Lagerheim, 1895	578376
 worms	Arthrodesmus constrictus	G.M.Smith, 1922	578382
 worms	Binatella cuspidata	Brébisson, 1839	578382
 worms	Binatella tricuspidata	Brébisson, 1835	578382
+worms	Desmidium cuspidatum	(Brébisson) G.Rabenhorst, 1847	578382
 worms	Phycastrum cuspidatum	(Brébisson) Kützing, 1845	578382
 worms	Staurastrum cuspidatum	Brébisson, 1848	578382
 worms	Staurastrum cuspidatum	Brébisson ex Ralfs, 1937	578382
@@ -6110,7 +6118,7 @@ worms	Closterium praelongum var. porosum	(Gutwinski) Krieger, 1935	608748
 worms	Closterium leibleinii f. minor	(Schmidle) Rich	608751
 worms	Closterium ralfsii var. immane	J.A.Cushman, 1908	608751
 worms	Closterium ralfsii var. typicum	Klebs	608751
-worms	Closterium elegans	Brébisson	608756
+worms	Closterium elegans	Brébisson, 1956	608756
 worms	Closterium striolatum var. orthonotum	J.Roy, 1890	608757
 worms	Closterium striolatum var. subdirectum	(West) Willi Krieger, 1935	608757
 worms	Closterium subdirectum	West, 1889	608757
@@ -6158,8 +6166,10 @@ worms	Desmidium aprogonum	Brébisson, 1835	608950
 worms	Aptogonum baileyi	Ralfs, 1848	608951
 worms	Aptogonum tetragonum	Delponte, 1873	608951
 worms	Desmidium aptogonum var. tetragonum	(Delponte) West & G.S.West	608951
+worms	Desmidium elenkinii	I.A.Kisselev, 1927	608951
 worms	Desmidium cylindricum	Greville, 1827	608954
 worms	Didymoprium grevillei	Kützing ex Ralfs, 1848	608954
+worms	Hyalotheca cylindrica	(Greville) Ehrenberg	608954
 worms	Leptozosma catenula	Turner, 1885	608957
 worms	Desmidium swartzii var. quadrangulatum	(Ralfs) J.Roy	608959
 worms	Cosmarium ansatum	(Ehrenberg) Corda, 1839	608972
@@ -6262,6 +6272,7 @@ worms	Staurastrum glabrum	Ralfs, 1848	609273
 worms	Staurastrum dejectum var. patens	Nordstedt, 1887	609279
 worms	Staurastrum connatum var. spencerianum	Nordstedt, 1888	609283
 worms	Arthrodesmus triangularis	Lagerheim, 1886	609286
+worms	Isthmosira excavata	(Ralfs) Kützing	609290
 worms	Sphaerozosma excavatum	Ralfs ex Ralfs, 1848	609290
 worms	Sphaerozosma excavatum var. granulatum	(Roy & Bisset) Playfair	609291
 worms	Sphaerozosma granulatum	J.Roy & Bisset, 1886	609291
@@ -6602,6 +6613,8 @@ worms	Coleochaete scutata var. soluta	Brébisson, 1844	611001
 worms	Closterium gracile var. capillare	Chodat, 1897	611031
 worms	Closterium polystichum var. nordstedtii	(Chodat) W.Krieger, 1935	611031
 worms	Closterium polystictum var. nordstedtii	(Chodat) W.Krieger, 1935	611031
+worms	Ursinella cyclica	(Lundell) Kuntze	611061
+worms	Ursinella didelta	(Turpin) Kuntze	611171
 worms	Ursinella turpinii	(Brébisson) Kuntze	611171
 worms	Euastrum crassum var. appendiculatum	Brébisson, 1856	611193
 worms	Euastrum crassum var. scrobiculatum	P.M.Lundell, 1871	611193
@@ -6619,6 +6632,7 @@ worms	Pleurotaenium minutum	(Ralfs) Hilse, 1866	611216
 worms	Pleurotaenium minutum f. majus	(P.Lundell) Kossinskaya, 1960	611216
 worms	Palmogloea chlamydospora	De Bary	611219
 worms	Palmogloea clepsydra	Wood, 1871	611219
+worms	Palmogloea endlicheriana	(Nägeli) Rabenhorst, 1868	611220
 worms	Mougeotia elegantula f. microspora	West, 1892	611224
 worms	Debarya laevis	(Kützing) West & G.S.West, 1897	611225
 worms	Zygogonium laeve	Kützing	611225
@@ -7054,7 +7068,9 @@ worms	Cymbella cesatii	(Rabenhorst) Grunow, 1881	622720
 worms	Navicula cesatii	Rabenhorst, 1853	622720
 worms	Golenkinia armata	Lemmermann, 1898	622736
 worms	Bohlinia echidna	(Bohlin) Lemmermann, 1899	622737
+worms	Lagerheimia echidna	(Bohlin) Wille, 1909	622737
 worms	Oocystis echidna	Bohlin, 1898	622737
+worms	Ankistrodesmus dybowskii	(Wołoszyńska) Ergashev, 1979	622807
 worms	Westella linearis	G.M.Smith, 1920	622882
 worms	Cyanodictyon imperfectum	Cronberg & Weibull, 1981	622903
 worms	Chara contraria var. denudata	(A.Braun) H.Groves & J. Groves, 1904	622983
@@ -7404,6 +7420,7 @@ worms	Sphaerocarpus depressus	Hassall, 1843	627709
 worms	Haematococcus droebakensis	Wollenweber, 1907	627714
 worms	Scytonema velutinum	Bornet & Flahault, 1886	627860
 worms	Pseudostaurastrum pulchrum	(Pascher) Bourrelly, 1952	628164
+worms	Conjugata decussata	Vaucher	634861
 worms	Chlamydococcus fluviatilis	Stein, 1878	637365
 worms	Chlamydomonas crassicauda	(Korshikov) Korshikov, 1938	637365
 worms	Sphaerellopsis crassicauda	Korshikov, 1925	637365
@@ -7513,6 +7530,7 @@ worms	Lyngbya uncinata	(Gomont ex Gomont) Compère, 1980	661044
 worms	Oscillatoria uncinata	C.Agardh, 1827	661044
 worms	Ankistrodesmus viridis	(J.Snow) Bourrelly, 1966	661077
 worms	Elakatothrix viridis	(J.W.Snow) Printz, 1914	661077
+worms	Isthmosira filiformis	(Ehrenberg) Kützing	661117
 worms	Onychonema nordstedtiana	W.B.Turner, 1885	661117
 worms	Onychonema nordstedtianum	W.B.Turner, 1885	661117
 worms	Sphaerozosma filiforme	Ralfs, 1848	661117
@@ -7680,6 +7698,7 @@ worms	Closterium linea	Perty, 1852	670626
 worms	Closterium pseudospirotaenium var. variabile	Lemmermann, 1896	670627
 worms	Closterium arcuatum	Brébisson ex Ralfs, 1848	670635
 worms	Cosmarium ellipsoideum	Elfving, 1881	670688
+worms	Ursinella ellipsoidea	(Elfving) Kuntze	670688
 worms	Cosmarium depressum var. limneticum	West	670699
 worms	Cosmarium subpunctulatum	Nordstedt, 1887	670740
 worms	Cosmarium subpunctulatum var. boergesenii	West, 1892	670740
