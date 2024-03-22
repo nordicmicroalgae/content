@@ -592,6 +592,7 @@ taxon_id	ncbi_id	url
 145724	80365	www.ebi.ac.uk/ena/browser/view/80365
 145725	90893	www.ebi.ac.uk/ena/browser/view/90893
 145778	262509	www.ebi.ac.uk/ena/browser/view/262509
+145790	2801	www.ebi.ac.uk/ena/browser/view/2801
 145797	306438	www.ebi.ac.uk/ena/browser/view/306438
 145798	173492	www.ebi.ac.uk/ena/browser/view/173492
 145799	135265	www.ebi.ac.uk/ena/browser/view/135265
@@ -1682,6 +1683,7 @@ taxon_id	ncbi_id	url
 235804	127548	www.ebi.ac.uk/ena/browser/view/127548
 235808	1086086	www.ebi.ac.uk/ena/browser/view/1086086
 235823	38816	www.ebi.ac.uk/ena/browser/view/38816
+235828	35138	www.ebi.ac.uk/ena/browser/view/35138
 235832	373044	www.ebi.ac.uk/ena/browser/view/373044
 235841	284804	www.ebi.ac.uk/ena/browser/view/284804
 235849	373041	www.ebi.ac.uk/ena/browser/view/373041
@@ -1811,8 +1813,6 @@ taxon_id	ncbi_id	url
 345462	43988	www.ebi.ac.uk/ena/browser/view/43988
 345465	2696291	www.ebi.ac.uk/ena/browser/view/2696291
 345466	91989	www.ebi.ac.uk/ena/browser/view/91989
-345469	91990	www.ebi.ac.uk/ena/browser/view/91990
-345472	265571	www.ebi.ac.uk/ena/browser/view/265571
 345481	107758	www.ebi.ac.uk/ena/browser/view/107758
 345487	5747	www.ebi.ac.uk/ena/browser/view/5747
 345488	425072	www.ebi.ac.uk/ena/browser/view/425072
@@ -1930,6 +1930,7 @@ taxon_id	ncbi_id	url
 409591	795110	www.ebi.ac.uk/ena/browser/view/795110
 409629	92939	www.ebi.ac.uk/ena/browser/view/92939
 409630	212360	www.ebi.ac.uk/ena/browser/view/212360
+409634	2833383	www.ebi.ac.uk/ena/browser/view/2833383
 409645	52549	www.ebi.ac.uk/ena/browser/view/52549
 409685	271408	www.ebi.ac.uk/ena/browser/view/271408
 410033	82160	www.ebi.ac.uk/ena/browser/view/82160
@@ -3177,6 +3178,11 @@ taxon_id	ncbi_id	url
 172295	35105	www.ebi.ac.uk/ena/browser/view/35105
 143718	2576934	www.ebi.ac.uk/ena/browser/view/2576934
 143752	2910630	www.ebi.ac.uk/ena/browser/view/2910630
+852	2763	www.ebi.ac.uk/ena/browser/view/2763
+368671	661027	www.ebi.ac.uk/ena/browser/view/661027
+599660	1535296	www.ebi.ac.uk/ena/browser/view/1535296
+599661	38263	www.ebi.ac.uk/ena/browser/view/38263
+144228	2800	www.ebi.ac.uk/ena/browser/view/2800
 562565	5653	www.ebi.ac.uk/ena/browser/view/5653
 562566	2704647	www.ebi.ac.uk/ena/browser/view/2704647
 22556	5708	www.ebi.ac.uk/ena/browser/view/5708
@@ -3208,6 +3214,7 @@ taxon_id	ncbi_id	url
 593689	45108	www.ebi.ac.uk/ena/browser/view/45108
 577493	45109	www.ebi.ac.uk/ena/browser/view/45109
 1307222	1656247	www.ebi.ac.uk/ena/browser/view/1656247
+600769	51727	www.ebi.ac.uk/ena/browser/view/51727
 1535827	2585091	www.ebi.ac.uk/ena/browser/view/2585091
 582210	86652	www.ebi.ac.uk/ena/browser/view/86652
 836365	1892251	www.ebi.ac.uk/ena/browser/view/1892251
@@ -3226,8 +3233,11 @@ taxon_id	ncbi_id	url
 231790	66470	www.ebi.ac.uk/ena/browser/view/66470
 599637	47771	www.ebi.ac.uk/ena/browser/view/47771
 707601	926346	www.ebi.ac.uk/ena/browser/view/926346
+409633	614056	www.ebi.ac.uk/ena/browser/view/614056
 425489	659329	www.ebi.ac.uk/ena/browser/view/659329
 292899	659330	www.ebi.ac.uk/ena/browser/view/659330
+425490	457377	www.ebi.ac.uk/ena/browser/view/457377
+425626	457378	www.ebi.ac.uk/ena/browser/view/457378
 562592	2611341	www.ebi.ac.uk/ena/browser/view/2611341
 562616	5739	www.ebi.ac.uk/ena/browser/view/5739
 447753	298266	www.ebi.ac.uk/ena/browser/view/298266
@@ -3253,7 +3263,6 @@ taxon_id	ncbi_id	url
 137286	2080271	www.ebi.ac.uk/ena/browser/view/2080271
 101183	415604	www.ebi.ac.uk/ena/browser/view/415604
 732334	77634	www.ebi.ac.uk/ena/browser/view/77634
-852	2763	www.ebi.ac.uk/ena/browser/view/2763
 15324	2798	www.ebi.ac.uk/ena/browser/view/2798
 143767	2799	www.ebi.ac.uk/ena/browser/view/2799
 599601	255711	www.ebi.ac.uk/ena/browser/view/255711
