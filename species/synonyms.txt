@@ -80,7 +80,6 @@ worms	Chroomonas salina	(Wislough) Butcher, 1967	106316
 worms	Cryptomonas salina	Wislouch, 1924	106316
 worms	Pyrenomonas salina	(S.M.Wislouch) U.J.Santore, 1984	106316
 worms	Blastodinida	Chatton, 1906	109386
-worms	Dinophysida		109390
 worms	Gonyaulacida		109391
 worms	Gymnodiniida		109392
 worms	Noctilucida		109393
@@ -727,9 +726,12 @@ worms	Astasia aculeata	(Skvortsov & Noda) Skvortsov & Noda, 1975	1358450
 worms	Astasia brasiliana	Skvortsov & Noda, 1975	1358450
 worms	Astasia depressa	Skvortsov & Noda, 1975	1358450
 worms	Astasia jolyi	Skvortsov & Noda, 1975	1358450
+worms	Astasia linealis	Pringsheim, 1936	1358450
 worms	Cyclidiopsis aculeata	Skvortsov & Noda, 1969	1358450
 worms	Cyclidiopsis acus	Korshikov, 1917	1358450
+worms	Cyclidiopsis korschikoffii	Matvienko, 1938	1358450
 worms	Khawkinea acus	(Korshikov) Bourrelly, 1951	1358450
+worms	Khawkinea linealis	(Pringsheim) T.L.Jahn, 1937	1358450
 worms	Menoidium acutissimum	Playfair, 1921	1358450
 worms	Monallantus salina	Bourrelly, 1958	1359175
 worms	Monallantus salinus	Bourrelly, 1958	1359175
@@ -3691,12 +3693,15 @@ worms	Navicula lanceolata var. phylleta	(Kütz.) Van Heurck, 1885	172845
 worms	Aneumastus pseudotusculus	(Hustedt) E.J.Cox & D.M.Williams, 2000	172850
 worms	Mastogloia pseudotuscula	(Hustedt) Loseva, 1982	172850
 worms	Schizonema scutelloides	(W. Smith ex Gregory) Kuntze, 1898	172855
+worms	Dinophysiales	Lindemann, 1928	1732560
+worms	Dinophysida		1732560
 worms	Prasinomonadina		17329
 worms	Prasinophyta		17329
 worms	Chlamydomonas hypolimnica	Skuja, 1948	1737189
 worms	Pouchetia parva	Lohmann, 1908	1737580
 worms	Warnowia parva	(Lohmann) Er.Lindemann, 1928	1737580
 worms	Uroglena lindiae	Bourrelly, 1957	1739878
+worms	Chlamydomonas marina	F.J.Cohn, 1865	1744240
 worms	Navicula reinhardtii var. gracilior	Grunow, 1885	175308
 worms	Navicula derasa	Grunow, 1880	175320
 worms	Stauropsis vanhoeffeni	(Gran) Meunier, 1910	175326
@@ -5956,6 +5961,7 @@ worms	Hypheothrix lateritia	Kützing ex Rabenhorst, 1865	608237
 worms	Hypheothrix lateritia	Kützing, 1849	608237
 worms	Hypheothrix tenax	G.Martens, 1871	608237
 worms	Leptothrix calcicola	(C.Agardh) Kützing, 1843	608237
+worms	Leptothrix lutea	Kützing, 1847	608237
 worms	Lyngbya calcicola	(C.Agardh) Hansgirg, 1885	608237
 worms	Nostoc calcicola	(C.Agardh) C.Agardh, 1817	608237
 worms	Oscillatoria calcicola	C.Agardh, 1812	608237
@@ -6123,6 +6129,7 @@ worms	Closterium acerosum var. lanceolatum	(Kützing ex Ralfs) Playfair, 1914	60
 worms	Closterium leibleinii var. manchuricum	Skvortsov	608738
 worms	Closterium lineatum var. multinucleatum	Deflandre	608739
 worms	Closterium lineatum var. sublaeve	Brébisson	608739
+worms	Bacillaria lunata	(O. F. Müller) Schrank, 1823	608740
 worms	Closterium affine	F.Gay	608740
 worms	Closterium lunula f. coloratum	(G.A.Klebs) Kossinskaja, 1951	608740
 worms	Closterium lunula f. minus	West & G.S.West, 1904	608740
