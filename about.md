@@ -14,15 +14,15 @@ The Nordic microalgae history started in 1996 when Mats Kuylenstierna and Bengt 
 
 ![printscreen checklist](/assets/checklist_1996.PNG)
 
-Fig 1. Checklist of phytoplankton in the Skagerrak-Kattegat launched in 1996
+__Fig 1.__ Checklist of phytoplankton in the Skagerrak-Kattegat launched in 1996
 
 In 2011 the first version of Nordic microalgae was released (Fig 2) based on the Skagerrak-Kattegat checklist combined with a number of other species lists, read more under [Checklists and biovolumes](/checklists-and-biovolumes/).
 
 ![printscreen old nordic microalgae](/assets/Nordic_microalgae_old.PNG)
 
-Fig 2. Former version of Nordic microalgae 2011-2024
+__Fig 2.__ Former version of Nordic microalgae 2011-2024
 
 ![Mats Kuylenstierna](/assets/mats_kuylenstierna.jpg)
 
-Fig 3. Mats Kuylenstierna (1951-2008)
+__Fig 3.__ Mats Kuylenstierna (1951-2008)
 
