@@ -3,7 +3,7 @@ title: Imaging FlowCytobot
 ---
 ![IFCB images](/assets/ifcb_mosaic_for_nordic_microalgae.png)
 
-Fig 1. Images of plankton captured using the Imaging FlowCytobot in the Skagerrak, Kattegat and the Baltic Sea. The IFCB was operated by SMHI on R/V Svea.
+__Fig 1.__ Images of plankton captured using the Imaging FlowCytobot in the Skagerrak, Kattegat and the Baltic Sea. The IFCB was operated by SMHI on R/V Svea.
 
 ## Imaging FlowCytobot
 
@@ -15,7 +15,7 @@ https://www2.whoi.edu/staff/hsosik/ifcb/
 
 ![IFCB deployment](/assets/Imaging_FlowCytobot_10_October_2017_cropped_IMG_1273_small.jpg)
 
-Fig. 2. The Imaging Flow CytoBot (Photo: Bengt Karlson)
+__Fig. 2.__ The Imaging Flow CytoBot (Photo: Bengt Karlson)
 
 ### Manually annotated images
 
