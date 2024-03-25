@@ -6,7 +6,7 @@ Nordic Microalgae caters for scientists and persons involved in environmental mo
 
 1. Anyone using the internet can browse the website and download species lists and images (with copyright restrictions)
 2. Contributors of images can upload images, add texts about the images and edit and delete his or her own material – a username and password is needed
-3. A smaller group of ”experts” can in addition edit information about species
+3. A smaller group of experts can in addition edit information about species
 4. Nordic Microalgae administrators can edit everything and also add and delete species names
 
 ## How to get a user identity and a password
