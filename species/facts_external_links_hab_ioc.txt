@@ -19,6 +19,8 @@ Aphanizomenon gracile	248100	https://www.marinespecies.org/hab/aphia.php?p=taxde
 Azadinium spinosum	391509	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=391509
 Blennothrix lyngbyacea	213723	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=213723
 Calothrix parietina	239094	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=239094
+Chattonella marina var. antiqua	547444	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=547444
+Chattonella marina var. ovata	674442	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=674442
 Chattonella subsalsa	246590	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=246590
 Chrysochromulina leadbeateri	246591	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=246591
 Cuspidothrix issatschenkoi	621617	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=621617
@@ -74,6 +76,7 @@ Prorocentrum lima	110301	https://www.marinespecies.org/hab/aphia.php?p=taxdetail
 Protoceratium reticulatum	110321	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=110321
 Prymnesium calathiferum	246600	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=246600
 Prymnesium parvum	160564	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=160564
+Prymnesium parvum f. patelliferum	688549	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=688549
 Prymnesium polylepis	670030	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=670030
 Pseudochattonella farcimen	531467	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=531467
 Pseudochattonella verruculosa	531446	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=531446
