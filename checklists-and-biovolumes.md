@@ -15,7 +15,7 @@ The original Nordic Microalgae checklist was created in 2011 by combining the fo
 * Freshwater phytoplankton from Norway from the REBECCA database provided by Birger Skjelbred at NIVA 
 * Taxa from the Finnish Phytoplankton Society provided by Kristiina Vuorio at SYKE 
 
-The taxonomic content on this website is derived from the original Nordic Microalgae checklist from 2011 (downloadable below), complemented with taxa from the Nordic Marine Phytoplankton Group (NOMP) biovolume list (see below), and updated to the current accepted name in World Register of Marine Species (WoRMS). The update also encompasses higher taxonomy and synonyms while ensuring that no unaccepted names are included in the database.
+The taxonomic content on this website is derived from the original Nordic Microalgae checklist from 2011 (downloadable below), complemented with taxa from the Nordic Marine Phytoplankton Group (NOMP) biovolume list (see below), and updated to the current accepted name in World Register of Marine Species (WoRMS). The update also encompasses higher taxonomy and synonyms while ensuring that no unaccepted names are included in the database. For details on the taxonomic content, please see [github.com/nordicmicroalgae/pipeline](https://github.com/nordicmicroalgae/pipeline).
 
 #### Current version
  
