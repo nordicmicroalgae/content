@@ -501,7 +501,6 @@ taxon_id	aphia_id	url
 118073	118073	https://www.marinespecies.org/aphia.php?p=taxdetails&id=118073
 118075	118075	https://www.marinespecies.org/aphia.php?p=taxdetails&id=118075
 119077	119077	https://www.marinespecies.org/aphia.php?p=taxdetails&id=119077
-119081	119081	https://www.marinespecies.org/aphia.php?p=taxdetails&id=119081
 120561	120561	https://www.marinespecies.org/aphia.php?p=taxdetails&id=120561
 120566	120566	https://www.marinespecies.org/aphia.php?p=taxdetails&id=120566
 1282	1282	https://www.marinespecies.org/aphia.php?p=taxdetails&id=1282
@@ -6437,10 +6436,6 @@ taxon_id	aphia_id	url
 1736250	1736250	https://www.marinespecies.org/aphia.php?p=taxdetails&id=1736250
 1736256	1736256	https://www.marinespecies.org/aphia.php?p=taxdetails&id=1736256
 118027	118027	https://www.marinespecies.org/aphia.php?p=taxdetails&id=118027
-582424	582424	https://www.marinespecies.org/aphia.php?p=taxdetails&id=582424
-582425	582425	https://www.marinespecies.org/aphia.php?p=taxdetails&id=582425
-146152	146152	https://www.marinespecies.org/aphia.php?p=taxdetails&id=146152
-22748	22748	https://www.marinespecies.org/aphia.php?p=taxdetails&id=22748
 451648	451648	https://www.marinespecies.org/aphia.php?p=taxdetails&id=451648
 582166	582166	https://www.marinespecies.org/aphia.php?p=taxdetails&id=582166
 451649	451649	https://www.marinespecies.org/aphia.php?p=taxdetails&id=451649

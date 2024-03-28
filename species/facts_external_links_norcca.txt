@@ -1,4 +1,5 @@
 taxon_id	scientific_name	valid_name	strain_name	strain_link	species	species_link	habitat	url_slug
+495382	Pyramimonas octopus	Pyramimonas octopus	K-0001	https://norcca.scrol.net/strain/k-0001	Pyramimonas octopus	https://norcca.scrol.net/species/pyramimonas-octopus	Marine, Salt Marsh	k-0001
 162717	Stigeoclonium	Stigeoclonium	K-0018	https://norcca.scrol.net/strain/k-0018	Stigeoclonium sp.	https://norcca.scrol.net/species/stigeoclonium-sp	Freshwater, Pond	k-0018
 375678	Nephroselmis olivacea	Nephroselmis olivacea	K-0019	https://norcca.scrol.net/strain/k-0019	Nephroselmis olivacea	https://norcca.scrol.net/species/nephroselmis-olivacea	Freshwater	k-0019
 375678	Nephroselmis olivacea	Nephroselmis olivacea	K-0020	https://norcca.scrol.net/strain/k-0020	Nephroselmis olivacea	https://norcca.scrol.net/species/nephroselmis-olivacea	Freshwater	k-0020
@@ -308,6 +309,7 @@ taxon_id	scientific_name	valid_name	strain_name	strain_link	species	species_link
 837255	Chrysotila carterae	Chrysotila carterae	NIVA-2/92	https://norcca.scrol.net/strain/niva-292	Chrysotila carterae	https://norcca.scrol.net/species/chrysotila-carterae	Brackish pool	niva-292
 376148	Nannochloropsis oculata	Nannochloropsis oculata	NIVA-3/04	https://norcca.scrol.net/strain/niva-304	Nannochloropsis oculata	https://norcca.scrol.net/species/nannochloropsis-oculata	A supralittoral pool	niva-304
 106282	Cryptomonas	Cryptomonas	NIVA-3/09	https://norcca.scrol.net/strain/niva-309	Cryptomonas sp.	https://norcca.scrol.net/species/cryptomonas-sp	Freshwater	niva-309
+163447	Tetraselmis suecica	Tetraselmis suecica	NIVA-3/10	https://norcca.scrol.net/strain/niva-310	Tetraselmis suecica	https://norcca.scrol.net/species/tetraselmis-suecica	Marine	niva-310
 160564	Prymnesium parvum	Prymnesium parvum	NIVA-3/12	https://norcca.scrol.net/strain/niva-312	Prymnesium parvum	https://norcca.scrol.net/species/prymnesium-parvum	Brackish	niva-312
 160564	Prymnesium parvum	Prymnesium parvum	NIVA-3/88	https://norcca.scrol.net/strain/niva-388	Prymnesium parvum	https://norcca.scrol.net/species/prymnesium-parvum	Brackish	niva-388
 688549	Prymnesium parvum f. patelliferum	Prymnesium parvum f. patelliferum	NIVA-3/89/1	https://norcca.scrol.net/strain/niva-3891	Prymnesium parvum f. patelliferum	https://norcca.scrol.net/species/prymnesium-parvum-f-patelliferum	Brackish	niva-3891
@@ -1102,4 +1104,3 @@ taxon_id	scientific_name	valid_name	strain_name	strain_link	species	species_link
 162823	Attheya septentrionalis	Chaetoceros septentrionalis	UIO 607	https://norcca.scrol.net/strain/uio-607	Attheya septentrionalis	https://norcca.scrol.net/species/attheya-septentrionalis	Marine plankton	uio-607
 178207	Chaetoceros cf. neogracilis	Chaetoceros neogracilis	UIO 608	https://norcca.scrol.net/strain/uio-608	Chaetoceros cf. neogracilis	https://norcca.scrol.net/species/chaetoceros-cf-neogracilis	Marine plankton	uio-608
 625490	Thalassiosira hispida	Thalassiosira hispida	UIO 611	https://norcca.scrol.net/strain/uio-611	Thalassiosira hispida	https://norcca.scrol.net/species/thalassiosira-hispida	Marine plankton	uio-611
-495382	Pyramimonas octopus	Pyramimonas octopus	K-0001	https://norcca.scrol.net/strain/k-0001	Pyramimonas octopus	https://norcca.scrol.net/species/pyramimonas-octopus	Marine, Salt Marsh	k-0001
