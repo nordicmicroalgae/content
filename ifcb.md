@@ -21,13 +21,10 @@ __Fig. 2.__ The Imaging Flow CytoBot (Photo: Bengt Karlson)
 
 Kraft, K., Velhonoja, O., Seppälä, J., Hällfors, H., Suikkanen, S., Ylöstalo, P., Anglès, S., Kielosto, S., Kuosa, H., Lehtinen, S., Oja, J., &amp; Tamminen, T. (2022). SYKE-plankton_IFCB_2022 [Data set]. [https://doi.org/10.23728/b2share.abf913e5a6ad47e6baa273ae0ed6617a](https://doi.org/10.23728/b2share.abf913e5a6ad47e6baa273ae0ed6617a)
 
-#### Selected references
+### Selected references
 
-Karlson, B., Berdalet, E., Kudela, R.M., 2022. The GlobalHAB mini-symposium on automated plankton observations. Harmful Algae News 71, 1-4. http://www.e-pages.dk/ku/1549/
-
-Karlson, B., 2021. A Euopean Imaging FlowCytoBot (IFCB) network. Harmful Algae News 68, 1. http://www.e-pages.dk/ku/1516/
-
-Olson, R.J., Sosik, H.M., 2007. A submersible imaging-in-flow instrument to analyze nano-and microplankton: Imaging FlowCytobot. Limnology and Oceanography-Methods 5, 195-203. https://doi.org/10.4319/lom.2007.5.195
-
-Sosik, H.M., Olson, R.J., 2007. Automated taxonomic classification of phytoplankton sampled with imaging-in-flow cytometry. Limnology and Oceanography-Methods 5, 204-216.
+- Karlson, B., Berdalet, E., Kudela, R.M., 2022. The GlobalHAB mini-symposium on automated plankton observations. Harmful Algae News 71, 1-4. http://www.e-pages.dk/ku/1549/
+- Karlson, B., 2021. A Euopean Imaging FlowCytoBot (IFCB) network. Harmful Algae News 68, 1. http://www.e-pages.dk/ku/1516/
+- Olson, R.J., Sosik, H.M., 2007. A submersible imaging-in-flow instrument to analyze nano-and microplankton: Imaging FlowCytobot. Limnology and Oceanography-Methods 5, 195-203. https://doi.org/10.4319/lom.2007.5.195
+- Sosik, H.M., Olson, R.J., 2007. Automated taxonomic classification of phytoplankton sampled with imaging-in-flow cytometry. Limnology and Oceanography-Methods 5, 204-216.
 https://aslopubs.onlinelibrary.wiley.com/doi/pdf/10.4319/lom.2007.5.204
