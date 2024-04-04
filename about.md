@@ -10,7 +10,7 @@ The Swedish Research Council have provided long-term funding of Nordic Microalga
 
 A new version of Nordic microalgae was released in 2024, including an updated taxonomic backbone, a new platform and new functionality. Taxonomic information is now managed by monitoring taxonomic revisions in WoRMS and AlgaeBase, thereby facilitating the maintenance of an up-to-date taxonomic backbone. Additionally, new features have been introduced, such as occurrence maps on taxon sheets, which are sourced from the Global Biodiversity Information Facility (GBIF) Maps API.
 
-The Nordic microalgae history started in 1996 when Mats Kuylenstierna and Bengt Karlson lanched the first webside with a checklist of phytoplankton in the Skagerrak-Kattegat (__Fig 1__). The inter-regional EU project Forum Skagerrak II provided initial funding for transferring the checklist to a website. 
+The Nordic microalgae history started in 1996 when Mats Kuylenstierna and Bengt Karlson lanched the first webside the [Checklist of phytoplankton in the Skagerrak-Kattegat](https://www.smhi.se/oceanografi/oce_info_data/plankton_checklist/ssshome.htm) (__Fig 1__). The inter-regional EU project Forum Skagerrak II provided initial funding for transferring the checklist to a website. 
 
 ![printscreen checklist](/assets/checklist_1996.PNG)
 
