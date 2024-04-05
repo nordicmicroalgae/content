@@ -6,6 +6,8 @@ title: For developers
 
 All data available on Nordic Microalgae can be accessed from through our [API](/api).
 
+&nbsp;  
+
 ## GitHub
 
 The source code for Nordic Microalgae, including the code utilized for updating the taxonomic backbone, is accessible on [GitHub](https://github.com/nordicmicroalgae).
