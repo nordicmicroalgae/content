@@ -10,7 +10,7 @@ The HELCOM EG Phyto (previously PEG) biovolume list is used in routine monitorin
 
 #### NOMP Biovolume list
 
-The NOMP biovolume list comprise of data from the HELCOM EG Phyto biovolume list and data from additional taxa sourced from the Skagerrak and the North Sea, provided by the Swedish Meteorological and Hydrological Institute and the Norwegian Institute for Water Research. The list is updated once per year, normally after the [annual NOMP workshop](nordicmicroalgae.org/nomp/), and can be accessed below.
+The NOMP biovolume list comprise of data from the HELCOM EG Phyto biovolume list and data from additional taxa sourced from the Skagerrak and the North Sea, provided by the Swedish Meteorological and Hydrological Institute and the Norwegian Institute for Water Research. The list is updated once per year, normally after the [annual NOMP workshop](/collaborations/), and can be accessed below.
 
 #### Lists of taxa with biovolumes, carbon content and trophic type
 A Microsoft Excel file compressed in a zip-archive. The file is also part of the download of Plankton Toolbox
