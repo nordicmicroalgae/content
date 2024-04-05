@@ -22,6 +22,8 @@ Learn more about the Imaging FlowCytobot:
 Woods Hole Oceanographic Institute web site about IFCB:
 https://www2.whoi.edu/staff/hsosik/ifcb/
 
+&nbsp;  
+
 ![IFCB deployment](/assets/Imaging_FlowCytobot_10_October_2017_cropped_IMG_1273_small.jpg)
 
 __Fig. 2.__ The Imaging Flow CytoBot (Photo: Bengt Karlson)
