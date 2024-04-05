@@ -4,13 +4,15 @@ title: Automated Imaging and Artificial Intelligence (AI²)
 
 # Instruments
 
+A variety of instruments designed for automated image analysis of phytoplankton and microzooplankton are deployed across Northern Europe for comprehensive monitoring purposes. Below, we provide descriptions of some of these cutting-edge instruments.
+
+## Imaging FlowCytobot
+
 ![IFCB images](/assets/ifcb_mosaic_for_nordic_microalgae.png)
 
 __Fig 1.__ Images of plankton captured using the Imaging FlowCytobot in the Skagerrak, Kattegat and the Baltic Sea. The IFCB was operated by SMHI on R/V Svea.
 
-## Imaging FlowCytobot
-
-The Imaging FlowCytobot (IFCB) is an automated microscope integrated into a flow cytometer that generates plankton images. The IFCB can be operated in situ or in air pumping water to the instrument. Water samples are collected automatically about every 20 minutes. The plankton in the sample passes trough a flow chamber and are imaged by a camera triggered by fluorescence or scattering of the plankton organism. Thousands of images are collected for each sample. To identify the plankton in the images machine learning methods are used. Phytoplankton identifications specialists annotate images to create training sets. Nordic Microalgae provides links to annotated images from Northern Europe that can be used for training your image classifier (see below). If you have a published dataset that you would like to include in this list, please contact us via email at nordicmicroalgae@smhi.se.
+The Imaging FlowCytobot (IFCB) is an automated microscope integrated into a flow cytometer that generates plankton images. The IFCB can be operated in situ or in air pumping water to the instrument. Water samples are collected automatically about every 20 minutes. The plankton in the sample passes trough a flow chamber and are imaged by a camera triggered by fluorescence or scattering of the plankton organism. Thousands of images are collected for each sample. To identify the plankton in the images machine learning methods are used. Phytoplankton identifications specialists annotate images to create training sets. Nordic Microalgae provides links to annotated images from Northern Europe that can be used for training your image classifier, see [Annotated images](/annotated-images/).
 
 Learn more about the Imaging FlowCytobot:
 Woods Hole Oceanographic Institute web site about IFCB:
