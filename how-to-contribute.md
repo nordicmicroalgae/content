@@ -11,7 +11,7 @@ Nordic Microalgae caters for scientists and persons involved in environmental mo
 
 ## How to get a user identity and a password
 
-Please register as a contributor by sending an e-mail to nordicmicroalgae@smhi.se. You will receive a temporary password, and will be asked to log in and change your password and enter your contact information.
+Please register as a contributor by sending an e-mail to [nordicmicroalgae@smhi.se](mailto:nordicmicroalgae@smhi.se). You will receive a temporary password, and will be asked to log in and change your password and enter your contact information.
 
 When you register you agree that your name is shown on [www.nordicmicroalgae.org](http://nordicmicroalgae.org) and that information about you is stored in the contributor database. Your e-mail address will not be shown to the public. It is your responsibility to make sure that you have the right to upload images to Nordic Microalgae. The creator (photographer or artist) keeps the copyright to the image. Please select one of the four options below when you upload images. Option number 2 is recommended in general.
 
