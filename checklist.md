@@ -8,13 +8,11 @@ The taxonomic content on this website is derived from the original Nordic Microa
 
 The taxonomic content is available for download as the _Nordic Microalgae Checklist_. This checklist encompasses all taxa featured on this website and endeavors to encompass every microalgae taxon found in Nordic waters.
 &nbsp;  
-&nbsp;  
-&nbsp;  
-&nbsp;  
-&nbsp;  
+
 #### Current version
 
-* [Nordic Microalgae checklist 2024-03-27](https://data.smhi.se/oce/SLW/checklists/2024-03-27/)
+* [Nordic Microalgae checklist 2024-04-04](https://data.smhi.se/oce/SLW/checklists/2024-04-04/)
+&nbsp;  
 
 #### Original Nordic Microalgae checklist (2011)
 
@@ -31,6 +29,7 @@ The original Nordic Microalgae checklist, established in 2011, served as the tax
 
 The original checklist can accessed from here:
 * [Nordic Microalgae checklist 2011-10-10](https://data.smhi.se/oce/SLW/checklists/2011-10-10/)
+&nbsp;  
 
 ### Literature used to compile the original Nordic Microalgae checklist
 
