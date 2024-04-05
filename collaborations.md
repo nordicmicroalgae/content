@@ -9,16 +9,24 @@ The Nordic microalgae website is operated by the Swedish Meteorological and Hydr
 
 SBDI is making biodiversity data accessible providing powerful analysis and visualization tools. SBDI also includes [GBIF Sweden](https://www.gbif.se/). SBDI is developed in collaboration with the Living Atlases community, and will offer unprecedented opportunities for innovative, interdisciplinary research on biodiversity and ecosystems. The [Swedish Research Council](https://www.vr.se/english.html), has provided funds for the development and operation of Nordic Microalgae since October 2010.  
 
+&nbsp;  
+
 ## HELCOM EG Phyto (previously HELCOM PEG)
 
 Established in 1991, [HELCOM EG Phyto](https://helcom.fi/helcom-at-work/projects/peg/) was formed with the primary objective of standardizing the methodologies for collecting, counting, and identifying phytoplankton species in the Baltic Sea. Given the critical significance of precise biomass estimation in phytoplankton monitoring, EG Phyto has dedicated substantial efforts to standardizing size-classes and biovolumes of phytoplankton species prevalent in the Baltic Sea region. Utilizing a standardized species list with predefined size-classes and biovolumes stands as a pivotal measure aimed at enhancing the accuracy of phytoplankton counting methods and facilitating the comparability of outcomes.
+
+&nbsp;  
 
 ## NOMP - Nordic Marine Phytoplankton Group
 
 NOMP - Nordic Marine Phytoplankton Group consists of persons in Denmark (including Faroe Islands), Iceland, Norway and Sweden working with research and environmental monitoring related to phytoplankton, algal blooms and harmful algae. One aim of the group is to improve quality and inter-comparability  of results by using consistent names of organisms and algal groups. Other aims include collaboration through yearly meetings to share recent results, comparisons of methods etc. The sea areas in focus are the Kattegat, the Skagerrak, the North Sea, the Norwegian Sea, the Barents Sea, the Iceland Sea and the Greenland Sea. The annual meeting history of NOMP can be downloaded from [here](https://data.smhi.se/oce/SLW/NOMP/NOMP_history_up_to_2023.pdf).
 
+&nbsp;  
+
 ## ![AlgaeBase](/assets/algaebase-logo-214.png)
 Taxonomic data from [AlgaeBase](http://www.algaebase.org/), provided by the National University of Ireland, Galway, Ireland, complements our taxonomic backbone derived from the World Register of Marine Species.
+
+&nbsp;  
 
 ## Other collaborations and contributers
 
