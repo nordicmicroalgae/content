@@ -5,7 +5,7 @@ title: Automated Imaging and Artificial Intelligence (AI²)
 ## Manually annotated images
 Nordic Microalgae provides links to datasets of annotated images from Northern Europe that can be used for training image classifiers. 
 
-If you have a published dataset that you would like to include in this list, please contact us via email at nordicmicroalgae@smhi.se.
+If you have a published dataset that you would like to include in this list, please contact us via email at [nordicmicroalgae@smhi.se](mailto:nordicmicroalgae@smhi.se).
 
 &nbsp;  
 
