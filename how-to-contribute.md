@@ -9,6 +9,8 @@ Nordic Microalgae caters for scientists and persons involved in environmental mo
 3. A smaller group of experts can in addition edit information about species
 4. Nordic Microalgae administrators can edit everything and also add and delete species names
 
+&nbsp;  
+
 ## How to get a user identity and a password
 
 Please register as a contributor by sending an e-mail to [nordicmicroalgae@smhi.se](mailto:nordicmicroalgae@smhi.se). You will receive a temporary password, and will be asked to log in and change your password and enter your contact information.
@@ -20,9 +22,13 @@ When you register you agree that your name is shown on [www.nordicmicroalgae.org
 3. Creative Commons Attribution-ShareAlike 3.0 Unported
 4. Public domain
 
-## Step by step guides
+&nbsp;  
+
+## Step by step guides to upload images
 
 How to contribute with images and image galleries: [Download pdf](https://data.smhi.se/oce/SLW/nordic_microalgae_contributor_guide.pdf)
+
+&nbsp;  
 
 ## About contribution of images
 
@@ -38,6 +44,8 @@ Please contribute images for any organism in Nordic Microalgae. There is no rest
 * Images of organisms observed in the electron microscope
 
 It is also useful showing an organism at different focus levels. Taking several photographs at different z-level (focus) and stitching them together in the computer is one way to achieve a useful film. Please use arrows and other markers where appropriate. Scale bars are very useful in images.
+
+&nbsp;  
 
 ## Change history
 
