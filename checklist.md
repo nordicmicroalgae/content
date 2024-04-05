@@ -2,7 +2,7 @@
 title: Tools
 ---
 
-### Nordic Microalgae checklist
+## Nordic Microalgae checklist
 
 The taxonomic content on this website is derived from the original Nordic Microalgae checklist from 2011 (downloadable below), complemented with taxa from the Nordic Marine Phytoplankton Group (NOMP) biovolume list, and updated to the current accepted name in World Register of Marine Species (WoRMS). Higher taxonomy and synonyms are also sourced from WoRMS, while ensuring that no unaccepted names are included in the database. The taxonomic backbone is updated on an annual basis. For technical details on the taxonomic update process, please refer to our [data pipeline](https://github.com/nordicmicroalgae/pipeline).
 
@@ -26,10 +26,9 @@ The original Nordic Microalgae checklist, established in 2011, served as the tax
 * Taxa from the Finnish Phytoplankton Society provided by Kristiina Vuorio at SYKE 
 
 The original checklist can accessed from here:
-
 * [Nordic Microalgae checklist 2011-10-10](https://data.smhi.se/oce/SLW/checklists/2011-10-10/)
 
-## Literature used to compile the original Nordic Microalgae checklist
+### Literature used to compile the original Nordic Microalgae checklist
 
 - [Classic monographs](http://www.obs-vlfr.fr/LOV/aquaparadox/html/ClassicMonographs.php) available at Aquaparadox maintained at Observatoire Océanologique de Villefranche sur Mer
 - Old publications are also available at the [Biodiversity Heritage Library](http://www.biodiversitylibrary.org/)
