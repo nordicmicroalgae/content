@@ -273,7 +273,6 @@ taxon_id	scientific_name	valid_name	strain_name	strain_link	species	species_link
 373972	Microthamnion kuetzingianum	Microthamnion kuetzingianum	K-1856	https://norcca.scrol.net/strain/k-1856	Microthamnion kuetzingianum	https://norcca.scrol.net/species/microthamnion-kuetzingianum	Freshwater	k-1856
 373972	Microthamnion kuetzingianum	Microthamnion kuetzingianum	K-1857	https://norcca.scrol.net/strain/k-1857	Microthamnion kuetzingianum	https://norcca.scrol.net/species/microthamnion-kuetzingianum	Freshwater	k-1857
 571647	Synura petersenii	Synura petersenii	K-1875	https://norcca.scrol.net/strain/k-1875	Synura petersenii	https://norcca.scrol.net/species/synura-petersenii	Freshwater	k-1875
-106282	Cryptomonas	Cryptomonas	K-1876	https://norcca.scrol.net/strain/k-1876	Cryptomonas sp.	https://norcca.scrol.net/species/cryptomonas-sp	Freshwater	k-1876
 572081	Selenastrum	Selenastrum	K-1877	https://norcca.scrol.net/strain/k-1877	Selenastrum sp.	https://norcca.scrol.net/species/selenastrum-sp	Freshwater	k-1877
 178583	Chlamydomonas	Chlamydomonas	K-1889	https://norcca.scrol.net/strain/k-1889	Chlamydomonas sp.	https://norcca.scrol.net/species/chlamydomonas-sp	Freshwater	k-1889
 578347	Volvox aureus	Volvox aureus	K-1892	https://norcca.scrol.net/strain/k-1892	Volvox aureus	https://norcca.scrol.net/species/volvox-aureus	Freshwater	k-1892

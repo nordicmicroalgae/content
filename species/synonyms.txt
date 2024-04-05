@@ -4457,6 +4457,7 @@ worms	Laminaria saccharina var. grandis	Kjellman, 1890	234483
 worms	Laminaria saccharina var. latissima	C.Agardh, 1817	234483
 worms	Codonella ventricosa	Jorgensen, 1899	235758
 worms	Tintinnopsis ventricosa	Daday	235758
+worms	Tintinnus ventricosus	Clapaède & Lachmann 1858	235758
 worms	Tintinnus helix	Claparède and Lachman 1858	235759
 worms	Cyttarocylis ehrenbergi	Brandt, 1906	235761
 worms	Favella echrenbergi	(Claparède & Lachmann, 1858)	235761
@@ -4954,6 +4955,7 @@ worms	Stigeoclonium subsecundum var. javanicum	Ritcher, 1914	422903
 worms	Stigeoclonium subsecundum var. tenuis	Nordstedt, 1880	422903
 worms	Stigeoclonium tenue var. irregulare	(Kützing) Rabenhorst, 1868	422903
 worms	Conferva affinis	Kützing, 1845	422904
+worms	Tintinnopsis producta	meunier 1919	427455
 worms	Cyttarocylis annulata	Daday 1887	427479
 worms	Cyttarocylis annulata	Daday 1886	427479
 worms	Cyttarocylis obtusaangula	Ostenfeld, 1899	427609
@@ -5563,6 +5565,7 @@ worms	Ursinella bioculata	(Brébisson & Godey) Kuntze	572007
 worms	Euastrum botrytis	(Ralfs) Nägeli, 1849	572008
 worms	Cosmarium scenedesmus	Delponte, 1877	572010
 worms	Euastrum depressum	Nägeli, 1849	572010
+worms	Ursinella scenedesmus	(Delponte) Kuntze	572010
 worms	Cosmarium subtumidum var. minor	J.Sampaio, 1922	572012
 worms	Ursinella subtumida	(Nordstedt) Kuntze	572012
 worms	Campylomonas reflexa	(M.Marsson) D.R.A.Hill, 1991	572022
