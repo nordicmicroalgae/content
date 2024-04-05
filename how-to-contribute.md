@@ -24,7 +24,7 @@ When you register you agree that your name is shown on [www.nordicmicroalgae.org
 
 &nbsp;  
 
-## Step by step guides to upload images
+## Step by step guide to upload images
 
 How to contribute with images and image galleries: [Download pdf](https://data.smhi.se/oce/SLW/nordic_microalgae_contributor_guide.pdf)
 
