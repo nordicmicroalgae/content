@@ -4,7 +4,7 @@ title: About
 
 Nordic microalgae aim to provide high quality images, illustrations and information (e.g. occurrences, trophic role, size, morphology and harmfulness) of aquatic microalgae and related organisms in the Nordic region. The organisms included are Phytoplankton, microzooplankton (i.e. cyanobacteria, unicellular eukaryotic algae and heterotrophic protists), benthic microalgae and benthic microheterotrophs. All images on the website are provided by microalgae experts.
 
-Nordic microalgae also provide a species checklist for Nordic waters. The taxonomic information (including the higher taxonomy and synonyms) of Nordic Microalge is based on the current accepted name in World Register of Marine Species (WoRMS). Supplementary information, including geometric shapes, is sourced from the Nordic Marine Phytoplankton Group (NOMP) biovolume list. Links are provided for taxa present on AlgaeBase, Dyntaxa, GBIF, ENA, NCBI, ITIS, IOC HAB, and NORCCA: The Norwegian Culture Collection of Algae (only strains originating from Northern Europe).
+Nordic microalgae also provide a [species checklist](/checklist/) for Nordic waters. The taxonomic information (including the higher taxonomy and synonyms) of Nordic Microalge is based on the current accepted name in World Register of Marine Species (WoRMS). Supplementary information, including geometric shapes, is sourced from the Nordic Marine Phytoplankton Group (NOMP) biovolume list. Links are provided for taxa present in WoRMS, Dyntaxa, AlgaeBase, Global Biodiversity Information Facility (GBIF), IOC-UNESCO Taxonomic Reference List of Harmful Micro Algae (IOC HAB), The Norwegian Culture Collection of Algae (NORCCA, only strains originating from Northern Europe), European Nucleotide Archive (ENA), National Center for Biotechnology Information (NCBI), Protist Ribosomal Reference (PR2), and the Integrated Taxonomic Information System database (ITIS).
 
 The Swedish Research Council have provided long-term funding of Nordic Microalgae since 2010 through Swedish Lifewatch (2010-2020) and Swedish Biodiversity Data Infrastructure (2021-Present).
 
@@ -20,7 +20,7 @@ __Fig 1.__ Checklist of phytoplankton in the Skagerrak-Kattegat launched in 1996
 
 &nbsp;  
 
-In 2011 the first version of Nordic microalgae was released (__Fig 2__) based on the Skagerrak-Kattegat checklist combined with a number of other species lists, read more under [Checklists and biovolumes](/checklists-and-biovolumes/).
+In 2011 the first version of Nordic microalgae was released (__Fig 2__) based on the Skagerrak-Kattegat checklist combined with a number of other species lists, read more under [Nordic Microalgae checklist](/checklist/).
 
 &nbsp;  
 
