@@ -28,7 +28,7 @@ Plankton Toolbox is now accessible in version 1.4.1 designed for both Windows an
 You will need to allow the software to run on your PC When starting the software the first time you will get a warning.
 
 ### Notes for Mac users:
-Place the software in your App folder. The folders "toolbox_data" and "toolbox_counter" can be placed in your home folder, e.g. in "Mike". You will need to allow the software to run on your Mac. When starting the software the first time you will get a warning. To avoid this ctrl-click on the software the first time you run it and click on open. You need to do this only once. Alternatively: go to Settings -> Security and allow Plankton Toolbox to start. In MacOS 13 addtional security was added, please see the User guide below for further instructions. Contact nordicmicroalgae@smhi.se if you have problems starting Plankton Toolbox.
+Place the software in your App folder. The folders "toolbox_data" and "toolbox_counter" can be placed in your home folder, e.g. in "Mike". You will need to allow the software to run on your Mac. When starting the software the first time you will get a warning. To avoid this ctrl-click on the software the first time you run it and click on open. You need to do this only once. Alternatively: go to Settings -> Security and allow Plankton Toolbox to start. In MacOS 13 addtional security was added, please see the User guide below for further instructions. Contact [nordicmicroalgae@smhi.se](mailto:nordicmicroalgae@smhi.se) if you have problems starting Plankton Toolbox.
 
 &nbsp;  
 
