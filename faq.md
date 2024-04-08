@@ -17,3 +17,9 @@ Try a synonym in the search field. If you still do not find the species it could
 ### How do I create a new gallery?
 
 All registrered contributors can create new galleries when submitting or editing your image information, please follow the step-by-step contributor guide that can be found under [How to contribute](/how-to-contribute/). If you would like a text associated to your gallery, please e-mail [nordicmicroalgae@smhi.se](mailto:nordicmicroalgae@smhi.se).
+
+&nbsp;  
+
+### What should I do if I encounter incorrect information on the website, such as misidentified taxa?
+
+If you come across inaccuracies, such as misidentified taxa, please reach out to Nordic Microalgae via email at [nordicmicroalgae@smhi.se](mailto:nordicmicroalgae@smhi.se) and include a justification for the proposed change.
