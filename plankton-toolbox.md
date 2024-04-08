@@ -35,12 +35,12 @@ Place the software in your App folder. The folders "toolbox_data" and "toolbox_c
 ### Reference
 Cite the current version as:
 
-Karlson, B., Andreasson, A., Johansen, M., Karlberg, M., Skjevik, A.-T., Torstensson, A., 2023. Plankton Toolbox – open source software making it easier to work with plankton data, version 1.4.1, accessed at http://nordicmicroalgae.org/tools
+- Karlson, B., Andreasson, A., Johansen, M., Karlberg, M., Skjevik, A.-T., Torstensson, A., 2023. Plankton Toolbox – open source software making it easier to work with plankton data, version 1.4.1, accessed at http://nordicmicroalgae.org/tools
 
 &nbsp;  
 
 ### Publication in 2015
-Karlson, B., Andreasson, A., Johansen, M., Mohlin, M., Skjevik, A.-T., Strömberg, P., 2015. Plankton Toolbox – open source software making it easier to work with plankton data, In: MacKenzie, A.L. (Ed.), 16th International Conference on Harmful Algae. Cawthron Institute, Nelson, New Zealand and the International Society for the Study of Harmful Algae (ISSHA), Wellington, New Zealand, pp. 194-197.
+- Karlson, B., Andreasson, A., Johansen, M., Mohlin, M., Skjevik, A.-T., Strömberg, P., 2015. Plankton Toolbox – open source software making it easier to work with plankton data, In: MacKenzie, A.L. (Ed.), 16th International Conference on Harmful Algae. Cawthron Institute, Nelson, New Zealand and the International Society for the Study of Harmful Algae (ISSHA), Wellington, New Zealand, pp. 194-197.
 
 &nbsp;  
 
