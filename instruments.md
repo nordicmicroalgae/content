@@ -38,6 +38,7 @@ The Cytosense/Cytobuoy is a flow cytometer developed for analysing plankton samp
 &nbsp;  
 
 ![The CytoSense](/assets/cytosense_IMG_9015_cropped.JPG)
+
 __Fig. 4.__ The CytoSense (Photo Bengt Karlson)
 
 &nbsp;  
@@ -49,6 +50,7 @@ The FlowCam was developed for analysing plankton samples but can also be used to
 &nbsp;  
 
 ![The FlowCam Macro](/assets/flow_cam_macro_IMG_8981_cropped.JPG)
+
 __Fig. 5.__ The FlowCam Macro. (Photo Bengt Karlson)
 
 &nbsp;  
