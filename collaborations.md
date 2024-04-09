@@ -5,7 +5,7 @@ title: Collaborations
 
 ## ![SBDI](/assets/eng-SBDI-rgb-med-text-small.png)
 
-The Nordic Microalgae website is operated by the Swedish Meteorological and Hydrological Institute ([SMHI](http://www.smhi.se/en)) as  part of the [Swedish Biodiversity Data Infrastructure](https://biodiversitydata.se/), funded by SMHI and the Swedish Research Coulcil through Grant No 2019-00242.
+The Nordic Microalgae website is operated by the Swedish Meteorological and Hydrological Institute ([SMHI](http://www.smhi.se/en)) as  part of the [Swedish Biodiversity Data Infrastructure](https://biodiversitydata.se/), funded by SMHI and the Swedish Research Council through Grant No 2019-00242.
 
 SBDI is making biodiversity data accessible providing powerful analysis and visualization tools. SBDI also includes [GBIF Sweden](https://www.gbif.se/). SBDI is developed in collaboration with the Living Atlases community, and will offer unprecedented opportunities for innovative, interdisciplinary research on biodiversity and ecosystems. The [Swedish Research Council](https://www.vr.se/english.html), has provided funds for the development and operation of Nordic Microalgae since October 2010.  
 
