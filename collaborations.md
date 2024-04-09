@@ -30,7 +30,7 @@ Taxonomic data from [AlgaeBase](http://www.algaebase.org/), provided by the Nati
 
 ## European IFCB Network
 
-The European Imaging FlowCytobot (IFCB) network was established in 2021, encompassing IFCB users across Europe. As of 2024, the network partners have deployed a total of 14 IFCBs across Europe for the automatic identification of phyto- and microzooplankton taxa (__Fig. 1__). This collaborative initiative has brought together participants from Sweden, Finland, France, Germany, Italy, Norway, Ireland, and the UK. Regular video meetings have emerged as a cornerstone of this network, offering a platform for participants to share results, standardize methods, share data, and cultivate a sense of cohesion. Read more about automated imaging analysis under [Automated Imaging and Artificial Intelligence (AI²)](/automated-imaging/).
+The European Imaging FlowCytobot (IFCB) network was established in 2021 (Karlson et al. 2021), encompassing IFCB users across Europe. As of 2024, the network partners have deployed a total of 14 IFCBs across Europe for the automatic identification of phyto- and microzooplankton taxa (__Fig. 1__). This collaborative initiative has brought together participants from Sweden, Finland, France, Germany, Italy, Norway, Ireland, and the UK. Regular video meetings have emerged as a cornerstone of this network, offering a platform for participants to share results, standardize methods, share data, and cultivate a sense of cohesion. Read more about automated imaging analysis under [Automated Imaging and Artificial Intelligence (AI²)](/automated-imaging/).
 
 &nbsp;  
 
