@@ -65,7 +65,7 @@ The [PlanktoScope](https://www.planktoscope.org), is a citizen science approach 
 ### Selected references
 
 - Karlson, B., Berdalet, E., Kudela, R.M., 2022. The GlobalHAB mini-symposium on automated plankton observations. Harmful Algae News 71, 1-4. http://www.e-pages.dk/ku/1549/
-- Karlson, B., 2021. A Euopean Imaging FlowCytoBot (IFCB) network. Harmful Algae News 68, 1. http://www.e-pages.dk/ku/1516/
+- Karlson, B., 2021. A European Imaging FlowCytoBot (IFCB) network. Harmful Algae News 68, 1. http://www.e-pages.dk/ku/1516/
 - Olson, R.J., Sosik, H.M., 2007. A submersible imaging-in-flow instrument to analyze nano-and microplankton: Imaging FlowCytobot. Limnology and Oceanography-Methods 5, 195-203. https://doi.org/10.4319/lom.2007.5.195
 - Sieracki, C.K., Sieracki, M.E., Yentsch, C.S., 1998. An imaging-in-flow system for automated analysis of marine microplankton. Marine Ecology Progress Series, 285-296.
 - Sosik, H.M., Olson, R.J., 2007. Automated taxonomic classification of phytoplankton sampled with imaging-in-flow cytometry. Limnology and Oceanography-Methods 5, 204-216. https://aslopubs.onlinelibrary.wiley.com/doi/pdf/10.4319/lom.2007.5.204
