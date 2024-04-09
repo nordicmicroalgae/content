@@ -23,3 +23,9 @@ All registrered contributors can create new galleries when submitting or editing
 ### What should I do if I encounter incorrect information on the website, such as misidentified taxa?
 
 If you come across inaccuracies, such as misidentified taxa, please reach out to Nordic Microalgae via email at [nordicmicroalgae@smhi.se](mailto:nordicmicroalgae@smhi.se) and include a justification for the proposed change.
+
+&nbsp;  
+
+### How do I cite Nordic Microalgae?
+
+Please see [Terms of use](/terms-of-use/)
