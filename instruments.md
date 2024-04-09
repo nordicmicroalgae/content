@@ -57,11 +57,8 @@ __Fig. 5.__ The FlowCam Macro. (Photo Bengt Karlson)
 
 ## The PlanktoScope
 
-The PlanktoScope https://www. planktoscope.org, is a citizen science approach to automated imaging and identification of plankton. This is low-cost alternative to the commercial instruments. The PlanktoScope can be used with objectives with different magnifications. At present, the PlanktoScope (version 4) is somewhat limited in functionality compared to the commercial alternatives and it may only be applicable to multicellular zooplankton and to larger phytoplankton species at the moment. Future development may change the situation.
+The [PlanktoScope](https://www.planktoscope.org), is a citizen science approach to automated imaging and identification of plankton. This is low-cost alternative to the commercial instruments. The PlanktoScope can be used with objectives with different magnifications. At present, the PlanktoScope (version 4) is somewhat limited in functionality compared to the commercial alternatives and it may only be applicable to multicellular zooplankton and to larger phytoplankton species at the moment. Future development may change the situation.
 
-&nbsp;  
-
-__Fig. 6.__ The PlanktoScope Source: www.planktoscope.org
 
 &nbsp;  
 
