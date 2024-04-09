@@ -3,7 +3,7 @@ title: Collaborations
 ---
 
 
-## ![SBDI](/assets/eng-SBDI-rgb-med-text-small.png)
+## SBDI
 
 The Nordic Microalgae website is operated by the Swedish Meteorological and Hydrological Institute ([SMHI](http://www.smhi.se/en)) as  part of the [Swedish Biodiversity Data Infrastructure](https://biodiversitydata.se/), funded by SMHI and the Swedish Research Council through Grant No 2019-00242.
 
@@ -23,7 +23,7 @@ NOMP - Nordic Marine Phytoplankton Group consists of persons in Denmark (includi
 
 &nbsp;  
 
-## ![AlgaeBase](/assets/algaebase-logo-214.png)
+## AlgaeBase
 Taxonomic data from [AlgaeBase](http://www.algaebase.org/), provided by the National University of Ireland, Galway, Ireland, complements our taxonomic backbone derived from the World Register of Marine Species.
 
 &nbsp;  
