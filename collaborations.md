@@ -42,7 +42,7 @@ __Fig. 1.__ IFCB deployments in Europe
 
 ### References
 
--	Karlson, B., 2021. A European Imaging FlowCytoBot (IFCB) network. Harmful Algae News 68, 1. http://www.e-pages.dk/ku/1516/
+-	Karlson, B., 2021. A European Imaging FlowCytoBot (IFCB) network. Harmful Algae News 68, 1. [http://www.e-pages.dk/ku/1516/](http://www.e-pages.dk/ku/1516/)
 
 &nbsp;  
 
