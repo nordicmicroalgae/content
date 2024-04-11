@@ -11,8 +11,8 @@ The update includes a new web-interface and a major update of the taxonomic back
 
 Links are now provided for taxa present in WoRMS, Dyntaxa, AlgaeBase, Global Biodiversity Information Facility (GBIF), IOC-UNESCO Taxonomic Reference List of Harmful Micro Algae (IOC HAB), The Norwegian Culture Collection of Algae (NORCCA), European Nucleotide Archive (ENA), National Center for Biotechnology Information (NCBI), Protist Ribosomal Reference (PR2), and the Integrated Taxonomic Information System database (ITIS).
 
-Additional smaller updates include the capability for registered users to create their own image galleries and image metadata categories, such as technique and stain options. To learn more or to request an account, please visit the /how-to-contribute/ page.
+Additional smaller updates include the capability for registered users to create their own image galleries and image metadata categories, such as technique and stain options. To learn more or to request an account, please visit the [How to contribute](/how-to-contribute/) page.
 
 All contributor information and images has been transferred to the new site, but you need to reset your password in order to login. Images of unaccepted taxa have been transferred to the taxon sheet under their current name. If you encounter any issues logging in or have questions or feedback about the new website, please contact [nordicmicroalgae@smhi.se](mailto:nordicmicroalgae@smhi.se).
 
-To read more about the history of Nordic Microalgae, please see the /about/ page.
+To read more about the history of Nordic Microalgae, please see the [About](/about/) page.
