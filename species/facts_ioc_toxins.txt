@@ -1,0 +1,70 @@
+taxon_id	scientific_name	id	toxin_group	recommended_name	recommended_acronym	url
+231873	Alexandrium catenella	476	Saxitoxin	Saxitoxin	STX	https://toxins.hais.ioc-unesco.org/toxins/476/
+109711	Alexandrium minutum	476	Saxitoxin	Saxitoxin	STX	https://toxins.hais.ioc-unesco.org/toxins/476/
+109712	Alexandrium ostenfeldii	464	Gymnodimine	12-Methylgymnodimine-B	12-Me-GYM-B	https://toxins.hais.ioc-unesco.org/toxins/464/
+109712	Alexandrium ostenfeldii	463	Gymnodimine	12-Methylgymnodimine-A	12-MeGYM-A	https://toxins.hais.ioc-unesco.org/toxins/463/
+109712	Alexandrium ostenfeldii	462	Gymnodimine	16-Desmethylgymnodimine-D	16-desmethylGYM-D	https://toxins.hais.ioc-unesco.org/toxins/462/
+109712	Alexandrium ostenfeldii	12	Gymnodimine	Gymnodimine-A	GYM-A	https://toxins.hais.ioc-unesco.org/toxins/12/
+109712	Alexandrium ostenfeldii	15	Gymnodimine	Gymnodimine-D	GYM-D	https://toxins.hais.ioc-unesco.org/toxins/15/
+109712	Alexandrium ostenfeldii	17	Gymnodimine	Gymnodimine-E	GYM-E	https://toxins.hais.ioc-unesco.org/toxins/17/
+109714	Alexandrium tamarense	476	Saxitoxin	Saxitoxin	STX	https://toxins.hais.ioc-unesco.org/toxins/476/
+146585	Anabaena	465	Cylindrospermopsin	Cylindrospermopsin	CYN	https://toxins.hais.ioc-unesco.org/toxins/465/
+146585	Anabaena	474	Lyngbyatoxin	Lyngbyatoxin-A	LTX-A	https://toxins.hais.ioc-unesco.org/toxins/474/
+160567	Aphanizomenon	465	Cylindrospermopsin	Cylindrospermopsin	CYN	https://toxins.hais.ioc-unesco.org/toxins/465/
+609460	Aphanizomenon flosaquae	465	Cylindrospermopsin	Cylindrospermopsin	CYN	https://toxins.hais.ioc-unesco.org/toxins/465/
+609460	Aphanizomenon flosaquae	27	Microcystin	Microcystin-LR	MC-LR	https://toxins.hais.ioc-unesco.org/toxins/27/
+391509	Azadinium spinosum	2	Azaspiracid	Azaspiracid-1	AZA1	https://toxins.hais.ioc-unesco.org/toxins/2/
+391509	Azadinium spinosum	468	Azaspiracid	Azaspiracid-2	AZA2	https://toxins.hais.ioc-unesco.org/toxins/468/
+148985	Chaetoceros	11	β-N-methylamino-L-alanine	β-N-Methylamino-L-alanine	BMAA	https://toxins.hais.ioc-unesco.org/toxins/11/
+149126	Chaetoceros decipiens	11	β-N-methylamino-L-alanine	β-N-Methylamino-L-alanine	BMAA	https://toxins.hais.ioc-unesco.org/toxins/11/
+109462	Dinophysis	456	Okadaic acid	Dinophysistoxin-3	DTX3	https://toxins.hais.ioc-unesco.org/toxins/456/
+109603	Dinophysis acuminata	6	Okadaic acid	Dinophysistoxin-1	DTX1	https://toxins.hais.ioc-unesco.org/toxins/6/
+109603	Dinophysis acuminata	1	Okadaic acid	Okadaic acid	OA	https://toxins.hais.ioc-unesco.org/toxins/1/
+109603	Dinophysis acuminata	5	Pectenotoxin	Pectenotoxin-2	PTX2	https://toxins.hais.ioc-unesco.org/toxins/5/
+109604	Dinophysis acuta	6	Okadaic acid	Dinophysistoxin-1	DTX1	https://toxins.hais.ioc-unesco.org/toxins/6/
+109604	Dinophysis acuta	1	Okadaic acid	Okadaic acid	OA	https://toxins.hais.ioc-unesco.org/toxins/1/
+109604	Dinophysis acuta	5	Pectenotoxin	Pectenotoxin-2	PTX2	https://toxins.hais.ioc-unesco.org/toxins/5/
+109612	Dinophysis caudata	6	Okadaic acid	Dinophysistoxin-1	DTX1	https://toxins.hais.ioc-unesco.org/toxins/6/
+109612	Dinophysis caudata	1	Okadaic acid	Okadaic acid	OA	https://toxins.hais.ioc-unesco.org/toxins/1/
+109612	Dinophysis caudata	5	Pectenotoxin	Pectenotoxin-2	PTX2	https://toxins.hais.ioc-unesco.org/toxins/5/
+109624	Dinophysis fortii	6	Okadaic acid	Dinophysistoxin-1	DTX1	https://toxins.hais.ioc-unesco.org/toxins/6/
+109624	Dinophysis fortii	1	Okadaic acid	Okadaic acid	OA	https://toxins.hais.ioc-unesco.org/toxins/1/
+109624	Dinophysis fortii	5	Pectenotoxin	Pectenotoxin-2	PTX2	https://toxins.hais.ioc-unesco.org/toxins/5/
+109637	Dinophysis norvegica	1	Okadaic acid	Okadaic acid	OA	https://toxins.hais.ioc-unesco.org/toxins/1/
+109637	Dinophysis norvegica	5	Pectenotoxin	Pectenotoxin-2	PTX2	https://toxins.hais.ioc-unesco.org/toxins/5/
+109637	Dinophysis norvegica	475	Okadaic acid	Dihydrodinophysistoxin-1	dihydro-DTX1	https://toxins.hais.ioc-unesco.org/toxins/475/
+646201	Dinophysis ovum	6	Okadaic acid	Dinophysistoxin-1	DTX1	https://toxins.hais.ioc-unesco.org/toxins/6/
+646201	Dinophysis ovum	1	Okadaic acid	Okadaic acid	OA	https://toxins.hais.ioc-unesco.org/toxins/1/
+232261	Dinophysis sacculus	6	Okadaic acid	Dinophysistoxin-1	DTX1	https://toxins.hais.ioc-unesco.org/toxins/6/
+232261	Dinophysis sacculus	1	Okadaic acid	Okadaic acid	OA	https://toxins.hais.ioc-unesco.org/toxins/1/
+232261	Dinophysis sacculus	5	Pectenotoxin	Pectenotoxin-2	PTX2	https://toxins.hais.ioc-unesco.org/toxins/5/
+109662	Dinophysis tripos	5	Pectenotoxin	Pectenotoxin-2	PTX2	https://toxins.hais.ioc-unesco.org/toxins/5/
+578476	Dolichospermum	27	Microcystin	Microcystin-LR	MC-LR	https://toxins.hais.ioc-unesco.org/toxins/27/
+409630	Gloeotrichia echinulata	27	Microcystin	Microcystin-LR	MC-LR	https://toxins.hais.ioc-unesco.org/toxins/27/
+109784	Gymnodinium catenatum	11	β-N-methylamino-L-alanine	β-N-Methylamino-L-alanine	BMAA	https://toxins.hais.ioc-unesco.org/toxins/11/
+109784	Gymnodinium catenatum	476	Saxitoxin	Saxitoxin	STX	https://toxins.hais.ioc-unesco.org/toxins/476/
+624065	Halamphora coffeaeformis	11	β-N-methylamino-L-alanine	β-N-Methylamino-L-alanine	BMAA	https://toxins.hais.ioc-unesco.org/toxins/11/
+836508	Kamptonema	465	Cylindrospermopsin	Cylindrospermopsin	CYN	https://toxins.hais.ioc-unesco.org/toxins/465/
+233037	Karlodinium veneficum	10	Sterolysins	Karlotoxin 2	KmTX2	https://toxins.hais.ioc-unesco.org/toxins/10/
+146994	Leptolyngbya	11	β-N-methylamino-L-alanine	β-N-Methylamino-L-alanine	BMAA	https://toxins.hais.ioc-unesco.org/toxins/11/
+146994	Leptolyngbya	27	Microcystin	Microcystin-LR	MC-LR	https://toxins.hais.ioc-unesco.org/toxins/27/
+146538	Lyngbya	465	Cylindrospermopsin	Cylindrospermopsin	CYN	https://toxins.hais.ioc-unesco.org/toxins/465/
+146557	Microcystis	27	Microcystin	Microcystin-LR	MC-LR	https://toxins.hais.ioc-unesco.org/toxins/27/
+146558	Microcystis aeruginosa	27	Microcystin	Microcystin-LR	MC-LR	https://toxins.hais.ioc-unesco.org/toxins/27/
+149142	Navicula	11	β-N-methylamino-L-alanine	β-N-Methylamino-L-alanine	BMAA	https://toxins.hais.ioc-unesco.org/toxins/11/
+393172	Nostoc	27	Microcystin	Microcystin-LR	MC-LR	https://toxins.hais.ioc-unesco.org/toxins/27/
+175584	Phaeodactylum tricornutum	11	β-N-methylamino-L-alanine	β-N-Methylamino-L-alanine	BMAA	https://toxins.hais.ioc-unesco.org/toxins/11/
+146552	Planktothrix agardhii	27	Microcystin	Microcystin-LR	MC-LR	https://toxins.hais.ioc-unesco.org/toxins/27/
+232376	Prorocentrum cordatum	493	Tetrodotoxin	Tetrodotoxin	TTX	https://toxins.hais.ioc-unesco.org/toxins/493/
+110301	Prorocentrum lima	461	Okadaic acid	Dinophysistoxin-6	DTX6	https://toxins.hais.ioc-unesco.org/toxins/461/
+110301	Prorocentrum lima	1	Okadaic acid	Okadaic acid	OA	https://toxins.hais.ioc-unesco.org/toxins/1/
+149151	Pseudo-nitzschia	11	β-N-methylamino-L-alanine	β-N-Methylamino-L-alanine	BMAA	https://toxins.hais.ioc-unesco.org/toxins/11/
+149153	Pseudo-nitzschia delicatissima	11	β-N-methylamino-L-alanine	β-N-Methylamino-L-alanine	BMAA	https://toxins.hais.ioc-unesco.org/toxins/11/
+246606	Pseudo-nitzschia fraudulenta	11	β-N-methylamino-L-alanine	β-N-Methylamino-L-alanine	BMAA	https://toxins.hais.ioc-unesco.org/toxins/11/
+175738	Pseudo-nitzschia multiseries	11	β-N-methylamino-L-alanine	β-N-Methylamino-L-alanine	BMAA	https://toxins.hais.ioc-unesco.org/toxins/11/
+376667	Skeletonema marinoi	11	β-N-methylamino-L-alanine	β-N-Methylamino-L-alanine	BMAA	https://toxins.hais.ioc-unesco.org/toxins/11/
+160572	Synechococcus	27	Microcystin	Microcystin-LR	MC-LR	https://toxins.hais.ioc-unesco.org/toxins/27/
+148912	Thalassiosira	11	β-N-methylamino-L-alanine	β-N-Methylamino-L-alanine	BMAA	https://toxins.hais.ioc-unesco.org/toxins/11/
+149102	Thalassiosira gravida	11	β-N-methylamino-L-alanine	β-N-Methylamino-L-alanine	BMAA	https://toxins.hais.ioc-unesco.org/toxins/11/
+148925	Thalassiosira minima	11	β-N-methylamino-L-alanine	β-N-Methylamino-L-alanine	BMAA	https://toxins.hais.ioc-unesco.org/toxins/11/
+148934	Thalassiosira pseudonana	11	β-N-methylamino-L-alanine	β-N-Methylamino-L-alanine	BMAA	https://toxins.hais.ioc-unesco.org/toxins/11/
