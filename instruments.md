@@ -16,9 +16,6 @@ __Fig 1.__ Images of plankton captured using the Imaging FlowCytobot in the Skag
 
 &nbsp;  
 
-The Imaging FlowCytobot (IFCB, Mclane Research Laboratories Inc., Falmouth, USA) is an automated microscope integrated into a flow cytometer that generates plankton images. The IFCB can be operated in situ or in air pumping water to the instrument. Water samples are collected automatically about every 20 minutes. The plankton in the sample passes trough a flow chamber and are imaged by a camera triggered by fluorescence or scattering of the plankton organism. Thousands of images are collected for each sample. To identify the plankton in the images machine learning methods are used. Phytoplankton identifications specialists annotate images to create training sets. Nordic Microalgae provides links to annotated images from Northern Europe that can be used for training your image classifier, see Annotated images.
-
-
 The Imaging FlowCytobot (IFCB) is an automated microscope integrated into a flow cytometer that generates plankton images. The IFCB can be operated in situ or in air pumping water to the instrument. Water samples are collected automatically about every 20 minutes. The plankton in the sample passes trough a flow chamber and are imaged by a camera triggered by fluorescence or scattering of the plankton organism. Thousands of images are collected for each sample. To identify the plankton in the images machine learning methods are used. Phytoplankton identifications specialists annotate images to create training sets. Nordic Microalgae provides links to annotated images from Northern Europe that can be used for training your image classifier, see [Annotated images](/annotated-images/).
 
 Learn more about the Imaging FlowCytobot: [Woods Hole Oceanographic Institute web site about IFCB](https://www2.whoi.edu/staff/hsosik/ifcb/)
