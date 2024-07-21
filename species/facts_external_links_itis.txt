@@ -1066,7 +1066,6 @@ taxon_id	itis_id	url
 156253	10918	http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=10918
 156254	10925	http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=10925
 156505	9934	http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=9934
-156509	10398	http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=10398
 156511	10411	http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=10411
 156533	3435	http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=3435
 156548	584565	http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=584565
@@ -2922,6 +2921,7 @@ taxon_id	itis_id	url
 616438	7160	http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=7160
 616450	7123	http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=7123
 616522	5599	http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=5599
+616597	2069	http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=2069
 616819	1406	http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=1406
 618397	1195	http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=1195
 618483	1398	http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=1398

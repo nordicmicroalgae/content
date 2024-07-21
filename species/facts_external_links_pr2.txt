@@ -867,7 +867,6 @@ taxon_id	pr2_name	url
 106305	Teleaulax_acuta:plas	https://app.pr2-database.org/pr2-database/
 106306	Teleaulax_amphioxeia	https://app.pr2-database.org/pr2-database/
 106306	Teleaulax_amphioxeia:plas	https://app.pr2-database.org/pr2-database/
-389491	Telonema_antarcticum	https://app.pr2-database.org/pr2-database/
 118075	Telonema_subtile	https://app.pr2-database.org/pr2-database/
 578346	Tetrabaena_socialis	https://app.pr2-database.org/pr2-database/
 1359367	Tetradesmus_obliquus	https://app.pr2-database.org/pr2-database/

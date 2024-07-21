@@ -20,7 +20,6 @@ Azadinium spinosum	391509	https://www.marinespecies.org/hab/aphia.php?p=taxdetai
 Blennothrix lyngbyacea	213723	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=213723
 Calothrix parietina	239094	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=239094
 Chattonella marina var. antiqua	547444	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=547444
-Chattonella marina var. ovata	674442	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=674442
 Chattonella subsalsa	246590	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=246590
 Chrysochromulina leadbeateri	246591	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=246591
 Cuspidothrix issatschenkoi	621617	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=621617

@@ -25,20 +25,20 @@ taxon_id	ab_id	scientific_name	kingdom	phylum	class	order	family	genus	species	t
 103425	49214	Amastigomonas	Amorphea	Sulcozoa	Apusomonadea 	Apusomonadida	Apusomonadidae	Amastigomonas		genus	https://www.algaebase.org/search/genus/detail/?genus_id=49214
 103429	87159	Amastigomonas debruynei	Amorphea	Sulcozoa	Apusomonadea 	Apusomonadida	Apusomonadidae	Amastigomonas	debruynei	species	https://www.algaebase.org/search/species/detail/?species_id=87159
 103430	140967	Amastigomonas mutabilis	Amorphea	Sulcozoa	Apusomonadea 	Apusomonadida	Apusomonadidae	Amastigomonas	mutabilis	species	https://www.algaebase.org/search/species/detail/?species_id=140967
-103989	43863	Cafeteria	Chromista	Bigyra	Bicosoecophyceae	Caecitellales	Cafeteriaceae	Cafeteria		genus	https://www.algaebase.org/search/genus/detail/?genus_id=43863
-103990	44806	Pseudobodo	Chromista	Bigyra	Bicosoecophyceae	Bicosoecales	Pseudobodonaceae	Pseudobodo		genus	https://www.algaebase.org/search/genus/detail/?genus_id=44806
-103991	43862	Caecitellus	Chromista	Bigyra	Bicosoecophyceae	Caecitellales	Caecitellaceae	Caecitellus		genus	https://www.algaebase.org/search/genus/detail/?genus_id=43862
-103993	140974	Bicosoeca ainikkii	Chromista	Bigyra	Bicosoecophyceae	Bicosoecales	Bicosoecaceae	Bicosoeca	ainikkii	species	https://www.algaebase.org/search/species/detail/?species_id=140974
-103996	36728	Bicosoeca gracilipes	Chromista	Bigyra	Bicosoecophyceae	Bicosoecales	Bicosoecaceae	Bicosoeca	gracilipes	species	https://www.algaebase.org/search/species/detail/?species_id=36728
-103997	55139	Bicosoeca lacustris	Chromista	Bigyra	Bicosoecophyceae	Bicosoecales	Bicosoecaceae	Bicosoeca	lacustris	species	https://www.algaebase.org/search/species/detail/?species_id=55139
-103998	55141	Bicosoeca maris	Chromista	Bigyra	Bicosoecophyceae	Bicosoecales	Bicosoecaceae	Bicosoeca	maris	species	https://www.algaebase.org/search/species/detail/?species_id=55141
-103999	55142	Bicosoeca mediterranea	Chromista	Bigyra	Bicosoecophyceae	Bicosoecales	Bicosoecaceae	Bicosoeca	mediterranea	species	https://www.algaebase.org/search/species/detail/?species_id=55142
-104000	140975	Bicosoeca mignotii	Chromista	Bigyra	Bicosoecophyceae	Bicosoecales	Bicosoecaceae	Bicosoeca	mignotii	species	https://www.algaebase.org/search/species/detail/?species_id=140975
-104002	32246	Bicosoeca petiolata	Chromista	Bigyra	Bicosoecophyceae	Bicosoecales	Bicosoecaceae	Bicosoeca	petiolata	species	https://www.algaebase.org/search/species/detail/?species_id=32246
-104003	72554	Bicosoeca planctonica	Chromista	Bigyra	Bicosoecophyceae	Bicosoecales	Bicosoecaceae	Bicosoeca	planctonica	species	https://www.algaebase.org/search/species/detail/?species_id=72554
-104012	36877	Cafeteria roenbergensis	Chromista	Bigyra	Bicosoecophyceae	Caecitellales	Cafeteriaceae	Cafeteria	roenbergensis	species	https://www.algaebase.org/search/species/detail/?species_id=36877
-104015	52971	Pseudobodo tremulans	Chromista	Bigyra	Bicosoecophyceae	Bicosoecales	Pseudobodonaceae	Pseudobodo	tremulans	species	https://www.algaebase.org/search/species/detail/?species_id=52971
-104016	36875	Caecitellus parvulus	Chromista	Bigyra	Bicosoecophyceae	Caecitellales	Caecitellaceae	Caecitellus	parvulus	species	https://www.algaebase.org/search/species/detail/?species_id=36875
+103989	43863	Cafeteria	Chromista	Bigyra	Bicoecidea	Caecitellales	Cafeteriaceae	Cafeteria		genus	https://www.algaebase.org/search/genus/detail/?genus_id=43863
+103990	44806	Pseudobodo	Chromista	Bigyra	Bicoecidea	Bicosoecales	Pseudobodonaceae	Pseudobodo		genus	https://www.algaebase.org/search/genus/detail/?genus_id=44806
+103991	43862	Caecitellus	Chromista	Bigyra	Bicoecidea	Caecitellales	Caecitellaceae	Caecitellus		genus	https://www.algaebase.org/search/genus/detail/?genus_id=43862
+103993	140974	Bicosoeca ainikkii	Chromista	Bigyra	Bicoecidea	Bicosoecales	Bicosoecaceae	Bicosoeca	ainikkii	species	https://www.algaebase.org/search/species/detail/?species_id=140974
+103996	36728	Bicosoeca gracilipes	Chromista	Bigyra	Bicoecidea	Bicosoecales	Bicosoecaceae	Bicosoeca	gracilipes	species	https://www.algaebase.org/search/species/detail/?species_id=36728
+103997	55139	Bicosoeca lacustris	Chromista	Bigyra	Bicoecidea	Bicosoecales	Bicosoecaceae	Bicosoeca	lacustris	species	https://www.algaebase.org/search/species/detail/?species_id=55139
+103998	55141	Bicosoeca maris	Chromista	Bigyra	Bicoecidea	Bicosoecales	Bicosoecaceae	Bicosoeca	maris	species	https://www.algaebase.org/search/species/detail/?species_id=55141
+103999	55142	Bicosoeca mediterranea	Chromista	Bigyra	Bicoecidea	Bicosoecales	Bicosoecaceae	Bicosoeca	mediterranea	species	https://www.algaebase.org/search/species/detail/?species_id=55142
+104000	140975	Bicosoeca mignotii	Chromista	Bigyra	Bicoecidea	Bicosoecales	Bicosoecaceae	Bicosoeca	mignotii	species	https://www.algaebase.org/search/species/detail/?species_id=140975
+104002	32246	Bicosoeca petiolata	Chromista	Bigyra	Bicoecidea	Bicosoecales	Bicosoecaceae	Bicosoeca	petiolata	species	https://www.algaebase.org/search/species/detail/?species_id=32246
+104003	72554	Bicosoeca planctonica	Chromista	Bigyra	Bicoecidea	Bicosoecales	Bicosoecaceae	Bicosoeca	planctonica	species	https://www.algaebase.org/search/species/detail/?species_id=72554
+104012	36877	Cafeteria roenbergensis	Chromista	Bigyra	Bicoecidea	Caecitellales	Cafeteriaceae	Cafeteria	roenbergensis	species	https://www.algaebase.org/search/species/detail/?species_id=36877
+104015	52971	Pseudobodo tremulans	Chromista	Bigyra	Bicoecidea	Bicosoecales	Pseudobodonaceae	Pseudobodo	tremulans	species	https://www.algaebase.org/search/species/detail/?species_id=52971
+104016	36875	Caecitellus parvulus	Chromista	Bigyra	Bicoecidea	Caecitellales	Caecitellaceae	Caecitellus	parvulus	species	https://www.algaebase.org/search/species/detail/?species_id=36875
 105501	45019	Acanthocorbis	Amorphea	Choanozoa	Choanoflagellatea	Acanthoecida	Stephanoecidae	Acanthocorbis		genus	https://www.algaebase.org/search/genus/detail/?genus_id=45019
 105502	49133	Acanthoeca	Amorphea	Choanozoa	Choanoflagellatea	Acanthoecida	Acanthoecidae	Acanthoeca		genus	https://www.algaebase.org/search/genus/detail/?genus_id=49133
 105505	45179	Bicosta	Amorphea	Choanozoa	Choanoflagellatea	Acanthoecida	Stephanoecidae	Bicosta		genus	https://www.algaebase.org/search/genus/detail/?genus_id=45179
@@ -184,7 +184,6 @@ taxon_id	ab_id	scientific_name	kingdom	phylum	class	order	family	genus	species	t
 109537	44638	Diplopsalopsis	Chromista	Dinoflagellata	Dinophyceae	Peridiniales	Protoperidiniaceae	Diplopsalopsis		genus	https://www.algaebase.org/search/genus/detail/?genus_id=44638
 109538	43627	Glenodinium	Chromista	Dinoflagellata	Dinophyceae	Peridiniales	Peridiniales familia incertae sedis	Glenodinium		genus	https://www.algaebase.org/search/genus/detail/?genus_id=43627
 109540	43347	Heterocapsa	Chromista	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa		genus	https://www.algaebase.org/search/genus/detail/?genus_id=43347
-109540	54497	Heterocapsa	Chromista	Dinoflagellata	Dinophyceae	Peridiniales	Peridiniaceae	Heterocapsa		genus	https://www.algaebase.org/search/genus/detail/?genus_id=54497
 109541	44652	Kryptoperidinium	Chromista	Dinoflagellata	Dinophyceae	Peridiniales	Kryptoperidiniaceae	Kryptoperidinium		genus	https://www.algaebase.org/search/genus/detail/?genus_id=44652
 109542	44662	Oblea	Chromista	Dinoflagellata	Dinophyceae	Peridiniales	Protoperidiniaceae	Oblea		genus	https://www.algaebase.org/search/genus/detail/?genus_id=44662
 109543	44674	Peridiniella	Chromista	Dinoflagellata	Dinophyceae	Peridiniales	Peridiniales familia incertae sedis	Peridiniella		genus	https://www.algaebase.org/search/genus/detail/?genus_id=44674
@@ -359,6 +358,7 @@ taxon_id	ab_id	scientific_name	kingdom	phylum	class	order	family	genus	species	t
 110300	52608	Prorocentrum gracile	Chromista	Dinoflagellata	Dinophyceae	Prorocentrales	Prorocentraceae	Prorocentrum	gracile	species	https://www.algaebase.org/search/species/detail/?species_id=52608
 110301	52609	Prorocentrum lima	Chromista	Dinoflagellata	Dinophyceae	Prorocentrales	Prorocentraceae	Prorocentrum	lima	species	https://www.algaebase.org/search/species/detail/?species_id=52609
 110303	51818	Prorocentrum micans	Chromista	Dinoflagellata	Dinophyceae	Prorocentrales	Prorocentraceae	Prorocentrum	micans	species	https://www.algaebase.org/search/species/detail/?species_id=51818
+110310	52615	Prorocentrum redfieldii	Chromista	Dinoflagellata	Dinophyceae	Prorocentrales	Prorocentraceae	Prorocentrum	redfieldii	species	https://www.algaebase.org/search/species/detail/?species_id=52615
 110314	52619	Prorocentrum scutellum	Chromista	Dinoflagellata	Dinophyceae	Prorocentrales	Prorocentraceae	Prorocentrum	scutellum	species	https://www.algaebase.org/search/species/detail/?species_id=52619
 110316	51821	Prorocentrum triestinum	Chromista	Dinoflagellata	Dinophyceae	Prorocentrales	Prorocentraceae	Prorocentrum	triestinum	species	https://www.algaebase.org/search/species/detail/?species_id=51821
 110321	52624	Protoceratium reticulatum	Chromista	Dinoflagellata	Dinophyceae	Gonyaulacales	Protoceratiaceae	Protoceratium	reticulatum	species	https://www.algaebase.org/search/species/detail/?species_id=52624
@@ -415,7 +415,7 @@ taxon_id	ab_id	scientific_name	kingdom	phylum	class	order	family	genus	species	t
 118004	49196	Allantion	Chromista	Cercozoa	Sarcomonadea	Glissomonadida	Allapsidae	Allantion		genus	https://www.algaebase.org/search/genus/detail/?genus_id=49196
 118006	49245	Ancyromonas	Protozoa	Loukozoa	Jakobea	Ancyromonadida	Ancyromonadidae	Ancyromonas		genus	https://www.algaebase.org/search/genus/detail/?genus_id=49245
 118011	51200	Cryothecomonas	Chromista	Cercozoa	Thecofilosea	Cryomonadida	Cryothecomonadidae	Cryothecomonas		genus	https://www.algaebase.org/search/genus/detail/?genus_id=51200
-118013	44735	Discocelis	Chromista	Bigyra	Bicosoecophyceae	Caecitellales	Cafeteriaceae	Discocelis		genus	https://www.algaebase.org/search/genus/detail/?genus_id=44735
+118013	44735	Discocelis	Chromista	Bigyra	Bicoecidea	Caecitellales	Cafeteriaceae	Discocelis		genus	https://www.algaebase.org/search/genus/detail/?genus_id=44735
 118014	45451	Ebria	Chromista	Cercozoa	Thecofilosea	Ebriales	Ebriaceae	Ebria		genus	https://www.algaebase.org/search/genus/detail/?genus_id=45451
 118015	45687	Jakoba	Protozoa	Loukozoa	Jakobea	Jakobida	Jakobidae	Jakoba		genus	https://www.algaebase.org/search/genus/detail/?genus_id=45687
 118016	51203	Kiitoksia	Chromista	Cercozoa	Metromonadea	Metromonadida	Kiitoksiidae	Kiitoksia		genus	https://www.algaebase.org/search/genus/detail/?genus_id=51203
@@ -432,7 +432,7 @@ taxon_id	ab_id	scientific_name	kingdom	phylum	class	order	family	genus	species	t
 118046	140997	Cryothecomonas inermis	Chromista	Cercozoa	Thecofilosea	Cryomonadida	Cryothecomonadidae	Cryothecomonas	inermis	species	https://www.algaebase.org/search/species/detail/?species_id=140997
 118047	140998	Cryothecomonas scybalophora	Chromista	Cercozoa	Thecofilosea	Cryomonadida	Cryothecomonadidae	Cryothecomonas	scybalophora	species	https://www.algaebase.org/search/species/detail/?species_id=140998
 118048	140999	Cryothecomonas vesiculata	Chromista	Cercozoa	Thecofilosea	Cryomonadida	Cryothecomonadidae	Cryothecomonas	vesiculata	species	https://www.algaebase.org/search/species/detail/?species_id=140999
-118050	52818	Discocelis saleuta	Chromista	Bigyra	Bicosoecophyceae	Caecitellales	Cafeteriaceae	Discocelis	saleuta	species	https://www.algaebase.org/search/species/detail/?species_id=52818
+118050	52818	Discocelis saleuta	Chromista	Bigyra	Bicoecidea	Caecitellales	Cafeteriaceae	Discocelis	saleuta	species	https://www.algaebase.org/search/species/detail/?species_id=52818
 118051	56482	Ebria tripartita	Chromista	Cercozoa	Thecofilosea	Ebriales	Ebriaceae	Ebria	tripartita	species	https://www.algaebase.org/search/species/detail/?species_id=56482
 118052	44315	Jakoba libera	Protozoa	Loukozoa	Jakobea	Jakobida	Jakobidae	Jakoba	libera	species	https://www.algaebase.org/search/species/detail/?species_id=44315
 118053	141040	Kiitoksia ystava	Chromista	Cercozoa	Metromonadea	Metromonadida	Kiitoksiidae	Kiitoksia	ystava	species	https://www.algaebase.org/search/species/detail/?species_id=141040
@@ -445,6 +445,7 @@ taxon_id	ab_id	scientific_name	kingdom	phylum	class	order	family	genus	species	t
 118069	69215	Postgaardi mariagerensis	Protozoa	Euglenophyta	Postgaardea	Postgaardida	Postgaardidae	Postgaardi	mariagerensis	species	https://www.algaebase.org/search/species/detail/?species_id=69215
 118070	56485	Quadricilia rotundata	Chromista	Cercozoa	Monadofilosa classis incertae sedis	Monadofilosa ordo incertae sedis	Monadofilosa familia incertae sedis	Quadricilia	rotundata	species	https://www.algaebase.org/search/species/detail/?species_id=56485
 118073	56478	Solenicola setigera	Chromista	Bigyra	Nanomonadea	Uniciliatida	Solenicolidae	Solenicola	setigera	species	https://www.algaebase.org/search/species/detail/?species_id=56478
+118074	141142	Telonema antarcticum	Chromista	Telonemia	Telonemea	Telonemida	Telonemidae	Telonema	antarcticum	species	https://www.algaebase.org/search/species/detail/?species_id=141142
 118075	56486	Telonema subtile	Chromista	Telonemia	Telonemea	Telonemida	Telonemidae	Telonema	subtile	species	https://www.algaebase.org/search/species/detail/?species_id=56486
 119077	56484	Leucocryptos marina	Chromista	Cryptista	Katablepharidophyceae	Katablepharidales	Katablepharidaceae	Leucocryptos	marina	species	https://www.algaebase.org/search/species/detail/?species_id=56484
 120561	47138	Tetramitus	Protozoa	Percolozoa	Heterolobosea	Schizopyrenida	Vahlkampfiidae	Tetramitus		genus	https://www.algaebase.org/search/genus/detail/?genus_id=47138
@@ -815,7 +816,7 @@ taxon_id	ab_id	scientific_name	kingdom	phylum	class	order	family	genus	species	t
 145870	274	Symphyocarpus strangulans	Chromista	Heterokontophyta	Phaeophyceae	Ectocarpales	Scytosiphonaceae	Symphyocarpus	strangulans	species	https://www.algaebase.org/search/species/detail/?species_id=274
 145888	58	Cladostephus spongiosus	Chromista	Heterokontophyta	Phaeophyceae	Sphacelariales	Cladostephaceae	Cladostephus	spongiosus	species	https://www.algaebase.org/search/species/detail/?species_id=58
 145892	326	Sphacelaria cirrosa	Chromista	Heterokontophyta	Phaeophyceae	Sphacelariales	Sphacelariaceae	Sphacelaria	cirrosa	species	https://www.algaebase.org/search/species/detail/?species_id=326
-145898	192725	Sphacelaria plumula	Chromista	Heterokontophyta	Phaeophyceae	Sphacelariales	Sphacelariaceae	Sphacelaria	plumula	species	https://www.algaebase.org/search/species/detail/?species_id=192725
+145898	331	Sphacelaria plumula	Chromista	Heterokontophyta	Phaeophyceae	Sphacelariales	Sphacelariaceae	Sphacelaria	plumula	species	https://www.algaebase.org/search/species/detail/?species_id=331
 145902	333	Sphacelaria rigidula	Chromista	Heterokontophyta	Phaeophyceae	Sphacelariales	Sphacelariaceae	Sphacelaria	rigidula	species	https://www.algaebase.org/search/species/detail/?species_id=333
 145915	64	Sporochnus pedunculatus	Chromista	Heterokontophyta	Phaeophyceae	Sporochnales	Sporochnaceae	Sporochnus	pedunculatus	species	https://www.algaebase.org/search/species/detail/?species_id=64
 145918	323	Haplospora globosa	Chromista	Heterokontophyta	Phaeophyceae	Tilopteridales	Tilopteridaceae	Haplospora	globosa	species	https://www.algaebase.org/search/species/detail/?species_id=323
@@ -867,7 +868,6 @@ taxon_id	ab_id	scientific_name	kingdom	phylum	class	order	family	genus	species	t
 146166	169877	Hemistasia phaeocysticola	Protozoa	Euglenophyta	Diplonemea	Diplonemida	Hemistasiidae	Hemistasia	phaeocysticola	species	https://www.algaebase.org/search/species/detail/?species_id=169877
 146167	49538	Cryptaulax	Chromista	Cryptista	Cryptophyceae	Cryptomonadales	Cryptomonadaceae	Cryptaulax		genus	https://www.algaebase.org/search/genus/detail/?genus_id=49538
 146168	104074	Cryptaulax marina	Chromista	Cryptista	Cryptophyceae	Cryptomonadales	Cryptomonadaceae	Cryptaulax	marina	species	https://www.algaebase.org/search/species/detail/?species_id=104074
-146182	46169	Rhynchobodo	Protozoa	Euglenophyta	Kinetoplastea	Neobodonida	Neobodonidae	Rhynchobodo		genus	https://www.algaebase.org/search/genus/detail/?genus_id=46169
 146198	45013	Papposphaera	Chromista	Haptophyta	Haptophyta classis incertae sedis	Haptophyta ordo incertae sedis	Papposphaeraceae	Papposphaera		genus	https://www.algaebase.org/search/genus/detail/?genus_id=45013
 146236	12559	Acrosiphonia spinescens	Plantae	Chlorophyta	Ulvophyceae	Acrosiphoniales	Acrosiphoniaceae	Acrosiphonia	spinescens	species	https://www.algaebase.org/search/species/detail/?species_id=12559
 146248	17470	Prasiola fluviatilis	Plantae	Chlorophyta	Trebouxiophyceae	Prasiolales	Prasiolaceae	Prasiola	fluviatilis	species	https://www.algaebase.org/search/species/detail/?species_id=17470
@@ -940,7 +940,7 @@ taxon_id	ab_id	scientific_name	kingdom	phylum	class	order	family	genus	species	t
 146658	44054	Komvophoron	Bacteria	Cyanobacteria	Cyanophyceae	Gomontiellales	Gomontiellaceae	Komvophoron		genus	https://www.algaebase.org/search/genus/detail/?genus_id=44054
 146660	43088	Trichormus	Bacteria	Cyanobacteria	Cyanophyceae	Nostocales	Aphanizomenonaceae	Trichormus		genus	https://www.algaebase.org/search/genus/detail/?genus_id=43088
 146661	23796	Trichormus variabilis	Bacteria	Cyanobacteria	Cyanophyceae	Nostocales	Aphanizomenonaceae	Trichormus	variabilis	species	https://www.algaebase.org/search/species/detail/?species_id=23796
-146667	23782	Spirulina subtilissima	Bacteria	Cyanobacteria	Cyanophyceae	Spirulinales	Spirulinaceae	Spirulina	subtilissima	species	https://www.algaebase.org/search/species/detail/?species_id=23782
+146667	193789	Spirulina subtilissima	Bacteria	Cyanobacteria	Cyanophyceae	Spirulinales	Spirulinaceae	Spirulina	subtilissima	species	https://www.algaebase.org/search/species/detail/?species_id=193789
 146668	23783	Spirulina tenerrima	Bacteria	Cyanobacteria	Cyanophyceae	Spirulinales	Spirulinaceae	Spirulina	tenerrima	species	https://www.algaebase.org/search/species/detail/?species_id=23783
 146672	43305	Leibleinia	Bacteria	Cyanobacteria	Cyanophyceae	Oscillatoriales	Microcoleaceae	Leibleinia		genus	https://www.algaebase.org/search/genus/detail/?genus_id=43305
 146673	24852	Leibleinia epiphytica	Bacteria	Cyanobacteria	Cyanophyceae	Oscillatoriales	Microcoleaceae	Leibleinia	epiphytica	species	https://www.algaebase.org/search/species/detail/?species_id=24852
@@ -1303,7 +1303,6 @@ taxon_id	ab_id	scientific_name	kingdom	phylum	class	order	family	genus	species	t
 149602	31026	Nitzschia fruticosa	Chromista	Heterokontophyta	Bacillariophyceae	Bacillariales	Bacillariaceae	Nitzschia	fruticosa	species	https://www.algaebase.org/search/species/detail/?species_id=31026
 149604	31078	Nitzschia sigmoidea	Chromista	Heterokontophyta	Bacillariophyceae	Bacillariales	Bacillariaceae	Nitzschia	sigmoidea	species	https://www.algaebase.org/search/species/detail/?species_id=31078
 149605	31020	Nitzschia fasciculata	Chromista	Heterokontophyta	Bacillariophyceae	Bacillariales	Bacillariaceae	Nitzschia	fasciculata	species	https://www.algaebase.org/search/species/detail/?species_id=31020
-149606	31060	Nitzschia parvula	Chromista	Heterokontophyta	Bacillariophyceae	Bacillariales	Bacillariaceae	Nitzschia	parvula	species	https://www.algaebase.org/search/species/detail/?species_id=31060
 149606	128894	Nitzschia parvula	Chromista	Heterokontophyta	Bacillariophyceae	Bacillariales	Bacillariaceae	Nitzschia	parvula	species	https://www.algaebase.org/search/species/detail/?species_id=128894
 149607	31052	Nitzschia obtusa	Chromista	Heterokontophyta	Bacillariophyceae	Bacillariales	Bacillariaceae	Nitzschia	obtusa	species	https://www.algaebase.org/search/species/detail/?species_id=31052
 149608	31021	Nitzschia filiformis	Chromista	Heterokontophyta	Bacillariophyceae	Bacillariales	Bacillariaceae	Nitzschia	filiformis	species	https://www.algaebase.org/search/species/detail/?species_id=31021
@@ -1329,7 +1328,7 @@ taxon_id	ab_id	scientific_name	kingdom	phylum	class	order	family	genus	species	t
 1534935	174874	Droopiella spaerckii	Plantae	Chlorophyta	Trebouxiophyceae	Chlorellales	Oocystaceae	Droopiella	spaerckii	species	https://www.algaebase.org/search/species/detail/?species_id=174874
 153501	136130	Salpingoeca frequentissima	Amorphea	Choanozoa	Choanoflagellatea	Craspedida	Salpingoecidae	Salpingoeca	frequentissima	species	https://www.algaebase.org/search/species/detail/?species_id=136130
 1535026	169880	Neobodo saliens	Protozoa	Euglenophyta	Kinetoplastea	Neobodonida	Neobodonidae	Neobodo	saliens	species	https://www.algaebase.org/search/species/detail/?species_id=169880
-1535061	105507	Bicosoeca mitra var. suecica	Chromista	Bigyra	Bicosoecophyceae	Bicosoecales	Bicosoecaceae	Bicosoeca	mitra	variety	https://www.algaebase.org/search/species/detail/?species_id=105507
+1535061	105507	Bicosoeca mitra var. suecica	Chromista	Bigyra	Bicoecidea	Bicosoecales	Bicosoecaceae	Bicosoeca	mitra	variety	https://www.algaebase.org/search/species/detail/?species_id=105507
 1535223	173109	Lepidochromonas butcheri	Chromista	Heterokontophyta	Chrysophyceae	Paraphysomonadales	Lepidochromonadaceae	Lepidochromonas	butcheri	species	https://www.algaebase.org/search/species/detail/?species_id=173109
 1535236	173132	Lepidochromonas stelligera	Chromista	Heterokontophyta	Chrysophyceae	Paraphysomonadales	Lepidochromonadaceae	Lepidochromonas	stelligera	species	https://www.algaebase.org/search/species/detail/?species_id=173132
 1535238	173134	Lepidochromonas subquadrangularis	Chromista	Heterokontophyta	Chrysophyceae	Paraphysomonadales	Lepidochromonadaceae	Lepidochromonas	subquadrangularis	species	https://www.algaebase.org/search/species/detail/?species_id=173134
@@ -1346,7 +1345,6 @@ taxon_id	ab_id	scientific_name	kingdom	phylum	class	order	family	genus	species	t
 156349	24770	Phormidium chalybeum	Bacteria	Cyanobacteria	Cyanophyceae	Oscillatoriales	Oscillatoriaceae	Phormidium	chalybeum	species	https://www.algaebase.org/search/species/detail/?species_id=24770
 156368	202	Pseudendoclonium fucicola	Plantae	Chlorophyta	Ulvophyceae	Ulvales	Kornmanniaceae	Pseudendoclonium	fucicola	species	https://www.algaebase.org/search/species/detail/?species_id=202
 156505	54504	Phalacroma rotundatum	Chromista	Dinoflagellata	Dinophyceae	Dinophysales	Oxyphysaceae	Phalacroma	rotundatum	species	https://www.algaebase.org/search/species/detail/?species_id=54504
-156509	150754	Ceratium arcticum	Chromista	Dinoflagellata	Dinophyceae	Gonyaulacales	Ceratiaceae	Ceratium	arcticum	species	https://www.algaebase.org/search/species/detail/?species_id=150754
 156511	30383	Ceratium hirundinella	Chromista	Dinoflagellata	Dinophyceae	Gonyaulacales	Ceratiaceae	Ceratium	hirundinella	species	https://www.algaebase.org/search/species/detail/?species_id=30383
 156533	30895	Achnanthes longipes	Chromista	Heterokontophyta	Bacillariophyceae	Achnanthales	Achnanthaceae	Achnanthes	longipes	species	https://www.algaebase.org/search/species/detail/?species_id=30895
 156548	39546	Pseudo-nitzschia pseudodelicatissima	Chromista	Heterokontophyta	Bacillariophyceae	Bacillariales	Bacillariaceae	Pseudo-nitzschia	pseudodelicatissima	species	https://www.algaebase.org/search/species/detail/?species_id=39546
@@ -1372,7 +1370,7 @@ taxon_id	ab_id	scientific_name	kingdom	phylum	class	order	family	genus	species	t
 156689	39524	Porosira glacialis	Chromista	Heterokontophyta	Mediophyceae	Thalassiosirales	Thalassiosiraceae	Porosira	glacialis	species	https://www.algaebase.org/search/species/detail/?species_id=39524
 156690	39921	Thalassiosira baltica	Chromista	Heterokontophyta	Mediophyceae	Thalassiosirales	Thalassiosiraceae	Thalassiosira	baltica	species	https://www.algaebase.org/search/species/detail/?species_id=39921
 156691	33067	Thalassiosira oestrupii	Chromista	Heterokontophyta	Mediophyceae	Thalassiosirales	Thalassiosiraceae	Thalassiosira	oestrupii	species	https://www.algaebase.org/search/species/detail/?species_id=33067
-156692	43296	Nodularia	Bacteria	Cyanobacteria	Cyanophyceae	Nostocales	Nodulariaceae	Nodularia		genus	https://www.algaebase.org/search/genus/detail/?genus_id=43296
+156692	55188	Nodularia	Chromista	Heterokontophyta	Phaeophyceae	Fucales	Fucaceae	Nodularia		genus	https://www.algaebase.org/search/genus/detail/?genus_id=55188
 156943	44189	Brebissonia	Chromista	Heterokontophyta	Bacillariophyceae	Cymbellales	Cymbellaceae	Brebissonia		genus	https://www.algaebase.org/search/genus/detail/?genus_id=44189
 156946	44521	Frustulia	Chromista	Heterokontophyta	Bacillariophyceae	Naviculales	Amphipleuraceae	Frustulia		genus	https://www.algaebase.org/search/genus/detail/?genus_id=44521
 156948	30942	Frustulia vulgaris	Chromista	Heterokontophyta	Bacillariophyceae	Naviculales	Amphipleuraceae	Frustulia	vulgaris	species	https://www.algaebase.org/search/species/detail/?species_id=30942
@@ -1435,7 +1433,7 @@ taxon_id	ab_id	scientific_name	kingdom	phylum	class	order	family	genus	species	t
 160553	42639	Dinobryon faculiferum	Chromista	Heterokontophyta	Chrysophyceae	Chromulinales	Dinobryaceae	Dinobryon	faculiferum	species	https://www.algaebase.org/search/species/detail/?species_id=42639
 160563	44142	Prymnesium	Chromista	Haptophyta	Coccolithophyceae	Prymnesiales	Prymnesiaceae	Prymnesium		genus	https://www.algaebase.org/search/genus/detail/?genus_id=44142
 160564	32781	Prymnesium parvum	Chromista	Haptophyta	Coccolithophyceae	Prymnesiales	Prymnesiaceae	Prymnesium	parvum	species	https://www.algaebase.org/search/species/detail/?species_id=32781
-160566	24478	Nodularia spumigena	Bacteria	Cyanobacteria	Cyanophyceae	Nostocales	Nodulariaceae	Nodularia	spumigena	species	https://www.algaebase.org/search/species/detail/?species_id=24478
+160566	24478	Nodularia spumigena	Chromista	Heterokontophyta	Phaeophyceae	Fucales	Fucaceae	Nodularia	spumigena	species	https://www.algaebase.org/search/species/detail/?species_id=24478
 160567	43592	Aphanizomenon	Bacteria	Cyanobacteria	Cyanophyceae	Nostocales	Aphanizomenonaceae	Aphanizomenon		genus	https://www.algaebase.org/search/genus/detail/?genus_id=43592
 160568	44882	Coelomoron	Bacteria	Cyanobacteria	Cyanophyceae	Chroococcales	Microcystaceae	Coelomoron		genus	https://www.algaebase.org/search/genus/detail/?genus_id=44882
 160569	53707	Coelomoron pusillum	Bacteria	Cyanobacteria	Cyanophyceae	Chroococcales	Microcystaceae	Coelomoron	pusillum	species	https://www.algaebase.org/search/species/detail/?species_id=53707
@@ -1738,7 +1736,7 @@ taxon_id	ab_id	scientific_name	kingdom	phylum	class	order	family	genus	species	t
 163922	192400	Ctenophora pulchella	Chromista	Heterokontophyta	Bacillariophyceae	Licmophorales	Ulnariaceae	Ctenophora	pulchella	species	https://www.algaebase.org/search/species/detail/?species_id=192400
 163922	31444	Ctenophora pulchella	Chromista	Heterokontophyta	Bacillariophyceae	Licmophorales	Ulnariaceae	Ctenophora	pulchella	species	https://www.algaebase.org/search/species/detail/?species_id=31444
 163934	54642	Protoperidinium curvipes	Chromista	Dinoflagellata	Dinophyceae	Peridiniales	Protoperidiniaceae	Protoperidinium	curvipes	species	https://www.algaebase.org/search/species/detail/?species_id=54642
-163940	192684	Cymatopleura elliptica	Chromista	Heterokontophyta	Bacillariophyceae	Surirellales	Surirellaceae	Cymatopleura	elliptica	species	https://www.algaebase.org/search/species/detail/?species_id=192684
+163940	33312	Cymatopleura elliptica	Chromista	Heterokontophyta	Bacillariophyceae	Surirellales	Surirellaceae	Cymatopleura	elliptica	species	https://www.algaebase.org/search/species/detail/?species_id=33312
 163943	183301	Cymatopleura elliptica var. hibernica	Chromista	Heterokontophyta	Bacillariophyceae	Surirellales	Surirellaceae	Cymatopleura	elliptica	subspecies	https://www.algaebase.org/search/species/detail/?species_id=183301
 163946	43829	Centritractus	Chromista	Heterokontophyta	Xanthophyceae	Mischococcales	Sciadiaceae	Centritractus		genus	https://www.algaebase.org/search/genus/detail/?genus_id=43829
 163948	32384	Centritractus dubius	Chromista	Heterokontophyta	Xanthophyceae	Mischococcales	Sciadiaceae	Centritractus	dubius	species	https://www.algaebase.org/search/species/detail/?species_id=32384
@@ -1886,6 +1884,7 @@ taxon_id	ab_id	scientific_name	kingdom	phylum	class	order	family	genus	species	t
 172848	33858	Navicula platystoma	Chromista	Heterokontophyta	Bacillariophyceae	Naviculales	Naviculaceae	Navicula	platystoma	species	https://www.algaebase.org/search/species/detail/?species_id=33858
 172850	38976	Navicula pseudotuscula	Chromista	Heterokontophyta	Bacillariophyceae	Naviculales	Naviculaceae	Navicula	pseudotuscula	species	https://www.algaebase.org/search/species/detail/?species_id=38976
 172855	33891	Navicula scutelloides	Chromista	Heterokontophyta	Bacillariophyceae	Naviculales	Naviculaceae	Navicula	scutelloides	species	https://www.algaebase.org/search/species/detail/?species_id=33891
+1731875	46169	Rhynchobodo	Protozoa	Euglenophyta	Kinetoplastea	Neobodonida	Neobodonidae	Rhynchobodo		genus	https://www.algaebase.org/search/genus/detail/?genus_id=46169
 1737189	190828	Chloromonas hypolimnica	Plantae	Chlorophyta	Chlorophyceae	Chlamydomonadales	Chlamydomonadaceae	Chloromonas	hypolimnica	species	https://www.algaebase.org/search/species/detail/?species_id=190828
 1737580	191524	Nematodinium parvum	Chromista	Dinoflagellata	Dinophyceae	Gymnodiniales	Warnowiaceae	Nematodinium	parvum	species	https://www.algaebase.org/search/species/detail/?species_id=191524
 1739878	183709	Urostipulosphaera lindiae	Chromista	Heterokontophyta	Chrysophyceae	Ochromonadales	Ochromonadaceae	Urostipulosphaera	lindiae	species	https://www.algaebase.org/search/species/detail/?species_id=183709
@@ -2143,7 +2142,7 @@ taxon_id	ab_id	scientific_name	kingdom	phylum	class	order	family	genus	species	t
 178448	23802	Isactis plana	Bacteria	Cyanobacteria	Cyanophyceae	Nostocales	Rivulariaceae	Isactis	plana	species	https://www.algaebase.org/search/species/detail/?species_id=23802
 178456	66874	Leptolyngbya valderiana	Bacteria	Cyanobacteria	Cyanophyceae	Leptolyngbyales	Leptolyngbyaceae	Leptolyngbya	valderiana	species	https://www.algaebase.org/search/species/detail/?species_id=66874
 178464	24476	Microcoleus vaginatus	Bacteria	Cyanobacteria	Cyanophyceae	Oscillatoriales	Microcoleaceae	Microcoleus	vaginatus	species	https://www.algaebase.org/search/species/detail/?species_id=24476
-178477	24919	Nodularia harveyana	Bacteria	Cyanobacteria	Cyanophyceae	Nostocales	Nodulariaceae	Nodularia	harveyana	species	https://www.algaebase.org/search/species/detail/?species_id=24919
+178477	24919	Nodularia harveyana	Chromista	Heterokontophyta	Phaeophyceae	Fucales	Fucaceae	Nodularia	harveyana	species	https://www.algaebase.org/search/species/detail/?species_id=24919
 178482	30181	Leptolyngbya fragilis	Bacteria	Cyanobacteria	Cyanophyceae	Leptolyngbyales	Leptolyngbyaceae	Leptolyngbya	fragilis	species	https://www.algaebase.org/search/species/detail/?species_id=30181
 178505	24529	Rivularia nitida	Bacteria	Cyanobacteria	Cyanophyceae	Nostocales	Rivulariaceae	Rivularia	nitida	species	https://www.algaebase.org/search/species/detail/?species_id=24529
 178510	43081	Symploca	Bacteria	Cyanobacteria	Cyanophyceae	Coleofasciculales	Coleofasciculaceae	Symploca		genus	https://www.algaebase.org/search/genus/detail/?genus_id=43081
@@ -2366,8 +2365,7 @@ taxon_id	ab_id	scientific_name	kingdom	phylum	class	order	family	genus	species	t
 232716	43920	Gymnodinium aureolum	Chromista	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Gymnodinium	aureolum	species	https://www.algaebase.org/search/species/detail/?species_id=43920
 232772	70348	Gymnodinium gracilentum	Chromista	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Gymnodinium	gracilentum	species	https://www.algaebase.org/search/species/detail/?species_id=70348
 232778	54356	Gymnodinium heterostriatum	Chromista	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Gymnodinium	heterostriatum	species	https://www.algaebase.org/search/species/detail/?species_id=54356
-232792	54359	Gymnodinium irregulare	Chromista	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Gymnodinium	irregulare	species	https://www.algaebase.org/search/species/detail/?species_id=54359
-232792	55743	Gymnodinium irregulare	Chromista	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Gymnodinium	irregulare	species	https://www.algaebase.org/search/species/detail/?species_id=55743
+232792	146328	Gymnodinium irregulare	Chromista	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Gymnodinium	irregulare	species	https://www.algaebase.org/search/species/detail/?species_id=146328
 232869	70398	Gymnodinium stellatum	Chromista	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Gymnodinium	stellatum	species	https://www.algaebase.org/search/species/detail/?species_id=70398
 232880	70405	Gymnodinium verruculosum	Chromista	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Gymnodinium	verruculosum	species	https://www.algaebase.org/search/species/detail/?species_id=70405
 232901	70411	Gyrodinium aciculatum	Chromista	Dinoflagellata	Dinophyceae	Gymnodiniales	Gyrodiniaceae	Gyrodinium	aciculatum	species	https://www.algaebase.org/search/species/detail/?species_id=70411
@@ -2444,7 +2442,7 @@ taxon_id	ab_id	scientific_name	kingdom	phylum	class	order	family	genus	species	t
 235911	61456	Algirosphaera oryza	Chromista	Haptophyta	Coccolithophyceae	Syracosphaerales	Rhabdosphaeraceae	Algirosphaera	oryza	species	https://www.algaebase.org/search/species/detail/?species_id=61456
 235913	61465	Algirosphaera robusta	Chromista	Haptophyta	Coccolithophyceae	Syracosphaerales	Rhabdosphaeraceae	Algirosphaera	robusta	species	https://www.algaebase.org/search/species/detail/?species_id=61465
 235922	56425	Braarudosphaera bigelowii	Chromista	Haptophyta	Coccolithophyceae	Braarudosphaerales	Braarudosphaeraceae	Braarudosphaera	bigelowii	species	https://www.algaebase.org/search/species/detail/?species_id=56425
-235923	190990	Calcidiscus leptoporus	Chromista	Haptophyta	Coccolithophyceae	Coccolithales	Calcidiscaceae	Calcidiscus	leptoporus	species	https://www.algaebase.org/search/species/detail/?species_id=190990
+235923	56426	Calcidiscus leptoporus	Chromista	Haptophyta	Coccolithophyceae	Coccolithales	Calcidiscaceae	Calcidiscus	leptoporus	species	https://www.algaebase.org/search/species/detail/?species_id=56426
 235924	54929	Calciopappus caudatus	Chromista	Haptophyta	Coccolithophyceae	Syracosphaerales	Syracosphaeraceae	Calciopappus	caudatus	species	https://www.algaebase.org/search/species/detail/?species_id=54929
 235934	47543	Coronosphaera	Chromista	Haptophyta	Coccolithophyceae	Syracosphaerales	Syracosphaeraceae	Coronosphaera		genus	https://www.algaebase.org/search/genus/detail/?genus_id=47543
 235937	46394	Umbellosphaera	Chromista	Haptophyta	Haptophyta classis incertae sedis	Haptophyta ordo incertae sedis	Umbellosphaeraceae	Umbellosphaera		genus	https://www.algaebase.org/search/genus/detail/?genus_id=46394
@@ -2724,7 +2722,6 @@ taxon_id	ab_id	scientific_name	kingdom	phylum	class	order	family	genus	species	t
 388470	66922	Chrysochromulina lanceolata	Chromista	Haptophyta	Coccolithophyceae	Prymnesiales	Chrysochromulinaceae	Chrysochromulina	lanceolata	species	https://www.algaebase.org/search/species/detail/?species_id=66922
 388471	66929	Chrysochromulina pseudolanceolata	Chromista	Haptophyta	Coccolithophyceae	Prymnesiales	Chrysochromulinaceae	Chrysochromulina	pseudolanceolata	species	https://www.algaebase.org/search/species/detail/?species_id=66929
 388485	124166	Pseudopedinella thomsenii	Chromista	Heterokontophyta	Dictyochophyceae	Pedinellales	Actinomonadaceae	Pseudopedinella	thomsenii	species	https://www.algaebase.org/search/species/detail/?species_id=124166
-389491	141142	Telonema antarcticum	Chromista	Telonemia	Telonemea	Telonemida	Telonemidae	Telonema	antarcticum	species	https://www.algaebase.org/search/species/detail/?species_id=141142
 389704	128918	Chrysochromulina planisquama	Chromista	Haptophyta	Coccolithophyceae	Prymnesiales	Chrysochromulinaceae	Chrysochromulina	planisquama	species	https://www.algaebase.org/search/species/detail/?species_id=128918
 390664	43492	Eudorina	Plantae	Chlorophyta	Chlorophyceae	Chlamydomonadales	Volvocaceae	Eudorina		genus	https://www.algaebase.org/search/genus/detail/?genus_id=43492
 390665	27940	Eudorina elegans	Plantae	Chlorophyta	Chlorophyceae	Chlamydomonadales	Volvocaceae	Eudorina	elegans	species	https://www.algaebase.org/search/species/detail/?species_id=27940
@@ -2953,7 +2950,7 @@ taxon_id	ab_id	scientific_name	kingdom	phylum	class	order	family	genus	species	t
 549221	56300	Thalassiosira conferta	Chromista	Heterokontophyta	Mediophyceae	Thalassiosirales	Thalassiosiraceae	Thalassiosira	conferta	species	https://www.algaebase.org/search/species/detail/?species_id=56300
 551461	132150	Rhizoclonium hieroglyphicum var. dimorphum	Plantae	Chlorophyta	Ulvophyceae	Cladophorales	Cladophoraceae	Rhizoclonium	hieroglyphicum	variety	https://www.algaebase.org/search/species/detail/?species_id=132150
 553115	155049	Stigonema panniforme	Bacteria	Cyanobacteria	Cyanophyceae	Nostocales	Stigonemataceae	Stigonema	panniforme	species	https://www.algaebase.org/search/species/detail/?species_id=155049
-554978	69634	Cafeteria minuta	Chromista	Bigyra	Bicosoecophyceae	Caecitellales	Cafeteriaceae	Cafeteria	minuta	species	https://www.algaebase.org/search/species/detail/?species_id=69634
+554978	69634	Cafeteria minuta	Chromista	Bigyra	Bicoecidea	Caecitellales	Cafeteriaceae	Cafeteria	minuta	species	https://www.algaebase.org/search/species/detail/?species_id=69634
 555052	60013	Thalassionema frauenfeldii	Chromista	Heterokontophyta	Bacillariophyceae	Thalassionematales	Thalassionemataceae	Thalassionema	frauenfeldii	species	https://www.algaebase.org/search/species/detail/?species_id=60013
 555264	59690	Thalassiosira delicatula	Chromista	Heterokontophyta	Mediophyceae	Thalassiosirales	Thalassiosiraceae	Thalassiosira	delicatula	species	https://www.algaebase.org/search/species/detail/?species_id=59690
 555293	33065	Thalassiosira minuscula	Chromista	Heterokontophyta	Mediophyceae	Thalassiosirales	Thalassiosiraceae	Thalassiosira	minuscula	species	https://www.algaebase.org/search/species/detail/?species_id=33065
@@ -3201,7 +3198,6 @@ taxon_id	ab_id	scientific_name	kingdom	phylum	class	order	family	genus	species	t
 577843	34498	Tryblionella aerophila	Chromista	Heterokontophyta	Bacillariophyceae	Bacillariales	Bacillariaceae	Tryblionella	aerophila	species	https://www.algaebase.org/search/species/detail/?species_id=34498
 577860	43489	Gloeotila	Plantae	Chlorophyta	Trebouxiophyceae	Chlorellales	Chlorellaceae	Gloeotila		genus	https://www.algaebase.org/search/genus/detail/?genus_id=43489
 577863	34835	Stichococcus pelagicus	Plantae	Chlorophyta	Trebouxiophyceae	Prasiolales	Stichococcaceae	Stichococcus	pelagicus	species	https://www.algaebase.org/search/species/detail/?species_id=34835
-577864	45645	Hofmania	Plantae	Chlorophyta	Chlorophyceae	Sphaeropleales	Scenedesmaceae	Hofmania		genus	https://www.algaebase.org/search/genus/detail/?genus_id=45645
 577866	34652	Golenkinia paucispina	Plantae	Chlorophyta	Chlorophyceae	Sphaeropleales	Neochloridaceae	Golenkinia	paucispina	species	https://www.algaebase.org/search/species/detail/?species_id=34652
 577869	44260	Lobocystis	Plantae	Chlorophyta	Chlorophyceae	Chlorophyceae ordo incertae sedis	Chlorophyceae familia incertae sedis	Lobocystis		genus	https://www.algaebase.org/search/genus/detail/?genus_id=44260
 577874	72744	Monochrysis parva	Chromista	Heterokontophyta	Chrysophyceae	Chromulinales	Chromulinaceae	Monochrysis	parva	species	https://www.algaebase.org/search/species/detail/?species_id=72744
@@ -3401,6 +3397,7 @@ taxon_id	ab_id	scientific_name	kingdom	phylum	class	order	family	genus	species	t
 601067	44288	Conochaete	Plantae	Charophyta	Coleochaetophyceae	Coleochaetales	Coleochaetaceae	Conochaete		genus	https://www.algaebase.org/search/genus/detail/?genus_id=44288
 601070	44292	Haplotaenium	Plantae	Charophyta	Zygnematophyceae	Desmidiales	Desmidiaceae	Haplotaenium		genus	https://www.algaebase.org/search/genus/detail/?genus_id=44292
 601073	44303	Hassallia	Bacteria	Cyanobacteria	Cyanophyceae	Nostocales	Tolypothrichaceae	Hassallia		genus	https://www.algaebase.org/search/genus/detail/?genus_id=44303
+601073	51776	Hassallia	Bacteria	Cyanobacteria	Cyanophyceae	Cyanophyceae ordo incertae sedis	Cyanophyceae familia incertae sedis	Hassallia		genus	https://www.algaebase.org/search/genus/detail/?genus_id=51776
 601086	44343	Stokesiella	Chromista	Heterokontophyta	Chrysophyceae	Chromulinales	Dinobryaceae	Stokesiella		genus	https://www.algaebase.org/search/genus/detail/?genus_id=44343
 601092	44379	Chamaepinnularia	Chromista	Heterokontophyta	Bacillariophyceae	Naviculales	Sellaphoraceae	Chamaepinnularia		genus	https://www.algaebase.org/search/genus/detail/?genus_id=44379
 601099	44425	Naviculadicta	Chromista	Heterokontophyta	Bacillariophyceae	Naviculales	Naviculaceae	Naviculadicta		genus	https://www.algaebase.org/search/genus/detail/?genus_id=44425
@@ -3422,7 +3419,7 @@ taxon_id	ab_id	scientific_name	kingdom	phylum	class	order	family	genus	species	t
 601289	44977	Choricystis	Plantae	Chlorophyta	Trebouxiophyceae	Trebouxiophyceae ordo incertae sedis	Coccomyxaceae	Choricystis		genus	https://www.algaebase.org/search/genus/detail/?genus_id=44977
 601313	45043	Chlorangiella	Plantae	Chlorophyta	Chlorophyceae	Chlamydomonadales	Chlorangiellaceae	Chlorangiella		genus	https://www.algaebase.org/search/genus/detail/?genus_id=45043
 601327	45069	Adlafia	Chromista	Heterokontophyta	Bacillariophyceae	Cymbellales	Anomoeoneidaceae	Adlafia		genus	https://www.algaebase.org/search/genus/detail/?genus_id=45069
-601409	43857	Bicosoeca	Chromista	Bigyra	Bicosoecophyceae	Bicosoecales	Bicosoecaceae	Bicosoeca		genus	https://www.algaebase.org/search/genus/detail/?genus_id=43857
+601409	43857	Bicosoeca	Chromista	Bigyra	Bicoecidea	Bicosoecales	Bicosoecaceae	Bicosoeca		genus	https://www.algaebase.org/search/genus/detail/?genus_id=43857
 601591	45464	Encyonopsis	Chromista	Heterokontophyta	Bacillariophyceae	Cymbellales	Cymbellaceae	Encyonopsis		genus	https://www.algaebase.org/search/genus/detail/?genus_id=45464
 601613	45501	Eutetramorus	Plantae	Chlorophyta	Chlorophyceae	Sphaeropleales	Radiococcaceae	Eutetramorus		genus	https://www.algaebase.org/search/genus/detail/?genus_id=45501
 601632	45540	Geissleria	Chromista	Heterokontophyta	Bacillariophyceae	Cymbellales	Cymbellaceae	Geissleria		genus	https://www.algaebase.org/search/genus/detail/?genus_id=45540
@@ -3589,7 +3586,7 @@ taxon_id	ab_id	scientific_name	kingdom	phylum	class	order	family	genus	species	t
 608835	28440	Cosmarium laeve	Plantae	Charophyta	Zygnematophyceae	Desmidiales	Desmidiaceae	Cosmarium	laeve	species	https://www.algaebase.org/search/species/detail/?species_id=28440
 608842	28454	Cosmarium margaritiferum	Plantae	Charophyta	Zygnematophyceae	Desmidiales	Desmidiaceae	Cosmarium	margaritiferum	species	https://www.algaebase.org/search/species/detail/?species_id=28454
 608854	28491	Cosmarium nitidulum	Plantae	Charophyta	Zygnematophyceae	Desmidiales	Desmidiaceae	Cosmarium	nitidulum	species	https://www.algaebase.org/search/species/detail/?species_id=28491
-608864	193673	Cosmarium orthostichum	Plantae	Charophyta	Zygnematophyceae	Desmidiales	Desmidiaceae	Cosmarium	orthostichum	species	https://www.algaebase.org/search/species/detail/?species_id=193673
+608864	28508	Cosmarium orthostichum	Plantae	Charophyta	Zygnematophyceae	Desmidiales	Desmidiaceae	Cosmarium	orthostichum	species	https://www.algaebase.org/search/species/detail/?species_id=28508
 608891	28562	Cosmarium punctulatum	Plantae	Charophyta	Zygnematophyceae	Desmidiales	Desmidiaceae	Cosmarium	punctulatum	species	https://www.algaebase.org/search/species/detail/?species_id=28562
 608892	28566	Cosmarium pygmaeum	Plantae	Charophyta	Zygnematophyceae	Desmidiales	Desmidiaceae	Cosmarium	pygmaeum	species	https://www.algaebase.org/search/species/detail/?species_id=28566
 608893	28567	Cosmarium pyramidatum	Plantae	Charophyta	Zygnematophyceae	Desmidiales	Desmidiaceae	Cosmarium	pyramidatum	species	https://www.algaebase.org/search/species/detail/?species_id=28567
@@ -3632,7 +3629,7 @@ taxon_id	ab_id	scientific_name	kingdom	phylum	class	order	family	genus	species	t
 609117	29239	Staurastrum anatinum	Plantae	Charophyta	Zygnematophyceae	Desmidiales	Desmidiaceae	Staurastrum	anatinum	species	https://www.algaebase.org/search/species/detail/?species_id=29239
 609120	29243	Staurastrum arachne	Plantae	Charophyta	Zygnematophyceae	Desmidiales	Desmidiaceae	Staurastrum	arachne	species	https://www.algaebase.org/search/species/detail/?species_id=29243
 609121	29244	Staurastrum arctiscon	Plantae	Charophyta	Zygnematophyceae	Desmidiales	Desmidiaceae	Staurastrum	arctiscon	species	https://www.algaebase.org/search/species/detail/?species_id=29244
-609135	193688	Staurastrum brachiatum	Plantae	Charophyta	Zygnematophyceae	Desmidiales	Desmidiaceae	Staurastrum	brachiatum	species	https://www.algaebase.org/search/species/detail/?species_id=193688
+609135	29272	Staurastrum brachiatum	Plantae	Charophyta	Zygnematophyceae	Desmidiales	Desmidiaceae	Staurastrum	brachiatum	species	https://www.algaebase.org/search/species/detail/?species_id=29272
 609140	29284	Staurastrum cingulum	Plantae	Charophyta	Zygnematophyceae	Desmidiales	Desmidiaceae	Staurastrum	cingulum	species	https://www.algaebase.org/search/species/detail/?species_id=29284
 609143	29300	Staurastrum crenulatum	Plantae	Charophyta	Zygnematophyceae	Desmidiales	Desmidiaceae	Staurastrum	crenulatum	species	https://www.algaebase.org/search/species/detail/?species_id=29300
 609157	29332	Staurastrum floriferum	Plantae	Charophyta	Zygnematophyceae	Desmidiales	Desmidiaceae	Staurastrum	floriferum	species	https://www.algaebase.org/search/species/detail/?species_id=29332
@@ -4283,7 +4280,7 @@ taxon_id	ab_id	scientific_name	kingdom	phylum	class	order	family	genus	species	t
 615672	56579	Euglena subehrenbergii	Protozoa	Euglenophyta	Euglenophyceae	Euglenales	Euglenaceae	Euglena	subehrenbergii	species	https://www.algaebase.org/search/species/detail/?species_id=56579
 615687	56630	Euglena allorgei	Protozoa	Euglenophyta	Euglenophyceae	Euglenales	Euglenaceae	Euglena	allorgei	species	https://www.algaebase.org/search/species/detail/?species_id=56630
 615862	57026	Strombomonas costata	Protozoa	Euglenophyta	Euglenophyceae	Euglenales	Euglenaceae	Strombomonas	costata	species	https://www.algaebase.org/search/species/detail/?species_id=57026
-615895	30785	Trachelomonas rotunda	Protozoa	Euglenophyta	Euglenophyceae	Euglenales	Euglenaceae	Trachelomonas	rotunda	species	https://www.algaebase.org/search/species/detail/?species_id=30785
+615895	57103	Trachelomonas rotunda	Protozoa	Euglenophyta	Euglenophyceae	Euglenales	Euglenaceae	Trachelomonas	rotunda	species	https://www.algaebase.org/search/species/detail/?species_id=57103
 615941	57198	Trachelomonas stokesii	Protozoa	Euglenophyta	Euglenophyceae	Euglenales	Euglenaceae	Trachelomonas	stokesii	species	https://www.algaebase.org/search/species/detail/?species_id=57198
 616061	57485	Trachelomonas furcata	Protozoa	Euglenophyta	Euglenophyceae	Euglenales	Euglenaceae	Trachelomonas	furcata	species	https://www.algaebase.org/search/species/detail/?species_id=57485
 616068	57500	Trachelomonas helvetica	Protozoa	Euglenophyta	Euglenophyceae	Euglenales	Euglenaceae	Trachelomonas	helvetica	species	https://www.algaebase.org/search/species/detail/?species_id=57500
@@ -4347,6 +4344,7 @@ taxon_id	ab_id	scientific_name	kingdom	phylum	class	order	family	genus	species	t
 616497	59350	Chlorella stigmatophora	Plantae	Chlorophyta	Trebouxiophyceae	Chlorellales	Chlorellaceae	Chlorella	stigmatophora	species	https://www.algaebase.org/search/species/detail/?species_id=59350
 616522	59401	Eudorina unicocca	Plantae	Chlorophyta	Chlorophyceae	Chlamydomonadales	Volvocaceae	Eudorina	unicocca	species	https://www.algaebase.org/search/species/detail/?species_id=59401
 616572	59525	Rhabdomonas incurva	Protozoa	Euglenophyta	Peranemea	Natomonadida	Astasiidae	Rhabdomonas	incurva	species	https://www.algaebase.org/search/species/detail/?species_id=59525
+616597	59605	Tribonema aequale	Chromista	Heterokontophyta	Xanthophyceae	Tribonematales	Tribonemataceae	Tribonema	aequale	species	https://www.algaebase.org/search/species/detail/?species_id=59605
 616612	59836	Coenocystis planctonica	Plantae	Chlorophyta	Chlorophyceae	Sphaeropleales	Radiococcaceae	Coenocystis	planctonica	species	https://www.algaebase.org/search/species/detail/?species_id=59836
 616617	59952	Gloeoplax weberi	Plantae	Chlorophyta	Chlorophyceae	Chaetophorales	Chaetophoraceae	Gloeoplax	weberi	species	https://www.algaebase.org/search/species/detail/?species_id=59952
 616625	60043	Trigonaspis diskoensis	Chromista	Haptophyta	Haptophyta classis incertae sedis	Haptophyta ordo incertae sedis	Papposphaeraceae	Trigonaspis	diskoensis	species	https://www.algaebase.org/search/species/detail/?species_id=60043
@@ -4738,6 +4736,7 @@ taxon_id	ab_id	scientific_name	kingdom	phylum	class	order	family	genus	species	t
 624695	139643	Mucidosphaerium pulchellum	Plantae	Chlorophyta	Trebouxiophyceae	Chlorellales	Chlorellaceae	Mucidosphaerium	pulchellum	species	https://www.algaebase.org/search/species/detail/?species_id=139643
 624737	139776	Desmodesmus granulatus	Plantae	Chlorophyta	Chlorophyceae	Sphaeropleales	Scenedesmaceae	Desmodesmus	granulatus	species	https://www.algaebase.org/search/species/detail/?species_id=139776
 624812	139961	Pseudokephyrion tatricum	Chromista	Heterokontophyta	Chrysophyceae	Chromulinales	Dinobryaceae	Pseudokephyrion	tatricum	species	https://www.algaebase.org/search/species/detail/?species_id=139961
+624816	139975	Chilomonas cryptomonadoides	Chromista	Cryptista	Cryptophyceae	Cryptomonadales	Cryptomonadaceae	Chilomonas	cryptomonadoides	species	https://www.algaebase.org/search/species/detail/?species_id=139975
 624948	140413	Fragilaria nanana	Chromista	Heterokontophyta	Bacillariophyceae	Fragilariales	Fragilariaceae	Fragilaria	nanana	species	https://www.algaebase.org/search/species/detail/?species_id=140413
 624955	140435	Anathece minutissima	Bacteria	Cyanobacteria	Cyanophyceae	Synechococcales	Prochlorococcaceae	Anathece	minutissima	species	https://www.algaebase.org/search/species/detail/?species_id=140435
 624957	140437	Anathece bachmannii	Bacteria	Cyanobacteria	Cyanophyceae	Synechococcales	Prochlorococcaceae	Anathece	bachmannii	species	https://www.algaebase.org/search/species/detail/?species_id=140437
@@ -4778,6 +4777,7 @@ taxon_id	ab_id	scientific_name	kingdom	phylum	class	order	family	genus	species	t
 625390	140983	Chrysochromulina limonia	Chromista	Haptophyta	Coccolithophyceae	Prymnesiales	Chrysochromulinaceae	Chrysochromulina	limonia	species	https://www.algaebase.org/search/species/detail/?species_id=140983
 625391	140984	Chrysococcus bisetus	Chromista	Heterokontophyta	Chrysophyceae	Chromulinales	Chrysococcaceae	Chrysococcus	bisetus	species	https://www.algaebase.org/search/species/detail/?species_id=140984
 625392	140985	Chrysococcus furcatus	Chromista	Heterokontophyta	Chrysophyceae	Chromulinales	Chrysococcaceae	Chrysococcus	furcatus	species	https://www.algaebase.org/search/species/detail/?species_id=140985
+625393	140986	Chrysolykos angulatus	Chromista	Heterokontophyta	Chrysophyceae	Chromulinales	Dinobryaceae	Chrysolykos	angulatus	species	https://www.algaebase.org/search/species/detail/?species_id=140986
 625394	140987	Chrysolykos calceatus	Chromista	Heterokontophyta	Chrysophyceae	Chromulinales	Dinobryaceae	Chrysolykos	calceatus	species	https://www.algaebase.org/search/species/detail/?species_id=140987
 625395	140988	Chrysolykos complanatus	Chromista	Heterokontophyta	Chrysophyceae	Chromulinales	Dinobryaceae	Chrysolykos	complanatus	species	https://www.algaebase.org/search/species/detail/?species_id=140988
 625396	140992	Coelastrum cornutum	Plantae	Chlorophyta	Chlorophyceae	Sphaeropleales	Scenedesmaceae	Coelastrum	cornutum	species	https://www.algaebase.org/search/species/detail/?species_id=140992
@@ -4804,6 +4804,7 @@ taxon_id	ab_id	scientific_name	kingdom	phylum	class	order	family	genus	species	t
 625425	141036	Hydrocoleum homeotrichum	Bacteria	Cyanobacteria	Cyanophyceae	Oscillatoriales	Microcoleaceae	Hydrocoleum	homeotrichum	species	https://www.algaebase.org/search/species/detail/?species_id=141036
 625426	141038	Karayevia nitidiformis	Chromista	Heterokontophyta	Bacillariophyceae	Achnanthales	Achnanthidiaceae	Karayevia	nitidiformis	species	https://www.algaebase.org/search/species/detail/?species_id=141038
 625427	141039	Katodinium palustre	Chromista	Dinoflagellata	Dinophyceae	Gonyaulacales	Tovelliaceae	Katodinium	palustre	species	https://www.algaebase.org/search/species/detail/?species_id=141039
+625428	141041	Klebsormidium oedogonioides	Plantae	Charophyta	Klebsormidiophyceae	Klebsormidiales	Klebsormidiaceae	Klebsormidium	oedogonioides	species	https://www.algaebase.org/search/species/detail/?species_id=141041
 625430	167184	Leprotintinnus pellucidus	Chromista	Ciliophora	Spirotrichea	Tintinnida	Tintinnidiidae	Leprotintinnus	pellucidus	species	https://www.algaebase.org/search/species/detail/?species_id=167184
 625431	141047	Limnothrix obliqueacuminata	Bacteria	Cyanobacteria	Cyanophyceae	Pseudanabaenales	Pseudanabaenaceae	Limnothrix	obliqueacuminata	species	https://www.algaebase.org/search/species/detail/?species_id=141047
 625432	141049	Luffisphaera longihastis	Amorphea	Amoebozoa	Variosea	Luffisphaerida	Luffisphaeridae	Luffisphaera	longihastis	species	https://www.algaebase.org/search/species/detail/?species_id=141049
@@ -4811,7 +4812,7 @@ taxon_id	ab_id	scientific_name	kingdom	phylum	class	order	family	genus	species	t
 625435	141059	Mougeotia gotlandica	Plantae	Charophyta	Zygnematophyceae	Zygnematales	Zygnemataceae	Mougeotia	gotlandica	species	https://www.algaebase.org/search/species/detail/?species_id=141059
 625436	141060	Mougeotia megaspora	Plantae	Charophyta	Zygnematophyceae	Zygnematales	Zygnemataceae	Mougeotia	megaspora	species	https://www.algaebase.org/search/species/detail/?species_id=141060
 625437	141061	Mougeotia punctata	Plantae	Charophyta	Zygnematophyceae	Zygnematales	Zygnemataceae	Mougeotia	punctata	species	https://www.algaebase.org/search/species/detail/?species_id=141061
-625438	141063	Nodularia litorea	Bacteria	Cyanobacteria	Cyanophyceae	Nostocales	Nodulariaceae	Nodularia	litorea	species	https://www.algaebase.org/search/species/detail/?species_id=141063
+625438	141063	Nodularia litorea	Chromista	Heterokontophyta	Phaeophyceae	Fucales	Fucaceae	Nodularia	litorea	species	https://www.algaebase.org/search/species/detail/?species_id=141063
 625439	141064	Nupela fennica	Chromista	Heterokontophyta	Bacillariophyceae	Naviculales	Brachysiraceae	Nupela	fennica	species	https://www.algaebase.org/search/species/detail/?species_id=141064
 625441	141066	Ochromonas elegans	Chromista	Heterokontophyta	Chrysophyceae	Ochromonadales	Ochromonadaceae	Ochromonas	elegans	species	https://www.algaebase.org/search/species/detail/?species_id=141066
 625443	141068	Oedogonium bascii	Plantae	Chlorophyta	Chlorophyceae	Oedogoniales	Oedogoniaceae	Oedogonium	bascii	species	https://www.algaebase.org/search/species/detail/?species_id=141068
@@ -4826,6 +4827,7 @@ taxon_id	ab_id	scientific_name	kingdom	phylum	class	order	family	genus	species	t
 625454	141085	Pseudokephyrion alaskanum	Chromista	Heterokontophyta	Chrysophyceae	Chromulinales	Dinobryaceae	Pseudokephyrion	alaskanum	species	https://www.algaebase.org/search/species/detail/?species_id=141085
 625455	141086	Pseudokephyrion angulosum	Chromista	Heterokontophyta	Chrysophyceae	Chromulinales	Dinobryaceae	Pseudokephyrion	angulosum	species	https://www.algaebase.org/search/species/detail/?species_id=141086
 625456	141087	Pseudokephyrion attenuatum	Chromista	Heterokontophyta	Chrysophyceae	Chromulinales	Dinobryaceae	Pseudokephyrion	attenuatum	species	https://www.algaebase.org/search/species/detail/?species_id=141087
+625457	141088	Pseudokephyrion millerense	Chromista	Heterokontophyta	Chrysophyceae	Chromulinales	Dinobryaceae	Pseudokephyrion	millerense	species	https://www.algaebase.org/search/species/detail/?species_id=141088
 625458	141089	Pseudokephyrion poculum	Chromista	Heterokontophyta	Chrysophyceae	Chromulinales	Dinobryaceae	Pseudokephyrion	poculum	species	https://www.algaebase.org/search/species/detail/?species_id=141089
 625460	141092	Pseudokephyrion taeniatum	Chromista	Heterokontophyta	Chrysophyceae	Chromulinales	Dinobryaceae	Pseudokephyrion	taeniatum	species	https://www.algaebase.org/search/species/detail/?species_id=141092
 625461	141093	Pteridomonas salina	Chromista	Heterokontophyta	Dictyochophyceae	Pedinellales	Actinomonadaceae	Pteridomonas	salina	species	https://www.algaebase.org/search/species/detail/?species_id=141093
@@ -4955,9 +4957,9 @@ taxon_id	ab_id	scientific_name	kingdom	phylum	class	order	family	genus	species	t
 628127	72812	Tetramitus rostratus	Protozoa	Percolozoa	Heterolobosea	Schizopyrenida	Vahlkampfiidae	Tetramitus	rostratus	species	https://www.algaebase.org/search/species/detail/?species_id=72812
 628164	73178	Goniochloris pulchra	Chromista	Heterokontophyta	Eustigmatophyceae	Goniochloridales	Goniochloridaceae	Goniochloris	pulchra	species	https://www.algaebase.org/search/species/detail/?species_id=73178
 628666	74969	Trigonomonas aechme	Protozoa	Loukozoa	Eopharyngea	Diplomonadida	Hexamitidae	Trigonomonas	aechme	species	https://www.algaebase.org/search/species/detail/?species_id=74969
-628881	75350	Bicosoeca alaskana	Chromista	Bigyra	Bicosoecophyceae	Bicosoecales	Bicosoecaceae	Bicosoeca	alaskana	species	https://www.algaebase.org/search/species/detail/?species_id=75350
+628881	75350	Bicosoeca alaskana	Chromista	Bigyra	Bicoecidea	Bicosoecales	Bicosoecaceae	Bicosoeca	alaskana	species	https://www.algaebase.org/search/species/detail/?species_id=75350
 629033	75620	Oedogonium alsium	Plantae	Chlorophyta	Chlorophyceae	Oedogoniales	Oedogoniaceae	Oedogonium	alsium	species	https://www.algaebase.org/search/species/detail/?species_id=75620
-629499	76584	Codomonas annulata	Chromista	Bigyra	Bicosoecophyceae	Bicosoecales	Bicosoecaceae	Codomonas	annulata	species	https://www.algaebase.org/search/species/detail/?species_id=76584
+629499	76584	Codomonas annulata	Chromista	Bigyra	Bicoecidea	Bicosoecales	Bicosoecaceae	Codomonas	annulata	species	https://www.algaebase.org/search/species/detail/?species_id=76584
 630140	77967	Oedogonium aster	Plantae	Chlorophyta	Chlorophyceae	Oedogoniales	Oedogoniaceae	Oedogonium	aster	species	https://www.algaebase.org/search/species/detail/?species_id=77967
 630411	78487	Oedogonium autumnale	Plantae	Chlorophyta	Chlorophyceae	Oedogoniales	Oedogoniaceae	Oedogonium	autumnale	species	https://www.algaebase.org/search/species/detail/?species_id=78487
 630490	78668	Oedogonium bahusiense	Plantae	Chlorophyta	Chlorophyceae	Oedogoniales	Oedogoniaceae	Oedogonium	bahusiense	species	https://www.algaebase.org/search/species/detail/?species_id=78668
@@ -4969,6 +4971,7 @@ taxon_id	ab_id	scientific_name	kingdom	phylum	class	order	family	genus	species	t
 636223	90151	Trachydiscus ellipsoideus	Chromista	Heterokontophyta	Eustigmatophyceae	Goniochloridales	Goniochloridaceae	Trachydiscus	ellipsoideus	species	https://www.algaebase.org/search/species/detail/?species_id=90151
 636279	90277	Koliella elongata	Plantae	Chlorophyta	Trebouxiophyceae	Prasiolales	Koliellaceae	Koliella	elongata	species	https://www.algaebase.org/search/species/detail/?species_id=90277
 636409	90545	Gomphonema entolejum	Chromista	Heterokontophyta	Bacillariophyceae	Cymbellales	Gomphonemataceae	Gomphonema	entolejum	species	https://www.algaebase.org/search/species/detail/?species_id=90545
+636457	90606	Epipyxis epiplanctica	Chromista	Heterokontophyta	Chrysophyceae	Chromulinales	Dinobryaceae	Epipyxis	epiplanctica	species	https://www.algaebase.org/search/species/detail/?species_id=90606
 637365	92486	Vitreochlamys fluviatilis	Plantae	Chlorophyta	Chlorophyceae	Chlamydomonadales	Chlamydomonadaceae	Vitreochlamys	fluviatilis	species	https://www.algaebase.org/search/species/detail/?species_id=92486
 638450	94689	Trichonema gracile	Amorphea	Amoebozoa	Variosea	Phalansteriida	Trichonematidae	Trichonema	gracile	species	https://www.algaebase.org/search/species/detail/?species_id=94689
 638504	94902	Synuropsis gracilis	Chromista	Heterokontophyta	Chrysophyceae	Ochromonadales	Ochromonadaceae	Synuropsis	gracilis	species	https://www.algaebase.org/search/species/detail/?species_id=94902
@@ -5053,13 +5056,13 @@ taxon_id	ab_id	scientific_name	kingdom	phylum	class	order	family	genus	species	t
 656435	32417	Vaucheria dillwynii	Chromista	Heterokontophyta	Xanthophyceae	Vaucheriales	Vaucheriaceae	Vaucheria	dillwynii	species	https://www.algaebase.org/search/species/detail/?species_id=32417
 656941	42176	Cyclotella polymorpha	Chromista	Heterokontophyta	Mediophyceae	Stephanodiscales	Stephanodiscaceae	Cyclotella	polymorpha	species	https://www.algaebase.org/search/species/detail/?species_id=42176
 657414	44361	Kirchneriella major	Plantae	Chlorophyta	Chlorophyceae	Sphaeropleales	Selenastraceae	Kirchneriella	major	species	https://www.algaebase.org/search/species/detail/?species_id=44361
-657648	45850	Nodularia baltica	Bacteria	Cyanobacteria	Cyanophyceae	Nostocales	Nodulariaceae	Nodularia	baltica	species	https://www.algaebase.org/search/species/detail/?species_id=45850
+657648	45850	Nodularia baltica	Chromista	Heterokontophyta	Phaeophyceae	Fucales	Fucaceae	Nodularia	baltica	species	https://www.algaebase.org/search/species/detail/?species_id=45850
 657702	46041	Oscillatoria quasiperforata	Bacteria	Cyanobacteria	Cyanophyceae	Oscillatoriales	Oscillatoriaceae	Oscillatoria	quasiperforata	species	https://www.algaebase.org/search/species/detail/?species_id=46041
 657811	46383	Phormidium thwaitesii	Bacteria	Cyanobacteria	Cyanophyceae	Oscillatoriales	Oscillatoriaceae	Phormidium	thwaitesii	species	https://www.algaebase.org/search/species/detail/?species_id=46383
 657881	46754	Pleurosigma tenuiforme	Chromista	Heterokontophyta	Bacillariophyceae	Naviculales	Pleurosigmataceae	Pleurosigma	tenuiforme	species	https://www.algaebase.org/search/species/detail/?species_id=46754
 658557	65831	Oscillatoria putrida	Bacteria	Cyanobacteria	Cyanophyceae	Oscillatoriales	Oscillatoriaceae	Oscillatoria	putrida	species	https://www.algaebase.org/search/species/detail/?species_id=65831
 658662	67205	Oscillatoria grossigranulata	Bacteria	Cyanobacteria	Cyanophyceae	Oscillatoriales	Oscillatoriaceae	Oscillatoria	grossigranulata	species	https://www.algaebase.org/search/species/detail/?species_id=67205
-659898	139707	Bicosoeca socialis	Chromista	Bigyra	Bicosoecophyceae	Bicosoecales	Bicosoecaceae	Bicosoeca	socialis	species	https://www.algaebase.org/search/species/detail/?species_id=139707
+659898	139707	Bicosoeca socialis	Chromista	Bigyra	Bicoecidea	Bicosoecales	Bicosoecaceae	Bicosoeca	socialis	species	https://www.algaebase.org/search/species/detail/?species_id=139707
 659901	139858	Aphanizomenon yezoense	Bacteria	Cyanobacteria	Cyanophyceae	Nostocales	Aphanizomenonaceae	Aphanizomenon	yezoense	species	https://www.algaebase.org/search/species/detail/?species_id=139858
 660661	22039	Ulva australis	Plantae	Chlorophyta	Ulvophyceae	Ulvales	Ulvaceae	Ulva	australis	species	https://www.algaebase.org/search/species/detail/?species_id=22039
 660753	23781	Spirulina subsalsa	Bacteria	Cyanobacteria	Cyanophyceae	Spirulinales	Spirulinaceae	Spirulina	subsalsa	species	https://www.algaebase.org/search/species/detail/?species_id=23781
@@ -5128,6 +5131,7 @@ taxon_id	ab_id	scientific_name	kingdom	phylum	class	order	family	genus	species	t
 665157	63968	Fragilaria delicatissima	Chromista	Heterokontophyta	Bacillariophyceae	Fragilariales	Fragilariaceae	Fragilaria	delicatissima	species	https://www.algaebase.org/search/species/detail/?species_id=63968
 665160	63987	Fragilaria polonica	Chromista	Heterokontophyta	Bacillariophyceae	Fragilariales	Fragilariaceae	Fragilaria	polonica	species	https://www.algaebase.org/search/species/detail/?species_id=63987
 665161	63990	Fragilaria quadrata	Chromista	Heterokontophyta	Bacillariophyceae	Fragilariales	Fragilariaceae	Fragilaria	quadrata	species	https://www.algaebase.org/search/species/detail/?species_id=63990
+665170	64682	Staurosira berolinensis	Chromista	Heterokontophyta	Bacillariophyceae	Fragilariales	Staurosiraceae	Staurosira	berolinensis	species	https://www.algaebase.org/search/species/detail/?species_id=64682
 665181	64765	Phormidium tinctorium	Bacteria	Cyanobacteria	Cyanophyceae	Oscillatoriales	Oscillatoriaceae	Phormidium	tinctorium	species	https://www.algaebase.org/search/species/detail/?species_id=64765
 665267	65466	Hassallia pulvinata	Bacteria	Cyanobacteria	Cyanophyceae	Nostocales	Tolypothrichaceae	Hassallia	pulvinata	species	https://www.algaebase.org/search/species/detail/?species_id=65466
 665308	65821	Spirulina rosea	Bacteria	Cyanobacteria	Cyanophyceae	Spirulinales	Spirulinaceae	Spirulina	rosea	species	https://www.algaebase.org/search/species/detail/?species_id=65821
@@ -5145,7 +5149,7 @@ taxon_id	ab_id	scientific_name	kingdom	phylum	class	order	family	genus	species	t
 669081	134492	Stauroneis spicula	Chromista	Heterokontophyta	Bacillariophyceae	Naviculales	Stauroneidaceae	Stauroneis	spicula	species	https://www.algaebase.org/search/species/detail/?species_id=134492
 669209	31965	Pinnularia gibba	Chromista	Heterokontophyta	Bacillariophyceae	Naviculales	Pinnulariaceae	Pinnularia	gibba	species	https://www.algaebase.org/search/species/detail/?species_id=31965
 669356	34181	Pinnularia irrorata	Chromista	Heterokontophyta	Bacillariophyceae	Naviculales	Pinnulariaceae	Pinnularia	irrorata	species	https://www.algaebase.org/search/species/detail/?species_id=34181
-669377	35475	Staurastrum pilosum	Plantae	Charophyta	Zygnematophyceae	Desmidiales	Desmidiaceae	Staurastrum	pilosum	species	https://www.algaebase.org/search/species/detail/?species_id=35475
+669377	135727	Staurastrum pilosum	Plantae	Charophyta	Zygnematophyceae	Desmidiales	Desmidiaceae	Staurastrum	pilosum	species	https://www.algaebase.org/search/species/detail/?species_id=135727
 669893	46695	Planothidium lanceolatum	Chromista	Heterokontophyta	Bacillariophyceae	Achnanthales	Achnanthidiaceae	Planothidium	lanceolatum	species	https://www.algaebase.org/search/species/detail/?species_id=46695
 670030	140461	Prymnesium polylepis	Chromista	Haptophyta	Coccolithophyceae	Prymnesiales	Prymnesiaceae	Prymnesium	polylepis	species	https://www.algaebase.org/search/species/detail/?species_id=140461
 670163	34293	Psammothidium didymum	Chromista	Heterokontophyta	Bacillariophyceae	Achnanthales	Achnanthidiaceae	Psammothidium	didymum	species	https://www.algaebase.org/search/species/detail/?species_id=34293
@@ -5213,6 +5217,7 @@ taxon_id	ab_id	scientific_name	kingdom	phylum	class	order	family	genus	species	t
 672443	50973	Hyalotheca mucosa var. minor	Plantae	Charophyta	Zygnematophyceae	Desmidiales	Desmidiaceae	Hyalotheca	mucosa	variety	https://www.algaebase.org/search/species/detail/?species_id=50973
 672626	57236	Trachelomonas lacustris var. ovalis	Protozoa	Euglenophyta	Euglenophyceae	Euglenales	Euglenaceae	Trachelomonas	lacustris	variety	https://www.algaebase.org/search/species/detail/?species_id=57236
 672635	57275	Trachelomonas hispida var. crenulatocollis	Protozoa	Euglenophyta	Euglenophyceae	Euglenales	Euglenaceae	Trachelomonas	hispida	variety	https://www.algaebase.org/search/species/detail/?species_id=57275
+672635	96741	Trachelomonas hispida var. crenulatocollis	Protozoa	Euglenophyta	Euglenophyceae	Euglenales	Euglenaceae	Trachelomonas	hispida	forma	https://www.algaebase.org/search/species/detail/?species_id=96741
 672639	57283	Trachelomonas hispida var. caudata	Protozoa	Euglenophyta	Euglenophyceae	Euglenales	Euglenaceae	Trachelomonas	hispida	variety	https://www.algaebase.org/search/species/detail/?species_id=57283
 672821	59176	Staurodesmus megacanthus var. scoticus	Plantae	Charophyta	Zygnematophyceae	Desmidiales	Desmidiaceae	Staurodesmus	megacanthus	variety	https://www.algaebase.org/search/species/detail/?species_id=59176
 672919	63089	Mesotaenium chlamydosporum var. violascens	Plantae	Charophyta	Zygnematophyceae	Zygnematales	Mesotaeniaceae	Mesotaenium	chlamydosporum	variety	https://www.algaebase.org/search/species/detail/?species_id=63089
@@ -5247,11 +5252,11 @@ taxon_id	ab_id	scientific_name	kingdom	phylum	class	order	family	genus	species	t
 674360	135785	Pinnularia polyonca var. similis	Chromista	Heterokontophyta	Bacillariophyceae	Naviculales	Pinnulariaceae	Pinnularia	polyonca	variety	https://www.algaebase.org/search/species/detail/?species_id=135785
 674436	135977	Pinnularia graciloides var. triundulata	Chromista	Heterokontophyta	Bacillariophyceae	Naviculales	Pinnulariaceae	Pinnularia	graciloides	variety	https://www.algaebase.org/search/species/detail/?species_id=135977
 674441	136006	Pinnularia subcommutata var. nonfasciata	Chromista	Heterokontophyta	Bacillariophyceae	Naviculales	Pinnulariaceae	Pinnularia	subcommutata	variety	https://www.algaebase.org/search/species/detail/?species_id=136006
-674442	136010	Chattonella marina var. ovata	Chromista	Heterokontophyta	Raphidophyceae	Chattonellales	Chattonellaceae	Chattonella	marina	variety	https://www.algaebase.org/search/species/detail/?species_id=136010
 674466	136264	Pinnularia clevei var. minor	Chromista	Heterokontophyta	Bacillariophyceae	Naviculales	Pinnulariaceae	Pinnularia	clevei	variety	https://www.algaebase.org/search/species/detail/?species_id=136264
 674535	137383	Cymbopleura rhomboidea var. angusta	Chromista	Heterokontophyta	Bacillariophyceae	Cymbellales	Cymbellaceae	Cymbopleura	rhomboidea	variety	https://www.algaebase.org/search/species/detail/?species_id=137383
 674552	137452	Cymbopleura incertiformis var. laterostrata	Chromista	Heterokontophyta	Bacillariophyceae	Cymbellales	Cymbellaceae	Cymbopleura	incertiformis	variety	https://www.algaebase.org/search/species/detail/?species_id=137452
 674666	138270	Spondylosium lundellii var. triquetrum	Plantae	Charophyta	Zygnematophyceae	Desmidiales	Desmidiaceae	Spondylosium	lundellii	variety	https://www.algaebase.org/search/species/detail/?species_id=138270
+674837	141180	Ulnaria ulna var. acus	Chromista	Heterokontophyta	Bacillariophyceae	Licmophorales	Ulnariaceae	Ulnaria	ulna	variety	https://www.algaebase.org/search/species/detail/?species_id=141180
 674838	160077	Tetraedron minimum var. tetralobulatum	Plantae	Chlorophyta	Chlorophyceae	Sphaeropleales	Hydrodictyaceae	Tetraedron	minimum	forma	https://www.algaebase.org/search/species/detail/?species_id=160077
 674840	141184	Stigeoclonium farctum var. rivulare	Plantae	Chlorophyta	Chlorophyceae	Chaetophorales	Fritschiellaceae	Stigeoclonium	farctum	variety	https://www.algaebase.org/search/species/detail/?species_id=141184
 674841	141185	Staurodesmus bulnheimii var. subrotundatus	Plantae	Charophyta	Zygnematophyceae	Desmidiales	Desmidiaceae	Staurodesmus	bulnheimii	variety	https://www.algaebase.org/search/species/detail/?species_id=141185
@@ -5300,6 +5305,7 @@ taxon_id	ab_id	scientific_name	kingdom	phylum	class	order	family	genus	species	t
 684810	115343	Peridinium raciborskii var. palustre	Chromista	Dinoflagellata	Dinophyceae	Peridiniales	Peridiniaceae	Peridinium	raciborskii	variety	https://www.algaebase.org/search/species/detail/?species_id=115343
 686238	122748	Dinobryon suecicum var. longispinum	Chromista	Heterokontophyta	Chrysophyceae	Chromulinales	Dinobryaceae	Dinobryon	suecicum	variety	https://www.algaebase.org/search/species/detail/?species_id=122748
 686289	122967	Desmidium swartzii var. gotlandicum	Plantae	Charophyta	Zygnematophyceae	Desmidiales	Desmidiaceae	Desmidium	swartzii	variety	https://www.algaebase.org/search/species/detail/?species_id=122967
+686433	123823	Vaucheria terrestris var. nuoljae	Chromista	Heterokontophyta	Xanthophyceae	Vaucheriales	Vaucheriaceae	Vaucheria	terrestris	variety	https://www.algaebase.org/search/species/detail/?species_id=123823
 688227	137514	Heterocapsa arctica subsp. frigida	Chromista	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	arctica	subspecies	https://www.algaebase.org/search/species/detail/?species_id=137514
 688230	141178	Ulva flexuosa subsp. biflagellata	Plantae	Chlorophyta	Ulvophyceae	Ulvales	Ulvaceae	Ulva	flexuosa	subspecies	https://www.algaebase.org/search/species/detail/?species_id=141178
 688515	43738	Gomphonema minutum f. syriacum	Chromista	Heterokontophyta	Bacillariophyceae	Cymbellales	Gomphonemataceae	Gomphonema	minutum	forma	https://www.algaebase.org/search/species/detail/?species_id=43738
@@ -5308,6 +5314,7 @@ taxon_id	ab_id	scientific_name	kingdom	phylum	class	order	family	genus	species	t
 688617	56600	Euglena oxyuris f. skvortzovii	Protozoa	Euglenophyta	Euglenophyceae	Euglenales	Euglenaceae	Euglena	oxyuris	forma	https://www.algaebase.org/search/species/detail/?species_id=56600
 688617	56601	Euglena oxyuris f. skvortzovii	Protozoa	Euglenophyta	Euglenophyceae	Euglenales	Euglenaceae	Euglena	oxyuris	variety	https://www.algaebase.org/search/species/detail/?species_id=56601
 688661	112141	Trachelomonas planctonica f. oblonga	Protozoa	Euglenophyta	Euglenophyceae	Euglenales	Euglenaceae	Trachelomonas	planctonica	variety	https://www.algaebase.org/search/species/detail/?species_id=112141
+689132	141212	Chrysolykos angulatus f. bicornis	Chromista	Heterokontophyta	Chrysophyceae	Chromulinales	Dinobryaceae	Chrysolykos	angulatus	forma	https://www.algaebase.org/search/species/detail/?species_id=141212
 689133	141216	Cavinula cocconeiformis f. elliptica	Chromista	Heterokontophyta	Bacillariophyceae	Naviculales	Cavinulaceae	Cavinula	cocconeiformis	forma	https://www.algaebase.org/search/species/detail/?species_id=141216
 694738	35935	Eunotia bilunaris var. linearis	Chromista	Heterokontophyta	Bacillariophyceae	Eunotiales	Eunotiaceae	Eunotia	bilunaris	variety	https://www.algaebase.org/search/species/detail/?species_id=35935
 695114	31082	Nitzschia sinuata var. tabellaria	Chromista	Heterokontophyta	Bacillariophyceae	Bacillariales	Bacillariaceae	Nitzschia	sinuata	variety	https://www.algaebase.org/search/species/detail/?species_id=31082
@@ -5360,7 +5367,7 @@ taxon_id	ab_id	scientific_name	kingdom	phylum	class	order	family	genus	species	t
 700337	131070	Stauroneis pergracilis	Chromista	Heterokontophyta	Bacillariophyceae	Naviculales	Stauroneidaceae	Stauroneis	pergracilis	species	https://www.algaebase.org/search/species/detail/?species_id=131070
 700346	131079	Stauroneis separanda	Chromista	Heterokontophyta	Bacillariophyceae	Naviculales	Stauroneidaceae	Stauroneis	separanda	species	https://www.algaebase.org/search/species/detail/?species_id=131079
 700441	34290	Psammothidium bioretii	Chromista	Heterokontophyta	Bacillariophyceae	Achnanthales	Achnanthidiaceae	Psammothidium	bioretii	species	https://www.algaebase.org/search/species/detail/?species_id=34290
-700452	35663	Nodularia sphaerocarpa	Bacteria	Cyanobacteria	Cyanophyceae	Nostocales	Nodulariaceae	Nodularia	sphaerocarpa	species	https://www.algaebase.org/search/species/detail/?species_id=35663
+700452	35663	Nodularia sphaerocarpa	Chromista	Heterokontophyta	Phaeophyceae	Fucales	Fucaceae	Nodularia	sphaerocarpa	species	https://www.algaebase.org/search/species/detail/?species_id=35663
 700472	36979	Achnanthes carissima	Chromista	Heterokontophyta	Bacillariophyceae	Achnanthales	Achnanthaceae	Achnanthes	carissima	species	https://www.algaebase.org/search/species/detail/?species_id=36979
 700531	45271	Navicula germainii	Chromista	Heterokontophyta	Bacillariophyceae	Naviculales	Naviculaceae	Navicula	germainii	species	https://www.algaebase.org/search/species/detail/?species_id=45271
 700733	63120	Nostoc flagelliforme	Bacteria	Cyanobacteria	Cyanophyceae	Nostocales	Nostocaceae	Nostoc	flagelliforme	species	https://www.algaebase.org/search/species/detail/?species_id=63120
@@ -5376,6 +5383,7 @@ taxon_id	ab_id	scientific_name	kingdom	phylum	class	order	family	genus	species	t
 704540	74431	Oedogonium acmandrium	Plantae	Chlorophyta	Chlorophyceae	Oedogoniales	Oedogoniaceae	Oedogonium	acmandrium	species	https://www.algaebase.org/search/species/detail/?species_id=74431
 704541	145534	Oedogonium alternans	Plantae	Chlorophyta	Chlorophyceae	Oedogoniales	Oedogoniaceae	Oedogonium	alternans	species	https://www.algaebase.org/search/species/detail/?species_id=145534
 704773	29518	Staurastrum sebaldi	Plantae	Charophyta	Zygnematophyceae	Desmidiales	Desmidiaceae	Staurastrum	sebaldi	species	https://www.algaebase.org/search/species/detail/?species_id=29518
+705193	141186	Staurastrum petsamoense var. minus	Plantae	Charophyta	Zygnematophyceae	Desmidiales	Desmidiaceae	Staurastrum	petsamoense	variety	https://www.algaebase.org/search/species/detail/?species_id=141186
 705198	61149	Cosmarium depressum f. minutum	Plantae	Charophyta	Zygnematophyceae	Desmidiales	Desmidiaceae	Cosmarium	depressum	variety	https://www.algaebase.org/search/species/detail/?species_id=61149
 705198	28387	Cosmarium depressum f. minutum	Plantae	Charophyta	Zygnematophyceae	Desmidiales	Desmidiaceae	Cosmarium	depressum	forma	https://www.algaebase.org/search/species/detail/?species_id=28387
 705310	63697	Encyonema cespitosum var. comensis	Chromista	Heterokontophyta	Bacillariophyceae	Cymbellales	Gomphonemataceae	Encyonema	cespitosum	variety	https://www.algaebase.org/search/species/detail/?species_id=63697
@@ -5388,12 +5396,16 @@ taxon_id	ab_id	scientific_name	kingdom	phylum	class	order	family	genus	species	t
 707830	143066	Gymnodinium litoralis	Chromista	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Gymnodinium	litoralis	species	https://www.algaebase.org/search/species/detail/?species_id=143066
 707927	143264	Vicicitus globosus	Chromista	Heterokontophyta	Dictyochophyceae	Dictyochales	Dictyochaceae	Vicicitus	globosus	species	https://www.algaebase.org/search/species/detail/?species_id=143264
 707997	143460	Achnanthidium subatomoides	Chromista	Heterokontophyta	Bacillariophyceae	Achnanthales	Achnanthidiaceae	Achnanthidium	subatomoides	species	https://www.algaebase.org/search/species/detail/?species_id=143460
+707998	143461	Chrysococcus granulatus	Chromista	Heterokontophyta	Chrysophyceae	Chromulinales	Chrysococcaceae	Chrysococcus	granulatus	species	https://www.algaebase.org/search/species/detail/?species_id=143461
 707999	143462	Chrysococcus triporus	Chromista	Heterokontophyta	Chrysophyceae	Chromulinales	Chrysococcaceae	Chrysococcus	triporus	species	https://www.algaebase.org/search/species/detail/?species_id=143462
+708002	143471	Sphaerellopsis lateralis	Plantae	Chlorophyta	Chlorophyceae	Chlamydomonadales	Chlamydomonadaceae	Sphaerellopsis	lateralis	species	https://www.algaebase.org/search/species/detail/?species_id=143471
 708003	143472	Spirogyra denticulata	Plantae	Charophyta	Zygnematophyceae	Spirogyrales	Spirogyraceae	Spirogyra	denticulata	species	https://www.algaebase.org/search/species/detail/?species_id=143472
+708004	143475	Chlorogonium intermedium	Plantae	Chlorophyta	Chlorophyceae	Chlamydomonadales	Haematococcaceae	Chlorogonium	intermedium	species	https://www.algaebase.org/search/species/detail/?species_id=143475
 708007	143483	Hemiselmis amylifera	Chromista	Cryptista	Cryptophyceae	Pyrenomonadales	Hemiselmidaceae	Hemiselmis	amylifera	species	https://www.algaebase.org/search/species/detail/?species_id=143483
-708012	72551	Bicosoeca mitra	Chromista	Bigyra	Bicosoecophyceae	Bicosoecales	Bicosoecaceae	Bicosoeca	mitra	species	https://www.algaebase.org/search/species/detail/?species_id=72551
-708013	109478	Bicosoeca ovata	Chromista	Bigyra	Bicosoecophyceae	Bicosoecales	Bicosoecaceae	Bicosoeca	ovata	species	https://www.algaebase.org/search/species/detail/?species_id=109478
-708014	110377	Bicosoeca paropsis	Chromista	Bigyra	Bicosoecophyceae	Bicosoecales	Bicosoecaceae	Bicosoeca	paropsis	species	https://www.algaebase.org/search/species/detail/?species_id=110377
+708008	66649	Hydrocoleum subcrustaceum	Bacteria	Cyanobacteria	Cyanophyceae	Oscillatoriales	Microcoleaceae	Hydrocoleum	subcrustaceum	species	https://www.algaebase.org/search/species/detail/?species_id=66649
+708012	72551	Bicosoeca mitra	Chromista	Bigyra	Bicoecidea	Bicosoecales	Bicosoecaceae	Bicosoeca	mitra	species	https://www.algaebase.org/search/species/detail/?species_id=72551
+708013	109478	Bicosoeca ovata	Chromista	Bigyra	Bicoecidea	Bicosoecales	Bicosoecaceae	Bicosoeca	ovata	species	https://www.algaebase.org/search/species/detail/?species_id=109478
+708014	110377	Bicosoeca paropsis	Chromista	Bigyra	Bicoecidea	Bicosoecales	Bicosoecaceae	Bicosoeca	paropsis	species	https://www.algaebase.org/search/species/detail/?species_id=110377
 708024	143530	Tetradimorpha marina	Chromista	Cercozoa	Dimorphiellatea	Dimorphiellida	Tetradimorphidae	Tetradimorpha	marina	species	https://www.algaebase.org/search/species/detail/?species_id=143530
 708025	143535	Menoidium curvatum	Protozoa	Euglenophyta	Peranemea	Natomonadida	Astasiidae	Menoidium	curvatum	species	https://www.algaebase.org/search/species/detail/?species_id=143535
 708245	143976	Raphidosphaera tenerrima	Chromista	Heterokontophyta	Xanthophyceae	Mischococcales	Pleurochloridaceae	Raphidosphaera	tenerrima	species	https://www.algaebase.org/search/species/detail/?species_id=143976
@@ -5404,8 +5416,8 @@ taxon_id	ab_id	scientific_name	kingdom	phylum	class	order	family	genus	species	t
 708291	143468	Pseudoperanema trichophorum	Protozoa	Euglenophyta	Peranemea	Peranemida	Peranemataceae	Pseudoperanema	trichophorum	species	https://www.algaebase.org/search/species/detail/?species_id=143468
 708292	143481	Grammonema striatulum	Chromista	Heterokontophyta	Bacillariophyceae	Fragilariales	Fragilariaceae	Grammonema	striatulum	species	https://www.algaebase.org/search/species/detail/?species_id=143481
 708293	143482	Gyrosigma tenuirostrum	Chromista	Heterokontophyta	Bacillariophyceae	Naviculales	Naviculaceae	Gyrosigma	tenuirostrum	species	https://www.algaebase.org/search/species/detail/?species_id=143482
-708294	72549	Bicosoeca campanulata	Chromista	Bigyra	Bicosoecophyceae	Bicosoecales	Bicosoecaceae	Bicosoeca	campanulata	species	https://www.algaebase.org/search/species/detail/?species_id=72549
-708521	112122	Bicosoeca planctonica var. multiannulata	Chromista	Bigyra	Bicosoecophyceae	Bicosoecales	Bicosoecaceae	Bicosoeca	planctonica	variety	https://www.algaebase.org/search/species/detail/?species_id=112122
+708294	72549	Bicosoeca campanulata	Chromista	Bigyra	Bicoecidea	Bicosoecales	Bicosoecaceae	Bicosoeca	campanulata	species	https://www.algaebase.org/search/species/detail/?species_id=72549
+708521	112122	Bicosoeca planctonica var. multiannulata	Chromista	Bigyra	Bicoecidea	Bicosoecales	Bicosoecaceae	Bicosoeca	planctonica	variety	https://www.algaebase.org/search/species/detail/?species_id=112122
 708715	143458	Achnanthidium kriegeri	Chromista	Heterokontophyta	Bacillariophyceae	Achnanthales	Achnanthidiaceae	Achnanthidium	kriegeri	species	https://www.algaebase.org/search/species/detail/?species_id=143458
 708716	143385	Chromophysomonas serrata	Chromista	Heterokontophyta	Chrysophyceae	Paraphysomonadales	Chrysosphaerellaceae	Chromophysomonas	serrata	species	https://www.algaebase.org/search/species/detail/?species_id=143385
 708730	143455	Achnanthidium daonense	Chromista	Heterokontophyta	Bacillariophyceae	Achnanthales	Achnanthidiaceae	Achnanthidium	daonense	species	https://www.algaebase.org/search/species/detail/?species_id=143455
