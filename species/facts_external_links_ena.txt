@@ -369,7 +369,6 @@ taxon_id	ncbi_id	url
 1382182	3086146	www.ebi.ac.uk/ena/browser/view/3086146
 1410	29178	www.ebi.ac.uk/ena/browser/view/29178
 1424676	2267595	www.ebi.ac.uk/ena/browser/view/2267595
-1432706	188368	www.ebi.ac.uk/ena/browser/view/188368
 143666	3127	www.ebi.ac.uk/ena/browser/view/3127
 143667	33105	www.ebi.ac.uk/ena/browser/view/33105
 143668	35432	www.ebi.ac.uk/ena/browser/view/35432
@@ -1341,6 +1340,7 @@ taxon_id	ncbi_id	url
 164093	204990	www.ebi.ac.uk/ena/browser/view/204990
 164095	3027330	www.ebi.ac.uk/ena/browser/view/3027330
 164116	655800	www.ebi.ac.uk/ena/browser/view/655800
+1648094	162317	www.ebi.ac.uk/ena/browser/view/162317
 1703	60004	www.ebi.ac.uk/ena/browser/view/60004
 172146	135471	www.ebi.ac.uk/ena/browser/view/135471
 172153	2494379	www.ebi.ac.uk/ena/browser/view/2494379
@@ -1691,6 +1691,7 @@ taxon_id	ncbi_id	url
 233763	82999	www.ebi.ac.uk/ena/browser/view/82999
 233765	83000	www.ebi.ac.uk/ena/browser/view/83000
 233776	44439	www.ebi.ac.uk/ena/browser/view/44439
+233780	90936	www.ebi.ac.uk/ena/browser/view/90936
 233835	2684370	www.ebi.ac.uk/ena/browser/view/2684370
 234468	83791	www.ebi.ac.uk/ena/browser/view/83791
 234471	3116	www.ebi.ac.uk/ena/browser/view/3116
@@ -2601,7 +2602,6 @@ taxon_id	ncbi_id	url
 609454	1328882	www.ebi.ac.uk/ena/browser/view/1328882
 609455	2303152	www.ebi.ac.uk/ena/browser/view/2303152
 609458	2152938	www.ebi.ac.uk/ena/browser/view/2152938
-609460	1176	www.ebi.ac.uk/ena/browser/view/1176
 609468	142864	www.ebi.ac.uk/ena/browser/view/142864
 609469	374162	www.ebi.ac.uk/ena/browser/view/374162
 609470	765174	www.ebi.ac.uk/ena/browser/view/765174
@@ -3281,6 +3281,7 @@ taxon_id	ncbi_id	url
 593689	45108	www.ebi.ac.uk/ena/browser/view/45108
 577493	45109	www.ebi.ac.uk/ena/browser/view/45109
 1307222	1656247	www.ebi.ac.uk/ena/browser/view/1656247
+1648091	162316	www.ebi.ac.uk/ena/browser/view/162316
 600769	51727	www.ebi.ac.uk/ena/browser/view/51727
 1535827	2585091	www.ebi.ac.uk/ena/browser/view/2585091
 1653516	3039985	www.ebi.ac.uk/ena/browser/view/3039985

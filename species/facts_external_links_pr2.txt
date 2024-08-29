@@ -129,6 +129,8 @@ taxon_id	pr2_name	url
 399472	Chara_tomentosa	https://app.pr2-database.org/pr2-database/
 547443	Chara_vulgaris	https://app.pr2-database.org/pr2-database/
 547443	Chara_vulgaris:plas	https://app.pr2-database.org/pr2-database/
+233780	Chattonella_marina	https://app.pr2-database.org/pr2-database/
+233780	Chattonella_marina:plas	https://app.pr2-database.org/pr2-database/
 246590	Chattonella_subsalsa	https://app.pr2-database.org/pr2-database/
 246590	Chattonella_subsalsa:plas	https://app.pr2-database.org/pr2-database/
 428608	Chlamydomonas_pulsatilla	https://app.pr2-database.org/pr2-database/

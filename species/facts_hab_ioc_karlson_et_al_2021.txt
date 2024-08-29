@@ -37,7 +37,7 @@ taxon_id	species	hab_effect	scientific_name	authority	link
 531467	Pseudochattonella farcimen	Fish killer	Pseudochattonella farcimen	(Eikrem, Edvardsen & J.Throndsen) Eichrem, 2009	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=531467
 531446	Pseudochattonella verruculosa	Fish killer	Pseudochattonella verruculosa	(Y.Hara & M.Chihara) S.Tanabe-Hosoi, D.Honda, S.Fukaya, Y.Inagaki & Y.Sako, 2007	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=531446
 1313613	Anagnostidinema amphibium	Cyano toxins	Anagnostidinema amphibium	(C.Agardh ex Gomont) Strunecký, Bohunická, J.R.Johansen & J.Komárek, 2017	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=1313613
-609460	Aphanizomenon flosaquae	Cyano toxins	Aphanizomenon flosaquae	Ralfs ex Bornet & Flahault, 1886	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=609460
+248099	Aphanizomenon flosaquae	Cyano toxins	Aphanizomenon flosaquae	Ralfs ex Bornet & Flahault, 1886	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=609460
 177100	Coelosphaerium kuetzingianum	Cyano toxins	Coelosphaerium kuetzingianum	Nägeli, 1849	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=177100
 623803	Dolichospermum flosaquae	Cyano toxins	Dolichospermum flosaquae	(Brébisson ex Bornet & Flahault) P.Wacklin, L.Hoffmann & J.Komárek, 2009	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=623803
 625374	Dolichospermum lemmermannii	Cyano toxins	Dolichospermum lemmermannii	(Richter) P.Wacklin, L.Hoffmann & J.Komárek, 2009	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=625374
@@ -48,7 +48,7 @@ taxon_id	species	hab_effect	scientific_name	authority	link
 409630	Gloeotrichia echinulata	Cyano toxins	Gloeotrichia echinulata	P.G.Richter, 1894	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=409630
 177508	Limnothrix redekei	Cyano toxins	Limnothrix redekei	(Goor) Meffert, 1988	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=177508
 146558	Microcystis aeruginosa	Cyano toxins	Microcystis aeruginosa	(Kützing) Kützing, 1846	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=146558
-699375	Microcystis flosaquae	Cyano toxins	Microcystis flosaquae	(Wittrock) Kirchner, 1898	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=699375
+146560	Microcystis flosaquae	Cyano toxins	Microcystis flosaquae	(Wittrock) Kirchner, 1898	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=699375
 177245	Microcystis ichthyoblabe	Cyano toxins	Microcystis ichthyoblabe	(G.Kunze) Kützing, 1843	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=177245
 146561	Microcystis wesenbergii	Cyano toxins	Microcystis wesenbergii	(Komárek) Komárek ex Komárek, 2006	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=146561
 177400	Microcystis viridis	Cyano toxins	Microcystis viridis	(A.Braun) Lemmermann, 1903	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=177400

@@ -2575,6 +2575,7 @@ taxon_id	itis_id	url
 608892	8059	http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=8059
 608893	8060	http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=8060
 608901	8084	http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=8084
+608917	8115	http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=8115
 608924	8124	http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=8124
 608932	8142	http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=8142
 608938	8147	http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=8147
@@ -2663,7 +2664,6 @@ taxon_id	itis_id	url
 609450	687	http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=687
 609454	1139	http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=1139
 609458	1188	http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=1188
-609460	1192	http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=1192
 609468	1198	http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=1198
 609469	1149	http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=1149
 609470	1165	http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=1165
@@ -3114,7 +3114,6 @@ taxon_id	itis_id	url
 699370	591135	http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=591135
 699371	591232	http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=591232
 699373	193760	http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=193760
-699375	761	http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=761
 699380	591217	http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=591217
 699382	4264	http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=4264
 699390	3418	http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=3418

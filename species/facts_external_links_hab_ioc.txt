@@ -14,11 +14,11 @@ Anabaena lapponica	609454	https://www.marinespecies.org/hab/aphia.php?p=taxdetai
 Anabaenopsis arnoldii	609458	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=609458
 Anabaenopsis milleri	618706	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=618706
 Anagnostidinema amphibium	1313613	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=1313613
-Aphanizomenon flosaquae	609460	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=609460
 Aphanizomenon gracile	248100	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=248100
 Azadinium spinosum	391509	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=391509
 Blennothrix lyngbyacea	213723	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=213723
 Calothrix parietina	239094	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=239094
+Chattonella marina	233780	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=233780
 Chattonella marina var. antiqua	547444	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=547444
 Chattonella subsalsa	246590	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=246590
 Chrysochromulina leadbeateri	246591	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=246591
@@ -55,7 +55,6 @@ Lingulodinium polyedra	233592	https://www.marinespecies.org/hab/aphia.php?p=taxd
 Lyngbya majuscula	660754	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=660754
 Microcystis aeruginosa	146558	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=146558
 Microcystis botrys	578236	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=578236
-Microcystis flosaquae	699375	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=699375
 Microcystis ichthyoblabe	177245	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=177245
 Microcystis viridis	177400	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=177400
 Microcystis wesenbergii	146561	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=146561
