@@ -140,13 +140,13 @@ Rhodomonas marina	238074	106314
 Rhodomonas salina	238075	106316
 Blastodiniales	3000849	109386
 Desmocapsales	3000672	109388
-Gonyaulacales	3000851	109391
+Gonyaulacales	3000618	109391
 Gymnodiniales	3000619	109392
 Noctilucales	3000626	109393
 Peridiniales	3000850	109394
-Phytodiniales	3000848	109395
+Phytodiniales	3000623	109395
 Prorocentrales	3000620	109396
-Pyrocystales	3000851	109398
+Pyrocystales	3000623	109398
 Chytriodiniaceae	2003586	109400
 Amoebophryaceae	2003593	109401
 Desmocapsaceae	2003575	109403
@@ -201,7 +201,7 @@ Warnowia	1010616	109491
 Woloszynskia	1010622	109492
 Kofoidinium	1010634	109499
 Noctiluca	1010635	109500
-Spatulodinium	1016230	109502
+Spatulodinium	1010636	109502
 Pentapharsodinium	1010579	109504
 Preperidinium	1010595	109505
 Ceratium	1010604	109506
@@ -579,8 +579,11 @@ Thaumatomastix sagittifera	238649	137308
 Thaumatomastix salina	238650	137309
 Thaumatomastix tripus	238653	137313
 Staurastrum pingue var. planctonicum	238691	1373157
-Scenedesmus obtusus f. alternans	257474	1379777
+Dolichospermum spiroides var. minus	257666	1373997
+Dolichospermum lemmermannii var. minus	263729	1373998
+Scenedesmus obtusus f. alternans	238819	1379777
 Neglectella solitaria	238774	1380951
+Cosmarium regnesi var. polonicum	256892	1391604
 Foraminifera	3000738	1410
 Sellaphora saugerresii	237661	1424676
 Bryopsidaceae	2002567	143666
@@ -589,7 +592,7 @@ Caulerpaceae	2003650	143668
 Chaetosiphonaceae	2003004	143669
 Udoteaceae	2003917	143670
 Chaetophoraceae	2002578	143675
-Chlorococcaceae	2003939	143676
+Chlorococcaceae	2003636	143676
 Endosphaeraceae	2002997	143677
 Chlorocystidaceae	3000688	143678
 Chordariaceae	2002218	143680
@@ -738,7 +741,7 @@ Protomonostroma	1008584	144291
 Ulvaria	1008572	144292
 Blidingia	1008562	144293
 Percursaria	1008569	144295
-Ulva	1008571	144296
+Ulva	1016242	144296
 Epicladia	1008565	144298
 Ochlochaete	1008568	144299
 Tribonema	1010359	144302
@@ -787,7 +790,6 @@ Protectocarpus speciosus	232708	144986
 Ulonema rhizophorum	232726	144987
 Pseudolithoderma extensum	232728	144990
 Pseudolithoderma subextensum	232730	144993
-Ralfsia verrucosa	232732	145001
 Stragularia clavata	232721	145002
 Spermatochnus paradoxus	232714	145008
 Stilophora tenella	232720	145009
@@ -804,7 +806,7 @@ Cladophora rupestris	232829	145064
 Cladophora sericea	232830	145065
 Cladophora vadorum	232831	145069
 Cladophora vagabunda	232832	145070
-Rhizoclonium riparium	251421	145075
+Rhizoclonium riparium	232834	145075
 Codium fragile	232837	145086
 Ostreobium quekettii	232766	145095
 Cutleria multifida	232748	145297
@@ -1022,8 +1024,8 @@ Cylindrospermum	1016292	146640
 Pleurocapsa minuta	263464	146641
 Snowella	1010260	146644
 Snowella lacustris	236858	146645
-Aphanocapsa conferta	257604	146646
-Aphanocapsa holsatica	6009058	146647
+Aphanocapsa conferta	236833	146646
+Aphanocapsa holsatica	236837	146647
 Brachytrichia lloydii	263704	146648
 Stigonematales	3000670	146649
 Mastigocladaceae	2003566	146650
@@ -1139,7 +1141,7 @@ Cyclotella cryptica	237245	148998
 Cyclotella radiosa	237238	149000
 Bacillariales	3000599	149001
 Bacillariaceae	2003196	149002
-Cylindrotheca	1010464	149003
+Cylindrotheca	1015135	149003
 Cylindrotheca closterium	237761	149004
 Surirellales	3000605	149005
 Surirellaceae	2003207	149006
@@ -1289,7 +1291,7 @@ Pleurosigma	1010453	149181
 Pleurosigma normanii	237654	149182
 Pleurosigma angulatum	237652	149183
 Synedra	1010519	149186
-Synedra ulna	248616	149187
+Synedra ulna	238007	149187
 Achnanthaceae	2003197	149190
 Achnanthes	1010466	149191
 Achnanthes parvula	237782	149193
@@ -1361,7 +1363,7 @@ Lithodesmium undulatum	237487	149322
 Biddulphia granulata	237207	149327
 Cerataulus	1010391	149328
 Cerataulus smithii	237381	149329
-Tabellariales	3000610	149331
+Tabellariales	3000613	149331
 Tabellariaceae	2003217	149332
 Tabellaria	1010505	149333
 Tabellaria fenestrata	237977	149334
@@ -1373,12 +1375,12 @@ Licmophora	1010497	149342
 Licmophora gracilis	237962	149343
 Licmophora paradoxa	237965	149344
 Meridion	1010521	149345
-Meridion circulare	248637	149346
+Meridion circulare	238011	149346
 Plagiogramma staurophorum	237372	149351
 Plagiogrammaceae	2003162	149353
 Opephora	1010520	149358
 Fragilaria crotonensis	238014	149360
-Fragilaria capucina	262675	149361
+Fragilaria capucina	238013	149361
 Fragilaria construens	256813	149364
 Asterionella gracillima	256809	149374
 Cocconeis scutellum	237798	149376
@@ -1653,16 +1655,16 @@ Heterosigma	1010334	160584
 Heterosigma akashiwo	237136	160585
 Microthamniales	3000828	160586
 Koliella	1010704	160588
-Oocystaceae	2003288	160589
+Oocystaceae	2003936	160589
 Monoraphidium	1016310	160590
-Monoraphidium contortum	257635	160591
+Monoraphidium contortum	238754	160591
 Monoraphidium convolutum	238755	160592
 Pachysphaera	1010812	160594
 Pterosperma	1010806	160595
 Pedinellales	3000572	160597
 Pedinellaceae	2003144	160598
 Pseudopedinella	1010347	160599
-Pseudopedinella pyriformis	237166	160600
+Pseudopedinella pyriformis	237165	160600
 Scenedesmus	6034741	160602
 Achnanthes latissima	237775	160635
 Actinocyclus octonarius var. crassus	248669	160648
@@ -1694,7 +1696,7 @@ Aphanocapsa grevillei	236836	162667
 Aphanocapsa incerta	6009059	162668
 Aphanocapsa parasitica	236840	162671
 Aphanocapsa planctonica	236841	162672
-Aphanocapsa reinboldii	257621	162673
+Aphanocapsa reinboldii	236842	162673
 Aphanocapsa rivularis	236843	162675
 Aphanothece castagnei	236795	162683
 Aphanothece microscopica	236797	162688
@@ -1744,7 +1746,7 @@ Auliscus pruinosus	237385	162911
 Auliscus reticulatus	237386	162912
 Bacteriastrum elongatum	237296	162916
 Bacterosira	1010372	162923
-Polyblepharidaceae	2003940	162924
+Polyblepharidaceae	2003306	162924
 Bacterosira bathyomphala	237246	162927
 Tetrastrum	1010751	162934
 Biddulphia obtusa	237208	162940
@@ -1792,11 +1794,11 @@ Eupodiscus jonesianus	237417	163188
 Coscinodiscus obscurus	237419	163189
 Coscinodiscus subbulliens	237424	163191
 Cyclotella antiqua	237227	163195
-Cyclotella caspia	237229	163196
+Cyclotella caspia	237244	163196
 Cyclotella hakanssoniae	237229	163197
 Cyclotella comensis	237230	163199
 Cyclotella distinguenda	237231	163202
-Cyclotella kuetzingiana var. radiosa	256798	163207
+Cyclotella kuetzingiana var. radiosa	256801	163207
 Cyclotella ocellata	237235	163211
 Cyclotella planctonica	237236	163213
 Cyclotella schumannii	237239	163217
@@ -1864,7 +1866,7 @@ Strombomonas tambowika	257730	163426
 Stephanodiscus minutulus	237222	163427
 Protoperidinium deficiens	238255	163429
 Stephanodiscus neoastraea	237223	163433
-Stephanodiscus rotula	257391	163435
+Stephanodiscus rotula	237225	163435
 Stephanodiscus subtilis	237226	163437
 Terpsinoë	1010395	163442
 Terpsinoë americana	237388	163444
@@ -1918,17 +1920,18 @@ Amphora perpusilla	237932	163676
 Lyrellales	3000601	163680
 Aneumastus	1010470	163681
 Aneumastus tusculus	237806	163682
-Ardissoneales	3000732	163701
+Ardissoneales	6053489	163701
 Ardissoneaceae	2003748	163702
 Ardissonea	1014021	163703
 Synedra fulgens	238661	163712
+Dolichospermum flos-aquae	236908	1637127
 Auricula hoffmannii	237888	163723
 Bleakeleya	1010510	163735
 Bleakeleya notata	237983	163736
 Tetraselmis convolutae	238990	163747
 Brachysira serians	237505	163748
 Brebissonia lanceolata	237822	163765
-Caloneis bacillum	6006318	163775
+Caloneis bacillum	6006317	163775
 Caloneis crassa	237536	163777
 Tintinnopsis	1009936	163780
 Tintinnopsis beroidea	238545	163782
@@ -2090,7 +2093,7 @@ Fragilaria istvanffyi	238017	172402
 Exilaria vaucheriae	238020	172406
 Fragilaria capucina var. vaucheriae	256815	172408
 Fragilariforma	1010517	172409
-Fragilariforma virescens	237995	172411
+Fragilariforma virescens	262364	172411
 Fragilariopsis cylindrus	237690	172418
 Xystonellidae	2003262	172429
 Favella	1010642	172431
@@ -2225,7 +2228,7 @@ Pinnularia nodosa	237626	175643
 Pinnularia polaris	237627	175649
 Pinnularia subcapitata	237628	175654
 Placoneis	1010474	175666
-Placoneis clementis	6053322	175668
+Placoneis clementis	6053323	175668
 Placoneis elginensis	237818	175671
 Placoneis exigua	237819	175680
 Placoneis gastrum	237820	175690
@@ -2235,7 +2238,7 @@ Proschkinia	1010454	175718
 Proschkinia bulnheimii	237657	175721
 Pseudo-nitzschia multiseries	237682	175738
 Pseudostaurosira	1010514	175755
-Pseudostaurosira brevistriata	237990	175757
+Pseudostaurosira brevistriata	262363	175757
 Reimeria	1010478	175782
 Reimeria sinuata	6000424	175783
 Rhabdonema minutum	237967	175790
@@ -2257,7 +2260,7 @@ Staurosira construens var. binodis	248623	175932
 Staurosirella	1010512	175949
 Staurosirella leptostauron	237987	175953
 Staurosirella pinnata	237988	175961
-Fragilaria pinnata	256816	175963
+Fragilaria pinnata	237988	175963
 Stenopterobia	1010488	175974
 Stenopterobia curvula	237911	175977
 Stenopterobia delicatissima	237912	175990
@@ -2324,7 +2327,7 @@ Tryblionella navicularis	237704	176534
 Tryblionella plana	237705	176538
 Eutreptiales	3000631	17654
 Tryblionella punctata	237706	176540
-Tryblionella salinarum	263003	176542
+Tryblionella salinarum	237707	176542
 Tryblionella victoriae	237708	176544
 Nitzschia tryblionella var. victoriae	256768	176545
 Eutreptiaceae	2003274	17655
@@ -2347,13 +2350,14 @@ Gomphosphaeria multiplex	236792	177133
 Gomphosphaeria salina	236793	177136
 Lemmermanniella	1010266	177138
 Lemmermanniella pallida	236875	177140
+Pseudoralfsia verrucosa	232732	1771402
 Lemmermanniella parva	236876	177155
 Merismopedia elegans	236844	177158
 Microcrocis	1010248	177161
 Microcrocis geminata	236802	177164
 Microcrocis sabulicola	236803	177175
 Microcystis firma	236822	177232
-Microcystis ichthyoblabe	236824	177245
+Microcystis ichthyoblabe	263430	177245
 Microcystis novacekii	236825	177252
 Microcystis scripta	236827	177390
 Microcystis smithii	236828	177392
@@ -2477,7 +2481,7 @@ Chlamydocapsa planctonica	238883	178930
 Oocystis lacustris	238767	178936
 Oocystis pusilla	238772	178938
 Lagerheimia quadriseta	238750	178939
-Lagerheimia subsalsa	238751	178941
+Lagerheimia subsalsa	257094	178941
 Quadrigula	1010738	178946
 Quadrigula closterioides	238778	178948
 Tetraedron	1015216	178949
@@ -2523,8 +2527,8 @@ Diploneis petersenii	6012459	179958
 Epithemia smithii	262582	180023
 Eunotia angusta	262587	180031
 Eunotia denticulata	6020470	180059
-Eunotia exigua	237940	180063
-Eunotia exigua var. exigua	237940	180065
+Eunotia exigua	262604	180063
+Eunotia exigua var. exigua	262604	180065
 Eunotia flexuosa	262607	180071
 Eunotia glacialis	237943	180075
 Eunotia hexaglyphis	262613	180077
@@ -2611,7 +2615,7 @@ Acanthostomella norvegica	238502	183556
 Eutintinnus elongatus	238505	183557
 Salpingella	1010641	183566
 Volvocales	3000506	18526
-Tetrasporales	3000506	18537
+Tetrasporales	3000510	18537
 Chaetophorales	3000415	18608
 Dasycladales	3000690	18815
 Euglenophyceae	4000172	19539
@@ -2638,7 +2642,7 @@ Pilinia	1008512	206450
 Pyrenomonadales	3000616	20997
 Chroomonadaceae	2003222	20998
 Pyrenomonadaceae	2003224	20999
-Euglenales	3000824	21000
+Euglenales	3000633	21000
 Euglenaceae	2003275	21001
 Halosphaeraceae	2003307	21004
 Phormidium ambiguum	263501	211897
@@ -2662,8 +2666,8 @@ Bodo	1010357	22557
 Strobilidiidae	2003261	22563
 Strombidinopsidae	2003264	22564
 Bicosoecaceae	2003143	22574
-Campylomonadaceae	2003219	22576
-Chilomonas	6329124	22577
+Campylomonadaceae	2003220	22576
+Chilomonas	1015230	22577
 Geminigeraceae	2003223	22582
 Pycnococcaceae	2003304	22613
 Klebsormidiales	3000637	22970
@@ -2874,7 +2878,7 @@ Isochrysis	1010302	248124
 Kirchneriella irregularis	257506	248125
 Koliella longiseta	238662	248126
 Koliella spiculiformis	238664	248127
-Lagerheimia citriformis	257091	248128
+Lagerheimia citriformis	238747	248128
 Meringosphaera mediterranea	237199	248129
 Merismopedia minima	257612	248130
 Monoraphidium griffithii	238757	248134
@@ -2886,7 +2890,7 @@ Oocystis elliptica	238766	248142
 Oocystis marssonii	238768	248143
 Oocystis pelagica	238771	248144
 Oocystis submarina	238775	248145
-Stauridium tetras	263334	248146
+Stauridium tetras	257421	248146
 Pedinella	1010346	248148
 Pseudopedinella elastica	237164	248149
 Pseudostaurastrum limneticum	237145	248150
@@ -2895,7 +2899,7 @@ Rhodomonas lens	238072	248153
 Salpingoeca minuta	257567	248154
 Scenedesmus ecornis	257457	248158
 Schroederia	1010721	248164
-Schroederia setigera	238719	248166
+Schroederia setigera	6001056	248166
 Palmellaceae	2003293	248168
 Sphaerocystis	1010773	248169
 Sphaerocystis schroeteri	238885	248170
@@ -3081,7 +3085,7 @@ Syncrypta	1010328	370273
 Tasmanites	1016236	370276
 Vacuolaria	1015265	370314
 Glenodiniopsidaceae	2003580	370356
-Heterokontophyta	6011758	370437
+Heterokontophyta	5000057	370437
 Plagioselmis nannoplanctica	248625	370563
 Pseudolithoderma rosenvingei	232729	371082
 Microthamnion kuetzingianum	262143	373972
@@ -3172,7 +3176,7 @@ Pseudo-nitzschia heimii	237681	411764
 Gongrosira	1016123	414977
 Martyana	1010515	415609
 Pseudopfiesteria	1010567	415895
-Puncticulata	6053490	415907
+Puncticulata	1016169	415907
 Trichocoleus	1016287	416092
 Ulnaria	1016145	416120
 Tolypella	1006639	416186
@@ -3420,14 +3424,14 @@ Thalassionema frauenfeldii	237956	555052
 Thalassiosira delicatula	237262	555264
 Thalassiosira minuscula	237277	555293
 Carteria pseudoglobosa	257537	555694
-Lagerheimia longiseta	257093	555799
+Lagerheimia longiseta	238749	555799
 Desmodesmus costatogranulatus	238846	555806
 Cyrtosphaera	1010289	555887
 Cyrtosphaera aculeata	236953	555888
 Coccolithus pelagicus subsp. braarudii	263190	555898
 Syracosphaera nana	263343	555942
 Uroglenopsis	1016240	555950
-Uroglenopsis americana	263355	555951
+Uroglenopsis americana	263356	555951
 Vaucheria frigida	263234	555953
 Fragilariopsis nana	263233	556587
 Bacillaria paxillifera	237763	558243
@@ -3458,7 +3462,7 @@ Paraphysomonas gladiata	237069	571666
 Paraphysomonas punctata	237072	571667
 Aulomonas purdyi	263157	571982
 Chrysidiastrum catenatum	237059	571996
-Chrysochromulina parva	257769	571998
+Chrysochromulina parva	257767	571998
 Chrysolykos	1010315	571999
 Chrysolykos planctonicus	237051	572000
 Chrysosphaerella longispina	257848	572001
@@ -3491,7 +3495,7 @@ Kephyrion littorale	257833	572049
 Kephyrion sitta	237055	572050
 Nephrochlamys	1010764	572052
 Nephrochlamys rostrata	238863	572053
-Lagerheimia ciliata	238746	572054
+Lagerheimia ciliata	257090	572054
 Mallomonas elongata	237102	572056
 Mallomonas tonsurata	237117	572057
 Planktothrix prolifica	257684	572062
@@ -3502,7 +3506,7 @@ Planktosphaeria	1010736	572070
 Planktosphaeria gelatinosa	238776	572071
 Pseudokephyrion conicum	6012434	572072
 Ankyra	1010719	572079
-Ankyra judayi	257511	572080
+Ankyra judayi	238716	572080
 Selenastrum	1010740	572081
 Stichogloea doederleinii	237082	572086
 Tetraedron trigonum	263349	572088
@@ -3584,7 +3588,7 @@ Rossithidium nodosum	262832	574046
 Karayevia oblongella	237781	574047
 Rossithidium pusillum	262818	574051
 Achnanthes ventralis	262862	574055
-Achnanthidium subsalsum	262393	574056
+Achnanthidium subsalsum	237788	574056
 Achnanthes ploenensis var. gessneri	262373	574059
 Halamphora holsatica	237926	574075
 Frustulia amosseana	262697	574103
@@ -3625,7 +3629,7 @@ Volvox	1010792	576718
 Hapalosiphonaceae	2003100	576879
 Xenotholos	1016258	576882
 Xenotholos kerneri	263439	576883
-Lepocinclis spirogyroides	238601	576887
+Lepocinclis spirogyroides	6018243	576887
 Pseudophormidium	1016280	576902
 Pseudophormidium golenkinianum	263545	576903
 Geitlerinema splendidum	263558	577244
@@ -3673,7 +3677,7 @@ Hydrurus foetidus	259664	577736
 Paraphysomonas cylicophora	237066	577741
 Acanthosphaera zachariasii	238734	577747
 Anabaena sphaerica	263633	577756
-Selenastrum bibraianum	238782	577758
+Selenastrum bibraianum	257425	577758
 Aphanothece nidulans	263374	577799
 Chodatella	1015155	577804
 Chroomonas coerulea	257590	577812
@@ -3688,7 +3692,7 @@ Dimorphococcus lunatus	238897	577831
 Dinobryon dilatatum	257808	577832
 Dispora	1016193	577833
 Franceia	1010729	577837
-Franceia droescheri	238737	577838
+Franceia droescheri	257422	577838
 Franceia ovalis	238739	577840
 Tryblionella aerophila	262371	577843
 Gloeotila	1010796	577860
@@ -3742,7 +3746,7 @@ Rhizochrysis	1016228	578338
 Chlorogonium maximum	238891	578342
 Tetrabaenaceae	2003897	578344
 Tetrabaena	1016237	578345
-Tetrabaena socialis	263347	578346
+Tetrabaena socialis	238922	578346
 Volvox aureus	238919	578347
 Oocystis submarina var. variabilis	257424	578351
 Quadrigula pfitzeri	238780	578353
@@ -3771,7 +3775,7 @@ Paulschulzia	1015219	578424
 Paulschulzia pseudovolvox	257535	578425
 Pseudosphaerocystis	1010771	578429
 Pseudosphaerocystis neglecta	257532	578430
-Elakatothrix genevensis	238806	578431
+Elakatothrix genevensis	257396	578431
 Spermatozopsis	1010789	578432
 Spermatozopsis exsultans	238915	578433
 Rhodomonas tenuis	257594	578438
@@ -3849,7 +3853,7 @@ Pseudocharaciopsidaceae	2003626	599653
 Glaucophyceae	4000183	599657
 Glaucocystales	3000683	599658
 Glaucocystaceae	2003631	599659
-Hemidiniaceae	2003240	599662
+Hemidiniaceae	6012340	599662
 Kareniaceae	2003932	599664
 Hibberdiaceae	2003602	599666
 Mesostigmatales	3000685	599670
@@ -4171,7 +4175,7 @@ Hyalotheca dubia	262193	609032
 Hyalotheca indica	262194	609034
 Hyalotheca mucosa	256914	609035
 Micrasterias americana	256915	609039
-Micrasterias furcata	256917	609048
+Micrasterias furcata	6017666	609048
 Micrasterias pinnatifida	256916	609059
 Micrasterias radiosa	256918	609061
 Micrasterias rotata	256919	609062
@@ -4217,7 +4221,7 @@ Staurodesmus glaber	256997	609273
 Staurodesmus patens	257010	609279
 Staurodesmus spencerianus	257013	609283
 Staurodesmus triangularis	257015	609286
-Teilingia excavata	257018	609290
+Teilingia excavata	257407	609290
 Teilingia granulata	257019	609291
 Teilingia wallichii	262290	609292
 Xanthidium armatum	257022	609304
@@ -4316,9 +4320,9 @@ Eunotia hemicyclus	262612	609794
 Eunotia muscicola	262623	609796
 Eunotia parallela	262634	609797
 Eunotia subarcuatoides	262653	609801
-Fragilaria tenera	262694	609814
+Fragilaria tenera	256821	609814
 Gomphonema hebridense	262758	609824
-Gomphonema pumilum	6052988	609827
+Gomphonema pumilum	262789	609827
 Caloneis hyalina	262440	609860
 Navicula arvensis	262311	609870
 Navicula heimansioides	262337	609890
@@ -4500,7 +4504,7 @@ Nitzschia lacuum	262997	610622
 Nitzschia modesta	263021	610630
 Nitzschia paleaeformis	263027	610633
 Nitzschia palustris	263028	610634
-Nitzschia perspicua	263030	610636
+Nitzschia perspicua	237743	610636
 Nitzschia pumila	263032	610639
 Nitzschia pura	263033	610640
 Nitzschia rectiformis	263035	610641
@@ -4713,7 +4717,7 @@ Gomphonema parallelistriatum	262779	612824
 Gomphonema pratense	262783	612828
 Gomphonema utae	262798	612847
 Gomphosphenia tackei	262804	612857
-Heimansia pusilla	256900	612905
+Heimansia pusilla	6325752	612905
 Hindakochloris nygaardii	257429	612919
 Hippodonta luneburgensis	262814	612920
 Klebsormidium montanum	262169	612947
@@ -5304,7 +5308,7 @@ Haptolina ericina	236981	624976
 Haptolina fragaria	236982	624977
 Haptolina herdlensis	236984	624978
 Spirogyra princeps	262277	625323
-Dolichospermum affine	263653	625363
+Dolichospermum affine	263655	625363
 Dolichospermum compactum	257658	625367
 Dolichospermum crassum	236905	625368
 Dolichospermum curvum	257659	625369
@@ -5312,12 +5316,12 @@ Dolichospermum danicum	263657	625370
 Dolichospermum heterosporum	236909	625371
 Dolichospermum farciminiforme	263658	625372
 Dolichospermum fuscum	257660	625373
-Dolichospermum lemmermannii	236911	625374
+Dolichospermum lemmermannii	263659	625374
 Gloeotila pulchra	257544	625375
 Gomphonema nathorstii	262772	625376
 Goniochloris triradiata	257525	625377
 Monoraphidium capricornutum	238783	625379
-Adlafia brockmannii	262407	625380
+Adlafia brockmannii	6012497	625380
 Monochrysis agilissima	263275	625381
 Amoenoscapa caudata	238096	625383
 Aphanizomenon balticum	263640	625384
@@ -5620,7 +5624,7 @@ Fusola viridis	238740	661077
 Ulothrix oscillarina	263365	661104
 Onychonema filiforme	262238	661117
 Staurastrum lanceolatum	6325826	661130
-Staurodesmus mamillatus	257410	661136
+Staurodesmus mamillatus	257004	661136
 Chroomonas nordstedtii	257591	661151
 Nostoc caeruleum	234977	661154
 Nostoc calcicola	232914	661155
@@ -5658,7 +5662,7 @@ Fragilaria arcus	262669	662809
 Hapalosiphon pumilus	263709	662957
 Nephrochlamys subsolitaria	238863	663025
 Phytodinium globosum	257905	663914
-Eolimna minima	262898	665106
+Eolimna minima	6053320	665106
 Craticula molestiformis	262469	665148
 Eolimna subminuscula	262581	665154
 Fragilaria delicatissima	256820	665157
@@ -5725,16 +5729,16 @@ Staurosira construens var. exigua	262706	671497
 Staurosirella pinnata var. intercedens	262421	671499
 Surirella brebissonii var. punctata	262402	671501
 Surirella brebissonii var. kuetzingii	262401	671502
-Closterium littorale var. crassum	256851	671540
-Closterium nordstedtii var. polystictum	256854	671543
+Closterium littorale var. crassum	257402	671540
+Closterium nordstedtii var. polystictum	257400	671543
 Desmidium aptogonum var. ehrenbergii	262176	671660
 Desmidium swartzii var. amblyodon	262184	671661
 Euastrum humerosum var. affine	6014679	671676
 Staurastrum arachne var. curvatum	256930	671698
-Staurastrum cingulum var. obesum	256941	671703
+Staurastrum cingulum var. obesum	257409	671703
 Teilingia wallichii var. anglica	262291	671719
 Xanthidium subhastiferum var. murrayi	257026	671729
-Eunotia parallela var. angusta	262587	671735
+Eunotia parallela var. angusta	262636	671735
 Eunotia exigua var. tenella	262606	671739
 Surirella linearis var. helvetica	262398	671752
 Achnanthes exigua var. elliptica	262183	671766
@@ -5768,7 +5772,6 @@ Dictyosphaerium pulchellum var. minutum	257060	673705
 Strombomonas verrucosa var. zmiewika	257732	673801
 Scenedesmus armatus var. boglariensis	257451	674007
 Scenedesmus intermedius var. acaudatus	257470	674014
-Cosmarium regnesi var. polonicum	6012654	674102
 Staurodesmus incus var. indentatus	6017753	674113
 Tetraspora lubrica var. lacunosa	262140	674119
 Coelastrum cambricum var. intermedium	257439	674132
@@ -5796,11 +5799,9 @@ Scenedesmus denticulatus var. fenestratus	257465	674844
 Scenedesmus armatus var. platydiscus	257455	674845
 Microspora palustris var. minor	262127	674850
 Dolichospermum spiroides var. minimum	263730	674855
-Dolichospermum lemmermannii var. minor	263729	674857
 Derepyxis ollula var. minuta	257854	674859
 Cosmarium sphagnicola var. pachygonum	263197	674860
 Cosmarium pygmaeum var. perornatum	256889	674861
-Coelastrum microporum var. octaedricum	257441	674863
 Chroococcus limneticus var. elegans	257599	674864
 Chamaepinnularia soehrensis var. muscicola	262460	674865
 Staurodesmus bulnheimii var. huitfeldtii	256988	675012
@@ -5846,7 +5847,7 @@ Cavinula cocconeiformis f. elliptica	262446	689133
 Eunotia bilunaris var. linearis	262593	694738
 Nitzschia sinuata var. tabellaria	6012162	695114
 Eunotia paludosa var. trinacria	262632	695126
-Nitzschia sinuata var. delognei	6012161	695170
+Nitzschia sinuata var. delognei	263040	695170
 Staurosirella leptostauron var. dubia	262633	695182
 Diatoma vulgaris var. vulgaris	248645	695320
 Gymnodinium inversum var. elongatum	257875	695746
@@ -5865,8 +5866,8 @@ Diadesmis perpusilla	262526	699380
 Stauroneis producta	262715	699382
 Actinella punctata	263152	699390
 Trigonium alternans	6009232	699394
-Kobayasiella subtilissima	237598	699411
-Mayamaea atomus	237545	699413
+Kobayasiella subtilissima	262826	699411
+Mayamaea atomus	262836	699413
 Planothidium peragalloi	237783	699431
 Sellaphora rectangularis	263750	699446
 Sellaphora nana	262806	699462
@@ -5985,7 +5986,7 @@ Parvodinium umbonatum	238195	837535
 Temnogyra liana	262270	837808
 Microglena braunii	6012512	837834
 Groenbladia fennica	262195	837963
-Resultomonas moestrupii	238942	837964
+Resultomonas moestrupii	6018074	837964
 Pinnularia acutobrebissonii	6017857	837975
 Desmodesmus aculeolatus	238808	838101
 Desmodesmus bicaudatus	257456	838103
@@ -6178,9 +6179,10 @@ Nostocophycidae	6020337	368681
 Barrufeta	6050008	603276
 Leptolyngbyaceae	6018025	836372
 Limnolyngbya	6331058	1372705
-Selenastraceae	2003288	599705
+Selenastraceae	6001105	599705
 Messastrum	6327541	1372753
 Thaumatomastigaceae	2003606	1653002
+Aphanizomenonaceae	6012635	836361
 Pseudococcomyxa	6326416	600805
 Borghiellaceae	6012320	599713
 Borghiella	6012329	503083
@@ -6199,15 +6201,14 @@ Uronematidae	6331124	172295
 Biliphyta	6000576	368662
 Rhodophyta	5000036	852
 Rhodellophyceae	4000175	368671
-Glaucosphaeraceae	2003633	599661
+Glaucosphaeraceae	2003942	599661
 Rhodella	1010702	144228
 Kinetoplastea	6011699	562565
 Diplonemea	6011698	582176
 Microcoleaceae	6017988	836366
 Spirulinales	6012262	1293730
-Spirulinaceae	2003096	599619
+Spirulinaceae	6012270	599619
 Pleurocapsales	6012261	146712
-Aphanizomenonaceae	6012635	836361
 Synechococcophycidae	6020339	493819
 Coelosphaeriaceae	6008727	1653573
 Gomontiellaceae	6017990	573262
@@ -6234,8 +6235,9 @@ Chlorotetraedron	257944	1648091
 Monema	237831	172271
 Chloromonas	6017818	600769
 Urostipulosphaera	6323116	1535827
-Sphaerella	1014216	578530
+Sphaerella	1015590	578530
 Synedra acus	237999	149188
+Pseudoralfsia	1008532	1771401
 Coleofasciculaceae	6017986	836365
 Endomyxa	6009272	562853
 Proteomyxidea	6009274	591230
@@ -6258,9 +6260,9 @@ Asteromonadaceae	2003299	599637
 Pithophoraceae	6329152	707601
 Holophryidae	6049999	409633
 Cyclotrichium	1010658	341295
-Balanionidae	6001050	425489
+Balanionidae	2003926	425489
 Balanion	1010652	292899
-Urotrichidae	6001055	425490
+Urotrichidae	2003926	425490
 Urotricha	1010654	425626
 Metamonada	6011689	562592
 Trichozoa	6011690	562594

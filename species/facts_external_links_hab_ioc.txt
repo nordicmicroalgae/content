@@ -34,7 +34,6 @@ Dinophysis ovum	646201	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&
 Dinophysis sacculus	232261	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=232261
 Dinophysis tripos	109662	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=109662
 Dolichospermum circinale	699631	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=699631
-Dolichospermum flosaquae	623803	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=623803
 Dolichospermum lemmermannii	625374	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=625374
 Dolichospermum macrosporum	625403	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=625403
 Dolichospermum mendotae	625404	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=625404
