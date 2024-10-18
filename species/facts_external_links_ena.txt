@@ -3411,3 +3411,5 @@ taxon_id	ncbi_id	url
 836636	2586438	www.ebi.ac.uk/ena/browser/view/2586438
 450613	443637	www.ebi.ac.uk/ena/browser/view/443637
 609372	416075	www.ebi.ac.uk/ena/browser/view/416075
+1360848	366455	www.ebi.ac.uk/ena/browser/view/366455
+1360847	2137602	www.ebi.ac.uk/ena/browser/view/2137602

@@ -588,6 +588,7 @@ taxon_id	scientific_name_authority	usage_key	url	n_nordic_occurrences	point_styl
 1359190	Chara subspinosa Ruprecht, 1846	10830689	www.gbif.org/species/10830689	508	scaled.circles
 1359367	Tetradesmus obliquus (Turpin) M.J.Wynne, 2016	10293666	www.gbif.org/species/10293666	107	scaled.circles
 1359618	Salpingoeca skujae Tikhonenkov & Mazei, 2008	11840462	www.gbif.org/species/11840462	0	scaled.circles
+1360848	Blixaea quinquecornis (T.H.Abé) Gottschling, 2017	10254651	www.gbif.org/species/10254651	2	scaled.circles
 136140	Bordnamonas J.Larsen & D.J.Patterson, 1990	4382163	www.gbif.org/species/4382163	2	scaled.circles
 136145	Bordnamonas tropicana J.Larsen & D.J.Patterson, 1990	4382164	www.gbif.org/species/4382164	2	scaled.circles
 1361452	Monostroma grevillei var. arcticum (Wittrock) Rosenvinge, 1893	2645221	www.gbif.org/species/2645221	2	scaled.circles
@@ -6502,6 +6503,7 @@ taxon_id	scientific_name_authority	usage_key	url	n_nordic_occurrences	point_styl
 1731727	Charineae Feist-Castel & N.Grambast, 1991	626	www.gbif.org/species/626	39600	orangeHeat.point
 1731806	Charoideae A.Braun, 1897	8782	www.gbif.org/species/8782	39596	orangeHeat.point
 493997	Chareae Ganterer, 1847	8782	www.gbif.org/species/8782	39596	orangeHeat.point
+1360847	Blixaea Gottschling, 2017	9995843	www.gbif.org/species/9995843	0	scaled.circles
 582177	Euglenoidea NA	7391750	www.gbif.org/species/7391750	9689	scaled.circles
 593330	Euglenoidea incertae sedis NA	7391750	www.gbif.org/species/7391750	9689	scaled.circles
 143793	Monostromataceae Kunieda, 1934	8826	www.gbif.org/species/8826	3318	scaled.circles

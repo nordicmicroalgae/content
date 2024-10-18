@@ -5714,3 +5714,5 @@ taxon_id	ab_id	scientific_name	kingdom	phylum	class	order	family	genus	species	t
 963402	39033	Navicula subcincta	Chromista	Heterokontophyta	Bacillariophyceae	Naviculales	Naviculaceae	Navicula	subcincta	species	https://www.algaebase.org/search/species/detail/?species_id=39033
 966657	35824	Rhizosolenia eriensis	Chromista	Heterokontophyta	Coscinodiscophyceae	Rhizosoleniales	Rhizosoleniaceae	Rhizosolenia	eriensis	species	https://www.algaebase.org/search/species/detail/?species_id=35824
 520950	54989	Psammosiphonella	Chromista	Retaria	Polythalamea	Astrorhizida	Rhabdamminidae	Psammosiphonella		genus	https://www.algaebase.org/search/genus/detail/?genus_id=54989
+1360848	164419	Blixaea quinquecornis	Chromista	Dinoflagellata	Dinophyceae	Peridiniales	Kryptoperidiniaceae	Blixaea	quinquecornis	species	https://www.algaebase.org/search/species/detail/?species_id=164419
+1360847	52215	Blixaea	Chromista	Dinoflagellata	Dinophyceae	Peridiniales	Kryptoperidiniaceae	Blixaea		genus	https://www.algaebase.org/search/genus/detail/?genus_id=52215

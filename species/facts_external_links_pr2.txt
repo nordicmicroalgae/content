@@ -72,6 +72,7 @@ taxon_id	pr2_name	url
 105557	Bicosta_minor	https://app.pr2-database.org/pr2-database/
 162952	Biddulphia_biddulphiana	https://app.pr2-database.org/pr2-database/
 626297	Biecheleria_baltica	https://app.pr2-database.org/pr2-database/
+1360848	Blixaea_quinquecornis	https://app.pr2-database.org/pr2-database/
 144865	Bolbocoleon_piliferum	https://app.pr2-database.org/pr2-database/
 503084	Borghiella_tenuissima	https://app.pr2-database.org/pr2-database/
 295863	Botrydium_granulatum	https://app.pr2-database.org/pr2-database/
