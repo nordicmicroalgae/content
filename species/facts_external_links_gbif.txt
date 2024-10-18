@@ -585,7 +585,7 @@ taxon_id	scientific_name_authority	usage_key	url	n_nordic_occurrences	point_styl
 1359175	Microchloropsis salina (D.J.Hibbard) M.W.Fawley, I.Jameson & K.P.Fawley, 2015	10988065	www.gbif.org/species/10988065	0	scaled.circles
 1359179	Apocalathium aciculiferum (Lemmermann) Craveiro, Daugbjerg, Moestrup & Calado, 2016	11868667	www.gbif.org/species/11868667	13	scaled.circles
 1359182	Unruhdinium penardii (Lemmermann) Gottschling, 2017	11499851	www.gbif.org/species/11499851	0	scaled.circles
-1359190	Chara subspinosa Ruprecht, 1846	10830689	www.gbif.org/species/10830689	507	scaled.circles
+1359190	Chara subspinosa Ruprecht, 1846	10830689	www.gbif.org/species/10830689	508	scaled.circles
 1359367	Tetradesmus obliquus (Turpin) M.J.Wynne, 2016	10293666	www.gbif.org/species/10293666	107	scaled.circles
 1359618	Salpingoeca skujae Tikhonenkov & Mazei, 2008	11840462	www.gbif.org/species/11840462	0	scaled.circles
 136140	Bordnamonas J.Larsen & D.J.Patterson, 1990	4382163	www.gbif.org/species/4382163	2	scaled.circles
@@ -634,6 +634,7 @@ taxon_id	scientific_name_authority	usage_key	url	n_nordic_occurrences	point_styl
 1391604	Cosmarium regnesi var. polonicum (Eichler & Gutwinski) Compère, 1976	7784078	www.gbif.org/species/7784078	0	scaled.circles
 1410	Foraminifera d'Orbigny, 1826	8376456	www.gbif.org/species/8376456	32891	orangeHeat.point
 1424676	Sellaphora saugerresii (Desmazières) C.E.Wetzel & D.G.Mann in Wetzel et al., 2015	10703677	www.gbif.org/species/10703677	6	scaled.circles
+1432706	Cosmarium subcostatum Nordstedt, 1876	5273818	www.gbif.org/species/5273818	3	scaled.circles
 143666	Bryopsidaceae Bory de Saint-Vincent, 1829	8774	www.gbif.org/species/8774	1826	scaled.circles
 143667	Derbesiaceae Hauck, 1884	8777	www.gbif.org/species/8777	228	scaled.circles
 143668	Caulerpaceae Kützing, 1843	4674	www.gbif.org/species/4674	1	scaled.circles
@@ -647,7 +648,7 @@ taxon_id	scientific_name_authority	usage_key	url	n_nordic_occurrences	point_styl
 143684	Ralfsiaceae Farlow, 1881	7729	www.gbif.org/species/7729	8898	scaled.circles
 143686	Anadyomenaceae Kützing, 1843	4853	www.gbif.org/species/4853	0	scaled.circles
 143687	Cladophoraceae Wille, 1884	4854	www.gbif.org/species/4854	48489	orangeHeat.point
-143689	Codiaceae Kützing, 1843	8776	www.gbif.org/species/8776	1177	scaled.circles
+143689	Codiaceae Kützing, 1843	8776	www.gbif.org/species/8776	1179	scaled.circles
 143701	Cutleriaceae Griffith & Henfrey, 1856	3751	www.gbif.org/species/3751	303	scaled.circles
 143702	Dasycladaceae Kützing, 1843	4856	www.gbif.org/species/4856	22	scaled.circles
 143704	Arthrocladiaceae Chauvin, 1842	7723	www.gbif.org/species/7723	32	scaled.circles
@@ -662,7 +663,7 @@ taxon_id	scientific_name_authority	usage_key	url	n_nordic_occurrences	point_styl
 143755	Laminariaceae Bory, 1827	7740	www.gbif.org/species/7740	38285	orangeHeat.point
 143757	Microsporaceae Bohlin, 1901	8797	www.gbif.org/species/8797	2584	scaled.circles
 143764	Phaeophilaceae D.F. Chappell, C.J. O'Kelly, L.W. Wilcox & G.L. Floyd, 1990	8809	www.gbif.org/species/8809	95	scaled.circles
-143771	Prasiolaceae Blackman & Tansley, 1902	8810	www.gbif.org/species/8810	1668	scaled.circles
+143771	Prasiolaceae Blackman & Tansley, 1902	8810	www.gbif.org/species/8810	1669	scaled.circles
 143777	Scytosiphonaceae Farlow, 1881	8501	www.gbif.org/species/8501	2371	scaled.circles
 143779	Siphonocladaceae Schmitz, 1879	4860	www.gbif.org/species/4860	1	scaled.circles
 143780	Valoniaceae Kützing, 1849	4861	www.gbif.org/species/4861	2	scaled.circles
@@ -724,7 +725,7 @@ taxon_id	scientific_name_authority	usage_key	url	n_nordic_occurrences	point_styl
 143995	Chaetomorpha Kützing, 1845	8343734	www.gbif.org/species/8343734	6232	scaled.circles
 143996	Cladophora Kützing, 1843	2643712	www.gbif.org/species/2643712	38968	orangeHeat.point
 143997	Rhizoclonium Kützing, 1843	2643575	www.gbif.org/species/2643575	389	scaled.circles
-143999	Codium Stackhouse, 1797	2642664	www.gbif.org/species/2642664	1176	scaled.circles
+143999	Codium Stackhouse, 1797	2642664	www.gbif.org/species/2642664	1178	scaled.circles
 144001	Ostreobium Bornet & Flahault, 1889	2642842	www.gbif.org/species/2642842	642	scaled.circles
 144054	Cutleria Greville, 1830	3198116	www.gbif.org/species/3198116	300	scaled.circles
 144060	Arthrocladia Duby, 1830	3199991	www.gbif.org/species/3199991	32	scaled.circles
@@ -767,7 +768,7 @@ taxon_id	scientific_name_authority	usage_key	url	n_nordic_occurrences	point_styl
 144199	Laminaria J.V. Lamouroux, 1813	3195825	www.gbif.org/species/3195825	21841	scaled.circles
 144202	Microspora Thuret, 1850	2639650	www.gbif.org/species/2639650	2584	scaled.circles
 144222	Phaeophila Hauck, 1876	2638764	www.gbif.org/species/2638764	94	scaled.circles
-144234	Prasiola Meneghini, 1838	2625130	www.gbif.org/species/2625130	729	scaled.circles
+144234	Prasiola Meneghini, 1838	2625130	www.gbif.org/species/2625130	730	scaled.circles
 144235	Rosenvingiella P.C.Silva, 1957	2639584	www.gbif.org/species/2639584	132	scaled.circles
 144253	Colpomenia (Endlicher) Derbès & Solier, 1851	3197954	www.gbif.org/species/3197954	200	scaled.circles
 144257	Petalonia Derbès & Solier, 1850	3197913	www.gbif.org/species/3197913	876	scaled.circles
@@ -855,7 +856,7 @@ taxon_id	scientific_name_authority	usage_key	url	n_nordic_occurrences	point_styl
 145070	Cladophora vagabunda (Linnaeus) Hoek, 1963	5272441	www.gbif.org/species/5272441	18	scaled.circles
 145074	Rhizoclonium pachydermum Kjellman, 1877	2643992	www.gbif.org/species/2643992	0	scaled.circles
 145075	Rhizoclonium riparium (Roth) Harvey, 1849	2643576	www.gbif.org/species/2643576	285	scaled.circles
-145086	Codium fragile (Suringar) Hariot, 1889	5272096	www.gbif.org/species/5272096	1099	scaled.circles
+145086	Codium fragile (Suringar) Hariot, 1889	5272096	www.gbif.org/species/5272096	1101	scaled.circles
 145095	Ostreobium quekettii Bornet & Flahault, 1889	2642843	www.gbif.org/species/2642843	640	scaled.circles
 145297	Cutleria multifida (Turner) Greville, 1830	5422862	www.gbif.org/species/5422862	299	scaled.circles
 145306	Arthrocladia villosa (Hudson) Duby, 1830	5423312	www.gbif.org/species/5423312	32	scaled.circles
@@ -919,7 +920,7 @@ taxon_id	scientific_name_authority	usage_key	url	n_nordic_occurrences	point_styl
 145797	Prasiola calophylla (Carmichael ex Greville) Kützing, 1845	2639628	www.gbif.org/species/2639628	8	scaled.circles
 145798	Prasiola crispa (Lightfoot) Kützing, 1843	7790033	www.gbif.org/species/7790033	134	scaled.circles
 145799	Prasiola furfuracea (Mertens ex Hornemann) Trevisan, 1842	7600917	www.gbif.org/species/7600917	5	scaled.circles
-145800	Prasiola stipitata Suhr ex Jessen, 1848	9576954	www.gbif.org/species/9576954	427	scaled.circles
+145800	Prasiola stipitata Suhr ex Jessen, 1848	9576954	www.gbif.org/species/9576954	428	scaled.circles
 145802	Rosenvingiella polyrhiza (Rosenvinge) P.C.Silva, 1957	9456382	www.gbif.org/species/9456382	112	scaled.circles
 145856	Colpomenia peregrina Sauvageau, 1927	3197970	www.gbif.org/species/3197970	199	scaled.circles
 145863	Petalonia fascia (O.F.Müller) Kuntze, 1898	3197920	www.gbif.org/species/3197920	656	scaled.circles
@@ -986,8 +987,8 @@ taxon_id	scientific_name_authority	usage_key	url	n_nordic_occurrences	point_styl
 146201	Isochrysidaceae Pascher, 1910	2907	www.gbif.org/species/2907	191	scaled.circles
 146207	Ebriales Deflandre, 1936	38	www.gbif.org/species/38	11273	scaled.circles
 146208	Ebriaceae Lemmermann, 1901	2017	www.gbif.org/species/2017	7347	scaled.circles
-146216	Ulvophyceae K.R. Mattox & K.D. Stewart, 1978	195	www.gbif.org/species/195	88290	orangeHeat.point
-146217	Charophyceae Rabenhorst, 1863	328	www.gbif.org/species/328	39703	orangeHeat.point
+146216	Ulvophyceae K.R. Mattox & K.D. Stewart, 1978	195	www.gbif.org/species/195	88299	orangeHeat.point
+146217	Charophyceae Rabenhorst, 1863	328	www.gbif.org/species/328	39713	orangeHeat.point
 146218	Pedinomonadaceae Korschikov, 1938	2031	www.gbif.org/species/2031	63	scaled.circles
 146219	Pedinomonadales Moestrup, 1991	1358	www.gbif.org/species/1358	74	scaled.circles
 146230	Chrysophyceae Pascher, 1914	7073563	www.gbif.org/species/7073563	22493	scaled.circles
@@ -1000,12 +1001,12 @@ taxon_id	scientific_name_authority	usage_key	url	n_nordic_occurrences	point_styl
 146275	Myriocladia ekmanii (Areschoug) Kylin, 1907	8248475	www.gbif.org/species/8248475	8	scaled.circles
 146278	Elachista chondrii Areschoug, 1875	7425695	www.gbif.org/species/7425695	1	scaled.circles
 146283	Stilophora nodulosa (C.Agardh) P.C.Silva, 1996	5423088	www.gbif.org/species/5423088	73	scaled.circles
-146537	Cyanobacteria Stanier ex Cavalier-Smith, 2002	68	www.gbif.org/species/68	96131	orangeHeat.point
+146537	Cyanobacteria Stanier ex Cavalier-Smith, 2002	68	www.gbif.org/species/68	96132	orangeHeat.point
 146538	Lyngbya C.Agardh ex Gomont, 1892	3218593	www.gbif.org/species/3218593	473	scaled.circles
 146539	Entophysalis Kützing, 1843	3217587	www.gbif.org/species/3217587	66	scaled.circles
 146540	Microcoleus Desmazières ex Gomont, 1892	3218437	www.gbif.org/species/3218437	530	scaled.circles
 146541	Spirulina Turpin ex Gomont, 1892	8996763	www.gbif.org/species/8996763	4533	scaled.circles
-146542	Cyanophyceae Schaffner, 1909	68	www.gbif.org/species/68	96131	orangeHeat.point
+146542	Cyanophyceae Schaffner, 1909	68	www.gbif.org/species/68	96132	orangeHeat.point
 146543	Chroococcales R. von Wettstein von Westerheim, 2002	746	www.gbif.org/species/746	809	scaled.circles
 146544	Chroococcaceae Rabenhorst, 1863	7102	www.gbif.org/species/7102	108	scaled.circles
 146545	Merismopedia Meyen, 1839	11067735	www.gbif.org/species/11067735	1364	scaled.circles
@@ -1036,7 +1037,7 @@ taxon_id	scientific_name_authority	usage_key	url	n_nordic_occurrences	point_styl
 146578	Merismopedia glauca (Ehrenberg) Kützing, 1845	3217188	www.gbif.org/species/3217188	50	scaled.circles
 146581	Hydrococcaceae Kützing, 1843	7106	www.gbif.org/species/7106	35	scaled.circles
 146582	Pleurocapsa Thuret, 1885	3216342	www.gbif.org/species/3216342	76	scaled.circles
-146584	Nostocaceae Eichler, 1886	2884	www.gbif.org/species/2884	22330	scaled.circles
+146584	Nostocaceae Eichler, 1886	2884	www.gbif.org/species/2884	22331	scaled.circles
 146585	Anabaena Bory de Saint-Vincent ex Bornet & Flahault, 1886	8855997	www.gbif.org/species/8855997	1641	scaled.circles
 146590	Anabaenopsis V.V.Miller, 1923	3219363	www.gbif.org/species/3219363	78	scaled.circles
 146594	Oscillatoria tenuis C.Agardh ex Gomont, 1892	7466154	www.gbif.org/species/7466154	57	scaled.circles
@@ -1076,7 +1077,7 @@ taxon_id	scientific_name_authority	usage_key	url	n_nordic_occurrences	point_styl
 146646	Aphanocapsa conferta (West & G.S.West) Komárková-Legnerová & Cronberg, 1994	4382333	www.gbif.org/species/4382333	6	scaled.circles
 146647	Aphanocapsa holsatica (Lemmermann) G.Cronberg & Komárek, 1994	3217255	www.gbif.org/species/3217255	2	scaled.circles
 146648	Brachytrichia lloydii (P.L.Crouan & H.M.Crouan) P.C.Silva, 1996	5426436	www.gbif.org/species/5426436	0	scaled.circles
-146649	Stigonematales Geitler, 1925	68	www.gbif.org/species/68	96131	orangeHeat.point
+146649	Stigonematales Geitler, 1925	68	www.gbif.org/species/68	96132	orangeHeat.point
 146650	Mastigocladaceae Geitler, 1925	2895	www.gbif.org/species/2895	0	scaled.circles
 146651	Rivulariaceae Frank, 1886	2885	www.gbif.org/species/2885	454	scaled.circles
 146654	Schizotrichaceae Elenkin, 1949	2891	www.gbif.org/species/2891	24	scaled.circles
@@ -1701,7 +1702,7 @@ taxon_id	scientific_name_authority	usage_key	url	n_nordic_occurrences	point_styl
 160569	Coelomoron pusillum (Van Goor) Komárek, 1988	3217201	www.gbif.org/species/3217201	268	scaled.circles
 160570	Synechococcaceae J.Komárek & Anagnostidis, 1995	7109	www.gbif.org/species/7109	3912	scaled.circles
 160572	Synechococcus Nägeli, 1849	3216715	www.gbif.org/species/3216715	3291	scaled.circles
-160573	Trebouxiophyceae Friedl, 1995	332	www.gbif.org/species/332	11358	scaled.circles
+160573	Trebouxiophyceae Friedl, 1995	332	www.gbif.org/species/332	11359	scaled.circles
 160574	Chlorellales Bold & M.J.Wynne, 1978	1359	www.gbif.org/species/1359	2478	scaled.circles
 160575	Chlorellaceae Brunnthaler, 1913	4852	www.gbif.org/species/4852	722	scaled.circles
 160576	Chlorella M.Beijerinck, 1890	2638467	www.gbif.org/species/2638467	116	scaled.circles
@@ -2426,7 +2427,7 @@ taxon_id	scientific_name_authority	usage_key	url	n_nordic_occurrences	point_styl
 177161	Microcrocis P.G.Richter, 1892	3217026	www.gbif.org/species/3217026	0	scaled.circles
 177164	Microcrocis geminata (Lagerheim) Geitler, 1942	3217032	www.gbif.org/species/3217032	0	scaled.circles
 177175	Microcrocis sabulicola (Lagerheim) Geitler, 1942	3217045	www.gbif.org/species/3217045	0	scaled.circles
-177180	Cyanobacteria incertae sedis NA	68	www.gbif.org/species/68	96131	orangeHeat.point
+177180	Cyanobacteria incertae sedis NA	68	www.gbif.org/species/68	96132	orangeHeat.point
 177232	Microcystis firma (Kützing) Schmidle, 1902	5426711	www.gbif.org/species/5426711	0	scaled.circles
 177245	Microcystis ichthyoblabe (G.Kunze) Kützing, 1843	5426734	www.gbif.org/species/5426734	1	scaled.circles
 177252	Microcystis novacekii (Komárek) Compère, 1974	5426720	www.gbif.org/species/5426720	3	scaled.circles
@@ -2566,8 +2567,8 @@ taxon_id	scientific_name_authority	usage_key	url	n_nordic_occurrences	point_styl
 178973	Chlamydomonadaceae F.Stein, 1878	8816	www.gbif.org/species/8816	2237	scaled.circles
 178989	Acanthoceras Honigm., 1910	11328225	www.gbif.org/species/11328225	21	scaled.circles
 178990	Acanthoceras zachariasii (Brun) Simonsen, 1979	5421885	www.gbif.org/species/5421885	21	scaled.circles
-179048	Charales Dumortier, 1829	626	www.gbif.org/species/626	39591	orangeHeat.point
-179049	Characeae S.F. Gray, 1821	8782	www.gbif.org/species/8782	39587	orangeHeat.point
+179048	Charales Dumortier, 1829	626	www.gbif.org/species/626	39600	orangeHeat.point
+179049	Characeae S.F. Gray, 1821	8782	www.gbif.org/species/8782	39596	orangeHeat.point
 179052	Lamprothamnium J.Groves, 1916	2638280	www.gbif.org/species/2638280	356	scaled.circles
 179053	Lamprothamnium papulosum (K.Wallroth) J.Groves, 1916	2638282	www.gbif.org/species/2638282	348	scaled.circles
 179088	Achnanthes lutheri Hustedt, 1933	8083890	www.gbif.org/species/8083890	0	scaled.circles
@@ -3026,7 +3027,7 @@ taxon_id	scientific_name_authority	usage_key	url	n_nordic_occurrences	point_styl
 295861	Botrydiaceae Rabenhorst, 1863	4595	www.gbif.org/species/4595	41	scaled.circles
 295862	Botrydium Wallroth, 1815	3201137	www.gbif.org/species/3201137	41	scaled.circles
 295863	Botrydium granulatum (Linnaeus) Greville, 1830	5423866	www.gbif.org/species/5423866	38	scaled.circles
-3	Plantae Haeckel, 1866	6	www.gbif.org/species/6	43375025	orangeHeat.point
+3	Plantae Haeckel, 1866	6	www.gbif.org/species/6	43385467	orangeHeat.point
 341285	Centrales NA	7383532	www.gbif.org/species/7383532	5722	scaled.circles
 341300	Daturella Kofoid & Campbell, 1929	8001878	www.gbif.org/species/8001878	12	scaled.circles
 341301	Didinium Stein, 1859	7857530	www.gbif.org/species/7857530	119	scaled.circles
@@ -3146,7 +3147,7 @@ taxon_id	scientific_name_authority	usage_key	url	n_nordic_occurrences	point_styl
 368895	Gayraliaceae K.L. Vinogradova, 1969	5325	www.gbif.org/species/5325	311	scaled.circles
 368897	Dunaliellaceae T. Christensen, 1967	8817	www.gbif.org/species/8817	162	scaled.circles
 368900	Florenciellales incertae sedis NA	8024822	www.gbif.org/species/8024822	1599	scaled.circles
-369188	Chlorophyta incertae sedis NA	36	www.gbif.org/species/36	154879	orangeHeat.point
+369188	Chlorophyta incertae sedis NA	36	www.gbif.org/species/36	154889	orangeHeat.point
 369190	Haptophyta D.J. Hibberd ex B. Edvardsen & W. Eikrem, 2000	70	www.gbif.org/species/70	32405	orangeHeat.point
 369191	Haptophyta incertae sedis NA	70	www.gbif.org/species/70	32405	orangeHeat.point
 369192	Ochrophyta incertae sedis NA	98	www.gbif.org/species/98	675789	orangeHeat.point
@@ -3241,8 +3242,8 @@ taxon_id	scientific_name_authority	usage_key	url	n_nordic_occurrences	point_styl
 391609	Trochiscia paucispinosa West	3217853	www.gbif.org/species/3217853	0	scaled.circles
 391614	Tintinnopsis karajacensis Brandt, 1896	7549167	www.gbif.org/species/7549167	0	scaled.circles
 391615	Tintinnopsis sacculus Brandt, 1896	8412886	www.gbif.org/species/8412886	0	scaled.circles
-393172	Nostoc Vaucher ex Bornet & Flahault, 1886	3219414	www.gbif.org/species/3219414	1238	scaled.circles
-394626	Chara Linnaeus, 1753	2637982	www.gbif.org/species/2637982	27679	scaled.circles
+393172	Nostoc Vaucher ex Bornet & Flahault, 1886	3219414	www.gbif.org/species/3219414	1239	scaled.circles
+394626	Chara Linnaeus, 1753	2637982	www.gbif.org/species/2637982	27687	scaled.circles
 394627	Chara connivens P.Salzmann ex A.Braun, 1835	5270682	www.gbif.org/species/5270682	50	scaled.circles
 399466	Chara aspera Willdenow, 1809	5270674	www.gbif.org/species/5270674	5746	scaled.circles
 399467	Chara baltica (C.J.Hartmann) Bruzelius, 1824	5270790	www.gbif.org/species/5270790	2830	scaled.circles
@@ -3270,8 +3271,8 @@ taxon_id	scientific_name_authority	usage_key	url	n_nordic_occurrences	point_styl
 415907	Puncticulata Håkansson, 2002	4920666	www.gbif.org/species/4920666	0	scaled.circles
 416092	Trichocoleus Anagnostidis, 2001	4903497	www.gbif.org/species/4903497	7	scaled.circles
 416120	Ulnaria (Kützing) P. Compère, 2001	4896158	www.gbif.org/species/4896158	11	scaled.circles
-416186	Tolypella (A.Braun) A.Braun, 1857	2638197	www.gbif.org/species/2638197	3017	scaled.circles
-416187	Tolypella nidifica (O.F.Müller) Leonhardi, 1864	2638207	www.gbif.org/species/2638207	2262	scaled.circles
+416186	Tolypella (A.Braun) A.Braun, 1857	2638197	www.gbif.org/species/2638197	3018	scaled.circles
+416187	Tolypella nidifica (O.F.Müller) Leonhardi, 1864	2638207	www.gbif.org/species/2638207	2263	scaled.circles
 416376	Gloeotilaceae Ettl & Gärtner, 1995	4923622	www.gbif.org/species/4923622	0	scaled.circles
 417048	Trichocoleus tenerrimus (Gomont) Anagnostidis, 2001	6533825	www.gbif.org/species/6533825	1	scaled.circles
 417149	Tintinnopsis gracilis Kofoid & Campbell, 1929	7544154	www.gbif.org/species/7544154	0	scaled.circles
@@ -3303,11 +3304,11 @@ taxon_id	scientific_name_authority	usage_key	url	n_nordic_occurrences	point_styl
 418628	Martyana atomus (Hustedt) Snoeijs, 1991	3192232	www.gbif.org/species/3192232	0	scaled.circles
 418629	Martyana schulzii (Brockmann) Snoeijs, 1991	3192231	www.gbif.org/species/3192231	0	scaled.circles
 418647	Thalassionema bacillare (Heiden) Kolbe, 1955	7697778	www.gbif.org/species/7697778	0	scaled.circles
-422888	Trentepohliales Chadefaud ex R.H.Thompson & D.E.Wujek, 1997	638	www.gbif.org/species/638	3218	scaled.circles
-422889	Trentepohliaceae Hansgirg, 1886	7559	www.gbif.org/species/7559	3206	scaled.circles
-422893	Coleochaetales NA	633	www.gbif.org/species/633	45	scaled.circles
-422894	Coleochaetaceae NA	4850	www.gbif.org/species/4850	45	scaled.circles
-422895	Coleochaete Brébisson, 1844	2638383	www.gbif.org/species/2638383	45	scaled.circles
+422888	Trentepohliales Chadefaud ex R.H.Thompson & D.E.Wujek, 1997	638	www.gbif.org/species/638	3225	scaled.circles
+422889	Trentepohliaceae Hansgirg, 1886	7559	www.gbif.org/species/7559	3213	scaled.circles
+422893	Coleochaetales NA	633	www.gbif.org/species/633	46	scaled.circles
+422894	Coleochaetaceae NA	4850	www.gbif.org/species/4850	46	scaled.circles
+422895	Coleochaete Brébisson, 1844	2638383	www.gbif.org/species/2638383	46	scaled.circles
 422896	Coleochaete irregularis Pringsheim, 1860	2638392	www.gbif.org/species/2638392	0	scaled.circles
 422898	Draparnaldia Bory de Saint-Vincent, 1808	2639875	www.gbif.org/species/2639875	373	scaled.circles
 422901	Microthamnion strictissimum Rabenhorst, 1859	4269745	www.gbif.org/species/4269745	3	scaled.circles
@@ -3419,8 +3420,8 @@ taxon_id	scientific_name_authority	usage_key	url	n_nordic_occurrences	point_styl
 494940	Leathesia marina (Lyngbye) Decaisne, 1842	7627628	www.gbif.org/species/7627628	690	scaled.circles
 494992	Ulvaria splendens (Ruprecht) K.L.Vinogradova, 1979	7618195	www.gbif.org/species/7618195	175	scaled.circles
 494993	Vaucheria woroniniana Heering, 1907	5423787	www.gbif.org/species/5423787	0	scaled.circles
-495147	Chara braunii C.C.Gmelin, 1826	5270720	www.gbif.org/species/5270720	152	scaled.circles
-495148	Chara globularis Thuiller, 1799	5270780	www.gbif.org/species/5270780	2919	scaled.circles
+495147	Chara braunii C.C.Gmelin, 1826	5270720	www.gbif.org/species/5270720	153	scaled.circles
+495148	Chara globularis Thuiller, 1799	5270780	www.gbif.org/species/5270780	2920	scaled.circles
 495157	Nitella flexilis (Linnaeus) C.Agardh, 1824	9545260	www.gbif.org/species/9545260	856	scaled.circles
 495164	Nitella hyalina (De Candolle) C.Agardh, 1824	2637951	www.gbif.org/species/2637951	0	scaled.circles
 495184	Tolypella glomerata (Desvaux) Leonhardi, 1863	2638198	www.gbif.org/species/2638198	129	scaled.circles
@@ -3460,7 +3461,7 @@ taxon_id	scientific_name_authority	usage_key	url	n_nordic_occurrences	point_styl
 495757	Spirulina versicolor Cohn ex Gomont, 1892	5426883	www.gbif.org/species/5426883	16	scaled.circles
 495888	Ulva flexuosa subsp. pilifera (Kützing) M.J.Wynne, 2005	5839263	www.gbif.org/species/5839263	8	scaled.circles
 497297	Chaetopteris plumosa (Lyngbye) Kützing, 1843	3200730	www.gbif.org/species/3200730	1027	scaled.circles
-5	Protozoa Owen, 1858	7	www.gbif.org/species/7	120467	orangeHeat.point
+5	Protozoa Owen, 1858	7	www.gbif.org/species/7	120487	orangeHeat.point
 503084	Borghiella tenuissima (Lauterborn) Moestrup, Gert Hansen & Daugbjerg, 2008	7742055	www.gbif.org/species/7742055	0	scaled.circles
 503329	Prosoaulax lacustris (F.Stein) Calado & Moestrup, 2005	8280844	www.gbif.org/species/8280844	0	scaled.circles
 503901	Gonatozygon brebissonii De Bary, 1858	2650056	www.gbif.org/species/2650056	6	scaled.circles
@@ -3483,7 +3484,7 @@ taxon_id	scientific_name_authority	usage_key	url	n_nordic_occurrences	point_styl
 531467	Pseudochattonella farcimen (Eikrem, Edvardsen & J.Throndsen) Eichrem, 2009	5824752	www.gbif.org/species/5824752	243	scaled.circles
 532028	Actinastrum fluviatile (J.L.B.Schröder) Fott, 1977	6136105	www.gbif.org/species/6136105	0	scaled.circles
 532029	Chlorella vulgaris Beijerinck, 1890	5270961	www.gbif.org/species/5270961	13	scaled.circles
-536191	Streptophyta John, Williamson & Guiry, 2011	6	www.gbif.org/species/6	43375025	orangeHeat.point
+536191	Streptophyta John, Williamson & Guiry, 2011	6	www.gbif.org/species/6	43385467	orangeHeat.point
 536197	Bodonaceae Bütschli, 1884	7880694	www.gbif.org/species/7880694	0	scaled.circles
 536202	Euglenozoa Cavalier-Smith, 1981	41	www.gbif.org/species/41	10771	scaled.circles
 547443	Chara vulgaris Linnaeus, 1753	8405500	www.gbif.org/species/8405500	1682	scaled.circles
@@ -3716,8 +3717,8 @@ taxon_id	scientific_name_authority	usage_key	url	n_nordic_occurrences	point_styl
 576698	Sphaerocystis planctonica (Korshikov) Bourrelly, 1974	5271437	www.gbif.org/species/5271437	0	scaled.circles
 576699	Sphaerodinium Woloszynska, 1916	8408706	www.gbif.org/species/8408706	0	scaled.circles
 576700	Glenodiniopsis steinii Wooszyska, 1916	7386225	www.gbif.org/species/7386225	0	scaled.circles
-576703	Trebouxiophyceae ordo incertae sedis NA	332	www.gbif.org/species/332	11358	scaled.circles
-576704	Trebouxiophyceae incertae sedis NA	332	www.gbif.org/species/332	11358	scaled.circles
+576703	Trebouxiophyceae ordo incertae sedis NA	332	www.gbif.org/species/332	11359	scaled.circles
+576704	Trebouxiophyceae incertae sedis NA	332	www.gbif.org/species/332	11359	scaled.circles
 576705	Tetrachlorella Korshikov, 1939	2641794	www.gbif.org/species/2641794	0	scaled.circles
 576706	Tetraedron caudatum (Corda) Hansgirg, 1888	2642422	www.gbif.org/species/2642422	19	scaled.circles
 576710	Tetrastrum triacanthum Korshikov, 1939	6452332	www.gbif.org/species/6452332	0	scaled.circles
@@ -3955,7 +3956,7 @@ taxon_id	scientific_name_authority	usage_key	url	n_nordic_occurrences	point_styl
 599630	Desmomastigales Bourrelly	8972078	www.gbif.org/species/8972078	0	scaled.circles
 599631	Desmomastigaceae NA	8255251	www.gbif.org/species/8255251	0	scaled.circles
 599632	Protaspidaceae NA	7503708	www.gbif.org/species/7503708	0	scaled.circles
-599640	Ebriophyceae NA	7	www.gbif.org/species/7	120467	orangeHeat.point
+599640	Ebriophyceae NA	7	www.gbif.org/species/7	120487	orangeHeat.point
 599651	Peroniaceae NA	8268998	www.gbif.org/species/8268998	0	scaled.circles
 599653	Pseudocharaciopsidaceae NA	6250	www.gbif.org/species/6250	32	scaled.circles
 599657	Glaucophyceae NA	335	www.gbif.org/species/335	127	scaled.circles
@@ -3989,9 +3990,9 @@ taxon_id	scientific_name_authority	usage_key	url	n_nordic_occurrences	point_styl
 599716	Chlorangiellaceae Bourrelly ex Fott, 1972	8811	www.gbif.org/species/8811	6	scaled.circles
 599724	Neonemataceae Ettl, 1977	4593	www.gbif.org/species/4593	0	scaled.circles
 599730	Mesotaeniaceae Oltmanns, 1904	8851	www.gbif.org/species/8851	698	scaled.circles
-599746	Cyanophyceae incertae sedis NA	68	www.gbif.org/species/68	96131	orangeHeat.point
-6	Bacteria NA	3	www.gbif.org/species/3	712875	orangeHeat.point
-600726	Trentepohlia Martius, 1817	2645003	www.gbif.org/species/2645003	3188	scaled.circles
+599746	Cyanophyceae incertae sedis NA	68	www.gbif.org/species/68	96132	orangeHeat.point
+6	Bacteria NA	3	www.gbif.org/species/3	712876	orangeHeat.point
+600726	Trentepohlia Martius, 1817	2645003	www.gbif.org/species/2645003	3195	scaled.circles
 600754	Bambusina Kützing ex Kützing, 1849	2649859	www.gbif.org/species/2649859	40	scaled.circles
 600757	Chaetonema Nowakowski, 1876	2639697	www.gbif.org/species/2639697	0	scaled.circles
 600759	Dicranochaete Hieronymus, 1890	2639800	www.gbif.org/species/2639800	0	scaled.circles
@@ -4131,7 +4132,7 @@ taxon_id	scientific_name_authority	usage_key	url	n_nordic_occurrences	point_styl
 608229	Microspora floccosa (Vaucher) Thuret, 1850	5271465	www.gbif.org/species/5271465	9	scaled.circles
 608237	Schizothrix calcicola Gomont, 1892	5426949	www.gbif.org/species/5426949	0	scaled.circles
 608242	Calothrix confervicola C.Agardh ex Bornet & Flahault, 1886	7581726	www.gbif.org/species/7581726	270	scaled.circles
-608248	Nostoc commune Vaucher ex Bornet & Flahault, 1888	8225325	www.gbif.org/species/8225325	446	scaled.circles
+608248	Nostoc commune Vaucher ex Bornet & Flahault, 1888	8225325	www.gbif.org/species/8225325	447	scaled.circles
 608260	Chroococcus varius A.Braun, 1876	3216196	www.gbif.org/species/3216196	0	scaled.circles
 608278	Merismopedia mediterranea Nägeli, 1849	3217191	www.gbif.org/species/3217191	2	scaled.circles
 608284	Homoeothrix juliana (Bornet & Flahault ex Gomont) Kirchner, 1898	8862046	www.gbif.org/species/8862046	24	scaled.circles
@@ -4140,7 +4141,7 @@ taxon_id	scientific_name_authority	usage_key	url	n_nordic_occurrences	point_styl
 608332	Calothrix fusca Bornet & Flahault, 1886	3219708	www.gbif.org/species/3219708	11	scaled.circles
 608334	Rivularia biasolettiana Meneghini ex Bornet & Flahault, 1886	5427381	www.gbif.org/species/5427381	0	scaled.circles
 608359	Chara baueri A.Braun, 1847	5270791	www.gbif.org/species/5270791	1	scaled.circles
-608360	Chara contraria A.Braun ex Kützing, 1845	5270698	www.gbif.org/species/5270698	1293	scaled.circles
+608360	Chara contraria A.Braun ex Kützing, 1845	5270698	www.gbif.org/species/5270698	1296	scaled.circles
 608374	Chaetophora punctiformis Kützing	5271494	www.gbif.org/species/5271494	0	scaled.circles
 608375	Chaetophora tuberculosa (Roth) C.Agardh, 1817	5271498	www.gbif.org/species/5271498	26	scaled.circles
 608377	Dicranochaete reniformis Hieronymus, 1890	2639803	www.gbif.org/species/2639803	0	scaled.circles
@@ -4230,7 +4231,7 @@ taxon_id	scientific_name_authority	usage_key	url	n_nordic_occurrences	point_styl
 608669	Coleochaete scutata Brébisson, 1844	2638393	www.gbif.org/species/2638393	8	scaled.circles
 608678	Geminella interrupta Turpin, 1828	8230468	www.gbif.org/species/8230468	0	scaled.circles
 608679	Geminella mutabilis (Brébisson) Wille, 1909	5273581	www.gbif.org/species/5273581	2	scaled.circles
-608686	Trentepohlia aurea (Linnaeus) C.Martius, 1817	5273142	www.gbif.org/species/5273142	815	scaled.circles
+608686	Trentepohlia aurea (Linnaeus) C.Martius, 1817	5273142	www.gbif.org/species/5273142	819	scaled.circles
 608690	Trentepohlia odorata (F.H.Wiggers) Wittrock, 1880	5273085	www.gbif.org/species/5273085	5	scaled.circles
 608697	Ulothrix moniliformis (Kützing) Kützing, 1849	2646312	www.gbif.org/species/2646312	0	scaled.circles
 608724	Closterium ceratium Perty, 1852	2646466	www.gbif.org/species/2646466	9	scaled.circles
@@ -4262,7 +4263,6 @@ taxon_id	scientific_name_authority	usage_key	url	n_nordic_occurrences	point_styl
 608892	Cosmarium pygmaeum W.Archer, 1864	5274319	www.gbif.org/species/5274319	24	scaled.circles
 608893	Cosmarium pyramidatum Brébisson ex Ralfs, 1848	7998781	www.gbif.org/species/7998781	0	scaled.circles
 608901	Cosmarium regnellii Wille, 1884	5274551	www.gbif.org/species/5274551	19	scaled.circles
-608917	Cosmarium subcosmetum Palamar-Mordvintseva, 1981	5273818	www.gbif.org/species/5273818	3	scaled.circles
 608924	Cosmarium subprotumidum Nordstedt, 1876	5273781	www.gbif.org/species/5273781	7	scaled.circles
 608932	Cosmarium tinctum Ralfs, 1848	5273813	www.gbif.org/species/5273813	34	scaled.circles
 608938	Cosmarium tumidum P.Lundell, 1871	5274051	www.gbif.org/species/5274051	3	scaled.circles
@@ -4681,7 +4681,7 @@ taxon_id	scientific_name_authority	usage_key	url	n_nordic_occurrences	point_styl
 610943	Oedogonium landsboroughii Wittrock ex Hirn, 1900	8390345	www.gbif.org/species/8390345	2	scaled.circles
 610944	Oedogonium punctatostriatum De Bary ex Hirn, 1900	8338982	www.gbif.org/species/8338982	0	scaled.circles
 610945	Oedogonium pyrulum Wittrock ex Hirn, 1900	2640153	www.gbif.org/species/2640153	0	scaled.circles
-610951	Trentepohlia jolithus (Linnaeus) Wallroth, 1833	5273593	www.gbif.org/species/5273593	632	scaled.circles
+610951	Trentepohlia jolithus (Linnaeus) Wallroth, 1833	5273593	www.gbif.org/species/5273593	634	scaled.circles
 610957	Catena viridis Chodat, 1900	5270986	www.gbif.org/species/5270986	0	scaled.circles
 610958	Chaetonema irregulare Nowakowski, 1876	9509656	www.gbif.org/species/9509656	0	scaled.circles
 610961	Cylindrocapsa conferta West, 1892	2638759	www.gbif.org/species/2638759	0	scaled.circles
@@ -4737,7 +4737,7 @@ taxon_id	scientific_name_authority	usage_key	url	n_nordic_occurrences	point_styl
 611341	Staurodesmus sellatus (Teiling) Teiling, 1948	2647275	www.gbif.org/species/2647275	0	scaled.circles
 611347	Xanthidium concinnum W.Archer, 1883	5274755	www.gbif.org/species/5274755	0	scaled.circles
 611350	Xanthidium tetracentrotum Wolle, 1882	5274735	www.gbif.org/species/5274735	0	scaled.circles
-611360	Trentepohlia umbrina (Kützing) Bornet, 1873	5273123	www.gbif.org/species/5273123	1650	scaled.circles
+611360	Trentepohlia umbrina (Kützing) Bornet, 1873	5273123	www.gbif.org/species/5273123	1651	scaled.circles
 611368	Leptolyngbya lagerheimii (Gomont ex Gomont) Anagnostidis & Komárek, 1988	3217943	www.gbif.org/species/3217943	0	scaled.circles
 611373	Phormidium nigrum (Vaucher ex Gomont) Anagnostidis & Komárek, 1988	3218192	www.gbif.org/species/3218192	13	scaled.circles
 611376	Leptolyngbya calotrichoides (Gomont) Anagnostidis & Komárek, 1988	3217934	www.gbif.org/species/3217934	0	scaled.circles
@@ -5344,7 +5344,7 @@ taxon_id	scientific_name_authority	usage_key	url	n_nordic_occurrences	point_styl
 623259	Mougeotia bicalyptrata Wittrock, 1886	8276734	www.gbif.org/species/8276734	3	scaled.circles
 623339	Protoperidinium bolmonense Chomérat & Couté, 2008	7518029	www.gbif.org/species/7518029	0	scaled.circles
 623343	Planktothrix isothrix (Skuja) Komárek & Komárková, 2004	7666386	www.gbif.org/species/7666386	23	scaled.circles
-623346	Chara strigosa A.Braun, 1847	8139420	www.gbif.org/species/8139420	339	scaled.circles
+623346	Chara strigosa A.Braun, 1847	8139420	www.gbif.org/species/8139420	340	scaled.circles
 623356	Cymbella excisa Kützing, 1844	7556326	www.gbif.org/species/7556326	0	scaled.circles
 623361	Rusalka fusiformis (Matvienko) T.Nakada, 2008	7793628	www.gbif.org/species/7793628	13	scaled.circles
 623482	Navicula escambia (Patrick) D.Metzeltin & Lange-Bertalot, 2007	7809425	www.gbif.org/species/7809425	0	scaled.circles
@@ -6107,15 +6107,15 @@ taxon_id	scientific_name_authority	usage_key	url	n_nordic_occurrences	point_styl
 732868	Schmidingerella serrata (Möbius, 1887) Agatha & Strüder-Kypke, 2012	7985443	www.gbif.org/species/7985443	47	scaled.circles
 736993	Textulariina Delage & Hérouard, 1896	7878880	www.gbif.org/species/7878880	308	scaled.circles
 742629	Protaspa Cavalier-Smith, 2011	3235217	www.gbif.org/species/3235217	2164	scaled.circles
-801	Chlorophyta Pascher, 1914	36	www.gbif.org/species/36	154879	orangeHeat.point
+801	Chlorophyta Pascher, 1914	36	www.gbif.org/species/36	154889	orangeHeat.point
 8012	Euglena Ehrenberg, 1830	7446037	www.gbif.org/species/7446037	173	scaled.circles
 802	Chlorophyceae Wille, 1884	329	www.gbif.org/species/329	30492	orangeHeat.point
 8024	Peranema Dujardin, 1841	3210123	www.gbif.org/species/3210123	34	scaled.circles
 8030	Anisonema Dujardin, 1841	3210173	www.gbif.org/species/3210173	1	scaled.circles
 8038	Petalomonas F.Stein, 1859	10532858	www.gbif.org/species/10532858	45	scaled.circles
-808	Bryopsidales J.H. Schaffner, 1922	625	www.gbif.org/species/625	4073	scaled.circles
+808	Bryopsidales J.H. Schaffner, 1922	625	www.gbif.org/species/625	4075	scaled.circles
 813	Cladophorales Haeckel, 1894	1362	www.gbif.org/species/1362	48514	orangeHeat.point
-820	Prasiolales Schaffner, 1922	1355	www.gbif.org/species/1355	1733	scaled.circles
+820	Prasiolales Schaffner, 1922	1355	www.gbif.org/species/1355	1734	scaled.circles
 824	Ulotrichales Borzi, 1895	1356	www.gbif.org/species/1356	6707	scaled.circles
 827	Ulvales Blackman & Tansley, 1902	641	www.gbif.org/species/641	25440	scaled.circles
 830	Phaeophyceae Kjellman, 1891	7073593	www.gbif.org/species/7073593	242299	orangeHeat.point
@@ -6330,7 +6330,7 @@ taxon_id	scientific_name_authority	usage_key	url	n_nordic_occurrences	point_styl
 368898	Heterokonta NA	4	www.gbif.org/species/4	1316433	orangeHeat.point
 345465	Ochrophyta Cavalier-Smith, 1995	98	www.gbif.org/species/98	675789	orangeHeat.point
 1304855	Dictyotophycidae Silberfeld, F.Rousseau & Reviers, 2014	7073593	www.gbif.org/species/7073593	242299	orangeHeat.point
-582160	Sarcomastigota NA	7	www.gbif.org/species/7	120467	orangeHeat.point
+582160	Sarcomastigota NA	7	www.gbif.org/species/7	120487	orangeHeat.point
 1486539	Sulcozoa Cavalier-Smith, 2013	8199256	www.gbif.org/species/8199256	271	scaled.circles
 1486546	Apusozoa Cavalier-Smith, 1997 emend. Cavalier-Smith, 2013	8199256	www.gbif.org/species/8199256	271	scaled.circles
 1737087	Apusomonadea Tedersoo, 2017	8199256	www.gbif.org/species/8199256	271	scaled.circles
@@ -6379,7 +6379,7 @@ taxon_id	scientific_name_authority	usage_key	url	n_nordic_occurrences	point_styl
 1307211	Peridiniopsidaceae Gottschling, Kretschmann & Zerdoner Casalan, 2017	10537401	www.gbif.org/species/10537401	29	scaled.circles
 836360	Protoceratiaceae Lindemann, 1928	7410226	www.gbif.org/species/7410226	114	scaled.circles
 109527	Corythodinium Loeblich Jr. & Loeblich III, 1966	7353083	www.gbif.org/species/7353083	32	scaled.circles
-582159	Eozoa NA	7	www.gbif.org/species/7	120467	orangeHeat.point
+582159	Eozoa NA	7	www.gbif.org/species/7	120487	orangeHeat.point
 582161	Euglenozoa NA	41	www.gbif.org/species/41	10771	scaled.circles
 1301785	Euglenoida Bütschli, 1884	7391750	www.gbif.org/species/7391750	9689	scaled.circles
 1737257	Dipilida Cavalier-Smith, 2016	41	www.gbif.org/species/41	10771	scaled.circles
@@ -6409,7 +6409,7 @@ taxon_id	scientific_name_authority	usage_key	url	n_nordic_occurrences	point_styl
 590936	Sarcomonadea Cavalier-Smith, 1995	38	www.gbif.org/species/38	11273	scaled.circles
 590939	Glissomonadida A.T.Howe, D.Bass, Vickerman, E.E.Chao & Cavalier-Smith, 2009	38	www.gbif.org/species/38	11273	scaled.circles
 872118	Allapsidae Howe, Bass, Vickerman, Chao & Cavalier-Smith, 2009	4909371	www.gbif.org/species/4909371	337	scaled.circles
-536210	Excavata Cavalier-Smith	7	www.gbif.org/species/7	120467	orangeHeat.point
+536210	Excavata Cavalier-Smith	7	www.gbif.org/species/7	120487	orangeHeat.point
 582163	Loukozoa NA	7872314	www.gbif.org/species/7872314	166	scaled.circles
 1736994	Eolouka Cavalier-Smith, 2012	7872314	www.gbif.org/species/7872314	166	scaled.circles
 582179	Jakobea Cavalier-Smith, 1999	7579938	www.gbif.org/species/7579938	166	scaled.circles
@@ -6422,10 +6422,10 @@ taxon_id	scientific_name_authority	usage_key	url	n_nordic_occurrences	point_styl
 582219	Jakobida Cavalier-Smith, 1993	7921062	www.gbif.org/species/7921062	166	scaled.circles
 1738361	Histionina Cavalier-Smith, 2012	7921062	www.gbif.org/species/7921062	166	scaled.circles
 599668	Jakobidae D.J.Patterson, 1990	4900145	www.gbif.org/species/4900145	8	scaled.circles
-22718	Protozoa incertae sedis NA	7	www.gbif.org/species/7	120467	orangeHeat.point
+22718	Protozoa incertae sedis NA	7	www.gbif.org/species/7	120487	orangeHeat.point
 391848	Amoebozoa Lühe, 1913, emend. Cavalier-Smith, 1998	7509337	www.gbif.org/species/7509337	1908	scaled.circles
 582169	Conosa Cavalier-Smith, 1998	11046470	www.gbif.org/species/11046470	0	scaled.circles
-582172	Mycetozoa NA	33	www.gbif.org/species/33	55122	orangeHeat.point
+582172	Mycetozoa NA	33	www.gbif.org/species/33	55142	orangeHeat.point
 582193	Variosea Cavalier-Smith, 2004	9759116	www.gbif.org/species/9759116	351	scaled.circles
 1739007	Luffisphaerida Cavalier-Smith, 1993	9759116	www.gbif.org/species/9759116	351	scaled.circles
 1739008	Luffisphaeridia Cavalier-Smith, 2012	9759116	www.gbif.org/species/9759116	351	scaled.circles
@@ -6449,9 +6449,9 @@ taxon_id	scientific_name_authority	usage_key	url	n_nordic_occurrences	point_styl
 1736250	Uniciliatida Cavalier-Smith, 2013	8158183	www.gbif.org/species/8158183	1725	scaled.circles
 1736256	Solenicolidae Cavalier-Smith, 2013	9602481	www.gbif.org/species/9602481	0	scaled.circles
 118027	Solenicola Pavillard, 1916	3208054	www.gbif.org/species/3208054	352	scaled.circles
-451648	Percolozoa Cavalier-Smith, 1991	7	www.gbif.org/species/7	120467	orangeHeat.point
-582166	Tetramitia NA	7	www.gbif.org/species/7	120467	orangeHeat.point
-451649	Heterolobosea Page & Blanton, 1985	7	www.gbif.org/species/7	120467	orangeHeat.point
+451648	Percolozoa Cavalier-Smith, 1991	7	www.gbif.org/species/7	120487	orangeHeat.point
+582166	Tetramitia NA	7	www.gbif.org/species/7	120487	orangeHeat.point
+451649	Heterolobosea Page & Blanton, 1985	7	www.gbif.org/species/7	120487	orangeHeat.point
 1316	Schizopyrenida Singh, 1952	9803786	www.gbif.org/species/9803786	14	scaled.circles
 21540	Vahlkampfiidae Jollos, 1917	4378395	www.gbif.org/species/4378395	42	scaled.circles
 582168	Lobosa NA	116	www.gbif.org/species/116	640	scaled.circles
@@ -6459,15 +6459,15 @@ taxon_id	scientific_name_authority	usage_key	url	n_nordic_occurrences	point_styl
 582205	Flabellinia Smirnov et al., 2005	9732619	www.gbif.org/species/9732619	506	scaled.circles
 451643	Vannellida Smirnov et al., 2005	9657453	www.gbif.org/species/9657453	181	scaled.circles
 22724	Vannellidae Bovee, 1970	5428713	www.gbif.org/species/5428713	181	scaled.circles
-368663	Viridiplantae Cavalier-Smith, 1981	6	www.gbif.org/species/6	43375025	orangeHeat.point
-1304953	Chlorophytina Cavalier-Smith, 1998	36	www.gbif.org/species/36	154879	orangeHeat.point
+368663	Viridiplantae Cavalier-Smith, 1981	6	www.gbif.org/species/6	43385467	orangeHeat.point
+1304953	Chlorophytina Cavalier-Smith, 1998	36	www.gbif.org/species/36	154889	orangeHeat.point
 493822	Bacillariophytina Medlin & Kaczmarska, 2004	8147789	www.gbif.org/species/8147789	0	scaled.circles
 591186	Bacillariophycanae NA	7947184	www.gbif.org/species/7947184	371357	orangeHeat.point
 593505	Chaetocerotanae incertae sedis NA	7947184	www.gbif.org/species/7947184	371357	orangeHeat.point
 591199	Fragilariophycanae NA	7947184	www.gbif.org/species/7947184	371357	orangeHeat.point
 591189	Thalassiosiranae NA	7947184	www.gbif.org/species/7947184	371357	orangeHeat.point
 1304085	Pantocsekiella K.T. Kiss & Ács, 2016	9480241	www.gbif.org/species/9480241	1	scaled.circles
-368664	Charophyta Cavalier-Smith	7819616	www.gbif.org/species/7819616	51503	orangeHeat.point
+368664	Charophyta Cavalier-Smith	7819616	www.gbif.org/species/7819616	51513	orangeHeat.point
 1634603	Zygnematophyceae Round ex Guiry	333	www.gbif.org/species/333	5353	scaled.circles
 1634604	Zygnematophycidae Melkonian, Gontcharov & Marin, 2019	333	www.gbif.org/species/333	5353	scaled.circles
 886288	Desmidiales C.E.Bessey, 1907	12255478	www.gbif.org/species/12255478	5624	scaled.circles
@@ -6477,20 +6477,20 @@ taxon_id	scientific_name_authority	usage_key	url	n_nordic_occurrences	point_styl
 1651912	Paraphysomonadales Cavalier-Smith & al., 1996	7073563	www.gbif.org/species/7073563	22493	scaled.circles
 1652114	Chrysosphaerellaceae Kapustin, 2022	11767834	www.gbif.org/species/11767834	0	scaled.circles
 600916	Chromophysomonas H.R.Preisig & D.J.Hibberd, 1982	3195182	www.gbif.org/species/3195182	0	scaled.circles
-1741194	Negibacteria Cavalier-Smith, 2002	3	www.gbif.org/species/3	712875	orangeHeat.point
-368682	Oscillatoriophycidae Oscillatoriophycidae	68	www.gbif.org/species/68	96131	orangeHeat.point
+1741194	Negibacteria Cavalier-Smith, 2002	3	www.gbif.org/species/3	712876	orangeHeat.point
+368682	Oscillatoriophycidae Oscillatoriophycidae	68	www.gbif.org/species/68	96132	orangeHeat.point
 369960	Octactis J.Schiller, 1926	3194900	www.gbif.org/species/3194900	7978	scaled.circles
 603355	Lychaete J.Agardh, 1846	2644499	www.gbif.org/species/2644499	516	scaled.circles
 1304856	Fucophycidae Cavalier-Smith, 1986	7073593	www.gbif.org/species/7073593	242299	orangeHeat.point
 1652944	Scytosiphoneae W.J.E.Santiañez, 2018	8501	www.gbif.org/species/8501	2371	scaled.circles
 1310310	Planosiphon McDevit & G.W.Saunders, 2017	10472905	www.gbif.org/species/10472905	1	scaled.circles
 1312598	Rosenvingiellopsis Heesch, M.Pazoutová & Rindi, 2016	9916441	www.gbif.org/species/9916441	3	scaled.circles
-1653506	Coleofasciculales Strunecky & Mares, 2023	68	www.gbif.org/species/68	96131	orangeHeat.point
+1653506	Coleofasciculales Strunecky & Mares, 2023	68	www.gbif.org/species/68	96132	orangeHeat.point
 1653530	Wilmottiaceae Strunecky & Mares, 2023	12199575	www.gbif.org/species/12199575	39	scaled.circles
 1313612	Anagnostidinema Strunecký et al., 2017	9702420	www.gbif.org/species/9702420	35	scaled.circles
 591192	Biddulphianae NA	7947184	www.gbif.org/species/7947184	371357	orangeHeat.point
 1341820	Chaetophoropsis B.Wen Liu, Qian Xiong, X.Dong Liu, Z.Yu Hu & G.Xing Liu, 2019	10195594	www.gbif.org/species/10195594	172	scaled.circles
-1648767	Prasinophytina Round, 1963	36	www.gbif.org/species/36	154879	orangeHeat.point
+1648767	Prasinophytina Round, 1963	36	www.gbif.org/species/36	154889	orangeHeat.point
 886257	Chlorodendrophyceae Massjuk, 2006	9397464	www.gbif.org/species/9397464	12	scaled.circles
 886274	Pyramimonadophyceae Moestrup & Daugbjerg, 2019	9693427	www.gbif.org/species/9693427	17	scaled.circles
 1356530	Potamolinea M.D.Martins & L.H.Z.Branco, 2016	9851209	www.gbif.org/species/9851209	1	scaled.circles
@@ -6499,9 +6499,9 @@ taxon_id	scientific_name_authority	usage_key	url	n_nordic_occurrences	point_styl
 1359178	Apocalathium Craveiro, Daugbjerg, Moestrup & Calado, 2016	10097371	www.gbif.org/species/10097371	4295	scaled.circles
 1307217	Kryptoperidiniaceae Er.Lindemann, 1925	10390825	www.gbif.org/species/10390825	13	scaled.circles
 1359181	Unruhdinium Gottschling, 2017	10292379	www.gbif.org/species/10292379	0	scaled.circles
-1731727	Charineae Feist-Castel & N.Grambast, 1991	626	www.gbif.org/species/626	39591	orangeHeat.point
-1731806	Charoideae A.Braun, 1897	8782	www.gbif.org/species/8782	39587	orangeHeat.point
-493997	Chareae Ganterer, 1847	8782	www.gbif.org/species/8782	39587	orangeHeat.point
+1731727	Charineae Feist-Castel & N.Grambast, 1991	626	www.gbif.org/species/626	39600	orangeHeat.point
+1731806	Charoideae A.Braun, 1897	8782	www.gbif.org/species/8782	39596	orangeHeat.point
+493997	Chareae Ganterer, 1847	8782	www.gbif.org/species/8782	39596	orangeHeat.point
 582177	Euglenoidea NA	7391750	www.gbif.org/species/7391750	9689	scaled.circles
 593330	Euglenoidea incertae sedis NA	7391750	www.gbif.org/species/7391750	9689	scaled.circles
 143793	Monostromataceae Kunieda, 1934	8826	www.gbif.org/species/8826	3318	scaled.circles
@@ -6513,7 +6513,7 @@ taxon_id	scientific_name_authority	usage_key	url	n_nordic_occurrences	point_styl
 1368612	Torodiniales Boutrup, Moestrup & Daugbjerg, 2016	9049014	www.gbif.org/species/9049014	384568	orangeHeat.point
 1368613	Kapelodiniaceae Boutrup, Moestrup & Daugbjerg, 2016	10782259	www.gbif.org/species/10782259	1	scaled.circles
 1368614	Kapelodinium Boutrup, Moestrup & Daugbjerg, 2016	10951826	www.gbif.org/species/10951826	1	scaled.circles
-368681	Nostocophycidae Hoffmann, Komárek & Kastovsky, 2005	68	www.gbif.org/species/68	96131	orangeHeat.point
+368681	Nostocophycidae Hoffmann, Komárek & Kastovsky, 2005	68	www.gbif.org/species/68	96132	orangeHeat.point
 1653554	Heteroscytonemataceae G.B.McGregor & Sendall, 2018	12302616	www.gbif.org/species/12302616	0	scaled.circles
 1370482	Heteroscytonema G.B.McGregor & Sendall, 2018	11105196	www.gbif.org/species/11105196	0	scaled.circles
 603276	Barrufeta N.Sampedro & S.Fraga, 2011	8124109	www.gbif.org/species/8124109	11	scaled.circles
@@ -6539,13 +6539,13 @@ taxon_id	scientific_name_authority	usage_key	url	n_nordic_occurrences	point_styl
 1579323	Chordales Starko, H.Kawai, S.C.Lindstrom & Martone, 2019	7073593	www.gbif.org/species/7073593	242299	orangeHeat.point
 803	Acrosiphoniales NA	7590563	www.gbif.org/species/7590563	0	scaled.circles
 143662	Acrosiphoniaceae S. Jónsson, 1959	8825	www.gbif.org/species/8825	0	scaled.circles
-599727	Ulvophyceae incertae sedis NA	195	www.gbif.org/species/195	88290	orangeHeat.point
+599727	Ulvophyceae incertae sedis NA	195	www.gbif.org/species/195	88299	orangeHeat.point
 582434	Ventrata NA	7765738	www.gbif.org/species/7765738	93771	orangeHeat.point
 162991	Oligohymenophorea de Puytorac, Batisse, Bohatier, Corliss, Deroux, Didier, Dragesco, Fryd-Versavel, Grain, Grollere, Horasse, Mode, Laval, Roque, Savoie & Tuffrau, 1974	8006472	www.gbif.org/species/8006472	4705	scaled.circles
 414712	Scuticociliatia Small, 1967	7549732	www.gbif.org/species/7549732	488	scaled.circles
 341292	Philasterida Small, 1967	7828720	www.gbif.org/species/7828720	253	scaled.circles
 172295	Uronematidae Thompson, 1964	7840435	www.gbif.org/species/7840435	95	scaled.circles
-1651713	Sykidiales Darienko & al., 2021	195	www.gbif.org/species/195	88290	orangeHeat.point
+1651713	Sykidiales Darienko & al., 2021	195	www.gbif.org/species/195	88299	orangeHeat.point
 1651714	Sykidiacaeae Darienko & al., 2021	12202872	www.gbif.org/species/12202872	0	scaled.circles
 143718	Lithodermataceae Hauck, 1883	3236474	www.gbif.org/species/3236474	39	scaled.circles
 1649524	Ostreobineae Verbruggen & Guiry, 2017	8779	www.gbif.org/species/8779	642	scaled.circles
@@ -6555,7 +6555,7 @@ taxon_id	scientific_name_authority	usage_key	url	n_nordic_occurrences	point_styl
 1651917	Ishigeophycidae Silberfeld, F. Rousseau & Reviers, 2014	7073593	www.gbif.org/species/7073593	242299	orangeHeat.point
 368700	Ishigeales G.Y.Cho & S.M.Boo, 2004	7713713	www.gbif.org/species/7713713	0	scaled.circles
 1652945	Piliniaceae H.Kawai, T.Hanyuda & E.C.Henry, 2022	12172697	www.gbif.org/species/12172697	0	scaled.circles
-368662	Biliphyta NA	6	www.gbif.org/species/6	43375025	orangeHeat.point
+368662	Biliphyta NA	6	www.gbif.org/species/6	43385467	orangeHeat.point
 852	Rhodophyta Wettstein, 1901	106	www.gbif.org/species/106	355407	orangeHeat.point
 1309276	Proteorhodophytina Muñoz-Gómez, Mejía-Franco, Durnin, Colp, Grisdale, J.M.Archibald & Slamovits, 2017	106	www.gbif.org/species/106	355407	orangeHeat.point
 368671	Rhodellophyceae Cavalier-Smith, 1998	343	www.gbif.org/species/343	86	scaled.circles
@@ -6582,10 +6582,10 @@ taxon_id	scientific_name_authority	usage_key	url	n_nordic_occurrences	point_styl
 1653557	Nodulariaceae Elenkin, 1916	12285078	www.gbif.org/species/12285078	16	scaled.circles
 1653503	Chroococcidiopsidales J.Komárek, J.Kastovsky, J.Mares & J.R.Johansen, 2014	11025893	www.gbif.org/species/11025893	14	scaled.circles
 1653528	Aliterellaceae J.Rigonato & al., 2016	12334434	www.gbif.org/species/12334434	0	scaled.circles
-493819	Synechococcophycidae L.Hoffmann, J.Komárek & J.Kastovsky, 2005	68	www.gbif.org/species/68	96131	orangeHeat.point
+493819	Synechococcophycidae L.Hoffmann, J.Komárek & J.Kastovsky, 2005	68	www.gbif.org/species/68	96132	orangeHeat.point
 1653573	Coelosphaeriaceae Elenkin	9590972	www.gbif.org/species/9590972	3036	scaled.circles
 1653541	Trichocoleusaceae T.Mai & J.R.Johansen, 2018	10654179	www.gbif.org/species/10654179	30	scaled.circles
-1653514	Gomontiellales Strunecky & Mares, 2023	68	www.gbif.org/species/68	96131	orangeHeat.point
+1653514	Gomontiellales Strunecky & Mares, 2023	68	www.gbif.org/species/68	96132	orangeHeat.point
 573262	Gomontiellaceae Elenkin ex Geitler, 1942	7112	www.gbif.org/species/7112	11	scaled.circles
 836364	Tolypothrichaceae Hauer, Bohunická, J.R.Johansen Mares & Berrendero-Gomez, 2014	7602012	www.gbif.org/species/7602012	1309	scaled.circles
 604830	Lepidochromonas Kristiansen, 1980	6789199	www.gbif.org/species/6789199	105	scaled.circles
@@ -6643,7 +6643,7 @@ taxon_id	scientific_name_authority	usage_key	url	n_nordic_occurrences	point_styl
 177871	Phaeodactylineae Lewin, 1958	7428022	www.gbif.org/species/7428022	443	scaled.circles
 149188	Synedra acus Kützing, 1844	3192714	www.gbif.org/species/3192714	3	scaled.circles
 591175	Pseudodendromonida NA	8158183	www.gbif.org/species/8158183	1725	scaled.circles
-1653516	Nodosilineales Strunecky & Mares, 2023	68	www.gbif.org/species/68	96131	orangeHeat.point
+1653516	Nodosilineales Strunecky & Mares, 2023	68	www.gbif.org/species/68	96132	orangeHeat.point
 1653542	Cymatolegaceae Strunecky & Mares, 2023	12230548	www.gbif.org/species/12230548	2173	scaled.circles
 1771400	Pseudoralfsiaceae Parente, Fletcher & G.W.Saunders, 2020	11125971	www.gbif.org/species/11125971	19	scaled.circles
 1771401	Pseudoralfsia Parente, Fletcher & G.W.Saunders, 2020	11269900	www.gbif.org/species/11269900	19	scaled.circles
@@ -6675,14 +6675,14 @@ taxon_id	scientific_name_authority	usage_key	url	n_nordic_occurrences	point_styl
 1649049	Schroederiaceae Fuciková, P.O.Lewis & L.A.Lewis, 2014	9612693	www.gbif.org/species/9612693	11	scaled.circles
 599718	Sphaerocystidaceae Fott ex P.M.Tsarenko, 1990	6784762	www.gbif.org/species/6784762	168	scaled.circles
 1649155	Makinoelloideae Stenclová, 2017	4684	www.gbif.org/species/4684	5000	scaled.circles
-1738660	Pelonematales Skuja, 1956	68	www.gbif.org/species/68	96131	orangeHeat.point
+1738660	Pelonematales Skuja, 1956	68	www.gbif.org/species/68	96132	orangeHeat.point
 1738661	Pelonemataceae Skuja, 1956	3237617	www.gbif.org/species/3237617	1	scaled.circles
 249690	Achroonema Skuja, 1948	4382345	www.gbif.org/species/4382345	1	scaled.circles
 249728	Pavlovophycidae Cavalier-Smith, 1986	7773832	www.gbif.org/species/7773832	315	scaled.circles
 101182	Pelagostrobilidium Petz, Song & Wilbert, 1995	7623276	www.gbif.org/species/7623276	799	scaled.circles
 1308659	Cyanothecaceae J.Komárek, J.Kastovsky, J.Mares & J.R.Johansen, 2014	9253558	www.gbif.org/species/9253558	16	scaled.circles
 231790	Lepidodinium Watanabe, Suda, Inouye, Sawaguchi & Chihara, 1990	8415132	www.gbif.org/species/8415132	337	scaled.circles
-1653510	Geitlerinematales Strunecky & Mares, 2023	68	www.gbif.org/species/68	96131	orangeHeat.point
+1653510	Geitlerinematales Strunecky & Mares, 2023	68	www.gbif.org/species/68	96132	orangeHeat.point
 1653532	Geitlerinemataceae Strunecky & Mares, 2023	12190868	www.gbif.org/species/12190868	0	scaled.circles
 1649443	Halimedineae Hillis-Colinvaux ex Verbruggen & Guiry, 2017	8778	www.gbif.org/species/8778	1	scaled.circles
 599637	Asteromonadaceae Péterfi, 1979	6784765	www.gbif.org/species/6784765	11	scaled.circles
@@ -6694,7 +6694,7 @@ taxon_id	scientific_name_authority	usage_key	url	n_nordic_occurrences	point_styl
 292899	Balanion Wulff, 1919	2652701	www.gbif.org/species/2652701	188	scaled.circles
 425490	Urotrichidae Small & Lynn, 1985	8240042	www.gbif.org/species/8240042	387	scaled.circles
 425626	Urotricha Claparède & Lachmann, 1959	2652073	www.gbif.org/species/2652073	384	scaled.circles
-582186	Percolatea NA	7	www.gbif.org/species/7	120467	orangeHeat.point
+582186	Percolatea NA	7	www.gbif.org/species/7	120487	orangeHeat.point
 582232	Percolomonadida Cavalier-Smith, 1993	12241061	www.gbif.org/species/12241061	2	scaled.circles
 1736277	Percolomonadidae Cavalier-Smith, 1993	12241061	www.gbif.org/species/12241061	2	scaled.circles
 562592	Metamonada NA	7813133	www.gbif.org/species/7813133	252	scaled.circles
@@ -6705,7 +6705,7 @@ taxon_id	scientific_name_authority	usage_key	url	n_nordic_occurrences	point_styl
 562616	Hexamitidae Kent, 1880	5858	www.gbif.org/species/5858	78	scaled.circles
 447753	Monomorphina Mereschkowsky, 1877	3209622	www.gbif.org/species/3209622	12	scaled.circles
 450728	Coscinodiscopsis Sar, Sunesen & Hinz, 2008	7867479	www.gbif.org/species/7867479	0	scaled.circles
-1737174	Nitelleae (Leonhardi) Zaneveld, 1940	8782	www.gbif.org/species/8782	39587	orangeHeat.point
+1737174	Nitelleae (Leonhardi) Zaneveld, 1940	8782	www.gbif.org/species/8782	39596	orangeHeat.point
 1307156	Gonatozygaceae G.S.West, 1927	7484177	www.gbif.org/species/7484177	18	scaled.circles
 503328	Prosoaulax (F.Stein) Calado & Moestrup, 2005	4895438	www.gbif.org/species/4895438	0	scaled.circles
 1306574	Uronemataceae Caisová, Pérez Reyes, Cruz Álamo, Martel Quintana, Surek & Melkonian, 2015	9723622	www.gbif.org/species/9723622	1	scaled.circles
@@ -6720,9 +6720,9 @@ taxon_id	scientific_name_authority	usage_key	url	n_nordic_occurrences	point_styl
 1293740	Commatiidae Cavalier-Smith, 1997	9989396	www.gbif.org/species/9989396	57	scaled.circles
 105499	Codosigidae NA	3236029	www.gbif.org/species/3236029	513	scaled.circles
 1651909	Chrysosaccales Bourrelly	7073563	www.gbif.org/species/7073563	22493	scaled.circles
-1731617	Spironematellophyta Doweld, 2001	7	www.gbif.org/species/7	120467	orangeHeat.point
-1731618	Spironematellophyceae Doweld, 2001	7	www.gbif.org/species/7	120467	orangeHeat.point
-1731620	Spironematellales Doweld, 2001	7	www.gbif.org/species/7	120467	orangeHeat.point
+1731617	Spironematellophyta Doweld, 2001	7	www.gbif.org/species/7	120487	orangeHeat.point
+1731618	Spironematellophyceae Doweld, 2001	7	www.gbif.org/species/7	120487	orangeHeat.point
+1731620	Spironematellales Doweld, 2001	7	www.gbif.org/species/7	120487	orangeHeat.point
 1731621	Paramastigaceae Skuja, 1948	7989943	www.gbif.org/species/7989943	6	scaled.circles
 1653575	Prochlorococcaceae Komárek & Strunecky, 2020	12215428	www.gbif.org/species/12215428	153	scaled.circles
 292726	Lioloma Hasle, 1997	7772373	www.gbif.org/species/7772373	2	scaled.circles
@@ -6763,7 +6763,7 @@ taxon_id	scientific_name_authority	usage_key	url	n_nordic_occurrences	point_styl
 601647	Glochiococcus G.B.De Toni, 1888	2641342	www.gbif.org/species/2641342	0	scaled.circles
 601690	Heimansia Coesel, 1993	2647161	www.gbif.org/species/2647161	0	scaled.circles
 602002	Pseudodidymocystis Hegewald & Deason, 1989	2640467	www.gbif.org/species/2640467	4	scaled.circles
-1653512	Gloeobacterophycidae Hoffmann, Komárek & Kastovsky, 2005	68	www.gbif.org/species/68	96131	orangeHeat.point
+1653512	Gloeobacterophycidae Hoffmann, Komárek & Kastovsky, 2005	68	www.gbif.org/species/68	96132	orangeHeat.point
 1653511	Gloeobacterales Cavalier-Smith, 2002	10703807	www.gbif.org/species/10703807	54	scaled.circles
 599617	Gloeobacteraceae Komárek & Anagnostidis, 1995	7105	www.gbif.org/species/7105	34	scaled.circles
 601242	Gloeobacter Rippka, Waterbury & Cohen-Bazire, 1974	3216318	www.gbif.org/species/3216318	18	scaled.circles
@@ -6778,7 +6778,7 @@ taxon_id	scientific_name_authority	usage_key	url	n_nordic_occurrences	point_styl
 576688	Enallax Pascher, 1943	2641038	www.gbif.org/species/2641038	6	scaled.circles
 603170	Rusalka Nakada, 2008	4859518	www.gbif.org/species/4859518	13	scaled.circles
 576815	Palatinus S.C.Craveiro, A.J.Calado, N.Daugbjerg & Moestrup, 2009	8123080	www.gbif.org/species/8123080	3	scaled.circles
-1639516	Watanabeales Shuyin Li, Benwen Liu, Huan Zhu, Zhengyu Hu & Guoxiang Liu, 2021	332	www.gbif.org/species/332	11358	scaled.circles
+1639516	Watanabeales Shuyin Li, Benwen Liu, Huan Zhu, Zhengyu Hu & Guoxiang Liu, 2021	332	www.gbif.org/species/332	11359	scaled.circles
 1639517	Watanabeaceae Shuyin Li, Benwen Liu, Huan Zhu, Zhengyu Hu & Guoxiang Liu, 2021	12228337	www.gbif.org/species/12228337	1	scaled.circles
 601459	Chloroidium Nadson, 1906	2641521	www.gbif.org/species/2641521	19	scaled.circles
 603234	Pectinodesmus Hegewald, Wolf, Keller, Friedl & Krienitz, 2010	6784786	www.gbif.org/species/6784786	1	scaled.circles
@@ -6793,8 +6793,8 @@ taxon_id	scientific_name_authority	usage_key	url	n_nordic_occurrences	point_styl
 603185	Tyrannodinium A.J.Calado, S.C.Craveiro, N.Daugbjerg & Ø.Moestrup, 2009	9456130	www.gbif.org/species/9456130	4	scaled.circles
 603302	Opisthoaulax Calado, 2011	7499200	www.gbif.org/species/7499200	0	scaled.circles
 601390	Balticola Droop, 1956	2638808	www.gbif.org/species/2638808	9	scaled.circles
-4	Fungi NA	5	www.gbif.org/species/5	7811460	orangeHeat.point
-177372	Fungi incertae sedis NA	5	www.gbif.org/species/5	7811460	orangeHeat.point
+4	Fungi NA	5	www.gbif.org/species/5	7814967	orangeHeat.point
+177372	Fungi incertae sedis NA	5	www.gbif.org/species/5	7814967	orangeHeat.point
 603856	Asterothrix Kützing, 1843	6319762	www.gbif.org/species/6319762	0	scaled.circles
 600843	Onychonema G.C.Wallich, 1860	2647112	www.gbif.org/species/2647112	1	scaled.circles
 601993	Protodinium Lohmann, 1908	8230971	www.gbif.org/species/8230971	1300	scaled.circles

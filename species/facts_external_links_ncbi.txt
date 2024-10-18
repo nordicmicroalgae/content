@@ -369,6 +369,7 @@ taxon_id	ncbi_id	url
 1382182	3086146	https://www.ncbi.nlm.nih.gov/datasets/taxonomy/3086146
 1410	29178	https://www.ncbi.nlm.nih.gov/datasets/taxonomy/29178
 1424676	2267595	https://www.ncbi.nlm.nih.gov/datasets/taxonomy/2267595
+1432706	188368	https://www.ncbi.nlm.nih.gov/datasets/taxonomy/188368
 143666	3127	https://www.ncbi.nlm.nih.gov/datasets/taxonomy/3127
 143667	33105	https://www.ncbi.nlm.nih.gov/datasets/taxonomy/33105
 143668	35432	https://www.ncbi.nlm.nih.gov/datasets/taxonomy/35432

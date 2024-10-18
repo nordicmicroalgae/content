@@ -5544,6 +5544,16 @@ worms	Vaucheria brevicaulis	Blum, 1951	555953	3201037
 worms	Vaucheria hamata	Walz, 1866	555953	5423822
 worms	Vaucheria mulleola subsp. calida	T.A.Christensen, 1987	555953	8134656
 worms	Vaucheria pseudohamata	Prescott, 1953	555953	3201037
+worms	Bacillaria paradoxa	J.F.Gmelin, 1791	558243	8428970
+worms	Bacillaria paxillifer	(O.F.Müller) T.Marsson, 1901	558243	8394243
+worms	Diatoma paxilliferum	(O.F. Müller) Brébisson in Brébisson & Godey, 1838	558243	7404871
+worms	Homoeocladia paxillifer	(O.F.Müller) Elmore, 1921	558243	7905378
+worms	Nitzschia paradoxa	(J.F.Gmelin) Grunow, 1880	558243	8566174
+worms	Nitzschia paxillifer	(O.F.Müller) Heiberg, 1863	558243	8104532
+worms	Oscillaria paxillifera	(O.F.Müller) Schrank, 1823	558243	7595228
+worms	Oscillatoria paxillifer	(O.F.Müller) Schrank, 1823	558243	7627581
+worms	Oscillatoria paxillifera	(O.F.Müller) Schrank ex Gomont, 1892	558243	7561033
+worms	Vibrio paxillifer	O.F.Müller, 1786	558243	7786923
 worms	Staurogenia fenestrata	Schmidle, 1897	558759	2641023
 worms	Microsporales	Bohlin, 1901	558965	833
 worms	Cymbopleura	(K. Krammer) K. Krammer, 1997	559270	7907732
@@ -6230,7 +6240,6 @@ worms	Cosmarium pyramidatum var. transitorium	(Heimerl) Irénée-Maire, 1938	608
 worms	Ursinella pyramidata	(Brébisson) Kuntze	608893	3229588
 worms	Cosmarium meneghinii var. regnellii	(Wille) Playfair	608901	5274022
 worms	Ursinella regnellii	(Wille) Kuntze	608901	8058033
-worms	Ursinella subcostata	(Nordstedt) Kuntze	608917	3229588
 worms	Ursinella subprotumida	(Nordstedt) Kuntze	608924	3229588
 worms	Cosmarium tinctum f. tinctum	Ralfs, 1848	608932	7230207
 worms	Cosmarium tinctum var. aggregatum	Brébisson, 1856	608932	8352428

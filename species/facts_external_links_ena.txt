@@ -369,6 +369,7 @@ taxon_id	ncbi_id	url
 1382182	3086146	www.ebi.ac.uk/ena/browser/view/3086146
 1410	29178	www.ebi.ac.uk/ena/browser/view/29178
 1424676	2267595	www.ebi.ac.uk/ena/browser/view/2267595
+1432706	188368	www.ebi.ac.uk/ena/browser/view/188368
 143666	3127	www.ebi.ac.uk/ena/browser/view/3127
 143667	33105	www.ebi.ac.uk/ena/browser/view/33105
 143668	35432	www.ebi.ac.uk/ena/browser/view/35432

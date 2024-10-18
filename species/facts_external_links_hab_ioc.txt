@@ -7,13 +7,12 @@ Alexandrium ostenfeldii	109712	https://www.marinespecies.org/hab/aphia.php?p=tax
 Alexandrium pseudogonyaulax	109713	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=109713
 Alexandrium tamarense	109714	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=109714
 Amphidinium carterae	109723	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=109723
-Amphidinium klebsii	109735	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=109735
-Amphidinium operculatum	109745	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=109745
 Anabaena cylindrica	177649	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=177649
 Anabaena lapponica	609454	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=609454
 Anabaenopsis arnoldii	609458	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=609458
 Anabaenopsis milleri	618706	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=618706
 Anagnostidinema amphibium	1313613	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=1313613
+Aphanizomenon flos-aquae	248099	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=248099
 Aphanizomenon gracile	248100	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=248100
 Azadinium spinosum	391509	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=391509
 Blennothrix lyngbyacea	213723	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=213723
@@ -34,6 +33,7 @@ Dinophysis ovum	646201	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&
 Dinophysis sacculus	232261	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=232261
 Dinophysis tripos	109662	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=109662
 Dolichospermum circinale	699631	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=699631
+Dolichospermum flos-aquae	1637127	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=1637127
 Dolichospermum lemmermannii	625374	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=625374
 Dolichospermum macrosporum	625403	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=625403
 Dolichospermum mendotae	625404	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=625404
@@ -54,6 +54,7 @@ Lingulodinium polyedra	233592	https://www.marinespecies.org/hab/aphia.php?p=taxd
 Lyngbya majuscula	660754	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=660754
 Microcystis aeruginosa	146558	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=146558
 Microcystis botrys	578236	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=578236
+Microcystis flos-aquae	146560	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=146560
 Microcystis ichthyoblabe	177245	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=177245
 Microcystis viridis	177400	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=177400
 Microcystis wesenbergii	146561	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=146561

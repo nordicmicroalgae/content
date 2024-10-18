@@ -563,7 +563,7 @@ taxon_id	ab_id	scientific_name	kingdom	phylum	class	order	family	genus	species	t
 1380415	170357	Biecheleria ordinata	Chromista	Dinoflagellata	Dinophyceae	Suessiales	Suessiaceae	Biecheleria	ordinata	species	https://www.algaebase.org/search/species/detail/?species_id=170357
 1380416	170359	Jadwigia hiemalis	Chromista	Dinoflagellata	Dinophyceae	Gonyaulacales	Tovelliaceae	Jadwigia	hiemalis	species	https://www.algaebase.org/search/species/detail/?species_id=170359
 1380418	170361	Jadwigia neglecta	Chromista	Dinoflagellata	Dinophyceae	Gonyaulacales	Tovelliaceae	Jadwigia	neglecta	species	https://www.algaebase.org/search/species/detail/?species_id=170361
-1380951	167004	Neglectella solitaria	Plantae	Chlorophyta	Trebouxiophyceae	Chlorellales	Eremosphaeraceae	Neglectella	solitaria	species	https://www.algaebase.org/search/species/detail/?species_id=167004
+1380951	167004	Neglectella solitaria	Plantae	Chlorophyta	Trebouxiophyceae	Chlorellales	Oocystaceae	Neglectella	solitaria	species	https://www.algaebase.org/search/species/detail/?species_id=167004
 1381154	154955	Tripos teres	Chromista	Dinoflagellata	Dinophyceae	Gonyaulacales	Ceratiaceae	Tripos	teres	species	https://www.algaebase.org/search/species/detail/?species_id=154955
 1381873	170281	Parvodinium inconspicuum var. armatum	Chromista	Dinoflagellata	Dinophyceae	Peridiniales	Peridiniopsidaceae	Parvodinium	inconspicuum	variety	https://www.algaebase.org/search/species/detail/?species_id=170281
 1381881	170321	Apocalathium aciculiferum var. inerme	Chromista	Dinoflagellata	Dinophyceae	Thoracosphaerales	Thoracosphaeraceae	Apocalathium	aciculiferum	variety	https://www.algaebase.org/search/species/detail/?species_id=170321
@@ -3012,7 +3012,6 @@ taxon_id	ab_id	scientific_name	kingdom	phylum	class	order	family	genus	species	t
 572041	32757	Gymnodinium triceratium	Chromista	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Gymnodinium	triceratium	species	https://www.algaebase.org/search/species/detail/?species_id=32757
 572042	47137	Gyromitus	Plantae	Chlorophyta	Pyramimonadophyceae	Pyramimonadales	Polyblepharidaceae	Gyromitus		genus	https://www.algaebase.org/search/genus/detail/?genus_id=47137
 572043	62061	Gyromitus cordiformis	Plantae	Chlorophyta	Pyramimonadophyceae	Pyramimonadales	Polyblepharidaceae	Gyromitus	cordiformis	species	https://www.algaebase.org/search/species/detail/?species_id=62061
-572048	80283	Kephyrion boreale	Chromista	Heterokontophyta	Chrysophyceae	Chromulinales	Chrysococcaceae	Kephyrion	boreale	species	https://www.algaebase.org/search/species/detail/?species_id=80283
 572049	32844	Kephyrion littorale	Chromista	Heterokontophyta	Chrysophyceae	Chromulinales	Chrysococcaceae	Kephyrion	littorale	species	https://www.algaebase.org/search/species/detail/?species_id=32844
 572050	52834	Kephyrion sitta	Chromista	Heterokontophyta	Chrysophyceae	Chromulinales	Chrysococcaceae	Kephyrion	sitta	species	https://www.algaebase.org/search/species/detail/?species_id=52834
 572052	44263	Nephrochlamys	Plantae	Chlorophyta	Trebouxiophyceae	Chlorellales	Oocystaceae	Nephrochlamys		genus	https://www.algaebase.org/search/genus/detail/?genus_id=44263
@@ -3590,7 +3589,6 @@ taxon_id	ab_id	scientific_name	kingdom	phylum	class	order	family	genus	species	t
 608892	28566	Cosmarium pygmaeum	Plantae	Charophyta	Zygnematophyceae	Desmidiales	Desmidiaceae	Cosmarium	pygmaeum	species	https://www.algaebase.org/search/species/detail/?species_id=28566
 608893	28567	Cosmarium pyramidatum	Plantae	Charophyta	Zygnematophyceae	Desmidiales	Desmidiaceae	Cosmarium	pyramidatum	species	https://www.algaebase.org/search/species/detail/?species_id=28567
 608901	28618	Cosmarium regnellii	Plantae	Charophyta	Zygnematophyceae	Desmidiales	Desmidiaceae	Cosmarium	regnellii	species	https://www.algaebase.org/search/species/detail/?species_id=28618
-608917	155146	Cosmarium subcosmetum	Plantae	Charophyta	Zygnematophyceae	Desmidiales	Desmidiaceae	Cosmarium	subcosmetum	species	https://www.algaebase.org/search/species/detail/?species_id=155146
 608924	28669	Cosmarium subprotumidum	Plantae	Charophyta	Zygnematophyceae	Desmidiales	Desmidiaceae	Cosmarium	subprotumidum	species	https://www.algaebase.org/search/species/detail/?species_id=28669
 608932	28686	Cosmarium tinctum	Plantae	Charophyta	Zygnematophyceae	Desmidiales	Desmidiaceae	Cosmarium	tinctum	species	https://www.algaebase.org/search/species/detail/?species_id=28686
 608938	28700	Cosmarium tumidum	Plantae	Charophyta	Zygnematophyceae	Desmidiales	Desmidiaceae	Cosmarium	tumidum	species	https://www.algaebase.org/search/species/detail/?species_id=28700
@@ -5594,7 +5592,7 @@ taxon_id	ab_id	scientific_name	kingdom	phylum	class	order	family	genus	species	t
 1307073	52628	Speroidium	Chromista	Dinoflagellata	Dinophyceae	Thoracosphaerales	Pfiesteriaceae	Speroidium		genus	https://www.algaebase.org/search/genus/detail/?genus_id=52628
 603334	51289	Biecheleria	Chromista	Dinoflagellata	Dinophyceae	Suessiales	Suessiaceae	Biecheleria		genus	https://www.algaebase.org/search/genus/detail/?genus_id=51289
 602984	47617	Jadwigia	Chromista	Dinoflagellata	Dinophyceae	Gonyaulacales	Tovelliaceae	Jadwigia		genus	https://www.algaebase.org/search/genus/detail/?genus_id=47617
-601051	44262	Neglectella	Plantae	Chlorophyta	Trebouxiophyceae	Chlorellales	Eremosphaeraceae	Neglectella		genus	https://www.algaebase.org/search/genus/detail/?genus_id=44262
+601051	44262	Neglectella	Plantae	Chlorophyta	Trebouxiophyceae	Chlorellales	Oocystaceae	Neglectella		genus	https://www.algaebase.org/search/genus/detail/?genus_id=44262
 707634	51373	Parvodinium	Chromista	Dinoflagellata	Dinophyceae	Peridiniales	Peridiniopsidaceae	Parvodinium		genus	https://www.algaebase.org/search/genus/detail/?genus_id=51373
 1382178	52045	Lebouridinium	Chromista	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniales familia incertae sedis	Lebouridinium		genus	https://www.algaebase.org/search/genus/detail/?genus_id=52045
 144228	33125	Rhodella	Plantae	Rhodophyta	Rhodellophyceae	Glaucosphaerales	Glaucosphaeraceae	Rhodella		genus	https://www.algaebase.org/search/genus/detail/?genus_id=33125
