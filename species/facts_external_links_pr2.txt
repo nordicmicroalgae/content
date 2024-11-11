@@ -532,6 +532,8 @@ taxon_id	pr2_name	url
 232069	Mesodinium_rubrum	https://app.pr2-database.org/pr2-database/
 375969	Mesopedinella_arctica	https://app.pr2-database.org/pr2-database/
 375969	Mesopedinella_arctica:plas	https://app.pr2-database.org/pr2-database/
+610800	Mesostigma_viride	https://app.pr2-database.org/pr2-database/
+610800	Mesostigma_viride:plas	https://app.pr2-database.org/pr2-database/
 611219	Mesotaenium_chlamydosporum	https://app.pr2-database.org/pr2-database/
 611220	Mesotaenium_endlicherianum	https://app.pr2-database.org/pr2-database/
 118058	Metopion_fluens	https://app.pr2-database.org/pr2-database/

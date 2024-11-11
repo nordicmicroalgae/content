@@ -269,6 +269,7 @@ taxon_id	scientific_name	valid_name	strain_name	strain_link	species	species_link
 149271	Coscinodiscus granii	Coscinodiscus granii	K-1831	https://norcca.scrol.net/strain/k-1831	Coscinodiscus granii	https://norcca.scrol.net/species/coscinodiscus-granii	Marine	k-1831
 149271	Coscinodiscus granii	Coscinodiscus granii	K-1832	https://norcca.scrol.net/strain/k-1832	Coscinodiscus granii	https://norcca.scrol.net/species/coscinodiscus-granii	Marine	k-1832
 149271	Coscinodiscus granii	Coscinodiscus granii	K-1833	https://norcca.scrol.net/strain/k-1833	Coscinodiscus granii	https://norcca.scrol.net/species/coscinodiscus-granii	Marine	k-1833
+149271	Coscinodiscus granii	Coscinodiscus granii	K-1834	https://norcca.scrol.net/strain/k-1834	Coscinodiscus granii	https://norcca.scrol.net/species/coscinodiscus-granii	Marine	k-1834
 373972	Microthamnion kuetzingianum	Microthamnion kuetzingianum	K-1856	https://norcca.scrol.net/strain/k-1856	Microthamnion kuetzingianum	https://norcca.scrol.net/species/microthamnion-kuetzingianum	Freshwater	k-1856
 373972	Microthamnion kuetzingianum	Microthamnion kuetzingianum	K-1857	https://norcca.scrol.net/strain/k-1857	Microthamnion kuetzingianum	https://norcca.scrol.net/species/microthamnion-kuetzingianum	Freshwater	k-1857
 571647	Synura petersenii	Synura petersenii	K-1875	https://norcca.scrol.net/strain/k-1875	Synura petersenii	https://norcca.scrol.net/species/synura-petersenii	Freshwater	k-1875
@@ -988,9 +989,7 @@ taxon_id	scientific_name	valid_name	strain_name	strain_link	species	species_link
 148912	Thalassiosira	Thalassiosira	UIO 417	https://norcca.scrol.net/strain/uio-417	Thalassiosira sp.	https://norcca.scrol.net/species/thalassiosira-sp	Marine plankton	uio-417
 148912	Thalassiosira	Thalassiosira	UIO 418	https://norcca.scrol.net/strain/uio-418	Thalassiosira sp.	https://norcca.scrol.net/species/thalassiosira-sp	Marine plankton	uio-418
 148985	Chaetoceros	Chaetoceros	UIO 419	https://norcca.scrol.net/strain/uio-419	Chaetoceros sp.	https://norcca.scrol.net/species/chaetoceros-sp	Marine plankton	uio-419
-149038	Leptocylindrus	Leptocylindrus	UIO 420	https://norcca.scrol.net/strain/uio-420	Leptocylindrus sp.	https://norcca.scrol.net/species/leptocylindrus-sp-0	Marine plankton	uio-420
 149219	Chaetoceros cf. debilis	Chaetoceros debilis	UIO 421	https://norcca.scrol.net/strain/uio-421	Chaetoceros cf. debilis	https://norcca.scrol.net/species/chaetoceros-cf-debilis	Marine plankton	uio-421
-149038	Leptocylindrus	Leptocylindrus	UIO 422	https://norcca.scrol.net/strain/uio-422	Leptocylindrus sp.	https://norcca.scrol.net/species/leptocylindrus-sp-0	Marine plankton	uio-422
 149291	Chaetoceros cf. brevis	Chaetoceros brevis	UIO 423	https://norcca.scrol.net/strain/uio-423	Chaetoceros cf. brevis	https://norcca.scrol.net/species/chaetoceros-cf-brevis	Marine plankton	uio-423
 148985	Chaetoceros	Chaetoceros	UIO 424	https://norcca.scrol.net/strain/uio-424	Chaetoceros sp.	https://norcca.scrol.net/species/chaetoceros-sp	Marine plankton	uio-424
 149150	Nitzschia longissima / Cylindrotheca closterium	Nitzschia longissima	UIO 425	https://norcca.scrol.net/strain/uio-425	Nitzschia longissima / Cylindrotheca closterium	https://norcca.scrol.net/species/nitzschia-longissima-cylindrotheca-closterium	Marine plankton	uio-425
@@ -1063,29 +1062,4 @@ taxon_id	scientific_name	valid_name	strain_name	strain_link	species	species_link
 134529	Pyramimonas	Pyramimonas	UIO 571	https://norcca.scrol.net/strain/uio-571	Pyramimonas sp.	https://norcca.scrol.net/species/pyramimonas-sp	Marine plankton	uio-571
 134533	Micromonas 	Micromonas	UIO 574	https://norcca.scrol.net/strain/uio-574	Micromonas  sp.	https://norcca.scrol.net/species/micromonas-sp-0	Melt pond on ice flake	uio-574
 134533	Micromonas 	Micromonas	UIO 576	https://norcca.scrol.net/strain/uio-576	Micromonas  sp.	https://norcca.scrol.net/species/micromonas-sp-0	Marine plankton, 0,5 m under ice flake	uio-576
-149038	Leptocylindrus	Leptocylindrus	UIO 577	https://norcca.scrol.net/strain/uio-577	Leptocylindrus sp.	https://norcca.scrol.net/species/leptocylindrus-sp-0	Marine plankton, 0,5 m under ice flake	uio-577
-149038	Leptocylindrus	Leptocylindrus	UIO 578	https://norcca.scrol.net/strain/uio-578	Leptocylindrus sp.	https://norcca.scrol.net/species/leptocylindrus-sp-0	Marine plankton, 0,5 m under ice flake	uio-578
-149102	Thalassiosira gravida	Thalassiosira gravida	UIO 579	https://norcca.scrol.net/strain/uio-579	Thalassiosira gravida	https://norcca.scrol.net/species/thalassiosira-gravida	Marine plankton, 0,5 m under ice flake	uio-579
-149038	Leptocylindrus	Leptocylindrus	UIO 580	https://norcca.scrol.net/strain/uio-580	Leptocylindrus sp.	https://norcca.scrol.net/species/leptocylindrus-sp-0	Marine plankton, 0,5 m under ice flake	uio-580
-149102	Thalassiosira gravida	Thalassiosira gravida	UIO 581	https://norcca.scrol.net/strain/uio-581	Thalassiosira gravida	https://norcca.scrol.net/species/thalassiosira-gravida	Melt pond on ice flake	uio-581
-149102	Thalassiosira gravida	Thalassiosira gravida	UIO 582	https://norcca.scrol.net/strain/uio-582	Thalassiosira gravida	https://norcca.scrol.net/species/thalassiosira-gravida	Melt pond on ice flake	uio-582
-162923	Bacterosira	Bacterosira	UIO 583	https://norcca.scrol.net/strain/uio-583	Bacterosira sp.	https://norcca.scrol.net/species/bacterosira-sp	Melt pond on ice flake	uio-583
-178207	Chaetoceros neogracilis	Chaetoceros neogracilis	UIO 584	https://norcca.scrol.net/strain/uio-584	Chaetoceros neogracilis	https://norcca.scrol.net/species/chaetoceros-neogracilis	Marine plankton	uio-584
-178207	Chaetoceros neogracilis	Chaetoceros neogracilis	UIO 585	https://norcca.scrol.net/strain/uio-585	Chaetoceros neogracilis	https://norcca.scrol.net/species/chaetoceros-neogracilis	Marine plankton	uio-585
-178207	Chaetoceros neogracilis	Chaetoceros neogracilis	UIO 586	https://norcca.scrol.net/strain/uio-586	Chaetoceros neogracilis	https://norcca.scrol.net/species/chaetoceros-neogracilis	Marine plankton	uio-586
-178207	Chaetoceros neogracilis	Chaetoceros neogracilis	UIO 587	https://norcca.scrol.net/strain/uio-587	Chaetoceros neogracilis	https://norcca.scrol.net/species/chaetoceros-neogracilis	Marine plankton	uio-587
-149102	Thalassiosira gravida	Thalassiosira gravida	UIO 588	https://norcca.scrol.net/strain/uio-588	Thalassiosira gravida	https://norcca.scrol.net/species/thalassiosira-gravida	Marine plankton	uio-588
-149102	Thalassiosira gravida	Thalassiosira gravida	UIO 589	https://norcca.scrol.net/strain/uio-589	Thalassiosira gravida	https://norcca.scrol.net/species/thalassiosira-gravida	Marine plankton	uio-589
-149622	Chaetoceros cinctus	Chaetoceros cinctus	UIO 590	https://norcca.scrol.net/strain/uio-590	Chaetoceros cinctus	https://norcca.scrol.net/species/chaetoceros-cinctus	Marine plankton	uio-590
-178207	Chaetoceros neogracilis	Chaetoceros neogracilis	UIO 591	https://norcca.scrol.net/strain/uio-591	Chaetoceros neogracilis	https://norcca.scrol.net/species/chaetoceros-neogracilis	Marine plankton	uio-591
-149102	Thalassiosira gravida	Thalassiosira gravida	UIO 592	https://norcca.scrol.net/strain/uio-592	Thalassiosira gravida	https://norcca.scrol.net/species/thalassiosira-gravida	Marine plankton	uio-592
-162823	Attheya septentrionalis	Chaetoceros septentrionalis	UIO 593	https://norcca.scrol.net/strain/uio-593	Attheya septentrionalis	https://norcca.scrol.net/species/attheya-septentrionalis	Ice flake	uio-593
-149038	Leptocylindrus	Leptocylindrus	UIO 595	https://norcca.scrol.net/strain/uio-595	Leptocylindrus sp.	https://norcca.scrol.net/species/leptocylindrus-sp-0	Marine plankton	uio-595
-149045	Nitzschia	Nitzschia	UIO 597	https://norcca.scrol.net/strain/uio-597	Nitzschia sp.	https://norcca.scrol.net/species/nitzschia-sp	Ice flake	uio-597
-841633	Shionodiscus bioculatus	Coscinodiscus bioculatus var. bioculatus	UIO 598	https://norcca.scrol.net/strain/uio-598	Shionodiscus bioculatus	https://norcca.scrol.net/species/shionodiscus-bioculatus	Marine plankton	uio-598
-178207	Chaetoceros neogracilis	Chaetoceros neogracilis	UIO 599	https://norcca.scrol.net/strain/uio-599	Chaetoceros neogracilis	https://norcca.scrol.net/species/chaetoceros-neogracilis	Ice flake	uio-599
-149038	Leptocylindrus	Leptocylindrus	UIO 604	https://norcca.scrol.net/strain/uio-604	Leptocylindrus sp.	https://norcca.scrol.net/species/leptocylindrus-sp-0	Ice flake	uio-604
-162823	Attheya septentrionalis	Chaetoceros septentrionalis	UIO 606	https://norcca.scrol.net/strain/uio-606	Attheya septentrionalis	https://norcca.scrol.net/species/attheya-septentrionalis	Marine plankton	uio-606
-162823	Attheya septentrionalis	Chaetoceros septentrionalis	UIO 607	https://norcca.scrol.net/strain/uio-607	Attheya septentrionalis	https://norcca.scrol.net/species/attheya-septentrionalis	Marine plankton	uio-607
-149038	Leptocylindrus	Leptocylindrus	UIO 608	https://norcca.scrol.net/strain/uio-608	Leptocylindrus sp.	https://norcca.scrol.net/species/leptocylindrus-sp-0	Marine plankton	uio-608
 625490	Thalassiosira hispida	Thalassiosira hispida	UIO 611	https://norcca.scrol.net/strain/uio-611	Thalassiosira hispida	https://norcca.scrol.net/species/thalassiosira-hispida	Marine plankton	uio-611

@@ -141,10 +141,6 @@ worms	Dinophysis lachmannii	Paulsen, 1949	109603	7688575
 worms	Dinophysis skagii	Paulsen, 1949	109603	7979019
 worms	Dinophysis diegensis	Kofoid, 1907	109612	7357607
 worms	Dinophysis homunculus	F.Stein, 1883	109612	7930624
-worms	Phalacroma contractum	Kofoid & Skogsberg, 1928	109614	7429949
-worms	Phalacroma ruudii	Braarud, 1935	109614	5424480
-worms	Prodinophysis contracta	(Kofoid & Skogsberg) Balech, 1944	109614	3205668
-worms	Prodinophysis ruudii	(Braarud) Loeblich III, 1965	109614	3205238
 worms	Dinophysis brevisulca	Tai & Skogsberg, 1934	109624	7619704
 worms	Dinophysis brevisulcus	Tai & Skogsberg, 1934	109624	7619704
 worms	Dinophysis intermedia	Pavillard, 1916	109624	7568871
@@ -2714,7 +2710,6 @@ worms	Cyclotella atomus var. atomus	Hustedt	148907	8173720
 worms	Coscinodiscus eccentricus var. fasciculata	Hustedt, 1928	148922	7760347
 worms	Coscinodiscus excentricus	Ehrenberg, 1840	148922	5421476
 worms	Cyclotella pseudonana	T.P.Chang	148934	3193222
-worms	Coscinodiscus rotulus	(A.F.Meunier) Cleve-Euler, 1951	148942	4376723
 worms	Aulacoseira granulata var. granulata		148961	4376656
 worms	Gaillonella granulata	Ehrenberg, 1843	148961	8150741
 worms	Gallionella granulata	Ehrenberg, 1843	148961	4376655
@@ -2722,8 +2717,6 @@ worms	Melosira granulata	(Ehrenberg) Ralfs, 1861	148961	9501075
 worms	Melosira granulata var. granulata		148961	7347648
 worms	Orthosira granulata	(Ehrenberg) Schonfeldt, 1907	148961	7831763
 worms	Coscinodiscophyceae	F.E. Round & R.M. Crawford	148971	98
-worms	Coscinodiscopsis commutata	(Grunow) E.A.Sar & I.Sunesen, 2008	148991	7674315
-worms	Coscinodiscus jonesianus var. commutatus	(Grunow) Hustedt, 1928	148991	11409468
 worms	Nitzschiaceae		149002	7700417
 worms	Ceratoneis	C.G. Ehrenberg, 1839	149003	8328560
 worms	Nitzschiella tenuirostris	Mereschkowsky, 1901	149004	7520949
@@ -2762,6 +2755,8 @@ worms	Thalassiothrix nitzschioides var. nitzschioides	(Grunow) Grunow in Van Heu
 worms	Aulacoseira distans var. distans	(Ehrenberg) Simonsen, 1979	149096	3192032
 worms	Gaillionella distans	Ehrenberg, 1836	149096	8286040
 worms	Melosira distans	(Ehrenberg) Kützing, 1844	149096	9612378
+worms	Coscinodiscus rotulus	(A.F.Meunier) Cleve-Euler, 1951	149102	4376723
+worms	Thalassiosira rotula	Meunier, 1910	149102	3193496
 worms	Coscinodiscus leptopus	Grunow, 1883	149103	3193433
 worms	Actinocyclus tessellatus	(Roper) Ralfs ex Pritchard, 1861	149105	5421587
 worms	Eupodiscus tesselatus	Roper, 1858	149105	8357442
@@ -3301,12 +3296,6 @@ worms	Euglena rubida	Mainx, 1928	163127	9428281
 worms	Euglena sanguinea var. furcata	Hübner, 1886	163127	3209756
 worms	Euglena viridis var. sanguinea	(Ehrenberg) Playfair	163127	11285233
 worms	Oscillaria sanguinea	(Ehrenberg) Itzigsohn & Rothe, 1852	163127	9255406
-worms	Coscinodiscopsis jonesiana	(Greville) E.A.Sar & I.Sunesen, 2008	163188	8143216
-worms	Coscinodiscus concinnus var. jonesiana	(Greville) Rattray, 1890	163188	9509953
-worms	Coscinodiscus jonesianus	(Greville) Ostenfeld, 1915	163188	5421527
-worms	Coscinodiscus jonesianus var. jonesianus	(Grun.) Hust., 1928	163188	7368712
-worms	Coscinodiscus jonesianus var. jonesianus	(Greville) Ostenfeld, 1915	163188	7368712
-worms	Coscinodiscus radiatus var. jonesianus	(Greville) Van Heurck, 1896	163188	9739245
 worms	Coscinodiscus asteromphalus var. subbulliens	(E. Jorgensen) Cleve-Euler, 1942	163191	7714808
 worms	Cyclotella socialis var. planctonica	(Brunnthaler) Cleve-Euler, 1951	163213	9597681
 worms	Cercaria viridis	O.F.Müller, 1786	163246	7427656
@@ -4262,9 +4251,6 @@ worms	Peridinium groenlandicum	Woloszynska, 1929	233295	4267810
 worms	Glenodinium danicum	Paulsen, 1907	233369	7901764
 worms	Peridinium defectum	Balech, 1965	233388	8245468
 worms	Peridinium decipiens	Jörgensen, 1899	233390	7695143
-worms	Gonyaulax polyedra	F.Stein, 1883	233592	8046046
-worms	Hystrichosphaeridium machaerophorum	Deflandre & Cookson, 1955	233592	8284889
-worms	Lingulodinium machaerophorum	(Deflandre & Cookson) D.Wall, 1967	233592	7833832
 worms	Cachonina niei	A.R.Loeblich, 1968	233620	3206900
 worms	Diplopsalis excentrica	Nie, 1943	233667	8329843
 worms	Dissodium excentricum	(Nie) Loeblich, 1970	233667	7501094
@@ -4987,6 +4973,14 @@ worms	Lyngbya foveolarum	(Gomont) Hansgirg, 1892	450029	7774041
 worms	Oscillatoria foveolarum	(Montagne) Hansgirg, 1885	450029	7679569
 worms	Phormidium foveolarum	Gomont, 1892	450029	3217941
 worms	Mastigophora		450030	56
+worms	Coscinodiscus commutatus	Grunow, 1884	450729	5421521
+worms	Coscinodiscus jonesianus var. commutatus	(Grunow) Hustedt, 1928	450729	11409468
+worms	Coscinodiscus concinnus var. jonesiana	(Greville) Rattray, 1890	450730	9509953
+worms	Coscinodiscus jonesianus	(Greville) Ostenfeld, 1915	450730	5421527
+worms	Coscinodiscus jonesianus var. jonesianus	(Grun.) Hust., 1928	450730	7368712
+worms	Coscinodiscus jonesianus var. jonesianus	(Greville) Ostenfeld, 1915	450730	7368712
+worms	Coscinodiscus radiatus var. jonesianus	(Greville) Van Heurck, 1896	450730	9739245
+worms	Eupodiscus jonesianus	Greville, 1862	450730	8187511
 worms	Lyngbya phormidium	Kützing, 1847	450777	7818461
 worms	Lyngbya phormidium	Kützing ex Gomont, 1892	450777	7983323
 worms	Oscillatoria tenuis f. tergestina	(Rabenhorst ex Gomont) Elenkin, 1949	450777	7520024
@@ -7156,6 +7150,8 @@ worms	Navicula falaisensis f. falaisensis	Grunow in Van Heurck, 1880	621997	7231
 worms	Navicula falaisiensis	Grunow, 1880	621997	7600476
 worms	Schizonema falaisiense	(Grunow) Kuntze, 1898	621997	7912732
 worms	Navicula falaisensis var. lanceola	Grunow, 1880	622003	7362071
+worms	Navicula constans var. symmetrica	Hustedt, 1957	622417	5269060
+worms	Placoneis constans var. symmetrica	(Hustedt) H. Kobayasi in Mayama, S., Idei, M., Osada, K. & T. Nagumo, 2002	622417	7969231
 worms	Fragilaria parasitica	(W.Smith) Grunow, 1881	622459	8650335
 worms	Odontidium parasiticum	W.Smith, 1856	622459	7789204
 worms	Synedra parasitica	(W.Smith) Hustedt, 1930	622459	2652811
