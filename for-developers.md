@@ -4,7 +4,7 @@ title: For developers
 
 ## Nordic Microalgae API
 
-All data available on Nordic Microalgae can be accessed from through our [API](/api).
+All data available on Nordic Microalgae can be accessed from through our [API](/api). The R package [SHARK4R](https://sharksmhi.github.io/SHARK4R/) provides tools to  extract and utilize this data.
 
 &nbsp;  
 
