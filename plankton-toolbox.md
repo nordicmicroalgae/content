@@ -47,12 +47,12 @@ Cite the current version as:
 ### Downloads
 #### Latest version (January 2024)
 Plankton Toolbox version 1.4.1
-* [Mac Intel - download](https://data.smhi.se/oce/SLW/plankton_toolbox_1_4_1/plankton_toolbox_1_4_1_mac_intel_20240125.tar.gz)
-* [Mac M1 Silicon - download](https://data.smhi.se/oce/SLW/plankton_toolbox_1_4_1/plankton_toolbox_1_4_1_mac_m1_20240125.tar.gz)
-* [Windows - download](https://data.smhi.se/oce/SLW/plankton_toolbox_1_4_1/plankton_toolbox_1_4_1_windows_20240125.zip)
-* [User guide - download pdf](https://data.smhi.se/oce/SLW/plankton_toolbox_1_4_1/Plankton_Toolbox_users_guide_1_4_1.pdf)
+* [Mac Intel - download](https://www.smhi.se/oceanografi/oce_info_data/shark_web/downloads/sbdi/plankton_toolbox_1_4_1/plankton_toolbox_1_4_1_mac_intel_20240125.tar.gz)
+* [Mac M1 Silicon - download](https://www.smhi.se/oceanografi/oce_info_data/shark_web/downloads/sbdi/plankton_toolbox_1_4_1/plankton_toolbox_1_4_1_mac_m1_20240125.tar.gz)
+* [Windows - download](https://www.smhi.se/oceanografi/oce_info_data/shark_web/downloads/sbdi/plankton_toolbox_1_4_1/plankton_toolbox_1_4_1_windows_20240125.zip)
+* [User guide - download pdf](https://www.smhi.se/oceanografi/oce_info_data/shark_web/downloads/sbdi/plankton_toolbox_1_4_1/Plankton_Toolbox_users_guide_1_4_1.pdf)
 
-#### Previous versions
+#### Previous versions (currently unavailable, please contact [nordicmicroalgae@smhi.se](mailto:nordicmicroalgae@smhi.se) for more info)
 * [Plankton Toolbox version 1.4.0 and users guide 1.4.0](https://data.smhi.se/oce/SLW/plankton_toolbox_1_4_0/)
 * [Plankton Toolbox version 1.3.4 and users guide 1.3.4](https://data.smhi.se/oce/SLW/plankton_toolbox_1_3_4/)
 * [Plankton Toolbox version 1.3.3 and users guide 1.3.3](https://data.smhi.se/oce/SLW/plankton_toolbox_1_3_3/)
