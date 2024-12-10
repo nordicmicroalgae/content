@@ -10,7 +10,7 @@ To standardise phytoplankton monitoring efforts in the Baltic Sea, Skagerrak, an
 
 ### HELCOM EG Phyto Biovolume list
 
-The HELCOM EG Phyto (previously PEG) biovolume list is used in routine monitoring of Baltic Sea phytoplankton. The latest update of the HELCOM EG Phyto list is available at ICES as a [zip-file](http://ices.dk/data/Documents/ENV/PEG_BVOL.zip). The list contains biovolumes and fixed size-classes used for the calculation of phytoplankton biomass in routine monitoring of Baltic Sea phytoplankton and is updated on an annual basis. 
+The HELCOM EG Phyto (previously PEG) biovolume list is used in routine monitoring of Baltic Sea phytoplankton. The latest update of the HELCOM EG Phyto list is available at ICES as a [zip-file](https://www.ices.dk/data/Documents/ENV/PEG_BVOL.zip). The list contains biovolumes and fixed size-classes used for the calculation of phytoplankton biomass in routine monitoring of Baltic Sea phytoplankton and is updated on an annual basis. 
   
 &nbsp;  
   
