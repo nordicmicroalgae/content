@@ -507,8 +507,6 @@ taxon_id	pr2_name	url
 149343	Licmophora_gracilis	https://app.pr2-database.org/pr2-database/
 172634	Licmophora_juergensii	https://app.pr2-database.org/pr2-database/
 149344	Licmophora_paradoxa	https://app.pr2-database.org/pr2-database/
-233592	Lingulodinium_polyedra	https://app.pr2-database.org/pr2-database/
-233592	Lingulodinium_polyedra:plas	https://app.pr2-database.org/pr2-database/
 249722	Mallomonas_akrokomos	https://app.pr2-database.org/pr2-database/
 610255	Mallomonas_alpina	https://app.pr2-database.org/pr2-database/
 610020	Mallomonas_annulata	https://app.pr2-database.org/pr2-database/

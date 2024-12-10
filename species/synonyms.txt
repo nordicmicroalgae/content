@@ -3914,6 +3914,9 @@ worms	Anabaena baltica	Johs.Schmidt, 1899	177638	5427207
 worms	Anabaena subcylindrica	Borge, 1921	177649	5427268
 worms	Anabaena californica	O.Borge, 1909	177659	5427294
 worms	Anabaena laxa f. californica	(O.Borge) Canabaeus, 1929	177659	10250135
+worms	Gonyaulax polyedra	F.Stein, 1883	1778370	8046046
+worms	Hystrichosphaeridium machaerophorum	Deflandre & Cookson, 1955	1778370	8284889
+worms	Lingulodinium polyedra	(F.Stein) J.D.Dodge, 1989	1778370	8941116
 worms	Heterochlorida		17793	8307373
 worms	Xanthophyta		17793	7709379
 worms	Navicula subsalina	Donkin, 1870	177949	8332453
@@ -7150,8 +7153,6 @@ worms	Navicula falaisensis f. falaisensis	Grunow in Van Heurck, 1880	621997	7231
 worms	Navicula falaisiensis	Grunow, 1880	621997	7600476
 worms	Schizonema falaisiense	(Grunow) Kuntze, 1898	621997	7912732
 worms	Navicula falaisensis var. lanceola	Grunow, 1880	622003	7362071
-worms	Navicula constans var. symmetrica	Hustedt, 1957	622417	5269060
-worms	Placoneis constans var. symmetrica	(Hustedt) H. Kobayasi in Mayama, S., Idei, M., Osada, K. & T. Nagumo, 2002	622417	7969231
 worms	Fragilaria parasitica	(W.Smith) Grunow, 1881	622459	8650335
 worms	Odontidium parasiticum	W.Smith, 1856	622459	7789204
 worms	Synedra parasitica	(W.Smith) Hustedt, 1930	622459	2652811
@@ -7211,7 +7212,7 @@ worms	Micropodiscus weissflogii	Grunow, 1882	623754	3193543
 worms	Micropodiscus weissflogii	Grunow, 1885	623754	3193543
 worms	Thalassiosira fluviatilis	Hustedt, 1926	623754	3193542
 worms	Thalassiosira weissflogii	(Grunow) G.Fryxell & Hasle, 1977	623754	3193541
-worms	Navicula viridulacalcis subsp. neomundana	Lange-Bert. & Rumrich in Rulrich et al., 2000	623787	5269307
+worms	Navicula viridulacalcis subsp. neomundana	H. Lange-Bertalot & Rumrich in U. Rumrich, H. Lange-Bertalot & M. Rumrich, 2000	623787	5269307
 worms	Cymbella descripta	(Hustedt) Krammer & Lange-Bertalot, 1985	623806	8347432
 worms	Navicula descripta var. descripta	Hustedt, 1943	623806	9309153
 worms	Chlorella marina	Butcher, 1952	623865	5270928
@@ -8336,6 +8337,9 @@ worms	Peridinium trilineatum	Lindemann, 1919	841289	7536081
 worms	Peridinium lubieniense	Wolszynska, 1916	841291	8131257
 worms	Peridinium lubieniense var. contactum	Er.Lindemann, 1920	841291	10920398
 worms	Peridinium umbonatum var. lubieniense	(Wolszynska) J.Popovsky & L.Pfeister, 1986	841291	7379808
+worms	Coscinodiscus bioculatus var. bioculatus	Grunow, 1884	841633	9450217
+worms	Coscinosira bioculata	(Grunow) Heiden in Heiden & Kolbe, 1928	841633	7922378
+worms	Thalassiosira bioculata var. bioculata	(Grunow) Ostenfeld, 1903	841633	7372078
 worms	Anabaena constricta	(Szafer) Geitler, 1925	841718	5426780
 worms	Johansenia constricta	(Szafer) Hasler, Dvorák & Poulícková, 2014	841718	8345541
 worms	Komvophoron constrictum	(Szafer) Anagnostidis & Komárek, 1988	841718	3217885

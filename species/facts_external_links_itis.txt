@@ -1865,7 +1865,6 @@ taxon_id	itis_id	url
 233144	10134	http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=10134
 233154	331306	http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=331306
 233390	10291	http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=10291
-233592	573538	http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=573538
 233619	610150	http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=610150
 233632	550480	http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=550480
 233677	573521	http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=573521
