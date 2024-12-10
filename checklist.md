@@ -12,7 +12,7 @@ Higher taxonomy and synonyms for the website are also sourced from WoRMS, while 
 
 #### Current version
 
-* [Nordic Microalgae checklist 2024-11-11](https://data.smhi.se/oce/SLW/checklists/2024-11-11/)
+* [Nordic Microalgae checklist 2024-12-10](https://data.smhi.se/oce/SLW/checklists/2024-12-10/)
 
 &nbsp;  
 
