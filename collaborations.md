@@ -70,5 +70,5 @@ __Fig. 1.__ IFCB deployments in Europe
 * [University of Tartu, Institute of Technology, Estonia](https://www.tuit.ut.ee/en)
 * [IOC-UNESCO Taxonomic Reference List of Harmful Micro Algae](http://www.marinespecies.org/hab/)
 * [World Register of Marine Species](http://www.marinespecies.org/)
-* [Dyntaxa - taxonomic database at the Swedish Species Information Centre](https://namnochslaktskap.artfakta.se/)
+* [Dyntaxa - taxonomic database at the Swedish Species Information Centre](https://artfakta.se/)
 
