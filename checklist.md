@@ -31,8 +31,8 @@ The original Nordic Microalgae checklist, established in 2011, served as the tax
 * Taxa from the Finnish Phytoplankton Society provided by Kristiina Vuorio at SYKE 
 
 The original checklist can accessed from here:
-* [Nordic Microalgae checklist 2011-10-10](https://data.smhi.se/oce/SLW/checklists/2011-10-10/)
-
+* [Nordic Microalgae checklist 2011-10-10](https://www.smhi.se/oceanografi/oce_info_data/shark_web/downloads/sbdi/checklists/2011-10-10/nordicmicroalgae_checklist_2011_Oct_10.xls)
+* [Nordic Microalgae checklist 2011-10-10 Extended](https://www.smhi.se/oceanografi/oce_info_data/shark_web/downloads/sbdi/checklists/2011-10-10/nordicmicroalgae_extended_checklist_2011_Oct_10.xls)
 &nbsp;  
 
 ### Literature used to compile the original Nordic Microalgae checklist
