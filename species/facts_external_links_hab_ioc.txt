@@ -50,6 +50,7 @@ Kamptonema formosum	837205	https://www.marinespecies.org/hab/aphia.php?p=taxdeta
 Karenia mikimotoi	233024	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=233024
 Karlodinium veneficum	233037	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=233037
 Limnothrix redekei	177508	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=177508
+Lingulaulax polyedra	1778370	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=1778370
 Lyngbya majuscula	660754	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=660754
 Microcystis aeruginosa	146558	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=146558
 Microcystis botrys	578236	https://www.marinespecies.org/hab/aphia.php?p=taxdetails&id=578236
