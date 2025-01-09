@@ -501,6 +501,7 @@ worms	Euglena klebsii	(Lemmermann) Mainx, 1928	110631	3209841
 worms	Euglena sima	Wermel, 1924	110631	8268964
 worms	Hueber-Pestalozziamonas pusilla	(Skuja) Skvortsov, 1967	110651	4891082
 worms	Petalomonas poosilla	J.Larsen & D.J.Patterson, 1990	110651	3208459
+worms	Pelosininae	Cushman, 1927	111958	7747923
 worms	Arastrorhizum	Rhumbler, 1913	112299	7876786
 worms	Arenistella	Fischer, 1875	112299	4889772
 worms	Astrodiscus	Schulze, 1875	112299	7237894
@@ -4034,6 +4035,8 @@ worms	Anomoeoneis brachysira	(Brébisson ex Rabenhorst) Cleve, 1895	179420	83117
 worms	Anomoeoneis serians var. brachysira	(Brébisson ex Rabenhorst) Hustedt, 1930	179420	9552678
 worms	Brachysira brebissonii	R.Ross, 1986	179420	8035145
 worms	Corethron criophilum var. histrix	(Hensen) Hendey, 1937	179596	9471067
+worms	Odontidium elegans	(Kützing) O'Meara, 1875	179792	7498264
+worms	Rhabdium elegans	(Kützing) Trevisan, 1848	179792	8326732
 worms	Odontidium tenue	(Kützing) Pfitzer, 1871	179796	7947184
 worms	Odontidium teune	(Kützing) O'Meara, 1875	179796	9580876
 worms	Rhabdium tenue	(Kützing) Trevisan, 1848	179796	8371154
@@ -4518,9 +4521,9 @@ worms	Schizosiphon parietinus	Nägeli, 1849	239094	6005949
 worms	Oscillatoria simplicissima var. constricta	Playfair, 1918	239344	3218739
 worms	Oscillatoria simplicissima var. granulata	Playfair, 1918	239344	3218739
 worms	Phormidium simplicissimum	(Gomont) Anagnostidis & Komárek, 1988	239344	6533810
-worms	Amphorella subulata	Ehrenberg, 1833	240437	7457775
+worms	Amphorella subulata	(Ehrenberg, 1838)	240437	7457775
 worms	Tintinnus subulata		240437	7354150
-worms	Tintinnus subulatus	Ehrenberg, 1838	240437	7354150
+worms	Tintinnus subulatus	Ehrenberg 1838	240437	7354150
 worms	Conferva hieroglyphica	C.Agardh, 1827	240486	8007918
 worms	Microspora fontinalis	(Berkeley) De Toni, 1889	240486	5272321
 worms	Rhizoclonium aponinum	(Pollini) Kützing, 1845	240486	2643575
@@ -4936,8 +4939,8 @@ worms	Stigeoclonium subsecundum var. tenuis	Nordstedt, 1880	422903	2640006
 worms	Stigeoclonium tenue var. irregulare	(Kützing) Rabenhorst, 1868	422903	8990915
 worms	Conferva affinis	Kützing, 1845	422904	9193463
 worms	Tintinnopsis producta	Meunier, 1919	427455	7400465
-worms	Cyttarocylis annulata	Daday, 1887	427479	8131401
 worms	Cyttarocylis annulata	Daday, 1886	427479	8131401
+worms	Cyttarocylis annulata	Daday, 1887	427479	8131401
 worms	Cyttarocylis obtusaangula	Ostenfeld, 1899	427609	4379944
 worms	Favella denticulata var. tenuis	Schulz & Wulf, 1929	427609	8326775
 worms	Disceraea	A.Morren & C.Morren, 1841	428522	4893964
