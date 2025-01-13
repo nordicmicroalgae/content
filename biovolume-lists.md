@@ -20,7 +20,7 @@ The NOMP biovolume list comprise of data from the HELCOM EG Phyto biovolume list
 
 #### Lists of NOMP taxa with biovolumes, carbon content and trophic type
 A Microsoft Excel file compressed in a zip-archive. The file is also part of the download of Plankton Toolbox
-* [NOMP biovolume list 2024- download excel (in zip)](https://www.smhi.se/oceanografi/oce_info_data/shark_web/downloads/sbdi/NOMP/biovolume/nomp_taxa_biovolumes_and_carbon_2024.zip)
+* NOMP biovolume list 2024- download excel (in zip) (temporarily unavailable)
 * [NOMP biovolume list 2023- download excel (in zip)](https://www.smhi.se/oceanografi/oce_info_data/shark_web/downloads/sbdi/NOMP/biovolume/nomp_taxa_biovolumes_and_carbon_2023.zip)
 * [NOMP biovolume list 2022- download excel (in zip)](https://www.smhi.se/oceanografi/oce_info_data/shark_web/downloads/sbdi/NOMP/biovolume/nomp_taxa_biovolumes_and_carbon_2022.zip)
 
