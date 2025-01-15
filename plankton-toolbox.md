@@ -20,7 +20,7 @@ Features include:
 * Statistics (in early development)
 * Export data in .txt or .xlsx for further analyses or plotting
 
-Plankton Toolbox is now accessible in version 1.4.1 designed for both Windows and MacOS, with dedicated versions for both Intel and M1 processors. This latest release incorporates an updated counting module and various minor optimizations for an improved user experience. Reports now also include AphiaID. Notably, the NOMP 2023 biovolume list has been integrated, comprising data from the HELCOM EG Phyto 2023 biovolume list and additional taxa sourced from the Skagerrak and the North Sea. The list of potentially harmful taxa has been updated accorrding to the [IOC-UNESCO Taxonomic Reference List of Harmful Micro Algae](http://www.marinespecies.org/hab/).
+Plankton Toolbox is accessible in versions designed for both Windows and MacOS, with dedicated versions for both Intel and M1 processors. The latest version of the [NOMP biovolume list](/biovolume-lists/) is integrated as a default taxa list in the software, incorporating data from the HELCOM EG Phyto biovolume list along with additional taxa from the Skagerrak and North Sea regions. A separate list of potentially harmful taxa is also included, based on the [IOC-UNESCO Taxonomic Reference List of Harmful Micro Algae](http://www.marinespecies.org/hab/).
 
 &nbsp;  
 
@@ -35,7 +35,7 @@ Place the software in your App folder. The folders "toolbox_data" and "toolbox_c
 ### Reference
 Cite the current version as:
 
-- Karlson, B., Andreasson, A., Johansen, M., Karlberg, M., Skjevik, A.-T., Torstensson, A., 2023. Plankton Toolbox – open source software making it easier to work with plankton data, version 1.4.1, accessed at http://nordicmicroalgae.org/tools
+- Karlson, B., Andreasson, A., Johansen, M., Karlberg, M., Skjevik, A.-T., Torstensson, A., 2025. Plankton Toolbox – open source software making it easier to work with plankton data, version 1.4.2, accessed at http://nordicmicroalgae.org/tools
 
 &nbsp;  
 
