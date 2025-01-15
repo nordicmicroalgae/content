@@ -51,7 +51,7 @@ Plankton Toolbox version 1.4.2
 * [Windows - download](https://www.smhi.se/oceanografi/oce_info_data/shark_web/downloads/sbdi/plankton_toolbox_1_4_2/plankton_toolbox_1_4_2_windows_20250115.zip)
 * [User guide - download pdf](https://www.smhi.se/oceanografi/oce_info_data/shark_web/downloads/sbdi/plankton_toolbox_1_4_2/Plankton_Toolbox_users_guide_1_4_2.pdf)
 
-#### Previous versions (currently unavailable, please contact [nordicmicroalgae@smhi.se](mailto:nordicmicroalgae@smhi.se) for more info)
+#### Previous versions
 
 Plankton Toolbox version 1.4.1 (January 2024)
 * [Mac Intel - download](https://www.smhi.se/oceanografi/oce_info_data/shark_web/downloads/sbdi/plankton_toolbox_1_4_1/plankton_toolbox_1_4_1_mac_intel_20240125.tar.gz)
