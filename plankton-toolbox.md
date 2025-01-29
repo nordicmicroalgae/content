@@ -20,7 +20,7 @@ Features include:
 * Statistics (in early development)
 * Export data in .txt or .xlsx for further analyses or plotting
 
-Plankton Toolbox is accessible in versions designed for both Windows and MacOS, with dedicated versions for both Intel and M1 processors. The latest version of the [NOMP biovolume list](/biovolume-lists/) is integrated as a default taxa list in the software, incorporating data from the HELCOM EG Phyto biovolume list along with additional taxa from the Skagerrak and North Sea regions. A separate list of potentially harmful taxa is also included, based on the [IOC-UNESCO Taxonomic Reference List of Harmful Micro Algae](http://www.marinespecies.org/hab/).
+Plankton Toolbox is accessible in versions designed for both Windows and MacOS. The latest version of the [NOMP biovolume list](/biovolume-lists/) is integrated as a default taxa list in the software, incorporating data from the HELCOM EG Phyto biovolume list along with additional taxa from the Skagerrak and North Sea regions. A separate list of potentially harmful taxa is also included, based on the [IOC-UNESCO Taxonomic Reference List of Harmful Micro Algae](http://www.marinespecies.org/hab/).
 
 &nbsp;  
 
@@ -49,13 +49,21 @@ Cite the current version as:
 
 Plankton Toolbox version 1.4.2
 * [Windows - download](https://www.smhi.se/oceanografi/oce_info_data/shark_web/downloads/sbdi/plankton_toolbox_1_4_2/plankton_toolbox_1_4_2_windows_20250115.zip)
+* [Mac Apple Silicon - download](https://www.smhi.se/oceanografi/oce_info_data/shark_web/downloads/sbdi/plankton_toolbox_1_4_2/plankton_toolbox_1_4_2_mac_m1_20250128.tar.gz)
 * [User guide - download pdf](https://www.smhi.se/oceanografi/oce_info_data/shark_web/downloads/sbdi/plankton_toolbox_1_4_2/Plankton_Toolbox_users_guide_1_4_2.pdf)
+
+Plankton Toolbox support for Mac Intel processors was discontinued in version 1.4.2. However, version 1.4.1 remains available and now includes updated taxa lists.
 
 #### Previous versions
 
+Plankton Toolbox version 1.4.1 - Updated with 2024 taxa list (January 2025)
+
+* [Mac Intel - download](https://www.smhi.se/oceanografi/oce_info_data/shark_web/downloads/sbdi/plankton_toolbox_1_4_1/plankton_toolbox_1_4_1_mac_intel_20250128.tar.gz)
+
 Plankton Toolbox version 1.4.1 (January 2024)
+
 * [Mac Intel - download](https://www.smhi.se/oceanografi/oce_info_data/shark_web/downloads/sbdi/plankton_toolbox_1_4_1/plankton_toolbox_1_4_1_mac_intel_20240125.tar.gz)
-* [Mac M1 Silicon - download](https://www.smhi.se/oceanografi/oce_info_data/shark_web/downloads/sbdi/plankton_toolbox_1_4_1/plankton_toolbox_1_4_1_mac_m1_20240125.tar.gz)
+* [Mac Apple Silicon - download](https://www.smhi.se/oceanografi/oce_info_data/shark_web/downloads/sbdi/plankton_toolbox_1_4_1/plankton_toolbox_1_4_1_mac_m1_20240125.tar.gz)
 * [Windows - download](https://www.smhi.se/oceanografi/oce_info_data/shark_web/downloads/sbdi/plankton_toolbox_1_4_1/plankton_toolbox_1_4_1_windows_20240125.zip)
 * [User guide - download pdf](https://www.smhi.se/oceanografi/oce_info_data/shark_web/downloads/sbdi/plankton_toolbox_1_4_1/Plankton_Toolbox_users_guide_1_4_1.pdf)
 
