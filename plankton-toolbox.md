@@ -58,7 +58,7 @@ Plankton Toolbox support for Mac Intel processors was discontinued in version 1.
 
 Plankton Toolbox version 1.4.1 - Updated with 2024 taxa list (January 2025)
 
-* [Mac Intel - download](https://www.smhi.se/oceanografi/oce_info_data/shark_web/downloads/sbdi/plankton_toolbox_1_4_1/plankton_toolbox_1_4_1_mac_intel_20250131.tar.gz)
+* [Mac Intel - download](https://www.smhi.se/oceanografi/oce_info_data/shark_web/downloads/sbdi/plankton_toolbox_1_4_2/plankton_toolbox_1_4_1_mac_intel_20250131.tar.gz)
 
 Plankton Toolbox version 1.4.1 (January 2024)
 
