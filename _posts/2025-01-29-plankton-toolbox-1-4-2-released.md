@@ -2,8 +2,10 @@
 layout: post
 title: Plankton Toolbox 1.4.2 released
 author: Anders Torstensson
-date: 2025-01-29 10:00
+date: 2025-01-31 14:45
 ---
+
+UPDATE 2025-01-31: bvolcolumns_.xlsx has been updated to correctly handle the new bvol columns in the EG-Phyto Biovolume list. Please use the current version to correctly export biovolume data.
 
 Plankton Toolbox is now accessible in version 1.4.2, designed for Windows and MacOS with Apple Silicon processors. This latest release incorporates bug fixes for an improved user experience. Notably, the NOMP 2024 biovolume list has been integrated, comprising data from the HELCOM-PEG 2024 biovolume list and additional taxa sourced from the Skagerrak and the North Sea. The list of potentially harmful taxa has been updated according to the [IOC-UNESCO Taxonomic Reference List of Harmful Micro Algae](http://www.marinespecies.org/hab/).
 
