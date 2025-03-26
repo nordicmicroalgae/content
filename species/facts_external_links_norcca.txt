@@ -324,7 +324,6 @@ taxon_id	scientific_name	valid_name	strain_name	strain_link	species	species_link
 248151	Rhodomonas lacustris	Rhodomonas lacustris	NIVA-8/82	https://norcca.scrol.net/strain/niva-882	Rhodomonas lacustris	https://norcca.scrol.net/species/rhodomonas-lacustris	Freshwater	niva-882
 688549	Prymnesium parvum f. patelliferum	Prymnesium parvum f. patelliferum	NIVA-9/92	https://norcca.scrol.net/strain/niva-992	Prymnesium parvum f. patelliferum	https://norcca.scrol.net/species/prymnesium-parvum-f-patelliferum	Brackish	niva-992
 148954	Asterionella formosa	Asterionella formosa	NIVA-BAC 3	https://norcca.scrol.net/strain/niva-bac-3	Asterionella formosa	https://norcca.scrol.net/species/asterionella-formosa	Freshwater	niva-bac-3
-699413	Mayamaea atomus	Amphora atomus	NIVA-BAC 42	https://norcca.scrol.net/strain/niva-bac-42	Mayamaea atomus	https://norcca.scrol.net/species/mayamaea-atomus	Freshwater Lake	niva-bac-42
 149191	Achnantes	Achnanthes	NIVA-BAC 44	https://norcca.scrol.net/strain/niva-bac-44	Achnantes sp.	https://norcca.scrol.net/species/achnantes-sp	Freshwater	niva-bac-44
 160524	Chaetoceros wighamii	Chaetoceros wighamii	NIVA-BAC 50	https://norcca.scrol.net/strain/niva-bac-50	Chaetoceros wighamii	https://norcca.scrol.net/species/chaetoceros-wighamii	Marine	niva-bac-50
 376667	Skeletonema marinoi	Skeletonema marinoi	NIVA-BAC 52	https://norcca.scrol.net/strain/niva-bac-52	Skeletonema marinoi	https://norcca.scrol.net/species/skeletonema-marinoi	Marine	niva-bac-52
@@ -339,7 +338,6 @@ taxon_id	scientific_name	valid_name	strain_name	strain_link	species	species_link
 175584	Phaeodactylum tricornutum	Phaeodactylum tricornutum	NIVA-BAC 70	https://norcca.scrol.net/strain/niva-bac-70	Phaeodactylum tricornutum	https://norcca.scrol.net/species/phaeodactylum-tricornutum	Brackish	niva-bac-70
 148905	Cyclotella	Cyclotella	NIVA-BAC 73	https://norcca.scrol.net/strain/niva-bac-73	Cyclotella sp.	https://norcca.scrol.net/species/cyclotella-sp	Freshwater	niva-bac-73
 148905	Cyclotella	Cyclotella	NIVA-BAC 74	https://norcca.scrol.net/strain/niva-bac-74	Cyclotella sp.	https://norcca.scrol.net/species/cyclotella-sp	Freshwater	niva-bac-74
-149080	Stephanodiscus hantzschii	Stephanodiscus hantzschii	NIVA-BAC 8	https://norcca.scrol.net/strain/niva-bac-8	Stephanodiscus hantzschii	https://norcca.scrol.net/species/stephanodiscus-hantzschii	Freshwater	niva-bac-8
 610914	Raphidocelis subcapitata	Raphidocelis subcapitata	NIVA-CHL 1	https://norcca.scrol.net/strain/niva-chl-1	Raphidocelis subcapitata	https://norcca.scrol.net/species/raphidocelis-subcapitata	Freshwater	niva-chl-1
 145715	Stichococcus bacillaris	Stichococcus bacillaris	NIVA-CHL 10	https://norcca.scrol.net/strain/niva-chl-10	Stichococcus bacillaris	https://norcca.scrol.net/species/stichococcus-bacillaris	Freshwater	niva-chl-10
 1359367	Tetradesmus obliquus	Tetradesmus obliquus	NIVA-CHL 107	https://norcca.scrol.net/strain/niva-chl-107	Tetradesmus obliquus	https://norcca.scrol.net/species/tetradesmus-obliquus	Freshwater	niva-chl-107
@@ -351,7 +349,6 @@ taxon_id	scientific_name	valid_name	strain_name	strain_link	species	species_link
 145715	Stichococcus bacillaris	Stichococcus bacillaris	NIVA-CHL 121	https://norcca.scrol.net/strain/niva-chl-121	Stichococcus bacillaris	https://norcca.scrol.net/species/stichococcus-bacillaris	Terrestrial	niva-chl-121
 178611	Oocystis (?)	Oocystis	NIVA-CHL 122	https://norcca.scrol.net/strain/niva-chl-122	Oocystis sp. (?)	https://norcca.scrol.net/species/oocystis-sp	Terrestric	niva-chl-122
 532029	Chlorella vulgaris	Chlorella vulgaris	NIVA-CHL 123	https://norcca.scrol.net/strain/niva-chl-123	Chlorella vulgaris	https://norcca.scrol.net/species/chlorella-vulgaris	Terrestrial	niva-chl-123
-163478	Micractinium	Micractinium	NIVA-CHL 125	https://norcca.scrol.net/strain/niva-chl-125	Micractinium sp.	https://norcca.scrol.net/species/micractinium-sp	Terrestric	niva-chl-125
 178583	Chlamydomonas	Chlamydomonas	NIVA-CHL 126/11	https://norcca.scrol.net/strain/niva-chl-12611	Chlamydomonas sp.	https://norcca.scrol.net/species/chlamydomonas-sp		niva-chl-12611
 178583	Chlamydomonas	Chlamydomonas	NIVA-CHL 129	https://norcca.scrol.net/strain/niva-chl-129	Chlamydomonas sp.	https://norcca.scrol.net/species/chlamydomonas-sp	Nursery	niva-chl-129
 143946	Chlorococcum	Chlorococcum	NIVA-CHL 130	https://norcca.scrol.net/strain/niva-chl-130	Chlorococcum sp.	https://norcca.scrol.net/species/chlorococcum-sp	Nursery	niva-chl-130
@@ -381,7 +378,6 @@ taxon_id	scientific_name	valid_name	strain_name	strain_link	species	species_link
 160590	Monoraphidium	Monoraphidium	NIVA-CHL 167	https://norcca.scrol.net/strain/niva-chl-167	Monoraphidium sp.	https://norcca.scrol.net/species/monoraphidium-sp	Freshwater	niva-chl-167
 160590	Monoraphidium	Monoraphidium	NIVA-CHL 169	https://norcca.scrol.net/strain/niva-chl-169	Monoraphidium sp.	https://norcca.scrol.net/species/monoraphidium-sp	Freshwater	niva-chl-169
 578225	Mychonastes	Mychonastes	NIVA-CHL 170	https://norcca.scrol.net/strain/niva-chl-170	Mychonastes sp.	https://norcca.scrol.net/species/mychonastes-sp	Freshwater	niva-chl-170
-624375	Mychonastes jurisii	Mychonastes jurisii	NIVA-CHL 171	https://norcca.scrol.net/strain/niva-chl-171	Mychonastes jurisii	https://norcca.scrol.net/species/mychonastes-jurisii	Freshwater	niva-chl-171
 381000	Hydrodictyon reticulatum	Hydrodictyon reticulatum	NIVA-CHL 177	https://norcca.scrol.net/strain/niva-chl-177	Hydrodictyon reticulatum	https://norcca.scrol.net/species/hydrodictyon-reticulatum	Freshwater pond	niva-chl-177
 637365	Vitreochlamys fluviatilis	Vitreochlamys fluviatilis	NIVA-CHL 178	https://norcca.scrol.net/strain/niva-chl-178	Vitreochlamys fluviatilis	https://norcca.scrol.net/species/vitreochlamys-fluviatilis	Freshwater	niva-chl-178
 623865	Chloroidium saccharophilum	Chloroidium saccharophilum	NIVA-CHL 18	https://norcca.scrol.net/strain/niva-chl-18	Chloroidium saccharophilum	https://norcca.scrol.net/species/chloroidium-saccharophilum	House dust	niva-chl-18
@@ -416,7 +412,6 @@ taxon_id	scientific_name	valid_name	strain_name	strain_link	species	species_link
 162728	Staurastrum	Staurastrum	NIVA-CHL 59	https://norcca.scrol.net/strain/niva-chl-59	Staurastrum sp.	https://norcca.scrol.net/species/staurastrum-sp	Freshwater	niva-chl-59
 1359367	Tetradesmus obliquus	Tetradesmus obliquus	NIVA-CHL 6	https://norcca.scrol.net/strain/niva-chl-6	Tetradesmus obliquus	https://norcca.scrol.net/species/tetradesmus-obliquus	Freshwater	niva-chl-6
 622807	Monoraphidium dübowskii	Monoraphidium dybowskii	NIVA-CHL 60	https://norcca.scrol.net/strain/niva-chl-60	Monoraphidium dübowskii	https://norcca.scrol.net/species/monoraphidium-dubowskii	Freshwater	niva-chl-60
-163478	Micractinium	Micractinium	NIVA-CHL 61	https://norcca.scrol.net/strain/niva-chl-61	Micractinium sp.	https://norcca.scrol.net/species/micractinium-sp	Freshwater	niva-chl-61
 160588	Koliella	Koliella	NIVA-CHL 62	https://norcca.scrol.net/strain/niva-chl-62	Koliella sp.	https://norcca.scrol.net/species/koliella-sp	Freshwater	niva-chl-62
 160588	Koliella	Koliella	NIVA-CHL 63	https://norcca.scrol.net/strain/niva-chl-63	Koliella sp.	https://norcca.scrol.net/species/koliella-sp	Freshwater	niva-chl-63
 160590	Monoraphidium	Monoraphidium	NIVA-CHL 64	https://norcca.scrol.net/strain/niva-chl-64	Monoraphidium sp.	https://norcca.scrol.net/species/monoraphidium-sp	Freshwater	niva-chl-64
@@ -428,7 +423,6 @@ taxon_id	scientific_name	valid_name	strain_name	strain_link	species	species_link
 160576	Chlorella	Chlorella	NIVA-CHL 70	https://norcca.scrol.net/strain/niva-chl-70	Chlorella sp.	https://norcca.scrol.net/species/chlorella-sp	Terrestrial	niva-chl-70
 478557	Cosmarium	Cosmarium	NIVA-CHL 79	https://norcca.scrol.net/strain/niva-chl-79	Cosmarium sp.	https://norcca.scrol.net/species/cosmarium-sp	Terrestric	niva-chl-79
 248134	Monoraphidium griffithii	Monoraphidium griffithii	NIVA-CHL 8	https://norcca.scrol.net/strain/niva-chl-8	Monoraphidium griffithii	https://norcca.scrol.net/species/monoraphidium-griffithii	Freshwater	niva-chl-8
-600817	Tetradesmus	Tetradesmus	NIVA-CHL 81	https://norcca.scrol.net/strain/niva-chl-81	Tetradesmus sp.	https://norcca.scrol.net/species/tetradesmus-sp	Terrestric	niva-chl-81
 248104	Botryococcus cf. braunii	Botryococcus braunii	NIVA-CHL 87	https://norcca.scrol.net/strain/niva-chl-87	Botryococcus cf. braunii	https://norcca.scrol.net/species/botryococcus-cf-braunii	Freshwater	niva-chl-87
 625389	Choricystis cf. coccoides	Choricystis coccoides	NIVA-CHL 88	https://norcca.scrol.net/strain/niva-chl-88	Choricystis cf. coccoides	https://norcca.scrol.net/species/choricystis-cf-coccoides	Freshwater	niva-chl-88
 837008	Choricystis cf. parasitica	Choricystis parasitica	NIVA-CHL 89	https://norcca.scrol.net/strain/niva-chl-89	Choricystis cf. parasitica	https://norcca.scrol.net/species/choricystis-cf-parasitica	Terrestric	niva-chl-89

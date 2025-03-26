@@ -1483,6 +1483,9 @@ taxon_id	ncbi_id	url
 177392	675502	https://www.ncbi.nlm.nih.gov/datasets/taxonomy/675502
 177400	44822	https://www.ncbi.nlm.nih.gov/datasets/taxonomy/44822
 177426	1427526	https://www.ncbi.nlm.nih.gov/datasets/taxonomy/1427526
+177430	442397	https://www.ncbi.nlm.nih.gov/datasets/taxonomy/442397
+177431	2886081	https://www.ncbi.nlm.nih.gov/datasets/taxonomy/2886081
+177437	28070	https://www.ncbi.nlm.nih.gov/datasets/taxonomy/28070
 177449	13034	https://www.ncbi.nlm.nih.gov/datasets/taxonomy/13034
 177473	283822	https://www.ncbi.nlm.nih.gov/datasets/taxonomy/283822
 177477	357279	https://www.ncbi.nlm.nih.gov/datasets/taxonomy/357279
@@ -1749,7 +1752,6 @@ taxon_id	ncbi_id	url
 247914	1050067	https://www.ncbi.nlm.nih.gov/datasets/taxonomy/1050067
 247915	211015	https://www.ncbi.nlm.nih.gov/datasets/taxonomy/211015
 247942	626735	https://www.ncbi.nlm.nih.gov/datasets/taxonomy/626735
-247944	211016	https://www.ncbi.nlm.nih.gov/datasets/taxonomy/211016
 247945	1168997	https://www.ncbi.nlm.nih.gov/datasets/taxonomy/1168997
 248058	1527828	https://www.ncbi.nlm.nih.gov/datasets/taxonomy/1527828
 248096	35681	https://www.ncbi.nlm.nih.gov/datasets/taxonomy/35681
@@ -2009,6 +2011,9 @@ taxon_id	ncbi_id	url
 428666	28002	https://www.ncbi.nlm.nih.gov/datasets/taxonomy/28002
 428752	37475	https://www.ncbi.nlm.nih.gov/datasets/taxonomy/37475
 428826	45002	https://www.ncbi.nlm.nih.gov/datasets/taxonomy/45002
+447726	1003070	https://www.ncbi.nlm.nih.gov/datasets/taxonomy/1003070
+447727	1003069	https://www.ncbi.nlm.nih.gov/datasets/taxonomy/1003069
+447738	431367	https://www.ncbi.nlm.nih.gov/datasets/taxonomy/431367
 447739	431368	https://www.ncbi.nlm.nih.gov/datasets/taxonomy/431368
 447744	426669	https://www.ncbi.nlm.nih.gov/datasets/taxonomy/426669
 447745	2267605	https://www.ncbi.nlm.nih.gov/datasets/taxonomy/2267605
