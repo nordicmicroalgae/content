@@ -1,4 +1,6 @@
 scientific_name	dyntaxa_id	author	valid_name	taxon_id
+Rhizodomus tagatzi	6050007	Strelkow & Wirketis, 1950	Rhizodomus tagatzi	689307
+Rhizodomus	6050006	Strelkow & Wirketis, 1950	Rhizodomus	689306
 Leegaardiella	1010645	Lynn & Montagnes, 1988	Leegaardiella	101179
 Lohmanniella	1010646	Leegaard, 1915	Lohmanniella	101180
 Strobilidium	1010647	Schewiakoff, 1892	Strobilidium	101185
@@ -11,7 +13,7 @@ Leegaardiella sol	238514	Lynn & Montagnes, 1988	Leegaardiella sol	101207
 Lohmanniella oviformis	238515	Leegaard, 1915	Lohmanniella oviformis	101209
 Laboea strobila	238560	Lohmann, 1908	Laboea strobila	101264
 Strombidium capitatum	238525	(Leegaard, 1915)	Strombidium capitatum	101282
-Strombidium compressum	238527	(Leegaard, 1915) Kahl, 1932	Strombidium compressum	101287
+Strombidium compressum	238527	(Leegaard, 1915)	Strombidium compressum	101287
 Strombidium conicoides	238528	(Leegaard, 1915)	Strombidium conicoides	101288
 Strombidium conicum	238529	(Lohmann, 1908)	Strombidium conicum	101289
 Strombidium lagenula	238532	Fuaré-Fremiet	Strombidium lagenula	101310
@@ -26,7 +28,7 @@ Amastigomonas debruynei	238612	De Saedeleer, 1931	Amastigomonas debruynei	103429
 Amastigomonas mutabilis	238613	(Griessmann) Molina & Nerad, 1991	Amastigomonas mutabilis	103430
 Cafeteria	1010338	Fenchel & D.J.Patt.	Cafeteria	103989
 Pseudobodo	1010340	Greissmann	Pseudobobo	103990
-Caecitellus	1010341	D.J.Patt., K. Nygaard, G. Steinberg & Turley	Caecitellus	103991
+Caecitellus	1010341	D.J.Patt. & al.	Caecitellus	103991
 Bicosoeca gracilipes	237158	Clark	Bicosoeca gracilipes	103996
 Bicosoeca lacustris	237152	Clark	Bicosoeca lacustris	103997
 Bicosoeca maris	237153	Picken	Bicosoeca maris	103998
@@ -171,7 +173,7 @@ Peridiniaceae	2003230	Ehrenb.	Peridiniaceae	109433
 Protoperidiniaceae	2003235	J.P.Bujak & E.H.Davies	Protoperidiniaceae	109435
 Pyrophacaceae	2003237	Er.Lindem.	Pyrophacaceae	109436
 Thecadiniaceae	2003576	Balech	Thecadiniaceae	109437
-Thoracosphaeraceae	2003629	Schiller	Thoracosphaeraceae	109438
+Thoracosphaeraceae	2003584	Schiller	Oodiniaceae	109438
 Phytodiniaceae	2003596	Klebs	Phytodiniaceae	109440
 Prorocentraceae	2003244	F.Stein	Prorocentraceae	109442
 Pyrocystaceae	2003247	(F.Schütt) Lemmerm.	Pyrocystaceae	109444
@@ -204,7 +206,7 @@ Noctiluca	1010635	Suriray	Noctiluca	109500
 Spatulodinium	1010636	Cachon & Cachon-Enj.	Spatulodinium	109502
 Pentapharsodinium	1010579	Indelicato & Loeblich III	Pentapharsodinium	109504
 Preperidinium	1010595	Mangin	Preperidinium	109505
-Ceratium	1010604	F. Schrank	Ceratium	109506
+Ceratium	1010604	Schrank	Ceratium	109506
 Cladopyxis	1010601	Stein	Cladopyxis	109509
 Micracanthodinium	1010602	Deflandre	Micracanthodinium	109510
 Crypthecodinium	1010598	Biecheler	Crypthecodinium	109514
@@ -226,7 +228,7 @@ Peridiniopsis	1010575	Lemmerm.	Peridiniopsis	109544
 Scrippsiella	1010578	Balech ex A.R.Loebl.	Scrippsiella	109545
 Peridinium	1010576	Ehrenb.	Peridinium	109549
 Podolampas	1010589	Stein	Podolampas	109550
-Protoperidinium	1010596	Bergh ex Loebl. & A.R.Loebl.	Protoperidinium	109553
+Protoperidinium	1010596	Bergh	Protoperidinium	109553
 Pyrophacus	1010600	F.Stein	Pyrophacus	109555
 Amphidiniopsis	1010572	Wołosz.	Amphidiniopsis	109556
 Thecadinium	1016238	Kof. & Skogsb.	Thecadinium	109557
@@ -305,16 +307,16 @@ Pheopolykrikos beauchampii	238428	Chatton, 1933	Pheopolykrikos beauchampii	10989
 Polykrikos kofoidii	238429	Chatton	Polykrikos kofoidii	109899
 Polykrikos schwartzii	238430	Buetschli	Polykrikos schwartzii	109901
 Oxyrrhis marina	238451	Dujardin, 1841	Oxyrrhis marina	109902
-Pronoctiluca pelagica	238478	Fabre-Dom.	Pronoctiluca pelagica	109903
+Pronoctiluca pelagica	238478	Fabre-Domerque, 1889	Pronoctiluca pelagica	109903
 Nematodinium armatum	238422	(Dogiel) Kofoid & Swezy, 1921	Nematodinium armatum	109907
 Kofoidinium pavillardii	238479	J.Cachon & M.Cachon, 1967	Kofoidinium pavillardii	109918
 Kofoidinium velleloides	238480	Pavill.	Kofoidinium velleloides	109920
 Noctiluca scintillans	238481	(Macartney) Kof. & Swezy	Noctiluca scintillans	109921
-Spatulodinium pseudonoctiluca	238482	(Pouchet) Cachon & Cachon ex Loeblich & Loeblich	Spatulodinium pseudonoctiluca	109923
+Spatulodinium pseudonoctiluca	238482	(C.H.G.Pouchet) Cachon & Cachon-Enj. ex Loebl. & A.R.Loebl.	Spatulodinium pseudonoctiluca	109923
 Pentapharsodinium dalei	238204	Indelicato & Loeblich III, 1986	Pentapharsodinium dalei	109925
 Micracanthodinium claytonii	238291	(Holmes) Dodge, 1982	Micracanthodinium claytonii	109992
 Micracanthodinium setiferum	245184	(Lohmann) Deflandre 1937	Micracanthodinium setiferum	109993
-Crypthecodinium cohnii	238286	(Seligo) Chatton in Grassé, 1952	Crypthecodinium cohnii	109998
+Crypthecodinium cohnii	238286	(Seligo) Javorn.	Crypthecodinium cohnii	109998
 Ciliophora	5000054	Doflein, 1901	Ciliophora	11
 Diplopsalis lenticula	238233	Bergh, 1881	Diplopsalis lenticula	110001
 Amylax triacantha	238212	(E. Jørgensen) Sournia, 1984	Amylax triacantha	110007
@@ -403,7 +405,7 @@ Petalomonas minuta	238567	Hollande	Petalomonas minuta	110648
 Petalomonas pusilla	238568	Skuja	Petalomonas pusilla	110651
 Eutreptiella gymnastica	238576	Throndsen, 1969	Eutreptiella gymnastica	110652
 Astrorhizidae	2003790	Brady, 1881	Astrorhizidae	111958
-Astrorhiza	1015195	Shchedrina, 1969	Rhabdammina	112299
+Astrorhiza	1015195	Sandahl, 1858	Astrorhiza	112299
 Pelosina	1015194	Brady, 1879	Pelosina	112311
 Rhabdammina	1015196	Sars, 1869	Rhabdammina	112315
 Astrorhiza limicola	257381	Sandahl, 1858	Astrorhiza limicola	113843
@@ -461,7 +463,7 @@ Ericiolus spiculiger	263226	H.A.Thomsen	Ericiolus spiculiger	115131
 Allantion	1010676	NA	Allantion	118004
 Ancyromonas	1010678	NA	Ancyromonas	118006
 Cryothecomonas	1010680	NA	Cryothecomonas	118011
-Discocelis	1010339	Vørs	Discocelis	118013
+Discocelis	1010339	Ehrenberg, 1836	Discocelis	118013
 Ebria	1010637	Borgert	Ebria	118014
 Jakoba	1010684	D.J.Patterson, 1990	Jakoba	118015
 Kiitoksia	1010686	NA	Kiitoksia	118016
@@ -480,7 +482,7 @@ Cryothecomonas scybalophora	238618	Thomsen et al., 1991	Cryothecomonas scybaloph
 Cryothecomonas vesiculata	238619	Thomsen et al., 1991	Cryothecomonas vesiculata	118048
 Discocelis saleuta	237148	Vørs	Discocelis saleuta	118050
 Ebria tripartita	238485	(Schum.) Lemmerm.	Ebria tripartita	118051
-Jakoba libera	238623	(Ruinen) D.J.Patt.	Jakoba libera	118052
+Jakoba libera	238623	(Ruinen, 1938)	Jakoba libera	118052
 Kiitoksia ystava	238626	Vørs, 1992	Kiitoksia ystava	118053
 Luffisphaera cucumiformis	238627	Belcher & Swale, 1975	Luffisphaera cucumiformis	118054
 Luffisphaera myosurus	238629	Belcher & Swale, 1975	Luffisphaera myosurus	118056
@@ -488,7 +490,7 @@ Luffisphaera turriformis	238631	Vørs, 1992	Luffisphaera turriformis	118057
 Metopion fluens	238633	Larsen & Patterson, 1990	Metopion fluens	118058
 Metromonas simplex	238634	(Griessmann) Larsen & Patterson, 1990	Metromonas simplex	118059
 Phyllomitus granulatus	238637	Larsen & Patterson, 1990	Phyllomitus granulatus	118062
-Postgaardi mariagerensis	238638	J. Fenschel, C.Bernard, G. Esteban, B.J. Findlay, P.J. Hansen & N. Iversen	Postgaardi mariagerensis	118069
+Postgaardi mariagerensis	238638	Fenchel et al., 1995	Postgaardi mariagerensis	118069
 Quadricilia rotundata	238639	(Skuja) Vørs, 1992	Quadricilia rotundata	118070
 Solenicola setigera	238640	Pavill.	Solenicola setigera	118073
 Telonema antarcticum	238641	H.A.Thomsen ex D. Klaveness, K. Shalchian-Tabrizi, H.A.Thomsen, Eikrem & K.S. Jakobsen	Telonema antarcticum	118074
@@ -513,18 +515,19 @@ Pennales	4000165	G.Karst.	Bacillariophyceae	1304629
 Peridinium quadridentatum	238194	(F.Stein) Gert Hansen	Peridinium quadridentatum	1305343
 Chromophysomonas bilacunosa	237086	(Takahashi) Preisig & Hibberd	Chromophysomonas bilacunosa	1306048
 Pleurotaenium ehrenbergii	256922	(Bréb. ex Ralfs) Delponte	Pleurotaenium ehrenbergii	1306571
-Staurodesmus mucronatus	257009	(Ralfs) Croasdale	Staurodesmus mucronatus	1306572
+Staurodesmus mucronatus	257009	(Nägeli) Thomasson	Staurodesmus mucronatus	1306572
 Klebsormidium subtile	262171	(Kütz.) Tracanna ex Tell	Klebsormidium subtile	1309804
 Aphanocapsa stagnalis	236829	(Lemmerm.) R.N. Beljakova	Aphanocapsa stagnalis	1310066
 Octactis speculum	237177	(Ehrenb) F.H.Chang & al.	Octactis speculum	1310442
 Geminella turfosa	257546	(Skuja) Ramanathan	Geminella turfosa	1311314
 Planosiphon zosterifolius	232702	(Reinke) McDevit & G.W.Saunders	Planosiphon zosterifolius	1311362
 Rosenvingiellopsis constricta	232814	(Setch. & N.L.Gardner) Heesch & al.	Rosenvingiellopsis constricta	1312599
-Anagnostidinema amphibium	263554	(C.Agardh ex Gomont) Strunecký, Bohunická, J.R.Johansen & J.Komárek	Anagnostidinema amphibium	1313613
+Anagnostidinema amphibium	263554	(C.Agardh ex Gomont) Strunecký et al.	Anagnostidinema amphibium	1313613
 Eucapsis microscopica	236810	(Komárk.-Legn. & Cronberg) Komárek & Hindák	Eucapsis microscopica	1315861
-Anagnostidinema acutissimum	257680	(Kuff.) Strunecký, Bohunická, J.R.Johansen & J.Komárek	Anagnostidinema acutissimum	1315979
+Anagnostidinema acutissimum	257680	(Kuff.) Strunecký et al.	Anagnostidinema acutissimum	1315979
 Anagnostidinema exile	263555	(Skuja) Strunecky et al.	Anagnostidinema exile	1316001
-Chrysotila roscoffensis	263306	(P.J.L.Dang.) R.A.Andersen, J.I.Kim, Tittley & H.S. Yoon	Chrysotila roscoffensis	1327470
+Scrippsiella acuminata	238203	(Ehrenb) Kretschmann & al.	Scrippsiella acuminata	1321853
+Chrysotila roscoffensis	263306	(P.J.L.Dang.) R.A.Andersen & al.	Chrysotila roscoffensis	1327470
 Pediastrum angulosum var. angulosum	6017994	NA	Pediastrum angulosum	1335215
 Chaetophoropsis pisiformis	259646	(Roth) B.Wen Liu, Qian Xiong, X.Dong Liu, Z.Yu Hu & G.Xing Liu	Chaetophoropsis pisiformis	1341822
 Eucapsis aphanocapsoides	236804	(Skuja) Komárek & Hindák	Eucapsis aphanocapsoides	1345052
@@ -583,9 +586,10 @@ Staurastrum pingue var. planctonicum	238691	(Teiling) Coesel & Meersters	Stauras
 Dolichospermum spiroides var. minus	257666	(Komárk.-Legn.)	Dolichospermum spiroides var. minus	1373997
 Dolichospermum lemmermannii var. minus	263729	Komark.-Legn.	Dolichospermum lemmermannii var. minor	1373998
 Scenedesmus obtusus f. alternans	238819	(Reinsch) Compère	Scenedesmus obtusus	1379777
+Apocalathium malmogiense	238200	(G.Sjöstedt) Craveiro & al.	Apocalathium malmogiense	1380043
 Neglectella solitaria	238774	(Wittr.) Štenclová & Kaštovský	Neglectella solitaria	1380951
 Cosmarium regnesi var. polonicum	256892	(B.Eichler & Gutw.) Compère	Cosmarium regnesi var. polonicum	1391604
-Foraminifera	3000738	d'Orbigny, 1826	Foraminifera	1410
+Foraminifera	3000738	A.D.d'Orbigny, 1826	Foraminifera	1410
 Sellaphora saugerresii	237661	(Desm.) C.E.Wetzel & D.G.Mann	Sellaphora saugerresii	1424676
 Cosmarium subcostatum	263198	Nordst.	Cosmarium subcostatum	1432706
 Bryopsidaceae	2002567	Bory	Bryopsidaceae	143666
@@ -596,7 +600,7 @@ Udoteaceae	2003917	J.Agardh	Udoteaceae	143670
 Chaetophoraceae	2002578	Grev.	Chaetophoraceae	143675
 Chlorococcaceae	2003939	F.F.Blackman & Tansley	Chlorococcaceae	143676
 Endosphaeraceae	2002997	(Klebs) Artari	Endosphaeraceae	143677
-Chlorocystidaceae	3000688	NA	Chlorocystidaceae	143678
+Chlorocystidaceae	3000688	Kornmann & Sahling	Chlorocystidaceae	143678
 Chordariaceae	2002218	Grev.	Chordariaceae	143680
 Ralfsiaceae	2002222	Farl.	Ralfsiaceae	143684
 Anadyomenaceae	2003646	Kütz.	Anadyomenaceae	143686
@@ -720,7 +724,7 @@ Undaria	1016009	Suringar	Undaria	144196
 Chorda	1008541	Stackh.	Chorda	144197
 Halosiphon	1008542	Jaasund	Halosiphon	144198
 Laminaria	6329936	J.V.Lamour.	Laminaria	144199
-Microspora	1014421	NA	Microsporidia	144202
+Microspora	1014421	NA	Microsporidiidea	144202
 Phaeophila	1008561	Hauck	Phaeophila	144222
 Prasiola	1008573	Menegh.	Prasiola	144234
 Rosenvingiella	1008574	P.C.Silva	Rosenvingiella	144235
@@ -835,7 +839,7 @@ Ectocarpus fasciculatus	232661	Harv.	Ectocarpus fasciculatus	145404
 Ectocarpus siliculosus	232662	(Dillwyn) Lyngb.	Ectocarpus siliculosus	145410
 Feldmannia irregularis	251411	(Kütz.) Hamel	Feldmannia irregularis	145415
 Feldmannia kjellmanii	232667	Kylin	Feldmannia kjellmanii	145416
-Feldmannia paradoxa	263151	(Mont.) Hamel	Feldmannia paradoxa	145419
+Feldmannia paradoxa	263151	(Montagne) Hamel	Feldmannia globifera	145419
 Herponema desmarestiae	232671	(Gran) Cardinal	Herponema desmarestiae	145422
 Hincksia granulosa	232672	(Sm.) P.C.Silva	Hincksia granulosa	145433
 Hincksia ovata	232673	(Kjellm.) P.C.Silva	Hincksia ovata	145438
@@ -896,7 +900,7 @@ Ulothrix tenuissima	263367	Kütz.	Ulothrix tenuissima	145933
 Ulothrix zonata	232860	(F.Weber & D.Mohr) Kütz.	Ulothrix zonata	145934
 Capsosiphon fulvescens	232783	(C.Agardh) Setch. & N.L.Gardner	Capsosiphon fulvescens	145935
 Kornmannia leptoderma	232791	(Kjellm.) Bliding	Kornmannia leptoderma	145936
-Monostroma balticum	232842	(Aresch.) Wittr.	Monostroma balticum	145938
+Monostroma balticum	232842	Aresch. ex Wittr.	Monostroma balticum	145938
 Monostroma bullosum	259650	(Roth) Thur.	Monostroma bullosum	145939
 Monostroma grevillei	232843	(Thur.) Wittr.	Monostroma grevillei	145940
 Protomonostroma undulatum	232844	(Wittr.) K.L.Vinogr.	Protomonostroma undulatum	145946
@@ -912,7 +916,7 @@ Epicladia cyclostoma	232785	(Waern) R.Nielsen	Ulvella cyclostoma	146004
 Epicladia flustrae	232786	Reinke	Epicladia flustrae	146005
 Epicladia perforans	232787	(Huber) R.Nielsen	Epicladia perforans	146008
 Epicladia phillipsii	232788	(Batters) R.Nielsen	Epicladia phillipsii	146009
-Ochlochaete hystrix	232792	Thwaites ex Harvey	Ochlochaete hystrix	146012
+Ochlochaete hystrix	232792	Thwaites	Ochlochaete hystrix	146012
 Vaucheria compacta	263212	(Collins) Collins ex W.R.Taylor	Vaucheria compacta	146019
 Vaucheria coronata	263213	Nordst.	Vaucheria coronata	146020
 Vaucheria dichotoma	233183	(L.) Mart.	Vaucheria dichotoma	146021
@@ -970,10 +974,10 @@ Planktothrix	1010236	Anagn. & Komárek	Planktothrix	146551
 Planktothrix agardhii	236768	(Gomont) Anagn. & Komárek	Planktothrix agardhii	146552
 Oscillatoria limosa	236746	C.Agardh ex Gomont	Oscillatoria limosa	146554
 Microcystaceae	2003109	Elenkin	Microcystaceae	146556
-Microcystis	1010253	Kütz. ex Lemmerm.	Microcystis	146557
+Microcystis	1010253	Lemmerm.	Microcystis	146557
 Microcystis aeruginosa	236821	(Kütz.) Kütz.	Microcystis aeruginosa	146558
 Microcystis flos-aquae	236823	(Wittr.) Kirchn.	Microcystis flosaquae	146560
-Microcystis wesenbergii	236830	(Komárek) Komárek in N.V.Kondrat.	Microcystis wesenbergii	146561
+Microcystis wesenbergii	236830	(Komárek) Komárek ex Komárek	Microcystis wesenbergii	146561
 Aphanocapsa	1010255	Nägeli	Aphanocapsa	146562
 Aphanocapsa delicatissima	236834	W.West & G.S.West	Aphanocapsa delicatissima	146563
 Aphanocapsa elachista	6331062	West & G.S.West	Aphanocapsa conferta	146564
@@ -981,7 +985,7 @@ Chroococcus	1010249	Nägeli	Chroococcus	146565
 Chroococcus turgidus	236814	(Kütz.) Nägeli	Chroococcus turgidus	146566
 Chroococcus minutus	236813	(Kütz.) Nägeli	Chroococcus minutus	146567
 Chroococcus dispersus	236807	(Keissl.) Lemmerm.	Chroococcus dispersus	146569
-Gomphosphaeria	6034724	Kütz.	Gomphosphaeria s.lat.	146570
+Gomphosphaeria	6034724	Kütz.	Gomphosphaeria	146570
 Gomphosphaeria aponina	236791	Kütz.	Gomphosphaeria aponina	146572
 Coelosphaerium	1010259	Nägeli	Coelosphaerium	146573
 Coelosphaerium dubium	236852	Grunow	Coelosphaerium dubium	146575
@@ -993,13 +997,13 @@ Nostocaceae	2003010	Eichler	Nostocaceae	146584
 Anabaena	1010272	Bory ex Bornet & Flahault	Anabaena	146585
 Anabaenopsis	1010275	(Wolłosz.) V.V.Mill.	Anabaenopsis	146590
 Oscillatoria tenuis	263492	C.Agardh ex Gomont	Oscillatoria tenuis	146594
-Microcoleus subtorulosus	263497	(Bréb.) Gomont	Microcoleus subtorulosus	146595
+Microcoleus subtorulosus	263497	Gomont ex Gomont	Microcoleus subtorulosus	146595
 Trochiscia	1010252	Kütz.	Trochiscia	146596
 Trochiscia aspera	262149	(Reinsch) Hansg.	Trochiscia aspera	146597
 Trochiscia granulata	257430	(Reinsch) Hansg.	Trochiscia granulata	146598
 Trochiscia reticularis	262152	(Reinsch) Hansg.	Trochiscia reticularis	146600
 Gloeocapsa	1016200	Kütz.	Gloeocapsa	146602
-Oscillatoriales	3000550	Cavalier-Smith 2002	Oscillatoriales	146603
+Oscillatoriales	3000550	Schaffn.	Oscillatoriales	146603
 Phormidiaceae	2003104	Anagn. & Komárek	Phormidiaceae	146604
 Entophysalidaceae	2003555	Geitler	Entophysalidaceae	146605
 Pseudanabaenaceae	2003105	Anagn. & Komárek	Pseudanabaenaceae	146606
@@ -1022,13 +1026,13 @@ Xenococcus	1016257	Thur.	Xenococcus	146629
 Xenococcus schousboei	263438	Thur.	Xenococcus schousboei	146630
 Calothrix scopulorum	259627	J.Agardh ex Bornet & Flahault	Calothrix scopulorum	146632
 Rivularia atra	233655	Roth ex Bornet & Flahault	Rivularia atra	146633
-Cylindrospermum	1016292	(Kütz.) Bornet & Flahault	Cylindrospermum	146640
+Cylindrospermum	1016292	Kütz. ex Bornet & Flahault	Cylindrospermum	146640
 Pleurocapsa minuta	263464	Geitler	Pleurocapsa minuta	146641
 Snowella	1010260	Elenkin	Snowella	146644
 Snowella lacustris	236858	(Chodat) Komárek & Hindák	Snowella lacustris	146645
 Aphanocapsa conferta	257604	(West & G.S.West) Komárk.-Legn. & Cronberg	Aphanocapsa conferta	146646
 Aphanocapsa holsatica	6009058	(Lemmermann) G.Cronberg & Komárek	Aphanocapsa holsatica	146647
-Brachytrichia lloydii	263704	(P.Crouan & H.Crouan) P.C.Silva	Brachytrichia lloydii	146648
+Brachytrichia lloydii	263704	Thur. ex Bornet & Flahault	Brachytrichia lloydii	146648
 Stigonematales	3000670	Geitler, 1925	Stigonematales	146649
 Mastigocladaceae	2003566	Geitler	Mastigocladaceae	146650
 Rivulariaceae	2003069	Frank	Rivulariaceae	146651
@@ -1043,12 +1047,12 @@ Xenococcaceae	2003558	Erceg.	Xenococcaceae	146665
 Spirulina subtilissima	263597	Kütz. ex Gomont	Spirulina subtilissima	146667
 Spirulina tenerrima	263598	Kütz. ex Gomont	Spirulina tenerrima	146668
 Leibleinia	1010238	(Gomont) L.Hoffm.	Leibleinia	146672
-Leibleinia epiphytica	236773	(Hieron.) Anagn. & Komárek	Leibleinia epiphytica	146673
+Leibleinia epiphytica	236773	(Hieron.) Compère	Leibleinia epiphytica	146673
 Heteroleibleinia	1010245	(Geitler) L.Hoffm.	Heteroleibleinia	146675
 Heteroleibleinia infixa	263559	(Frémy) Anagn. & Komárek	Heteroleibleinia infixa	146676
 Planktolyngbya	1010240	Anagn. & Komárek	Planktolyngbya	146677
 Porphyrosiphon	1016279	Kütz. ex Gomont	Porphyrosiphon	146680
-Lyngbya lutea	236740	(C.Agardh) Gomont ex Gomont	Lyngbya lutea	146682
+Lyngbya lutea	236740	Gomont ex Gomont	Lyngbya lutea	146682
 Phormidium	1010234	Kütz. ex Gomont	Phormidium	146690
 Oscillatoria margaritifera	236747	Kütz. ex Gomont	Oscillatoria margaritifera	146692
 Phormidium nigroviride	263535	(Thwaites ex Gomont) Anagn. & Komárek	Phormidium nigroviride	146699
@@ -1056,7 +1060,7 @@ Phormidium breve	236755	(Kützing ex Gomont) Anagn. & Komárek	Phormidium breve	
 Anabaena torulosa	236920	Lagerh. ex Bornet & Flahault	Anabaena torulosa	146714
 Aphanothece	1010247	C.Nägeli	Aphanothece	146715
 Aphanothece pallida	263375	(Kütz.) Rabenh.	Aphanothece pallida	146716
-Calothrix aeruginea	263664	Thur. ex Bornet & Flahault	Calothrix aeruginea	146752
+Calothrix aeruginea	263664	Vaucher ex Bornet & Flahault	Calothrix aeruginea	146752
 Endodictyon infestans	232722	Gran	Endodictyon infestans	146946
 Gloeocapsopsis	1010251	Geitler ex Komárek	Gloeocapsopsis	146956
 Gloeocapsopsis crepidinum	236816	(Thur.) Geitler ex Komárek	Gloeocapsopsis crepidinum	146957
@@ -1076,15 +1080,15 @@ Lepidochromonas cribosa	237065	(I.A.N.Lucas) Kapustin & Guiry	Lepidochromonas cr
 Lepidochromonas sideriophora	237073	(H.A.Thomsen) Kapustin & Guiry	Lepidochromonas sideriophora	1475010
 Glaucophyta	5000068	Caval.-Sm.	Glaucophyta	1486517
 Glaucophyta	5000068	Caval.-Sm.	Glaucophyta	599656
-Rhizidiomycetaceae	2003666	Karling ex P.M. Kirk & al.	Rhizidiomycetaceae	1487395
-Bacillariophyta	5000058	L.S.Dillon	Bacillariophyta	148898
+Rhizidiomycetaceae	2003666	Karling, 1943	Rhizidiomycetaceae	1487395
+Bacillariophyta	5000058	Dillon	Bacillariophyta	148898
 Bacillariophyceae	4000165	Haeckel	Bacillariophyceae	148899
 Bacillariophycidae	3000830	D.G.Mann	Bacillariophycidae	148902
 Thalassiosirales	3000580	Glezer & I.V.Makarova	Thalassiosirales	148903
 Thalassiosiraceae	2003154	M.Lebour	Thallassiosiraceae	148904
 Cyclotella	1010371	(Kütz.) Bréb.	Cyclotella	148905
 Cyclotella atomus	237228	Hust.	Cyclotella atomus	148907
-Cyclotella choctawhatcheeana	237229	Prasad in Prasad, Nienow & Livingston	Cyclotella choctawhatcheeana	148908
+Cyclotella choctawhatcheeana	237229	A.K.S.Prasad	Cyclotella choctawhatcheeana	148908
 Cyclotella meneghiniana	237234	Kütz.	Cyclotella meneghiniana	148909
 Cyclotella comta	256794	Kütz.	Lindavia comta	148910
 Cyclotella striata	237242	(Kütz.) Grunow in Cleve & Grunow	Cyclotella striata	148911
@@ -1105,13 +1109,13 @@ Thalassiosira punctigera	237285	(Castracane) Hasle	Thalassiosira punctigera	1489
 Thalassiosira rotula	237286	Meunier, 1910	Thalassiosira rotula	148942
 Hemidiscaceae	2003170	N.I.Hendey ex G.R.Hasle	Hemidiscaceae	148943
 Actinocyclus	1010407	Ehrenberg	Actinocyclus	148944
-Actinocyclus normanii	237433	(W.Greg. ex Grev.) Hust.	Actinocyclus normanii	148945
+Actinocyclus normanii	237433	(Gregory in Greville) Hustedt, 1957	Actinocyclus normanii	148945
 Heliopeltaceae	2003169	H.L.Smith	Heliopeltaceae	148946
 Actinoptychus	1010403	C. G. Ehrenberg	Actinoptychus	148947
 Actinoptychus senarius	237426	(Ehrenberg) Ehrenberg, 1843	Actinoptychus senarius	148948
 Actinoptychus splendens	237427	(Shadbolt) Ralfs in Pritchard, 1861	Actinoptychus splendens	148949
 Fragilariales	3000614	P.C.Silva	Fragilariales	148951
-Fragilariaceae	2003218	Kütz.	Fragilariaceae	148952
+Fragilariaceae	2003218	Grev.	Fragilariaceae	148952
 Asterionella	1012309	Hassall	Asterionella	148953
 Asterionella formosa	257393	Hassall	Asterionella formosa	148954
 Aulacoseirales	3000587	R.M.Crawford	Aulacoseirales	148957
@@ -1144,11 +1148,11 @@ Cyclotella radiosa	237238	(Grunow) Lemmerm.	Lindavia radiosa	149000
 Bacillariales	3000599	Hendey	Bacillariales	149001
 Bacillariaceae	2003196	Ehrenb.	Bacillariaceae	149002
 Cylindrotheca	1010464	Rabenh.	Cylindrotheca	149003
-Cylindrotheca closterium	237761	(Ehrenb.) Reimann & J.C.Lewin	Cylindrotheca closterium	149004
+Cylindrotheca closterium	237761	(Ehrenberg) Reimann & J. Lewin, 1964	Cylindrotheca closterium	149004
 Surirellales	3000605	D.G.Mann	Surirellales	149005
 Surirellaceae	2003207	Kütz.	Surirellaceae	149006
 Cymatopleura	1010489	W.Sm.	Cymatopleura	149007
-Cymatopleura solea	262482	(Bréb.) W.Sm.	Cymatopleura solea	149008
+Cymatopleura solea	262482	(Bréb.) W.Sm.	Cymatopleura solea var. solea	149008
 Cymatosirales	3000593	Round & R.M.Crawford	Cymatosirales	149009
 Cymatosiraceae	2003176	Hasle, Stosch & Syvertsen	Cymatosiraceae	149010
 Cymatosira	1010425	Grunow	Cymatosira	149011
@@ -1164,9 +1168,9 @@ Lithodesmiaceae	2003179	Round	Lithodesmiaceae	149021
 Ditylum	1010430	J.W. Bailey	Ditylum	149022
 Ditylum brightwellii	237488	(T. West) Grunow in Van Heurck, 1883	Ditylum brightwellii	149023
 Rhopalodiales	3000604	D.G.Mann	Rhopalodiales	149024
-Rhopalodiaceae	2003205	(G.Karst.) Topach. & Oksiyuk	Rhopalodiaceae	149025
+Rhopalodiaceae	2003205	(Karsten) Topachevs'kyj & Oksiyuk	Rhopalodiaceae	149025
 Epithemia	1010484	Bréb.	Epithemia	149026
-Epithemia turgida	262583	(Ehrenb.) Kütz.	Epithemia turgida var. turgida	149027
+Epithemia turgida	262583	(Ehrenb.) Kütz.	Epithemia turgida	149027
 Fragilaria	1010522	Lyngb.	Fragilaria	149028
 Naviculaceae	2003187	Kütz.	Naviculaceae	149031
 Pleurosigmataceae	2003192	Mereschk.	Pleurosigmataceae	149032
@@ -1181,7 +1185,7 @@ Melosiraceae	2003172	Kütz.	Melosiraceae	149041
 Melosira	1010409	C.Agardh	Melosira	149042
 Melosira varians	237445	C.Agardh	Melosira varians	149043
 Melosira nummuloides	237442	C.Agardh	Melosira nummuloides	149044
-Nitzschia	1010462	Hassall	Nitzschia	149045
+Nitzschia	1010462	Baer, 1826	Nitzschia	149045
 Nitzschia acicularis	237709	(Kütz.) W.Sm.	Nitzschia acicularis	149046
 Triceratiales	3000585	Round & R.M.Crawford	Triceratiales	149048
 Triceratiaceae	2003163	(Schütt) Lemmerm.	Triceratiaceae	149049
@@ -1194,7 +1198,7 @@ Plagiogrammopsis	1010423	Hasle, von Stosch, & Syvertsen	Plagiogrammopsis	149056
 Plagiogrammopsis vanheurckii	237478	(Grunow) Hasle, von Stosch & Syvertsen, 1983	Plagiogrammopsis vanheurckii	149057
 Hyalodiscaceae	2003171	R.M.Crawford	Hyalodiscaceae	149058
 Podosira	1010408	C.G. Ehrenberg	Podosira	149059
-Hyalodiscus	6009271	Hertwig & Lesser, 1874	Hyalodiscus	149061
+Hyalodiscus	6009271	Ehrenb.	Hyalodiscus	149061
 Rhaponeidales	3000611	Round	Rhaponeidales	149063
 Rhaphoneidaceae	2003215	Forti	Rhaphoneidaceae	149064
 Rhaphoneis	1010501	Ehrenberg	Rhaphoneis	149065
@@ -1222,7 +1226,7 @@ Thalassionematales	3000608	Round	Thalassionematales	149090
 Thalassionemataceae	2003211	Round	Thalassionemataceae	149091
 Thalassionema	1010496	M. Peragallo	Thalassionema	149092
 Thalassionema nitzschioides	237957	(Grunow) Grunow ex Hustedt, 1932	Thalassionema nitzschioides	149093
-Odontella regia	237377	(M.Schultze) Simonsen	Trieres regia	149094
+Odontella regia	237377	(Schulze) Simonsen, 1974	Trieres regia	149094
 Odontella sinensis	237380	(Greville) Grunow	Odontella sinensis	149095
 Aulacoseira distans	237395	(Ehrenb.) Simonsen	Aulacoseira distans	149096
 Thalassiosira antarctica	237253	Comber, 1896	Thalassiosira antarctica	149099
@@ -1270,7 +1274,7 @@ Navicula	1010447	Bory	Navicula	149142
 Navicula distans	237558	(W.Sm.) Ralfs in A.Pritch.	Navicula distans	149143
 Meuniera	1010444	P.C.Silva	Meuniera	149144
 Meuniera membranacea	237531	(P.T. Cleve) P.C. Silva in Hasle & Syvertsen, 1996	Meuniera membranacea	149145
-Bacillaria	1010465	J.F.Gmelin	Bacillaria	149148
+Bacillaria	1010465	J.F.Gmel.	Bacillaria	149148
 Nitzschia longissima	237734	(Bréb. in Kütz.) Ralfs in A.Pritch.	Nitzschia longissima	149150
 Pseudo-nitzschia	1010459	H.Perag.	Pseudo-nitzschia	149151
 Pseudo-nitzschia seriata	237685	(Cleve) H.Perag.	Pseudo-nitzschia seriata	149152
@@ -1295,7 +1299,7 @@ Pleurosigma angulatum	237652	(Quekett) W. Smith, 1852	Pleurosigma angulatum	1491
 Synedra	1010519	Ehrenberg	Synedra	149186
 Synedra ulna	248616	(Nitzsch) Ehrenb.	Ulnaria ulna	149187
 Achnanthaceae	2003197	Kütz.	Achnanthaceae	149190
-Achnanthes	1010466	Bory	Achnanthes	149191
+Achnanthes	1010466	Bory de Saint-Vincent	Achnanthes	149191
 Achnanthes parvula	237782	Kütz.	Achnanthes parvula	149193
 Diploneis bombus	237515	(Ehrenb.) Ehrenb. ex Cleve	Diploneis bombus	149194
 Diploneis didymus	237517	(Ehrenb.) Ehrenb.	Diploneis didymus	149195
@@ -1348,7 +1352,7 @@ Chaetoceros costatus	237315	Pavillard, 1911	Chaetoceros costatus	149289
 Chaetoceros brevis	237304	Schütt, 1895	Chaetoceros brevis	149291
 Chaetoceros anastomosans	237299	Grunow in Van Heurck, 1880-85	Chaetoceros anastomosans	149292
 Chaetoceros simplex	237346	Ostenfeld	Chaetoceros simplex	149294
-Chaetoceros ceratosporus	237306	Ostenf.	Chaetoceros ceratosporus	149297
+Chaetoceros ceratosporus	237306	Ostenfeld, 1910	Chaetoceros ceratosporus	149297
 Chaetoceros vistulae	237354	Apstein, 1909	Chaetoceros vistulae	149298
 Bellerocheaceae	2003160	R.M.Crawford	Bellerocheaceae	149304
 Bellerochea	1010383	Van Heurck	Bellerochea	149305
@@ -1377,12 +1381,12 @@ Licmophora	1010497	C.Agardh	Licmophora	149342
 Licmophora gracilis	237962	(Ehrenberg) Grunow, 1867	Licmophora gracilis	149343
 Licmophora paradoxa	237965	(Lyngbye) C.A. Agardh, 1836	Licmophora paradoxa	149344
 Meridion	1010521	C.Agardh	Meridion	149345
-Meridion circulare	238011	(Grev.) C.Agardh	Meridion circulare s.lat.	149346
+Meridion circulare	248637	(Grev.) C.Agardh	Meridion circulare	149346
 Plagiogramma staurophorum	237372	(Gregory) Heiberg, 1863	Plagiogramma staurophorum	149351
 Plagiogrammaceae	2003162	De Toni	Plagiogrammaceae	149353
 Opephora	1010520	P. Petit	Opephora	149358
 Fragilaria crotonensis	238014	Kitton	Fragilaria crotonensis	149360
-Fragilaria capucina	238013	Desm.	Fragilaria capucina s.lat.	149361
+Fragilaria capucina	262675	Desm.	Fragilaria capucina	149361
 Fragilaria construens	237989	(Ehrenb.) Grunow	Staurosira construens	149364
 Asterionella gracillima	256809	(Hantzsch) Heib.	Asterionella gracillima	149374
 Cocconeis scutellum	237798	Ehrenb.	Cocconeis scutellum	149376
@@ -1392,7 +1396,7 @@ Achnanthes lanceolata	237774	(Bréb. ex Kütz.) Grunow	Planothidium lanceolatum	
 Achnanthes lanceolata var. elliptica	262227	Cleve	Planothidium ellipticum	149386
 Achnanthes brevipes	237765	C.Agardh	Achnanthes brevipes	149387
 Cymbellales	3000603	D.G.Mann	Cymbellales	149389
-Rhoicospheniaceae	2003204	D.G.Mann	Rhoicospheniaceae	149390
+Rhoicospheniaceae	2003204	J.Y.Chen & H.Z.Zhu	Rhoicospheniaceae	149390
 Rhoicosphenia	1010482	Grunow	Rhoicosphenia	149391
 Diploneis smithii	237528	(Bréb.) Cleve	Diploneis smithii	149397
 Diploneis vacillans	237530	(Ant.Schmidt) Cleve	Diploneis vacillans	149399
@@ -1448,17 +1452,17 @@ Tropidoneis	1010433	Cleve	Tropidoneis	149518
 Auriculaceae	2003206	Hendey	Auriculaceae	149520
 Auricula	1010485	Castracane	Auricula	149521
 Amphora ovalis	237930	(Kütz.) Kütz.	Amphora ovalis	149524
-Cymbellaceae	2003202	Grev.	Cymbellaceae	149537
+Cymbellaceae	2003202	Kütz.	Cymbellaceae	149537
 Cymbella	1010477	C.Agardh	Cymbella	149538
 Cymbella ehrenbergii	237841	Kütz.	Cymbella ehrenbergii	149540
 Encyonema	1010476	Kütz.	Encyonema	149541
-Encyonema prostratum	237831	(Berk.) Kütz.	Encyonema leibleinii	149542
+Encyonema prostratum	237831	(Berkeley) Kütz.	Encyonema leibleinii	149542
 Cymbella affinis	237833	Kütz.	Cymbella affinis	149547
 Cymbella cymbiformis	237840	C.Agardh	Cymbella cymbiformis	149548
 Cymbella cistula	237838	(Ehrenb.) Kirchn.	Cymbella cistula s.lat.	149549
 Cymbella aspera	237836	(Ehrenb.) Cleve	Cymbella aspera	149551
 Gomphonemataceae	2003203	Kütz.	Gomphonemataceae	149552
-Gomphonema	1010479	Ehrenberg	Gomphonema	149553
+Gomphonema	1010479	Ehrenb.	Gomphonema	149553
 Gomphonema acuminatum	6319546	Ehrenb.	Gomphonema acuminatum var. acuminatum	149554
 Gomphonema augur	262737	Ehrenb.	Gomphonema augur	149556
 Gomphonema parvulum	262781	(Kütz.) Kütz.	Gomphonema parvulum	149557
@@ -1484,7 +1488,7 @@ Nitzschia linearis	237733	(C.Agardh) W.Sm.	Nitzschia linearis	149594
 Nitzschia recta	237744	Hantzsch in Rabenh.	Nitzschia recta	149595
 Nitzschia vitrea	237756	G.Norman	Nitzschia vitrea	149596
 Nitzschia amphibia	237711	Grunow	Nitzschia amphibia	149598
-Nitzschia fonticola	262985	Grunow in Van Heurck	Nitzschia fonticola var. fonticola	149599
+Nitzschia fonticola	262985	Grunow in Van Heurck	Nitzschia fonticola	149599
 Nitzschia pseudofonticola	263031	Hust.	Nitzschia pseudofonticola	149600
 Nitzschia palea	263022	(Kütz.) W.Sm.	Nitzschia palea var. palea	149601
 Nitzschia fruticosa	262989	Hust.	Nitzschia fruticosa	149602
@@ -1492,7 +1496,7 @@ Nitzschia sigmoidea	237748	(Nitzsch) W.Sm.	Nitzschia sigmoidea	149604
 Nitzschia fasciculata	237720	(Grunow) Grunow in Van Heurck	Nitzschia fasciculata	149605
 Nitzschia parvula	263029	W.Sm.	Nitzschia parvula	149606
 Nitzschia obtusa	237738	W.Sm.	Nitzschia obtusa	149607
-Nitzschia filiformis	262982	(W.Sm.) Van Heurck	Nitzschia filiformis var. filiformis	149608
+Nitzschia filiformis	262982	(W.Sm.) Van Heurck	Nitzschia filiformis	149608
 Surirella biseriata	237893	Bréb.	Surirella biseriata	149611
 Surirella striatula	237908	Turpin, 1828	Surirella striatula	149614
 Campylodiscus	1010490	Ehrenb. ex Kütz.	Campylodiscus	149616
@@ -1536,7 +1540,7 @@ Phalacroma rotundatum	263295	(Clap. & J.Lachm.) Kof. & J.R.Michener	Phalacroma r
 Ceratium hirundinella	238303	(O.F.Müll.) Dujard.	Ceratium hirundinella	156511
 Achnanthes longipes	237778	C.Agardh	Achnanthes armillaris	156533
 Pseudo-nitzschia pseudodelicatissima	237683	(Hasle) Hasle	Pseudo-nitzschia pseudodelicatissima	156548
-Eunotia incisa	262615	W.Greg.	Eunotia incisa	156555
+Eunotia incisa	262615	W.Sm. ex W.Greg.	Eunotia incisa	156555
 Eunotia pectinalis	237947	(Kütz.) Rabenh.	Eunotia pectinalis	156557
 Diploneis elliptica	237519	(Kütz.) Cleve	Diploneis elliptica	156558
 Gyrosigma obscurum	237644	(W.Sm.) Griffith & Henfrey	Gyrosigma obscurum	156569
@@ -1567,7 +1571,7 @@ Berkeleya rutilans	237503	(Trentep. ex Roth) Grunow	Berkeleya rutilans	156955
 Mastogloiales	3000602	D.G.Mann	Mastogloiales	157050
 Mastogloiaceae	2003200	Mereschk.	Mastogloiaceae	157051
 Mastogloia	1010471	Thwaites ex W.Sm.	Mastogloia	157052
-Mastogloia smithii	237812	Thwaites in W.Sm.	Mastogloia smithii	157053
+Mastogloia smithii	237812	Thwaites	Mastogloia smithii	157053
 Brachysiraceae	2003182	D.G.Mann	Brachysiraceae	157058
 Tabularia	1010518	(Kütz.) D.M.Williams & Round	Tabularia	157059
 Tabularia fasciculata	237996	(C.Agardh) D.M.Williams & Round	Tabularia fasciculata	157061
@@ -1610,7 +1614,7 @@ Helicotheca	1010428	Ricard	Helicotheca	157438
 Helicotheca tamesis	237486	(Shrubsole) Ricard, 1987	Helicotheca tamesis	157440
 Urosolenia	1010416	F.E. Round & R.M. Crawford	Urosolenia	157453
 Urosolenia eriensis	237463	(H.L.Sm.) Round & R.M.Crawford	Urosolenia eriensis	157455
-Fragilaria striatula	238019	Lyngb.	Grammonema striatulum	157458
+Fragilaria striatula	238019	Lyngbye	Fragilaria striatula	157458
 Dictyocha fibula	237176	Ehrenberg, 1839	Dictyocha fibula	157463
 Sarcinochrysidales	3000575	Gayral & Billard	Sarcinochrysidales	157466
 Phacus caudatus	257720	K. Hübner	Phacus caudatus	1578807
@@ -1620,7 +1624,7 @@ Attheya	1010378	T.West	Attheya	160519
 Attheya decora	237293	T.West	Attheya decora	160520
 Chaetoceros eibenii	237326	Grunow in Van Heurck, 1882	Chaetoceros eibenii	160521
 Chaetoceros lauderi	237333	Ralfs inauder, 1864	Chaetoceros lauderi	160523
-Chaetoceros wighamii	237353	Brightw.	Chaetoceros wighamii	160524
+Chaetoceros wighamii	237353	Brightwell, 1856	Chaetoceros wighamii	160524
 Anaulales	3000583	Round & R.M.Crawford	Anaulales	160525
 Anaulaceae	2003159	(Schütt) Lemmerm.	Anaulaceae	160526
 Pseudo-nitzschia pungens	237684	(Grunow ex Cleve) Hasle	Pseudo-nitzschia pungens	160528
@@ -1629,7 +1633,7 @@ Phaeocystis globosa	237016	Scherffel, 1899,1900	Phaeocystis globosa	160538
 Scenedesmaceae	2003290	Oltm.	Scenedesmaceae	160541
 Actinastrum	1010757	Lagerheim	Actinastrum	160542
 Actinastrum hantzschii	238839	Lagerh.	Actinastrum hantzschii	160543
-Chromulinaceae	2003599	Kjellm.	Chromulinaceae	160546
+Chromulinaceae	2003599	Engler	Chromulinaceae	160546
 Calycomonas	1010317	Lohmann	Ollicola	160548
 Coelastrum	1010744	Nägeli	Coelastrum	160550
 Coelastrum astroideum	238791	De Not.	Coelastrum astroideum	160551
@@ -1644,7 +1648,7 @@ Aphanizomenon	1010276	Morren ex Bornet & Flahault	Aphanizomenon	160567
 Coelomoron	1010262	Buell	Coelomoron	160568
 Coelomoron pusillum	263411	(Goor) Komárek	Coelomoron pusillum	160569
 Synechococcaceae	2003848	NA	Synechococcaceae	160570
-Synechococcus	1015936	Nägeli	Synechococcus	160572
+Synechococcus	1015936	NA	Synechococcus	160572
 Trebouxiophyceae	4000179	Friedl	Trebouxiophyceae	160573
 Chlorellales	3000640	H.C.Bold & M.J.Wynne	Chlorellales	160574
 Chlorellaceae	2003302	Brunnth.	Chlorellaceae	160575
@@ -1666,14 +1670,14 @@ Pedinellales	3000572	Zimmermann, Moestrup & Hällfors	Pedinellales	160597
 Pedinellaceae	2003144	Pascher	Pedinellaceae	160598
 Pseudopedinella	1010347	N. Carter	Pseudopedinella	160599
 Pseudopedinella pyriformis	237165	N.Carter	Pseudopedinella pyriformis	160600
-Scenedesmus	6034741	Meyen	Didymocystis	160602
-Achnanthes latissima	237775	Cleve-Euler	Achnanthes latissima	160635
+Scenedesmus	6034741	Meyen	Acutodesmus	160602
+Achnanthes latissima	237775	A.Cleve	Achnanthes latissima	160635
 Actinocyclus octonarius var. crassus	248669	NA	Actinocyclus octonarius var. crassus	160648
 Actinocyclus octonarius var. tenellus	245175	(Brébisson) Hendey 1954	Actinocyclus octonarius var. tenellus	160650
 Amphipleura	1010436	Kützing	Amphipleura	160653
 Amphora bacillaris	237921	Gregory, 1857	Amphora bacillaris	160682
 Amphora laevissima	262416	W.Greg.	Amphora laevissima	160703
-Amphora lineolata	237927	(Ehrenb.) Kütz.	Amphora lineolata	160704
+Amphora lineolata	237927	Ehrenberg, 1838	Amphora lineolata	160704
 Amphora robusta	237934	Gregory, 1857	Amphora robusta	160725
 Anaulus	1010382	Ehrenb.	Anaulus	161535
 Asterolamprales	3000586	Round	Asterolamprales	162250
@@ -1688,7 +1692,7 @@ Arthrospira	1010233	Stizenb. ex Gomont	Arthrospira	162385
 Pronoctilucaceae	2003931	NA	Pronoctilucaceae	162515
 Corymbellus	1010301	J. C. Green	Corymbellus	162518
 Corymbellus aureus	237010	Green, 1976	Corymbellus aureus	162519
-Cladophora rivularis	251419	(L.) Kuntze	Cladophora rivularis	162525
+Cladophora rivularis	251419	(L.) C.Hoek	Cladophora rivularis	162525
 Gymnodinium arcticum	238325	A. Wulff	Gymnodinium arcticum	162529
 Gymnodinium cnecoides	257871	T.M. Harris	Gymnodinium cnecoides	162534
 Urospora bangioides	232846	(Harv.) Holmes & Batters	Urospora bangioides	162545
@@ -1699,7 +1703,7 @@ Aphanocapsa parasitica	236840	(Kütz.) Komárek & Anagn.	Aphanocapsa parasitica	
 Aphanocapsa planctonica	236841	(G.M.Sm.) Komárek & Anagn.	Aphanocapsa planctonica	162672
 Aphanocapsa reinboldii	263407	(P.G.Richt.) Komárek & Anagn.	Aphanocapsa reinboldii	162673
 Aphanocapsa rivularis	236843	(Carmich.) Rabenh.	Aphanocapsa rivularis	162675
-Aphanothece castagnei	236795	(Bréb.) Rabenh.	Aphanothece castagnei	162683
+Aphanothece castagnei	236795	(Kütz.) Rabenh.	Aphanothece castagnei	162683
 Aphanothece microscopica	236797	Nägeli	Aphanothece microscopica	162688
 Aphanothece saxicola	236799	Nägeli	Aphanothece saxicola	162690
 Zygnematales	3000403	G.M.Sm.	Zygnematales	162693
@@ -1736,7 +1740,7 @@ Attheya septentrionalis	237295	(Østrup) Crawford in Crawford, Gardner & Medlin	
 Aulacoseira alpigena	237392	(Grunow) Krammer	Aulacoseira alpigena	162837
 Aulacoseira crenulata	237398	(Ehrenb.) Thwaites	Aulacoseira italica	162846
 Aulacoseira granulata var. granulata	248666	(Ehrenb.) Simonsen	Aulacoseira granulata var. granulata	162864
-Aulacoseira granulata var. angustissima	245178	(O.Müll.) Simonsen	Aulacoseira granulata var. angustissima	162865
+Aulacoseira granulata var. angustissima	245178	(O.F.Müll.) Simonsen	Aulacoseira granulata var. angustissima	162865
 Aulacoseira islandica subsp. islandica	248664	(O.Müll.) Simonsen	Aulacoseira islandica subsp. islandica	162867
 Aulacoseira islandica subsp. helvetica	248665	(O.F.Müll.) Simonsen	Aulacoseira islandica subsp. helvetica	162869
 Aulacoseira italica	237398	(Ehrenb.) Simonsen	Aulacoseira italica	162877
@@ -1801,7 +1805,7 @@ Cyclotella distinguenda	237231	Hust.	Cyclotella distinguenda	163202
 Cyclotella kuetzingiana var. radiosa	256801	Fricke	Pantocsekiella rossii	163207
 Cyclotella ocellata	237235	Pant.	Pantocsekiella ocellata	163211
 Cyclotella planctonica	237236	Brunnth.	Cyclotella planctonica	163213
-Cyclotella schumannii	237239	(Grunow in Van Heurck) Håk.	Pantocsekiella schumannii	163217
+Cyclotella schumannii	237239	(Grunow) Håk.	Pantocsekiella schumannii	163217
 Cyclotella socialis	237240	F.Schütt	Lindavia socialis	163219
 Cyclotella wulfiae	237243	B.Meyer & Håk.	Cyclotella wulfiae	163223
 Dimeregramma	1010388	Ralfs	Dimeregramma	163233
@@ -1845,7 +1849,7 @@ Phacus helikoides	257723	Pochm.	Phacus helikoides	163373
 Phacus longicauda	238587	(Ehrenb.) Dujard.	Phacus longicauda	163375
 Phacus skujae	257725	Skvortsov	Phacus skujae	163383
 Phacus orbicularis	257724	NA	Phacus orbicularis	163386
-Skeletonema potamos	237216	(C.I.Weber) Hasle	Skeletonema potamos	163390
+Skeletonema potamos	237216	(Weber) Hasle in Hasle & Evensen, 1976	Skeletonema potamos	163390
 Stellarima microtrias	237405	(Ehrenberg) Hasle & Sims, 1986	Stellarima microtrias	163394
 Lepocinclis	1010669	Perty	Lepocinclis	163401
 Stephanodiscus alpinus	237219	Hust. in Huber-Pestalozzi, 1942	Stephanodiscus alpinus	163402
@@ -1899,8 +1903,8 @@ Planothidium	1016139	Round & Bukht.	Planothidium	163540
 Planothidium dubium	263011	(Grunow) Round & Bukht.	Planothidium dubium	163578
 Achnanthes minuscula	237779	Hust.	Achnanthes minuscula	163580
 Achnanthes minutissima	6012092	Kütz.	Achnanthidium minutissimum	163582
-Achnanthidium minutissimum	262234	(Kütz.) Czarn.	Achnanthidium minutissimum s.lat.	163594
-Didiniidae	6009240	NA	Mesodiniidae s.lat.	163617
+Achnanthidium minutissimum	6012092	(Kütz.) Czarn.	Achnanthidium minutissimum	163594
+Didiniidae	6009240	NA	Didiniidae	163617
 Pauliella	1010432	Round & Basson	Pauliella	163623
 Pauliella taeniata	237490	(Grunow) Round & Basson	Pauliella taeniata	163624
 Achnanthes thermalis	237790	(Rabenh.) Schönf.	Achnanthes thermalis	163626
@@ -1915,7 +1919,7 @@ Amphora copulata	237924	(Kütz.) Schoeman & R.E.M.Archibald	Amphora copulata	163
 Amphora delicatissima	237925	Krasske in Hustedt, 1930	Amphora delicatissima	163665
 Amphora micrometra	237928	Giffen, 1966	Amphora micrometra	163669
 Amphora normanii	237929	Rabenh.	Halamphora normanii	163670
-Amphora pediculus	6008148	(Kütz.) Grunow in A.Schmidt	Amphora indistincta	163673
+Amphora pediculus	6008148	(Kütz.) Grunow in A.Schmidt	Amphora brevis	163673
 Amphora perpusilla	237932	(Grunow) Grunow in Van Heurck, 1884	Amphora perpusilla	163676
 Lyrellales	3000601	D.G.Mann	Lyrellales	163680
 Aneumastus	1010470	D.G. Mann & A.J. Stickle	Aneumastus	163681
@@ -1931,7 +1935,7 @@ Bleakeleya notata	237983	(Grunow) Round in Round et al., 1990	Bleakeleya notata	
 Tetraselmis convolutae	238990	(Parke & Manton) R.E.Norris, T.Hori & Chihara	Tetraselmis convolutae	163747
 Brachysira serians	237505	(Bréb. ex Kütz.) Round & Mann	Brachysira serians	163748
 Brebissonia lanceolata	237822	(C.A. Agardh) Mahoney & Reimer, 1984	Brebissonia lanceolata	163765
-Caloneis bacillum	6006317	s.auct., p.p.	Caloneis lancettula	163775
+Caloneis bacillum	6006318	s.auct., p.p.	Caloneis fontinalis	163775
 Caloneis crassa	237536	(Gregory) R. Ross in Hartley	Caloneis crassa	163777
 Tintinnopsis	1009936	Stein, 1867	Tintinnopsis	163780
 Tintinnopsis beroidea	238545	von Stein, 1867	Tintinnopsis beroidea	163782
@@ -1943,26 +1947,26 @@ Tintinnopsis nana	6009252	Lohmann, 1908	Tintinnopsis nana	163804
 Caloneis subsalina	237541	(Donkin) Hendey	Caloneis amphisbaena var. subsalina	163807
 Campylodiscus bicostatus	237915	W. Smith in Roper, 1854	Campylodiscus bicostatus	163814
 Campylodiscus clypeus	237916	(Ehrenb.) Ehrenb. ex Kütz.	Campylodiscus clypeus	163816
-Campylodiscus echeneis	237917	Ehrenb. ex Kütz.	Campylodiscus echenëis	163821
+Campylodiscus echeneis	237917	Ehrenberg, 1840	Campylodiscus echenëis	163821
 Campylodiscus hibernicus	237918	Ehrenb., 1845	Campylodiscus hibernicus	163822
 Campylodiscus noricus	237919	Ehrenb., 1841	Campylodiscus noricus	163823
 Gyrodinium aureum	263258	(W.Conrad) J.Schiller	Gyrodinium aureum	163826
 Catacombas	1010518	D.M. Wiliams & Round	Tabularia	163831
 Catacombas gaillonii	237982	(Bory) D.M.Williams & Round	Tabularia gaillonii	163834
 Catenula	1010491	Mereschk.	Catenula	163838
-Catenula adhaerens	237920	(Mereschkowsky) Mereschkowsky, 1902-1903	Catenula adhaerens	163839
+Catenula adhaerens	237920	(Mereschk.) Mereschk.	Catenula adhaerens	163839
 Cavinulaceae	2003183	D.G.Mann	Cavinulaceae	163842
 Cavinula	1010440	Mann & Stickle	Cavinula	163844
-Cavinula cocconeiformis	262445		Cavinula cocconeiformis f. cocconeiformis	163847
+Cavinula cocconeiformis	262445	(W.Greg. ex Grev.) D.G.Mann & A.J.Stickle	Cavinula cocconeiformis	163847
 Cavinula lacustris	237508	(Gregory) D.G. Mann & Stickle in Round et al., 1990	Lacustriella lacustris	163850
 Cavinula pseudoscutiformis	237509	(Hust.) D.G.Mann & Stickle in Round & al.	Cavinula pseudoscutiformis	163852
-Cavinula variostriata	237510	(Krasske) D.G.Mann in Round & al.	Cavinula variostriata	163854
+Cavinula variostriata	237510	(Krasske) D.G.Mann & Stickle	Cavinula variostriata	163854
 Cocconeis costata	237791	W.Greg.	Cocconeis costata	163856
-Cocconeis disculus	237792	(Schum.) Cleve	Cocconeis disculus	163859
+Cocconeis disculus	237792	(Schumann) Cleve in Cleve & Jentzsch	Cocconeis disculus	163859
 Protoperidinium claudicans	238246	(Paulsen) Balech, 1974	Protoperidinium claudicans	163862
 Cocconeis neodiminuta	237793	Krammer	Cocconeis neodiminuta	163863
 Cocconeis neothumensis	237794	Krammer	Cocconeis neothumensis	163868
-Cocconeis pinnata	237796	Gregory ex Greville	Cocconeis pinnata	163872
+Cocconeis pinnata	237796	W.Greg. ex Grev.	Cocconeis pinnata	163872
 Cocconeis placentula var. placentula	248653	NA	Cocconeis placentula var. placentula	163873
 Cocconeis scutellum var. scutellum	245181	NA	Cocconeis scutellum var. scutellum	163880
 Cocconeis scutellum var. parva	262464	(Grunow in Van Heurck) Cleve	Cocconeis scutellum var. parva	163883
@@ -1984,7 +1988,7 @@ Tintinnopsis lata	238550	Meunier, 1910	Tintinnopsis lata	163918
 Tintinnopsis lobiancoi	235144	Daday	Tintinnopsis lobiancoi	163919
 Ctenophora pulchella	262474	(Ralfs ex Kütz.) D.M.Williams & Round	Ctenophora pulchella	163922
 Protoperidinium curvipes	238252	(Ostenfeld) Balech, 1974	Protoperidinium curvipes	163934
-Cymatopleura elliptica	262481	(Bréb. ex Kütz.) W.Sm.	Cymatopleura elliptica var. elliptica	163940
+Cymatopleura elliptica	262481	(Bréb. ex Kütz.) W.Sm.	Cymatopleura elliptica	163940
 Cymatopleura elliptica var. elliptica	237913	(Bréb. ex Kütz.) W.Sm.	Cymatopleura elliptica var. elliptica	163942
 Cymatopleura elliptica var. hibernica	256779	(W. Sm.) Van Heurck	Cymatopleura elliptica var. hibernica	163943
 Centritractaceae	2003622	NA	Centritactaceae	163944
@@ -2026,15 +2030,15 @@ Kirchneriella lunaris	238743	(Kirchner) Möbius, 1894	Kirchneriella lunaris	1640
 Scenedesmus arcuatus	238812	(Lemmerm.) Lemmerm.	Comasiella arcuata	164076
 Micractinium quadrisetum	238733	(Lemmerm.) G.M. Sm., 1916	Micractinium quadrisetum	164080
 Diploneis stroemii	237529	Hust.	Diploneis stroemii	164085
-Encyonema elginense	262545	(Krammer) D.G.Mann in Round & al.	Encyonema elginense var. elginense	164088
+Encyonema elginense	262545	(Krammer) D.G.Mann in Round & al.	Encyonema elginense	164088
 Schizochlamys	1010794	A.Braun ex Kütz.	Schizochlamys	164090
 Schizochlamys gelatinosa	238923	A.Braun	Schizochlamys gelatinosa	164091
 Golenkinia	1010725	Chodat	Golenkinia	164093
 Golenkinia radiata	238731	(Chodat) Korshikov, 1894	Golenkinia radiata	164095
 Characiaceae	2003284	(Nägeli) Wittr.	Characiaceae	164096
 Encyonema hyndmanii	237826	W.Sm.	Encyonema hyndmanii	164098
-Encyonema lacustre	237827	(C.Agardh) D.G.Mann	Encyonema lacustre	164099
-Odontella mobiliensis	237376	(J.W. Bailey) Grunow, 1884	Trieres mobiliensis	164116
+Encyonema lacustre	237827	(Agardh) Pantocsek	Encyonema lacustre	164099
+Odontella mobiliensis	237376	(Bailey) Grunow	Trieres mobiliensis	164116
 Hyphochytriales	3000698	E.A.Bessey ex P.M.Kirk & al.	Hyphochytriales	164139
 Chlorotetraedron incus	257944	(Teiling) Komárek & Kovácik	Chlorotetraedron incus	1648094
 Strombidiidae	2003925	Fauré-Fremiet, 1970	Strombidiidae	1703
@@ -2061,7 +2065,7 @@ Epithemia frickei	237882	Krammer	Epithemia frickei	172282
 Epithemia turgida var. turgida	237885	(Ehrenb.) Kütz.	Epithemia turgida var. turgida	172292
 Epithemia turgida var. granulata	262584	(Ehrenb.) Brun	Epithemia turgida var. granulata	172293
 Epithemia turgida var. westermannii	262585	(Ehrenb.) Grunow	Epithemia turgida var. westermannii	172298
-Eunotia bilunaris	6008141	(Ehrenb.) Schaarschm.	Eunotia bilunaris	172305
+Eunotia bilunaris	6008141	(Ehrenb.) Mills	Eunotia bilunaris s.lat.	172305
 Eunotia bilunaris var. bilunaris	237938	(Ehrenb.) Mills	Eunotia bilunaris s.lat.	172311
 Eunotia bilunaris var. mucophila	262594	Lange-Bert., Nörpel & Alles	Eunotia mucophila	172312
 Eunotia diodon	237939	Ehrenb.	Eunotia diodon	172314
@@ -2085,8 +2089,8 @@ Fallacia	1010456	Stickle & D.G.Mann	Fallacia	172375
 Fallacia cryptolyra	237662	(C.Brockmann) Stickle & D.G.Mann in Round & al.	Fallacia cryptolyra	172376
 Fallacia pygmaea	237663	(Kütz.) A.J.Stickle & D.G.Mann in Round & al.	Fallacia pygmaea	172380
 Fragilaria capucina var. capucina	248644	Desm.	Fragilaria capucina var. capucina	172385
-Fragilaria gracilis	262682	Østrup	Fragilaria gracilis	172387
-Fragilaria mesolepta	262684	Rabenh.	Fragilaria mesolepta s.lat.	172394
+Fragilaria gracilis	262682	Østrup	Fragilaria radians	172387
+Fragilaria mesolepta	262684	Rabenh.	Fragilaria mesolepta	172394
 Fragilaria heidenii	238015	Østrup	Fragilaria heidenii	172397
 Fragilaria hyalina	238016	(Kütz.) Grunow	Fragilaria hyalina	172400
 Fragilaria istvanffyi	238017	Pant.	Fragilaria istvanffyi	172402
@@ -2094,7 +2098,7 @@ Exilaria vaucheriae	238020	Kütz.	Fragilaria vaucheriae	172406
 Fragilaria capucina var. vaucheriae	238020	(Kütz.) Lange-Bert.	Fragilaria vaucheriae	172408
 Fragilariforma	1010517	D.M.Williams & Round	Fragilariforma	172409
 Fragilariforma virescens	262364	(Ralfs) D.M.Williams & Round	Fragilariforma virescens	172411
-Fragilariopsis cylindrus	237690	(Grunow) Freng.	Fragilariopsis cylindrus	172418
+Fragilariopsis cylindrus	237690	(Grunow in Cleve & Möller) W.Krieg. in Helmcke & Krieg.	Fragilariopsis cylindrus	172418
 Xystonellidae	2003262	Kofoid & Campbell, 1929	Xystonellidae	172429
 Favella	1010642	Kofoid & Campbell	Favella	172431
 Helicostomella	1009935	Jörgensen emend., 1924 	Helicostomella	172434
@@ -2111,7 +2115,7 @@ Gomphonema affine	237859	Kütz.	Gomphonema affine	172470
 Pteromonas angulosa	257553	Lemmerm.	Pteromonas angulosa	172471
 Gomphonema apicatum	237861	Ehrenb.	Gomphonema apicatum	172500
 Gomphonema bohemicum	237863	Reichelt & Fricke	Gomphonema bohemicum	172501
-Gomphonemopsis	1010481	Medlin	Gomphonemopsis	172502
+Gomphonemopsis	1010481	L.K. Medlin	Gomphonemopsis	172502
 Gomphonemopsis exigua	262753	(Kützing) Medlin in Medlin & Round, 1986	Gomphonemopsis exigua	172503
 Gomphonemopsis pseudexigua	237873	(Simonsen) Medlin in Medlin & Round, 1986	Gomphonemopsis pseudexigua	172506
 Gyrosigma diaphanum	237637	Cleve	Gyrosigma diaphanum	172519
@@ -2132,7 +2136,7 @@ Navicula amphibola	237543	Cleve	Navicula amphibola	172675
 Navicula compositestriata	237551	Jasnitsky	Navicula compositestriata	172705
 Navicula cryptotenella	237555	Lange-Bert.	Navicula cryptotenella	172711
 Navicula peregrina var. peregrina	248634	NA	Navicula peregrina var. peregrina	172725
-Navicula perminuta	237584	Grunow in Van Heurck	Navicula perminuta	172731
+Navicula perminuta	237584	Grunow	Navicula perminuta	172731
 Navicula duerrenbergiana	237559	Hust. in A. Schmidt	Navicula duerrenbergiana	172795
 Navicula erifuga	237560	Lange-Bert.	Navicula erifuga	172796
 Navicula granii	237563	(Jørg.) Gran	Navicula granii	172797
@@ -2144,7 +2148,7 @@ Navicula laterostrata	237571	Hust.	Navicula laterostrata	172821
 Navicula lesmonensis	237572	Hust.	Hippodonta lesmonensis	172822
 Navicula lucidula	237573	Grunow in Van Heurck	Navicula lucidula	172824
 Navicula meniscus	237575	Schum.	Navicula meniscus	172826
-Navicula microcephala	237576	Grunow in Van Heurck	Navicula microcephala	172827
+Navicula microcephala	237576	Grunow	Brachysira microcephala	172827
 Navicula oblonga	237579	(Kütz.) Kütz.	Navicula oblonga	172833
 Navicula pelagica	237581	Cleve	Navicula pelagica	172836
 Navicula phyllepta	237585	Kütz.	Navicula phyllepta	172845
@@ -2176,23 +2180,23 @@ Neidium iridis	237611	(Ehrenb.) Cleve	Neidium iridis	175359
 Neidium productum	237612	(W.Sm.) Cleve	Neidium productum	175364
 Neosynedra	1010508	D. M. Williams et F. E. Round	Neosynedra	175367
 Neosynedra provincialis	237981	(Grunow) Williams & Round, 1986	Neosynedra provincialis	175369
-Nitzschia acicularis var. acicularis	248631	(Kütz.) W.Sm.	Nitzschia acicularis var. acicularis	175373
+Nitzschia acicularis var. acicularis	248631		Nitzschia acicularis var. acicularis	175373
 Nitzschia acicularis var. closterioides	256764	Grunow	Nitzschia acicularis var. closterioides	175374
-Nitzschia acula	237710	(Kütz.) Hantzsch	Nitzschia acula	175377
-Nitzschia capitellata	237713	Hust. in A.W.F.Schmidt	Nitzschia capitellata	175380
+Nitzschia acula	237710	Hantzsch ex Cleve & Grunow	Nitzschia acula	175377
+Nitzschia capitellata	237713	Hust.	Nitzschia capitellata	175380
 Nitzschia clausii	237714	Hantzsch	Nitzschia clausii	175381
 Nitzschia communis	237715	Rabenh.	Nitzschia communis	175382
 Nitzschia elegantula	237719	Grunow in Van Heurck	Nitzschia elegantula	175386
 Nitzschia frigida	237723	Grunow in Cleve & Grunow	Nitzschia frigida	175400
-Nitzschia frustulum	262987	(Kütz.) Grunow in Cleve & Grunow	Nitzschia frustulum	175404
+Nitzschia frustulum	262987	(Kütz.) Grunow in Cleve & Grunow	Nitzschia frustulum var. frustulum	175404
 Nitzschia gandersheimiensis	237725	Krasske, 1927	Nitzschia gandersheimiensis	175409
 Nitzschia hantzschiana	237727	Rabenh.	Nitzschia hantzschiana	175410
 Nitzschia homburgiensis	237728	Lange-Bert.	Nitzschia homburgiensis	175417
 Nitzschia hybrida	237729	Grunow in Cleve & Grunow	Nitzschia hybrida	175419
-Nitzschia inconspicua	6021710	Grunow	Nitzschia soratensis	175420
+Nitzschia inconspicua	6021710	Grunow	Nitzschia inconspicua	175420
 Nitzschia intermedia	237731	Hantzsch ex Cleve & Grunow	Nitzschia intermedia	175421
 Nitzschia lacunarum	237732	Hust.	Nitzschia lacunarum	175422
-Nitzschia lorenziana	237735	Grunow	Nitzschia lorenziana	175425
+Nitzschia lorenziana	237735	Grunow in Cleve & Grunow	Nitzschia lorenziana	175425
 Nitzschia nana	237737	Grunow in Van Heurck	Nitzschia nana	175427
 Nitzschia ovalis	237739	Arn. ex Grunow in Cleve & Grunow	Nitzschia ovalis	175430
 Nitzschia palea var. palea	237740	NA	Nitzschia palea var. palea	175432
@@ -2206,7 +2210,7 @@ Nitzschia umbonata	237753	(Ehrenb.) Lange-Bert.	Nitzschia umbonata	175455
 Nitzschia valdestriata	237754	Aleem & Hust.	Nitzschia valdestriata	175457
 Nitzschia vermicularis	237755	(Kütz.) Hantzsch in Rabenh.	Nitzschia vermicularis	175458
 Opephora marina	238009	(Gregory) Petit, 1888	Opephora marina	175464
-Opephora mutabilis	6006591	(Grunow) Sabbe & Wyverman	Opephora mutabilis	175467
+Opephora mutabilis	6006591	(Grunow) Sabbe & Wyverman	Opephora mutabilis/olsenii	175467
 Parlibellus	1010437	E.J.Cox	Parlibellus	175548
 Parlibellus plicatus	237501	(Donkin) E.J.Cox	Parlibellus plicatus	175549
 Parlibellus rhombicus	237502	(W.Greg.) E.J.Cox	Parlibellus rhombicus	175553
@@ -2219,7 +2223,7 @@ Petroneis latissima	237802	(Gregory) Stickle & D.G. Mann in Round et al., 1990	P
 Petroneis marina	237803	(Ralfs in Pritchard) D.G. Mann in Round et al., 1990	Petroneis marina	175578
 Phaeodactylaceae	2003189	J.C.Lewin	Phaeodactylaceae	175581
 Phaeodactylum	1010449	Bohlin	Phaeodactylum	175582
-Phaeodactylum tricornutum	237613	Bohlin	Phaeodactylum tricornutum	175584
+Phaeodactylum tricornutum	237613	Bohlin, 1897	Phaeodactylum tricornutum	175584
 Pinnularia appendiculata	237614	(C.Agardh) Cleve	Pinnularia appendiculata	175586
 Pinnularia dactylus	237617	Ehrenberg, 1843	Pinnularia dactylus	175609
 Pinnularia elegans	237618	(W. Smith) Krammer, 1992	Pinnularia elegans	175610
@@ -2228,10 +2232,10 @@ Pinnularia nodosa	237626	(Ehrenb.) W.Sm.	Pinnularia nodosa	175643
 Pinnularia polaris	237627	Heiden, 1905	Pinnularia polaris	175649
 Pinnularia subcapitata	237628	W.Greg.	Pinnularia subcapitata	175654
 Placoneis	1010474	Mereschk.	Placoneis	175666
-Placoneis clementis	6053323	p.p., s.auct, non (Grunow) E.J.Cox	Placoneis nanoclementis	175668
+Placoneis clementis	6053322	p.p., s.auct, non (Grunow) E.J.Cox	Placoneis clementispronina	175668
 Placoneis elginensis	237818	(W.Greg.) E.J.Cox	Placoneis elginensis	175671
 Placoneis exigua	237819	(Gregory) Mereschkowsky, 1903	Placoneis exigua	175680
-Placoneis gastrum	237820	(Ehrenb.) Mereschk.	Placoneis gastrum	175690
+Placoneis gastrum	237820	(Ehrenberg) Mereschkowsky, 1903	Placoneis gastrum	175690
 Placoneis placentula	237821	(Ehrenberg) Heinzerling, 1908	Paraplaconeis placentula	175694
 Plagiotropis vanheurckii	237633	Grunow	Tropidoneis vanheurckii	175705
 Proschkinia	1010454	N.I. Karajeva	Proschkinia	175718
@@ -2240,15 +2244,15 @@ Pseudo-nitzschia multiseries	237682	(Hasle) Hasle	Pseudo-nitzschia multiseries	1
 Pseudostaurosira	1010514	D.M.Williams & Round	Pseudostaurosira	175755
 Pseudostaurosira brevistriata	262363	(Grunow) D.M.Williams & Round	Pseudostaurosira brevistriata	175757
 Reimeria	1010478	Kociolek & Stoermer	Reimeria	175782
-Reimeria sinuata	6000424	NA	Reimeria sinuata f. sinuata	175783
+Reimeria sinuata	6000424	(W.Greg.) Kociolek & Stoermer	Reimeria sinuata	175783
 Rhabdonema minutum	237967	Kützing, 1844	Rhabdonema minutum	175790
 Rhoicosphenia abbreviata	237874	(C.Agardh) Lange-Bert.	Rhoicosphenia abbreviata	175794
-Rhoicosphenia marina	237875	(W. Smith) M. Schmidt in A. Schmidt, 1899	Rhoicosphenia marina	175804
+Rhoicosphenia marina	237875	(Kütz.) Mart.Schmidt	Rhoicosphenia marina	175804
 Rhopalodia acuminata	237876	Krammer	Rhopalodia acuminata	175807
 Sellaphora bacillum	237658	(Ehrenb.) D.G.Mann	Sellaphora bacillum	175869
 Sellaphora laevissima	237659	(Kütz.) D.G.Mann	Sellaphora laevissima	175870
 Stauroneis halmei	237666	Mölder, 1939	Stauroneis halmei	175887
-Stauroneis legumen	6006628	(Ehrenb.) Kütz.	Stauroneis leguminiformis	175889
+Stauroneis legumen	6006628	(Ehrenb.) Kütz.	Stauroneis legumen s.lat.	175889
 Stauroneis prominula	237669	(Grunow) Hustedt, 1959	Stauroneis prominula	175896
 Staurophora	1010472	R.L., 1817	Staurophora	175921
 Staurophora amphioxys	237813	(Gregory) D.G. Mann in Round et al., 1990	Staurophora amphioxys	175922
@@ -2309,16 +2313,16 @@ Cryptophyta	5000059	Caval.-Sm.	Cryptophyta	17638
 Tropidoneis dannfeltii	237491	Cleve-Euler, 1952	Tropidoneis dannfeltii	176384
 Tryblionella	1010461	W. Sm.	Tryblionella	176385
 Tryblionella acuminata	237693	W. Smith, 1853	Tryblionella acuminata	176386
-Cryptophyceae	4000167	F.E.Fritsch	Cryptophyceae	17639
+Cryptophyceae	4000167	Fritsch	Cryptophyceae	17639
 Tryblionella angustata	237694	W.Sm.	Tryblionella angustata	176390
 Tryblionella apiculata	237695	W.Greg.	Tryblionella apiculata	176393
-Cryptomonadales	3000615	E.G.Pringsh.	Cryptomonadales	17640
+Cryptomonadales	3000615	Engl.	Cryptomonadales	17640
 Tryblionella circumsuta	237696	(J.W. Bailey) Ralfs in Pritchard, 1861	Tryblionella circumsuta	176404
 Tryblionella coarctata	237697	(Grunow in Cleve & Grunow) D.G. Mann in Round et al., 1990	Tryblionella coarctata	176409
 Hemiselmidaceae	2003221	Butcher ex P.C.Silva	Hemiselmidaceae	17641
 Tryblionella debilis	237698	Arn. ex O'Meara	Tryblionella debilis	176411
 Tryblionella gracilis	237699	W. Smith, 1853	Tryblionella gracilis	176414
-Tryblionella levidensis	237701	W. Smith, 1856	Tryblionella levidensis	176420
+Tryblionella levidensis	237701	W.Sm.	Tryblionella levidensis	176420
 Cryptomonadaceae	2003220	Ehrenb.	Cryptomonadaceae	17644
 Leucocryptos	1010526	Butcher	Leucocryptos	17651
 Tryblionella littoralis	237702	(Grunow) D.G.Mann	Tryblionella littoralis	176527
@@ -2344,9 +2348,9 @@ Cyanodictyon reticulatum	236880	(Lemmerm.) Geitler	Cyanodictyon reticulatum	1771
 Cyanonephron	1010268	B.Hickel	Cyanonephron	177121
 Cyanonephron styloides	263738	B.Hickel	Cyanonephron styloides	177122
 Eucapsis	1010258	Clem. & Shantz	Eucapsis	177125
-Eucapsis alpina	236850	F.E.Clements & H.L.Schantz	Eucapsis alpina	177126
+Eucapsis alpina	236850	Clem. & Shantz	Eucapsis alpina	177126
 Eucapsis minuta	236851	Fritsch, 1912	Eucapsis minuta	177128
-Gomphosphaeria multiplex	236792	(Nygaard) Komárek	Gomphosphaeria multiplex	177133
+Gomphosphaeria multiplex	236792	Komárek	Gomphosphaeria multiplex	177133
 Gomphosphaeria salina	236793	Komárek & Hindák	Gomphosphaeria salina	177136
 Lemmermanniella	1010266	Geitler	Lemmermanniella	177138
 Lemmermanniella pallida	236875	(Lemmerm.) Geitler	Lemmermanniella pallida	177140
@@ -2410,7 +2414,7 @@ Pseudanabaena biceps	236785	Böcher	Pseudanabaena biceps	177589
 Pseudanabaena limnetica	236786	(Lemmerm.) Komárek	Pseudanabaena limnetica	177590
 Pseudanabaena mucicola	236787	(Naumann & Hub.-Pest.) Schwabe	Pseudanabaena mucicola	177592
 Romeria	1010243	Koczw. in Geitler	Romeria	177595
-Romeria elegans	236783	Koczw. in Geitler	Romeria elegans	177596
+Romeria elegans	236783	(Wołosz.) Koczw. in Geitler	Romeria elegans	177596
 Spirulina baltica	236148	B.Martens & Pankow	Spirulina baltica	177598
 Spirulina meneghiniana	236151	Zanardini ex Gomont	Spirulina meneghiniana	177601
 Trichodesmium	1010235	Ehrenb. ex Gomont	Trichodesmium	177604
@@ -2423,7 +2427,7 @@ Anabaena catenula	263623	(Kütz.) Bornet & Flahault	Anabaena catenula	177631
 Anabaena spiroides f. baltica	236903	(Johs.Schmidt ) Pankow	Anabaena spiroides f. baltica	177638
 Anabaena cylindrica	236906	Lemmerm.	Anabaena cylindrica	177649
 Anabaena echinospora	236907	Skuja	Anabaena echinospora	177651
-Anabaena inaequalis	236910	(Kütz.) Bornet & Flahault	Anabaena inaequalis	177659
+Anabaena inaequalis	236910	Bornet & Flahault	Anabaena inaequalis	177659
 Psammodiscaceae	2003214	Round & D.G.Mann	Psammodiscaceae	177855
 Berkeleyaceae	2003181	D.G.Mann	Berkeleyaceae	177859
 Proschkiniaceae	2003193	D.G.Mann	Proschkiniaceae	177873
@@ -2435,11 +2439,11 @@ Chaetoceros neogracilis	263171	VanLand.	Chaetoceros neogracilis	178207
 Brachytrichia quoyi	263703	Bornet & Flahault	Brachytrichia quoyi	178434
 Calothrix parasitica	263667	Thur. ex Bornet & Flahault	Calothrix parasitica	178437
 Calothrix pulvinata	263668	C.Agardh ex Bornet & Flahault	Calothrix pulvinata	178438
-Cyanocystis violacea	263453	(Crouan) Komárek & Anagn.	Cyanocystis violacea	178441
+Cyanocystis violacea	263453	(P.Crouan & H.Crouan) Komárek & Anagn.	Cyanocystis violacea	178441
 Isactis	1016297	Thur. ex Bornet & Flahault	Isactis	178446
 Isactis plana	263675	Thur. ex Bornet & Flahault	Isactis plana	178448
 Leptolyngbya valderiana	263581	(Gomont) Anagn. & Komárek	Leptolyngbya valderiana	178456
-Microcoleus vaginatus	263498	Gomont ex Gomont	Microcoleus vaginatus	178464
+Microcoleus vaginatus	263498	(Vaucher) Gomont	Microcoleus vaginatus	178464
 Nodularia harveyana	236923	Thuret ex Bornet & Flahault	Nodularia harveyana	178477
 Leptolyngbya fragilis	263570	(Gomont) Anagn. & Komárek	Leptolyngbya fragilis	178482
 Rivularia nitida	263682	C.Agardh ex Bornet & Flahault	Rivularia nitida	178505
@@ -2466,7 +2470,7 @@ Oocystis	1010735	A. Braun	Oocystis	178611
 Oocystis parva	238770	W. & G.S. West	Oocystis parva	178613
 Crucigenia	1010745	Morren	Crucigenia	178617
 Dictyosphaeriaceae	2003934	G.S.West	Dictyosphaeriaceae	178622
-Dictyosphaerium	6034740	Nägeli	Dictyosphaerium	178623
+Dictyosphaerium	6034740	Nägeli	Mychonastes	178623
 Dictyosphaerium ehrenbergianum	238830	Nägeli, 1849	Dictyosphaerium ehrenbergianum	178625
 Florenciella	1016197	Eikrem	Florenciella	178627
 Florenciella parvula	263232	Eikrem	Florenciella parvula	178628
@@ -2500,7 +2504,7 @@ Lamprothamnium	1006636	NA	Lamprothamnium	179052
 Lamprothamnium papulosum	913	(Wallr.) J.Groves	Lamprothamnium papulosum	179053
 Achnanthes lutheri	262229	Hust.	Platessa lutheri	179088
 Achnanthes ploenensis	262373	Hust.	Kolbesia ploenensis	179118
-Achnanthes semiaperta	262377	Hust.	Achnanthes semiaperta	179145
+Achnanthes semiaperta	262377	Hustedt	Psammothidium semiapertum	179145
 Amphora eximia	262414	J.R.Carter	Amphora eximia	179211
 Amphora montana	262417	Krasske	Halamphora montana	179232
 Asterionella ralfsii	256810	W.Sm.	Asterionella ralfsii	179285
@@ -2509,7 +2513,7 @@ Aulacoseira italica var. tenuissima	256784	(Grunow) Simonsen	Aulacoseira italica
 Mesodinium	1010660	von Stein	Mesodinium	179320
 Aulacoseira tenella	256782	(Nygaard) Simonsen	Aulacoseira tenella	179360
 Brachysira follis	262366	(Ehrenb.) R.Ross	Brachysira follis	179426
-Brachysira styriaca	262436	(Grunow) R.Ross	Brachysira styriaca	179430
+Brachysira styriaca	262436	(Grunow) R.Ross	Brachysira decipiens	179430
 Caloneis lauta	262441	J.R.Carter & Bailey-Watts	Caloneis lauta	179484
 Caloneis pulchra	262442	Messik.	Caloneis pulchra	179506
 Corethron hystrix	6017941	Hensen	Corethron hystrix	179596
@@ -2522,11 +2526,11 @@ Denticula elegans	263207	Kütz.	Denticula elegans	179792
 Denticula tenuis	262523	Kütz.	Denticula tenuis	179796
 Diploneis boldtiana	262531	Cleve	Diploneis boldtiana	179853
 Diploneis marginestriata	262532	Hust.	Diploneis marginestriata	179933
-Diploneis minuta	262533	J.B.Petersen	Diploneis minuta	179936
+Diploneis minuta	262533	Petersen	Diploneis minuta	179936
 Diploneis petersenii	6012459	Hust.	Diploneis petersenii	179958
 Epithemia smithii	262582	Carruth.	Epithemia smithii	180023
 Eunotia angusta	262587	(Grunow) Å.Berg	Eunotia angusta	180031
-Eunotia denticulata	6020470	(Bréb.) Rabenh.	Eunotia denticulata	180059
+Eunotia denticulata	6020470	(Bréb.) Rabenh.	Eunotia denticulata s.lat.	180059
 Eunotia exigua	262604	(Bréb. ex Kütz.) Rabenh.	Eunotia exigua	180063
 Eunotia exigua var. exigua	262604	(Bréb. ex Kütz.) Rabenh.	Eunotia exigua	180065
 Eunotia flexuosa	262607	(Bréb.) Kütz.	Eunotia flexuosa	180071
@@ -2539,7 +2543,7 @@ Eunotia meisteri	6008131	Hust.	Eunotia meisteri s.lat.	180100
 Eunotia microcephala	262619	Krasske	Eunotia microcephala	180103
 Eunotia naegelii	262627	Migula	Eunotia naegelii	180108
 Eunotia alpina	256774	(Nägeli) Hust.	Eunotia alpina	180109
-Eunotia formica	6008142	Ehrenb.	Eunotia formicina	180112
+Eunotia formica	6008142	Ehrenb.	Eunotia formica s.lat.	180112
 Eunotia nymanniana	262652	Grunow	Eunotia neocompacta	180113
 Eunotia paludosa	262630	Grunow	Eunotia paludosa	180114
 Eunotia pectinalis var. pectinalis	262637		Eunotia pectinalis var. pectinalis	180122
@@ -2560,7 +2564,7 @@ Gomphonema auritum	262739	A.Braun ex Kütz.	Gomphonema auritum	180271
 Gomphonema clevei	262746	Fricke	Gomphoneis clevei	180273
 Gomphonema dichotomum	262749	Kütz.	Gomphonema dichotomum	180274
 Gomphonema minutum	262768	(C.Agardh) C.Agardh	Gomphonema minutum	180282
-Gomphonema montanum	262771	Scumann	Gomphonema montanum	180287
+Gomphonema montanum	262771	Schum.	Gomphonema montanum	180287
 Gomphonema pseudoaugur	262785	Lange-Bert.	Gomphonema pseudoaugur	180295
 Gomphonema rhombicum	262790	Fricke	Gomphonema rhombicum	180296
 Gomphonema subtile	262796	Ehrenb.	Gomphonema subtile	180299
@@ -2572,7 +2576,7 @@ Gyrosigma strigilis	237648	(W. Smith) P.T. Cleve, 1894	Gyrosigma strigilis	18033
 Gyrosigma wansbeckii	237651	(Donkin) P.T. Cleve, 1894	Gyrosigma wansbeckii	180340
 Hannaea	1010516	R. Patrick	Hannaea	180341
 Hannaea arcus	262670	(Ehrenb.) R.M.Patrick	Hannaea arcus	180342
-Hantzschia spectabilis	237758	(Ehrenberg) Hustedt, 1959	Hantzschia spectabilis	180357
+Hantzschia spectabilis	237758	(Ehrenb.) Hust.	Hantzschia spectabilis	180357
 Hemidiscus	1010406	Wallich	Hemidiscus	180366
 Hemidiscus cuneiformis	237430	Wallich, 1860	Hemidiscus cuneiformis	180367
 Krasskella kriegerana	262412	(Krasske) R.Ross & P.A.Sims	Krasskella kriegerana	180381
@@ -2583,7 +2587,7 @@ Mastogloia braunii	237808	Grunow	Mastogloia braunii	180396
 Mastogloia elliptica	237809	(C.Agardh) Cleve in Ant.Schmidt	Mastogloia elliptica	180399
 Mastogloia exigua	237810	Lewis	Mastogloia exigua	180402
 Mastogloia pumila	237811	(Cleve & Möller) Cleve	Mastogloia pumila	180408
-Mastogloia smithii var. smithii	248638	Thwaites in W.Sm.	Mastogloia smithii var. smithii	180410
+Mastogloia smithii var. smithii	248638	Thwaites ex W.Sm.	Mastogloia smithii var. smithii	180410
 Melosira undulata var. undulata	237444	(Ehrenb.) Kütz.	Melosira undulata var. undulata	180418
 Melosira undulata var. normanii	262848	(Arn. ex Van Heurck) De Toni	Melosira undulata var. normanii	180419
 Meridion circulare var. circulare	248637		Meridion circulare	180420
@@ -2623,7 +2627,7 @@ Dinophyceae	4000169	Pascher	Dinophyceae	19542
 Chamaesiphonaceae	2003556	Borzì	Chamaesiphonaceae	196191
 Codonellopsidae	2003263	NA	Codonellopsidae	196206
 Ptychocylididae	2003257	NA	Ptychocylididae	196207
-Scytonemataceae	2003562	Frank, 1886	Scytonemataceae	196245
+Scytonemataceae	2003562	Rabenh. ex Bornet & Flahault	Scytonemataceae	196245
 Gomontiaceae	2002560	De Toni	Gomontiaceae	196248
 Climacodium	1010384	Grunow	Climacodium	196803
 Planktoniella sol	237249	(Wallich) Schütt, 1892	Planktoniella sol	196815
@@ -2633,7 +2637,7 @@ Parafavella	1010648	Kofoid & Campbell, 1929	Parafavella	196836
 Parafavella gigantea	238519	(Brandt, 1896)	Parafavella gigantea	196837
 Ptychocylis	1010643	Brandt	Ptychocylis	196838
 Codonellopsis	1010544	NA	Codonellopsis	204197
-Chamaesiphon	1016259	A.Braun & Grunow	Chamaesiphon	204228
+Chamaesiphon	1016259	A.Braun	Chamaesiphon	204228
 Blennothrix	1016273	Kütz. ex Anagn. & Komárek	Blennothrix	204944
 Hydrococcus	1016267	Kütz.	Hydrococcus	206054
 Gayralia	1008566	K.L.Vinogr.	Gayralia	206148
@@ -2650,7 +2654,7 @@ Desmarestiales	3000325	Setch. & N.L.Gardner	Desmarestiales	21237
 Chamaesiphon incrustans	263444	Grunow in Rabenh.	Chamaesiphon incrustans	213688
 Chroococcus turicensis	263433	(Nägeli) Hansg.	Chroococcus turicensis	213690
 Hydrococcus rivularis	263461	Kütz.	Hydrococcus rivularis	213700
-Gloeothece palea	263402	(Kütz.) Nägeli	Gloeothece palea	213711
+Gloeothece palea	263402	(Kütz.) Rabenh.	Gloeothece palea	213711
 Blennothrix lyngbyacea	263480	(Kütz. ex Gomont) Anagn. & Komárek	Blennothrix lyngbyacea	213723
 Oscillatoria jenensis	263485	G.Schmid	Oscillatoria jenensis	213726
 Arthrospira platensis	257679	Gomont	Arthrospira platensis	213728
@@ -2661,7 +2665,7 @@ Gayralia oxysperma	232790	(Kütz.) K.L.Vinogr. ex Scagel et al.	Gayralia oxysper
 Peranemaceae	2003276	NA	Peranemaceae	21621
 Vaucheriales	3000333	Bohlin	Vaucheriales	21627
 Oomycota	5000038	Arx	Pseudofungi	22154
-Saprolegniales	3000704	Prantl	Saprolegniales	22155
+Saprolegniales	3000704	E.Fisch.	Saprolegniales	22155
 Bodo	1010357	Ehrenb.	Bodo	22557
 Strobilidiidae	2003261	Kahl in Doflein & Reichenow, 1929	Strobilidiidae	22563
 Strombidinopsidae	2003264	Small & Lynn, 1985	Strombidinopsidae	22564
@@ -2743,7 +2747,7 @@ Heterocapsa niei	238166	(Loeblich III) Morrill & Loeblich III, 1981	Heterocapsa 
 Oblea baculifera	238236	Balech, 1964	Oblea baculifera	233632
 Gotoius excentricus	238284	(Nie) Sournia, 1984	Gotoius excentricus	233667
 Diplopelta parva	238231	(Abé) Matsuoka, 1988	Diplopelta parva	233677
-Corythodinium curvicaudatum	6009238	(Kofoid, 1907) F.J.R.Taylor, 1976	Corythodinium curvicaudatum	233754
+Corythodinium curvicaudatum	6009238	(Kof.) F.J.R.Taylor	Corythodinium curvicaudatum	233754
 Fibrocapsa	1010335	S. Toriumi & H. Takano	Fibrocapsa	233759
 Fibrocapsa japonica	237138	Toriumi & Takano, 1973	Fibrocapsa japonica	233761
 Olisthodiscus	1010333	N. Carter	Olisthodiscus	233763
@@ -2822,11 +2826,11 @@ Trachelomonas intermedia	257744	P.A. Dang.	Trachelomonas intermedia	238995
 Eutreptia viridis	238572	Perty, 1852	Eutreptia viridis	239029
 Anabaena oscillarioides	236914	Bory ex Bornet & Flahault	Anabaena oscillarioides	239061
 Calothrix parietina	259626	Thur. ex Bornet & Flahault	Calothrix parietina	239094
-Gloeocapsa aeruginosa	263416	(Carmich.) Kütz.	Gloeocapsa aeruginosa	239275
+Gloeocapsa aeruginosa	263416	Kütz.	Gloeocapsa aeruginosa	239275
 Oscillatoria simplicissima	257681	Gomont	Oscillatoria simplicissima	239344
 Helicostomella subulata	235143	(Ehrenberg, 1833)	Helicostomella subulata	240437
 Rhizoclonium hieroglyphicum	251422	(C.Agardh) Kützing	Rhizoclonium hieroglyphicum	240486
-Scytonema mirabile	263699	Bornet	Scytonema mirabile	240515
+Scytonema mirabile	263699	(Dillwyn) Bornet	Scytonema mirabile	240515
 Vaucheria bursata	263210	(O.F.Müll.) C.Agardh	Vaucheria bursata	240524
 Vaucheria fontinalis	263220	(L.) T.A.Chr.	Vaucheria fontinalis	240526
 Schizothrix fuscescens	263615	Kütz. ex Gomont	Schizothrix fuscescens	240534
@@ -2848,7 +2852,7 @@ Tintinnidiidae	2003260	NA	Tintinnidiidae	247914
 Tintinnidium	6009250	Kent, 1881	Tintinnidium	247915
 Codonella cratera	238106	(Leidy) Imhof, 1885	Codonella cratera	247937
 Stenosemella nivalis	238521	(Meunier, 1910)	Stenosemella nivalis	247942
-Tiarina fusus	238538	(Claparède & Lachmann, 1859)	Tiarina fusus	247943
+Tiarina fusus	238538	Bergh, 1881	Tiarina fusus	247943
 Tintinnopsis baltica	238544	Brandt, 1896	Tintinnopsis baltica	247945
 Eucampia cornuta	237365	(Cleve) Grunow	Eucampia cornuta	248058
 Dactyliosolen phuketensis	237462	(Sundström) Hasle, 1996	Dactyliosolen phuketensis	248064
@@ -2873,7 +2877,7 @@ Eutreptiella braarudii	238573	Throndsen, 1969	Eutreptiella braarudii	248121
 Geminella	1010795	NA	Geminella	248122
 Glenodinium warmingii	238182	Bergh, 1881	Glenodinium warmingii	248123
 Isochrysis	1010302	Parke	Isochrysis	248124
-Kirchneriella irregularis	257506	(G.M.Sm.) Korshikov	Kirchneriella irregularis	248125
+Kirchneriella irregularis	257506	Korshikov	Kirchneriella irregularis	248125
 Koliella longiseta	238662	(Vischer) Hindák	Koliella longiseta	248126
 Koliella spiculiformis	238664	(Vischer) Hindák, 1963	Koliella spiculiformis	248127
 Lagerheimia citriformis	257091	(J. Snow) Collins, 1909	Lagerheimia citriformis	248128
@@ -2899,10 +2903,10 @@ Scenedesmus ecornis	257457	(Ehrenb.) Chodat	Scenedesmus ecornis	248158
 Schroederia	1010721	Lemmerm.	Schroederia	248164
 Schroederia setigera	6001056	(Schröder) Lemmerm.	Schroederia setigera	248166
 Palmellaceae	2003293	Decne.	Palmellaceae	248168
-Sphaerocystis	1010773	Chodat	Sphaerocystis	248169
+Sphaerocystis	1010773	R. Chodat	Sphaerocystis	248169
 Sphaerocystis schroeteri	238885	Chodat	Sphaerocystis schroeteri	248170
 Tetraselmis cordiformis	238991	(H.J.Carter) F.Stein	Tetraselmis cordiformis	248171
-Uroglena	6034802	Ehrenb.	Uroglena/Uroglenopsis/Urostipulosphaera	248172
+Uroglena	6034802	Ehrenb.	Uroglena	248172
 Willea	1010752	Schmidle	Willea	248174
 Willea irregularis	238828	(Wille) Schmidle	Willea irregularis	248176
 Holococcolithophora	1016207	L.Cros & Jer.R.Young	Holococcolithophora	248178
@@ -2973,7 +2977,7 @@ Pyramimonas gelidicola	238963	McFadden, Moestrup & Wetherbee, 1982 aff.	Pyramimo
 Polytoma papillatum	238894	Pascher, 1927	Polytoma papillatum	341615
 Geminigera cryophila	263244	(D.L.Taylor & C.C.Lee) D.R.A.Hill	Geminigera cryophila	341616
 Crinolina aperta	238111	(Leadbeater) Thomsen	Crinolina aperta	341620
-Codonellopsis pusilla	238107	(Cleve) Jørgensen, 1924	Codonellopsis pusilla	341660
+Codonellopsis pusilla	238107	(Cleve, 1899) Jørgensen, 1924	Codonellopsis pusilla	341660
 Coxliella intermedia	238559	NA	Coxliella intermedia	341667
 Pelagostrobilidium spirale	6050004	(Leegaard, 1915) Petz, Song & Wilbert, 1995	Pelagostrobilidium spirale	341692
 Pteridomonas danica	237173	Patterson & Fenchel, 1985	Pteridomonas danica	341762
@@ -3057,7 +3061,7 @@ Palmellopsidaceae	2003292	Korshikov	Palmellopsidaceae	368891
 Halosiphonaceae	2002231	T.A.Chr.	Halosiphonaceae	368892
 Gayraliaceae	2003002	K.L.Vinogr.	Gayraliaceae	368895
 Dunaliellaceae	2003299	T.A.Chr.	Dunaliellaceae	368897
-Haptophyta	5000056	D.J.Hibberd ex Edvardsen & Eikrem	Haptophyta	369190
+Haptophyta	5000056	Caval.-Sm.	Haptophyta	369190
 Actinomonas	1010344	Kent	Actinomonas	369319
 Aulacomonas	1015221	NA	Aulacomonas	369376
 Aureococcus	1010355	Hargraves & Sieburth	Aureococcus	369377
@@ -3091,7 +3095,7 @@ Vacuolaria virescens	257859	Cienk.	Vacuolaria virescens	375675
 Pedinella hexacostata	237163	Vysotskij, 1887	Pedinella hexacostata	375676
 Nephroselmis olivacea	238984	F.Stein emend. Moestrup & Ettl	Nephroselmis olivacea	375678
 Pedinomonas major	257557	Korshikov	Pedinomonas maior	375679
-Scourfieldia complanata	6018077	G.S. West	Scourfieldia complanata s.lat.	375685
+Scourfieldia complanata	6018077	G.S.West	Scourfieldia complanata	375685
 Scherffelia pelagica	257559	Skuja	Scherffelia pelagica	375687
 Actinomonas mirabilis	237161	Kent, 1880	Actinomonas mirabilis	375694
 Aureococcus anophagefferens	237180	Hargraves & Sieburth	Aureococcus anophagefferens	375699
@@ -3159,7 +3163,7 @@ Closterium ehrenbergii	238702	Menegh. ex Ralfs, 1848	Closterium ehrenbergii	4095
 Closterium kuetzingii	238704	Bréb.	Closterium kuetzingii	409590
 Coelastrum cambricum	238792	W. Archer	Coelastrum cambricum	409591
 Gloeotrichia	1010278	J.Agardh ex Bornet & Flahault	Gloeotrichia	409629
-Gloeotrichia echinulata	236937	(Sm. & Sowerby) P.G.Richt.	Gloeotrichia echinulata	409630
+Gloeotrichia echinulata	236937	P.G.Richt.	Gloeotrichia echinulata	409630
 Holophrya	6050000	Ehrenberg, 1831	Holophrya	409634
 Mallomonas caudata	237100	Iwanoff em. Willi Krieg.	Mallomonas caudata	409645
 Pediastrum angulosum	257417	Ehrenb. ex Menegh.	Pediastrum angulosum	409685
@@ -3222,7 +3226,7 @@ Lacrymariidae	2003270	de Fromentel, 1876	Lacrymariidae	425420
 Prorodontida	6323263	Saville-Kent, 1881	Prorodontidae	425488
 Leegaardiellidae	2003259	Lynn & Montagnes, 1988	Leegaardiellidae	425493
 Cyclotrichium ovatum	238563	Fauré-Fremiet, 1924	Cyclotrichium ovatum	426530
-Cyclotrichium sphaericum	238564	Meunier, 1907	Cyclotrichium sphaericum	426531
+Cyclotrichium sphaericum	238564	Fauré-Fremiet, 1924	Cyclotrichium sphaericum	426531
 Balanion comatum	238537	Wulff, 1919	Balanion comatum	427290
 Urotricha pelagica	238539	Kahl, 1932	Urotricha pelagica	427374
 Tintinnopsis elongata	238547	von Daday, 1887	Tintinnopsis elongata	427413
@@ -3247,7 +3251,7 @@ Trepomonas agilis	257037	Dujard.	Trepomonas agilis	428826
 Closterium pronum	238710	Bréb., 1856	Closterium pronum	431957
 Lemnicola	1016168	Round & Basson	Lemnicola	447726
 Lemnicola hungarica	237772	(Grunow) Round & Basson	Lemnicola hungarica	447727
-Hippodonta	1016164	Lange-Bert. et al.	Hippodonta	447738
+Hippodonta	1016164	Lange-Bert., Witkowski & Metzeltin	Hippodonta	447738
 Hippodonta capitata	237547	(Ehrenb.) Lange-Bert., Metzeltin & Witkowski	Hippodonta capitata	447739
 Hippodonta hungarica	248635	(Grunow) Lange-Bert., Metzeltin & Witkowski	Hippodonta hungarica	447740
 Ulnaria ulna	248616	(Nitzsch) Compère	Ulnaria ulna	447744
@@ -3258,16 +3262,16 @@ Korshikoviella limnetica	238718	(Lemmerm.) P.C. Silva	Korshikoviella limnetica	4
 Monomorphina pyrum	238589	(Ehrenb.) Mereschk.	Monomorphina pyrum	447754
 Codonosigaceae	2003924	Kent	Codonosigaceae	449205
 Leptolyngbya foveolarum	263569	(Rabenh. ex Gomont) Anagn. & Komárek	Leptolyngbya foveolarum	450029
-Myzozoa	5000062	Caval.-Sm.	Myzozoa	450030
+Myzozoa	5000062	Caval.-Sm. & E.E.Chao	Myzozoa	450030
 Arcocellulus	1010424	G.R. Hasle, H.A. von Stosch & E.E. Syvertsen	Arcocellulus	450612
 Minutocellus	1010421	Hasle, von Stosch, & Syvertsen	Minutocellus	450619
 Lennoxia	1010419	Thomsen & Buck	Lennoxia	450723
 Coscinodiscopsis commutata	237411	(Grunow) Sar & Sunesen	Coscinodiscopsis commutata	450729
 Coscinodiscopsis jonesiana	237417	(Grev.) Sar & Sunesen	Coscinodiscopsis jonesiana	450730
-Phormidium tergestinum	257683	(Kütz.) Anagn. & Komárek	Phormidium tergestinum	450777
+Phormidium tergestinum	257683	Kütz. ex Anagn. & Komárek	Phormidium tergestinum	450777
 Stauridium	1016232	Corda	Stauridium	451638
 Komma	1010532	D.R.A.Hill	Komma	451663
-Komma caudata	238061	(Geitler) D.R.A.Hill	Komma caudata	451665
+Komma caudata	238061	(Geitler) Hill, 1991	Komma caudata	451665
 Rhodomonas stigmatica	238076	(Wislouch) D.R.A.Hill	Rhodomonas stigmatica	451666
 Heterogloeales	3000678	NA	Heterogloeales	456711
 Heterogloeaceae	2003609	Fott ex P.C.Silva	Heterogloeaceae	456712
@@ -3280,7 +3284,7 @@ Cerataulina dentata	237369	Hasle in Hasle & Syvertsen, 1980	Cerataulina dentata	
 Nitellopsis	1006638	Hy	Nitellopsis	465534
 Nitellopsis obtusa	1093	(Desv.) J.Groves	Nitellopsis obtusa	465535
 Discostella	1016154	Houk & Klee	Discostella	465545
-Nitzschia linearis var. subtilis	263018	(Grunow) Hust.	Nitzschia subtilis	467118
+Nitzschia linearis var. subtilis	263018	Hust.	Nitzschia subtilis	467118
 Ulnaria delicatissima	262389	(W.Sm.) Aboal & P.C.Silva	Ulnaria delicatissima	467133
 Ulnaria delicatissima var. angustissima	256819	(Grunow) Aboal & P.C.Silva	Ulnaria delicatissima var. angustissima	467134
 Eolimna	1016156	Lange-Bert. & W.Schiller in W.Schiller & Lange-Bert.	Eolimna	474808
@@ -3321,9 +3325,9 @@ Sargassum muticum	232761	(Yendo) Fensholt	Sargassum muticum	494791
 Leathesia marina	232680	(Lyngb.) Decne.	Leathesia marina	494940
 Ulvaria splendens	232810	(Rupr.) K.L.Vinogr.	Ulvaria splendens	494992
 Vaucheria woroniniana	263251	Heering	Vaucheria woroniniana	494993
-Chara braunii	324	C.C.Gmel.	Chara braunii	495147
+Chara braunii	324	S.G.Gmel.	Chara braunii	495147
 Chara globularis	225244	Thuill.	Chara globularis	495148
-Nitella flexilis	225256	(L. ex parte) C.Agardh	Nitella flexilis	495157
+Nitella flexilis	225256	(L.) C.Agardh	Nitella flexilis	495157
 Nitella hyalina	235064	(DC.) C.A. Agardh	Nitella hyalina	495164
 Tolypella glomerata	1564	(Desv.) Leonh.	Tolypella glomerata	495184
 Navicula recens	262876	(Lange-Bert.) Lange-Bert.	Navicula recens	495190
@@ -3378,7 +3382,7 @@ Diplophrys	1010682	J.Barker	Diplophrys	520916
 Chaetomorpha herbipolensis	251418	Lagerh.	Chaetomorpha herbipolensis	526236
 Gongrosira debaryana	262094	Rabenh.	Gongrosira debaryana	526238
 Uronema confervicola	262109	Lagerh.	Uronema confervicola	526240
-Stigonema mamillosum	259638	(C.Agardh) ex Bornet & Flahault	Stigonema mamillosum	526673
+Stigonema mamillosum	259638	C.Agardh ex Bornet & Flahault	Stigonema mamillosum	526673
 Pseudochattonella	1016224	(Y.Hara & Chihara) Hosoi-Tanabe, D.Honda, S.Fukaya, Y.Inagaki & Y.Sako	Pseudochattonella	531445
 Pseudochattonella verruculosa	237134	(Y.Hara & Chihara) Hosoi-Tanabe, D.Honda, S.Fukaya, Y.Inagaki & Y.Sako	Pseudochattonella verruculosa	531446
 Pseudo-nitzschia obtusa	263319	(Hasle) Hasle & Lundholm	Pseudo-nitzschia obtusa	531455
@@ -3490,7 +3494,7 @@ Kephyrion boreale	257831	Skuja	Kephyrion boreale	572048
 Kephyrion littorale	257833	J.W.G. Lund	Kephyrion littorale	572049
 Kephyrion sitta	237055	Pascher	Kephyrion sitta	572050
 Nephrochlamys	1010764	Korshikov	Nephrochlamys	572052
-Nephrochlamys rostrata	238863	Nygaard & al.	Nephrochlamys rostrata	572053
+Nephrochlamys rostrata	238863	Nygaard, Komárek, Kristiansen & Skulberg	Nephrochlamys rostrata	572053
 Lagerheimia ciliata	257090	(Lagerh.) Chodat	Lagerheimia ciliata	572054
 Mallomonas elongata	237102	Reverdin	Mallomonas elongata	572056
 Mallomonas tonsurata	237117	Teiling emend. W. Krieg.	Mallomonas tonsurata	572057
@@ -3498,8 +3502,8 @@ Planktothrix prolifica	257684	(Gomont) Anagn. & Komárek	Planktothrix prolifica	
 Planktothrix rubescens	257685	(DC. ex Gomont) Anagn. & Komárek	Planktothrix rubescens	572064
 Paramastix	1015151	Skuja, 1948	Paramastix	572066
 Paramastix conifera	257045	Skuja	Paramastix conifera	572067
-Planktosphaeria	1010736	G.M.Sm.	Planktosphaeria	572070
-Planktosphaeria gelatinosa	238776	G.M. Sm.	Planktosphaeria gelatinosa	572071
+Planktosphaeria	1010736	G.M. Smith	Planktosphaeria	572070
+Planktosphaeria gelatinosa	238776	G.M.Sm.	Planktosphaeria gelatinosa	572071
 Pseudokephyrion conicum	6012434	J.Schiller	Pseudokephyrion conicum	572072
 Ankyra	1010719	Fott	Ankyra	572079
 Ankyra judayi	257511	(G.M. Sm.) Fott	Ankyra judayi	572080
@@ -3508,7 +3512,7 @@ Stichogloea doederleinii	237082	(Schmidle) Wille	Stichogloea doederleinii	572086
 Tetraedron trigonum	263349	(Nägeli) Hansg.	Tetraëdron trigonum	572088
 Cyanobium	1016191	Rippka & Cohen-Baz.	Cyanobium	573354
 Eunotia soleirolii	262651	(Kütz.) Rabenh.	Eunotia soleirolii	573465
-Fragilariopsis cylindriformis	237689	(Hasle in Hasle & Booth) Hasle	Fragilariopsis cylindriformis	573472
+Fragilariopsis cylindriformis	237689	(Hasle) Hasle	Fragilariopsis cylindriformis	573472
 Lioloma elongatum	6009230	(Grunow) Hasle	Lioloma elongatum	573482
 Porosira pentaportula	237248	Syvertsen & Lange, 1990	Porosira pentaportula	573541
 Proboscia subarctica	237451	Takahashi, Jordan & Priddle	Proboscia subarctica	573542
@@ -3574,10 +3578,10 @@ Phacaceae	2003914	J.I.Kim, Triemer & W.Shin	Phacaceae	573995
 Lyrellaceae	2003199	D.G.Mann	Lyrellaceae	573996
 Eustigmataceae	2003140	D.J.Hibberd	Eustigmataceae	573997
 Cymbopleura angustata	262354	(W.Sm.) Krammer	Cymbopleura angustata	574002
-Psammothidium	1016171	Bukht. & Round	Psammothidium	574026
+Psammothidium	1016171	L.Buhtkiyarova & Round	Psammothidium	574026
 Psammothidium curtissimum	262931	(J.R.Carter) Aboal	Psammothidium microscopicum	574027
 Eucocconeis	1016157	Cleve ex F.Meister	Eucocconeis	574030
-Eucocconeis flexella	237771	(Kütz.) F.Meister	Eucocconeis flexella	574031
+Eucocconeis flexella	237771	(Kütz.) Meister	Eucocconeis flexella	574031
 Symplocastrum	1016282	(Gomont) Kirchn.	Symplocastrum	574032
 Symplocastrum friesii	263550	(Gomont) Kirchn.	Symplocastrum friesii	574033
 Rossithidium nodosum	262832	(A.Cleve) Aboal	Rossithidium nodosum	574046
@@ -3644,7 +3648,7 @@ Achnanthes submarina	262379	Hust.	Karayevia submarina	577567
 Tribonematales	3000332	Pascher	Tribonematales	577610
 Heteropediaceae	2003625	D.J.Hibberd	Heteropediaceae	577611
 Extubocellulus spinifer	237475	(Hargraves et Guillard) Hasle, von Stosch et Syvertsen, 1983	Extubocellulus spinifer	577628
-Diadesmis	1016153	Kütz.	Diadesmis	577637
+Diadesmis	1016153	Kützing	Diadesmis	577637
 Closterium dianae	238701	Ehrenberg ex Ralfs, 1848	Closterium dianae	577663
 Closterium moniliferum	238708	(Bory) Ehrenb. ex Ralfs, 1848	Closterium moniliferum	577666
 Euastrum	1010710	Ehrenb. ex Ralfs	Euastrum	577667
@@ -3663,7 +3667,7 @@ Cosmarium phaseolus	238677	Bréb. ex Ralfs, 1848	Cosmarium phaseolus	577715
 Dinobryon sociale var. americanum	257816	(Brunnth.) H. Bachm.	Dinobryon sociale var. americanum	577718
 Oedogoniales	3000416	Heering	Oedogoniales	577721
 Oedogoniaceae	2002579	de Bary ex Hirn	Oedogoniaceae	577722
-Oedogonium	1009462	Link ex Hirn	Oedogonium	577723
+Oedogonium	1009462	Hirn	Oedogonium	577723
 Phacotus	1010785	Perty	Phacotus	577724
 Phacotus lenticularis	238908	(Ehrenb.) F. Stein	Phacotus lenticularis	577725
 Hydrurus	1015616	C.Agardh	Hydrurus	577726
@@ -3720,7 +3724,7 @@ Cryptomonas borealis	257576	Skuja	Cryptomonas borealis	578221
 Cyclotella tripartita	262480	Håk.	Pantocsekiella tripartita	578223
 Mychonastes elegans	238831	(H.Bachm.) Krienitz, C.Bock, Dadheech & Pröschold	Mychonastes elegans	578226
 Dictyosphaerium primarium	257059	Skuja	Dictyosphaerium primarium	578227
-Fragilaria rumpens	262692	(Kütz.) G.W.F.Carlson	Fragilaria rumpens	578228
+Fragilaria rumpens	262692	(Kütz.) G.W.F.Carlson	Fragilaria eutraphenta	578228
 Isthmochloron	1015217	Skuja	Isthmochloron	578233
 Isthmochloron trispinatum	257517	(W.West & G.S.West) Skuja	Isthmochloron trispinatum	578234
 Mallomonas lychenensis	257861	W. Conrad	Mallomonas lychenensis	578235
@@ -3783,7 +3787,7 @@ Dolichospermum	1016289	(Ralfs ex Bornet & Flahault) Wacklin & al.	Dolichospermum
 Kephyrion rubri-claustri	237054	W.Conrad	Kephyrion rubri-claustri	578498
 Quadrigula korsikovii	238779	Komárek	Quadrigula korsikovii	578519
 Schroederia spiralis	257512	(Printz) Korshikov	Schroederia spiralis	578523
-Salpingoecaceae	2003798	NA	Salpingoecaceae	578524
+Salpingoecaceae	2003798	Kent	Salpingoecaceae	578524
 Stelexomonas	1015227	Lackey	Stelexomonas	578525
 Stelexomonas dichotoma	257568	Lackey	Stelexomonas dichotoma	578526
 Tabellaria flocculosa var. asterionelloides	256823	Grunow	Tabellaria flocculosa var. asterionelloides	578550
@@ -3818,14 +3822,14 @@ Pseudosphaerocystis lacustris	238881	(Lemmermann) Nováková, 1965	Pseudosphaero
 Aphanizomenon skujae	248676	Komárk.-Legn. & Cronberg	Aphanizomenon skujae	592876
 Desmidium	1010709	C.Agardh ex Ralfs	Desmidium	592884
 Coccolithophyceae	4000153	Rothm.	Coccolithophyceae	592906
-Reckertia formosa	238646	(H.A.Thomsen & al., 1993) Cavalier-Smith, 2011	Reckertia formosa	593693
+Reckertia formosa	238646	(H.A.Thomsen, G.Hällfors, S.Hällfors & J.Ikävalko, 1993) Cavalier-Smith, 2011	Reckertia formosa	593693
 Stauroneis gracilis	262725	Ehrenb.	Stauroneis gracilis	593815
 Actinella	1016180	F.W.Lewis	Actinella	593829
 Oxyneis binalis	263283	(Ehrenb.) Round in Round, R.M.Crawford & D.G.Mann	Oxyneis binalis	593833
-Diadesmis contenta	262525	Mann	Humidophila contenta	593885
-Oligotrichida	6009247	NA	Oligotrichida s.lat.	595083
+Diadesmis contenta	262525	(Grunow ex Van Heurck) D.G.Mann	Humidophila contenta	593885
+Oligotrichida	6009247	NA	Choreotrichida	595083
 Strombidium chlorophilum	238526	Montagnes, Lynn, Stoecker & Small, 1988	Strombidium chlorophilum	595215
-Scenedesmus quadricauda	245186	(Turpin) Bréb.	Scenedesmus quadricauda	596169
+Scenedesmus quadricauda	245186	Chodat	Desmodesmus communis	596169
 Karayevia bottnica	262819	(Cleve) Lange-Bert.	Karayevia bottnica	597250
 Paulinellideae	2003277	NA	Paulinellidae	599588
 Schizomeridaceae	2002577	G.M.Sm.	Schizomeridaceae	599595
@@ -3848,7 +3852,7 @@ Pseudocharaciopsidaceae	2003626	NA	Pseudocharaciopsidaceae	599653
 Glaucophyceae	4000183	Bohlin	Glaucophyceae	599657
 Glaucocystales	3000683	Bessey	Glaucocystales	599658
 Glaucocystaceae	2003631	G.S.West	Glaucocystaceae	599659
-Hemidiniaceae	6012340	Bourr. ex P.C.Silva	Glenodiniaceae	599662
+Hemidiniaceae	6012340	P.C.Silva	Glenodiniaceae	599662
 Kareniaceae	2003932	NA	Kareniaceae	599664
 Hibberdiaceae	2003602	R.A.Andersen	Hibberdiaceae	599666
 Mesostigmatales	3000685	Caval.-Sm.	Mesostigmatales	599670
@@ -3869,7 +3873,7 @@ Stipitococcaceae	2003607	Pascher ex G.M.Sm.	Stipitococcaceae	599694
 Tetramitaceae	2003784	NA	Tetramitaceae	599699
 Cladostephaceae	2003901	Oltm.	Cladostephaceae	599702
 Sphacelodermaceae	2003902	Draisma, Prud'homme & H.Kawai	Sphacelodermaceae	599703
-Capsosiraceae	2003907	Geitler	Capsosiraceae	599710
+Capsosiraceae	2003907	(Borzì) Geitler	Capsosiraceae	599710
 Nostochopsaceae	2003565	Geitler	Nostochopsaceae	599711
 Tetragonidiaceae	2003572	Bourr. ex P.C.Silva	Tetragonidiaceae	599714
 Characiochloridaceae	2003637	Skuja	Characiochloridaceae	599715
@@ -3889,7 +3893,7 @@ Bulbochaete	1009454	C.A. Agardh, 1817	Bulbochaete	600796
 Chlorolobion	1010728	Korshikov	Chlorolobion	600799
 Eremosphaera	1015203	de Bary	Eremosphaera	600801
 Fusola	1010730	Snow	Fusola	600802
-Dysmorphococcus	1010784	Takeda	Dysmorphococcus	600809
+Dysmorphococcus	1010784	Hisayoshi Takeda	Dysmorphococcus	600809
 Diplochloris	1016192	Korshikov	Diplochloris	600813
 Didymocystis	1015208	Korshikov	Didymocystis	600814
 Komarekia	1010748	Fott	Komarekia	600816
@@ -3954,7 +3958,7 @@ Haplotaenium	1016204	Bando	Haplotaenium	601070
 Hassallia	1016300	Berk. ex Bornet & Flahault	Hassallia	601073
 Stokesiella	1016233	Lemmerm.	Stokesiella	601086
 Chamaepinnularia	1016148	Lange-Bertalot & Krammer	Chamaepinnularia	601092
-Naviculadicta	1016172	Lange-Bert. in Lange-Bert. & G.Moser	Naviculadicta	601099
+Naviculadicta	1016172	Lange-Bert.	Naviculadicta	601099
 Stauroforma	1016160	Flower, V.J.Jones & Round	Stauroforma	601104
 Ochrosphaera	1016213	Schussnig	Ochrosphaera	601148
 Phaeoschizochlamys	1015207	Lemmermann	Phaeoschizochlamys	601151
@@ -3978,7 +3982,7 @@ Encyonopsis	1016155	K.Krammer	Encyonopsis	601591
 Eutetramorus	1010762	Walton	Eutetramorus	601613
 Geissleria	1016159	Lange-Bert. & Metzeltin	Geissleria	601632
 Gomphosphenia	1016162	Lange-Bert.	Gomphosphenia	601654
-Hindakochloris	1015205	Comas	Hindakochloris	601703
+Hindakochloris	1015205	NA	Hindakochloris	601703
 Katablepharis	1010685	Skuja	Katablepharis	601744
 Kobayasiella	1016167	Lange-Bert.	Kobayasiella	601754
 Microcostatus	1016170	J.R.Johans. & Sray	Microcostatus	601827
@@ -3997,9 +4001,9 @@ Grammonema	1016201	C.Agardh	Grammonema	602444
 Hygropetra	1016165	Krammer & Lange-Bert. in Lange-Bert.	Hygropetra	602776
 Pulvinularia	1016307	Borzì	Pulvinularia	602856
 Rayssiella	1010742	Edelstein et Prescott	Rayssiella	602900
-Planctococcus	1010774	O. Korshikov	Planctococcus	602913
+Planctococcus	1010774	Korshikov	Planctococcus	602913
 Phormidiochaete	1016271	Komárek	Phormidiochaete	602983
-Lacrymaria	1010659	Bory de St. Vincent	Lacrymaria	603050
+Lacrymaria	1010659	Ehrenberg, 1830	Lacrymaria	603050
 Trichonema	1010699	NA	Trichonema	603083
 Cuspidothrix	1016291	P.Rajan., Komárek, Willame, Hrouzek, Katovská, L.Hoffm. & Sivonen	Cuspidothrix	603106
 Planonephros	1015229	NA	Planonephros	603186
@@ -4030,7 +4034,7 @@ Chara contraria	225242	Kütz.	Chara contraria	608360
 Chaetophora punctiformis	262093	Kütz.	Chaetophora punctiformis	608374
 Chaetophora tuberculosa	233262	(Roth) C.Agardh	Chaetophora tuberculosa	608375
 Dicranochaete reniformis	262090	Hieron.	Dicranochaete reniformis	608377
-Draparnaldia mutabilis	253583	(Roth) Bory	Draparnaldia mutabilis	608380
+Draparnaldia mutabilis	253583	(Roth) Cedergren	Draparnaldia mutabilis	608380
 Stigeoclonium elongatum	262097	(Hassall) Kütz.	Stigeoclonium elongatum	608387
 Stigeoclonium farctum	262098	Berthold	Stigeoclonium farctum	608388
 Stigeoclonium flagelliferum	262100	Kütz.	Stigeoclonium flagelliferum	608389
@@ -4052,7 +4056,7 @@ Microspora tumidula	262131	Hazen	Microspora tumidula	608495
 Bulbochaete crassiuscula	259523	Nordst.	Bulbochaete crassiuscula	608497
 Bulbochaete crenulata	259524	Pringsh.	Bulbochaete crenulata	608498
 Bulbochaete gigantea	259528	Pringsh.	Bulbochaete gigantea	608501
-Bulbochaete insignis	259529	Pringsh.	Bulbochaete insignis	608502
+Bulbochaete insignis	259529	Pringsh. ex Hirn	Bulbochaete insignis	608502
 Bulbochaete minor	259532	A. Braun	Bulbochaete minor	608503
 Bulbochaete monile	259534	Wittr. & P. Lundell	Bulbochaete monile	608504
 Bulbochaete pygmaea	259539	Pringsh.	Bulbochaete pygmaea	608505
@@ -4076,7 +4080,7 @@ Oedogonium flavescens	258164	(Hass.) Wittr.	Oedogonium flavescens	608538
 Oedogonium fragile	258165	Wittr.	Oedogonium fragile	608539
 Oedogonium grande	258169	Kütz.	Oedogonium grande	608542
 Oedogonium intermedium	258175	Wittr.	Oedogonium intermedium	608548
-Oedogonium itzigsohnii	258178	de Bary	Oedogonium itzigsohnii	608549
+Oedogonium itzigsohnii	258178	De Bary ex Hirn	Oedogonium itzigsohnii	608549
 Oedogonium nodulosum	258190	Wittr.	Oedogonium nodulosum	608552
 Oedogonium oblongum	258191	Wittr.	Oedogonium oblongum	608553
 Oedogonium oelandicum	258193	Wittr. ex Hirn	Oedogonium oelandicum	608554
@@ -4092,7 +4096,7 @@ Ankistrodesmus fusiformis	238938	Corda	Ankistrodesmus fusiformis	608578
 Chlorolobion braunii	238735	(Nägeli in Kützing) Komárek, 1979	Chlorolobion braunii	608582
 Eremosphaera viridis	238859	de Bary	Eremosphaera viridis	608584
 Lagerheimia chodatii	238745	Bernard, 1908	Lagerheimia chodatii	608589
-Nephrocytium lunatum	238764	sensu Skuja	Nephrocytium lunatum morphotype	608598
+Nephrocytium lunatum	238764	West	Nephrocytium lunatum	608598
 Oocystis naegelii	6018092	A.Braun	Oocystis naegelii	608602
 Oocystis novae-semliae	238769	Wille	Oocystis novae-semliae	608604
 Actinastrum aciculare	257438	Playfair	Actinastrum aciculare	608627
@@ -4169,7 +4173,7 @@ Hyalotheca dissiliens	238683	Bréb. ex Ralfs	Hyalotheca dissiliens	609031
 Hyalotheca dubia	262193	Kütz. ex Ralfs	Hyalotheca dubia	609032
 Hyalotheca indica	262194	W.B.Turner	Hyalotheca indica	609034
 Hyalotheca mucosa	256914	Ralfs	Hyalotheca mucosa	609035
-Micrasterias americana	256915	Ehrenberg ex Ralfs	Micrasterias americana	609039
+Micrasterias americana	256915	(Ehrenb.) Ralfs	Micrasterias americana	609039
 Micrasterias furcata	256917	C.Agardh ex Ralfs	Micrasterias furcata	609048
 Micrasterias pinnatifida	256916	Kütz. ex Ralfs	Micrasterias pinnatifida	609059
 Micrasterias radiosa	256918	Ralfs	Micrasterias radiosa	609061
@@ -4254,7 +4258,7 @@ Zygnema tenue	262300	Kütz.	Zygnema tenue	609425
 Zygogonium ericetorum	259662	Kütz.	Zygogonium ericetorum	609427
 Capsosira brebissonii	263705	Kütz. ex Bornet & Flahault	Capsosira brebissonii	609435
 Komvophoron schmidlei	263477	(Jaag) Anagn. & Komárek	Komvophoron schmidlei	609436
-Chamaesiphon confervicola	263442	A.Braun	Chamaesiphon confervicola	609437
+Chamaesiphon confervicola	263442	A.Braun in Rabenh.	Chamaesiphon confervicola	609437
 Chroococcus submarinus	263177	(Hansg.) Kovácik	Chroococcus submarinus	609438
 Aphanothece elabens	257626	(Bréb. in Menegh.) Elenkin	Aphanothece elabens	609440
 Cyanothece major	263398	(Schröt.) Komárek	Cyanothece major	609442
@@ -4263,14 +4267,14 @@ Anabaena augstumalis	257650	Schmidle	Anabaena augstumalis	609451
 Anabaena lapponica	263628	Borge	Anabaena lapponica	609454
 Anabaena minutissima	257664	Lemmerm.	Anabaena minutissima	609455
 Anabaenopsis arnoldii	236927	Aptekarj	Anabaenopsis arnoldii	609458
-Cylindrospermum stagnale	263651	(Kütz.) Bornet & Flahault	Cylindrospermum stagnale	609468
+Cylindrospermum stagnale	263651	Bornet & Flahault	Cylindrospermum stagnale	609468
 Nostoc carneum	234976	C.Agardh ex Bornet & Flahault	Nostoc carneum	609469
 Nostoc microscopicum	234984	Carmich. ex Bornet & Flahault	Nostoc microscopicum	609470
 Nostoc minutum	232916	Desm. ex Bornet & Flahault	Nostoc minutum	609471
 Nostoc paludosum	234994	Kütz. ex Bornet & Flahault	Nostoc paludosum	609473
 Nostoc sphaericum	234990	Vaucher ex Bornet & Flahault	Nostoc sphaericum	609474
 Nostoc verrucosum	234992	Vaucher ex Bornet & Flahault	Nostoc verrucosum	609475
-Scytonema myochrous	263700	C.Agardh ex Bornet & Flahault	Scytonema myochrous	609480
+Scytonema myochrous	263700	(Dillwyn) C.Agardh ex Bornet & Flahault	Scytonema myochrous	609480
 Scytonema tolypothrichoides	263702	Kütz. ex Bornet & Flahault	Scytonema tolypothrichoides	609482
 Tolypothrix distorta	259642	Kütz. ex Bornet & Flahault	Tolypothrix distorta	609485
 Tolypothrix lanata	259643	Wartm. ex Bornet & Flahault	Tolypothrix lanata	609487
@@ -4317,7 +4321,7 @@ Eunotia parallela	262634	Ehrenb.	Eunotia parallela	609797
 Eunotia subarcuatoides	262653	Alles, Nörpel & Lange-Bert.	Eunotia subarcuatoides	609801
 Fragilaria tenera	256821	(W.Sm.) Lange-Bert.	Fragilaria tenera	609814
 Gomphonema hebridense	262758	W.Greg.	Gomphonema hebridense	609824
-Gomphonema pumilum	262789	(Grunow) E.Reichardt & Lange-Bert.	Gomphonema pumilum s.lat.	609827
+Gomphonema pumilum	6052988	(Grunow) E.Reichardt & Lange-Bert.	Gomphonema pumilum	609827
 Caloneis hyalina	262440	Hust.	Caloneis hyalina	609860
 Navicula arvensis	262311	Hust.	Sellaphora arvensis	609870
 Navicula heimansioides	262337	Lange-Bert.	Navicula heimansioides	609890
@@ -4434,7 +4438,7 @@ Aulacoseira lacustris	256785	(Grunow) Krammer	Aulacoseira lacustris	610325
 Aulacoseira perglabra	262425	(Østrup) Haworth	Aulacoseira perglabra	610327
 Cyclotella iris	256796	Brun & Hérib.	Cyclotella iris	610343
 Cyclotella rossii	256801	Håk.	Pantocsekiella rossii	610349
-Orthoseira dendroteres	263059	(Ehrenb.) R.M.Crawford	Orthoseira dendroteres	610353
+Orthoseira dendroteres	263059	(Ehrenb.) Round, R.M.Crawford, & D.G.Mann	Orthoseira dendroteres	610353
 Achnanthidium kranzii	262386	(Lange-Bert.) Round & Bukht.	Achnanthidium kranzii	610369
 Amphora aequalis	262413	Krammer	Amphora aequalis	610373
 Amphora inariensis	262415	Krammer	Amphora inariensis	610375
@@ -4451,7 +4455,7 @@ Diploneis modica	262534	Hust.	Diploneis modica	610418
 Diploneis parma	262535	Cleve	Diploneis parma	610419
 Encyonema gaeumannii	262547	(Meister) Krammer	Encyonema gaeumannii	610426
 Encyonema hebridicum	262548	Grunow & Cleve	Encyonema hebridicum	610428
-Encyonema latens	262552	(Krasske) Mann	Encyonema latens	610431
+Encyonema latens	262552	(Krasske) D.G.Mann	Encyonema latens	610431
 Encyonema obscurum	262557	(Krasske) D.G.Mann	Encyonema obscurum	610432
 Encyonema reichardtii	262562	(Krammer) D.G.Mann	Encyonema reichardtii	610434
 Eunotia botuliformis	262597	Wild, Nörpel & Lange-Bert.	Eunotia botuliformis	610441
@@ -4465,7 +4469,7 @@ Gomphonema insigne	262760	W.Greg.	Gomphonema insigne	610476
 Gomphonema lagerheimii	262763	A.Cleve	Gomphonema lagerheimii	610477
 Gomphonema lateripunctatum	262764	E.Reichardt & Lange-Bert.	Gomphonema lateripunctatum	610478
 Gomphonema pseudotenellum	262787	Lange-Bert.	Gomphonema pseudotenellum	610479
-Karayevia laterostrata	262820	(Hust.) Bukht.	Karayevia laterostrata	610483
+Karayevia laterostrata	262820	(Hust.) Kingston	Karayevia laterostrata	610483
 Luticola goeppertiana	262829	(Bleisch) D.G.Mann in Round & al.	Luticola goeppertiana	610486
 Luticola paramutica	262830	(Bock) D.G.Mann in Round & al.	Luticola paramutica	610488
 Luticola ventricosa	262831	(Kütz.) D.G.Mann in Round & al.	Luticola ventricosa	610491
@@ -4486,10 +4490,10 @@ Nitzschia alpina	262959	Hust.	Nitzschia alpina	610587
 Nitzschia angustatula	262961	Lange-Bert.	Tryblionella angustatula	610590
 Nitzschia bacillum	262964	Hust.	Nitzschia bacillum	610593
 Nitzschia bavarica	262965	Hust.	Nitzschia bavarica	610594
-Nitzschia bergii	262966	A.Cleve	Nitzschia bergii	610596
+Nitzschia bergii	262966	Cleve-Euler	Nitzschia bergii	610596
 Nitzschia bremensis	262967	Hust.	Nitzschia bremensis	610597
 Nitzschia commutatoides	262971	Lange-Bert.	Nitzschia commutatoides	610598
-Nitzschia draveillensis	262978	Coste & Ricard	Nitzschia draveillensis	610603
+Nitzschia draveillensis	262978	M.Coste & Ricard	Nitzschia draveillensis	610603
 Nitzschia flexoides	262984	Geitler	Nitzschia flexoides	610608
 Nitzschia gessneri	262991	Hust.	Nitzschia gessneri	610611
 Nitzschia graciliformis	262992	Lange-Bert. & Simonsen	Nitzschia graciliformis	610613
@@ -4512,7 +4516,7 @@ Pinnularia macilenta	263115	Ehrenb.	Pinnularia macilenta	610698
 Pinnularia rupestris	263096	Hantzsch	Pinnularia rupestris	610704
 Pinnularia sudetica	237630	(Hilse) M. Peragallo, 1903	Pinnularia sudetica	610716
 Planothidium engelbrechtii	263010	(Cholnoky) Round & Bukht.	Planothidium engelbrechtii	610721
-Planothidium oestrupii	263005	(A.Cleve) Edlund	Skabitschewskia oestrupii	610725
+Planothidium oestrupii	263005	(Cleve-Euler) Edlund	Skabitschewskia oestrupii	610725
 Psammothidium abundans	262940	(Manguin) Bukht. & Round	Psammothidium abundans	610727
 Psammothidium kuelbsii	262921	(Lange-Bert.) Bukht. & Round	Psammothidium kuelbsii	610730
 Psammothidium levanderi	237777	(Hustedt) L.Bukhtiyarova & Round	Psammothidium levanderi	610732
@@ -4620,7 +4624,7 @@ Staurodesmus sellatus	257012	Teiling	Staurodesmus sellatus	611341
 Xanthidium concinnum	257023	W. Archer	Xanthidium concinnum	611347
 Xanthidium tetracentrotum	257027	Wolle	Xanthidium tetracentrotum	611350
 Trentepohlia umbrina	251429	(Kütz.) Bornet	Trentepohlia umbrina	611360
-Leptolyngbya lagerheimii	263572	(Gomont) Anagn. & Komárek	Leptolyngbya lagerheimii	611368
+Leptolyngbya lagerheimii	263572	(Gomont ex Gomont) Anagn. & Komárek	Leptolyngbya lagerheimii	611368
 Phormidium nigrum	263534	(Vaucher ex Gomont) Anagn. & Komárek	Phormidium nigrum	611373
 Leptolyngbya calotrichoides	263566	(Gomont) Anagn. & Komárek	Leptolyngbya calotrichoides	611376
 Leptolyngbya norvegica	263574	(Gomont) Anagn. & Komárek	Leptolyngbya norvegica	611378
@@ -4631,10 +4635,10 @@ Gomphonema sagitta	262791	Schumann, 1863	Gomphonema sagitta	611390
 Nitzschia radicula	263034	Hust.	Nitzschia radicula	611396
 Achnanthes punctulata	262884	Simonsen	Psammothidium punctulatum	611410
 Achnanthes impexa	262188	Lange-Bert.	Achnanthes impexa	611520
-Achnanthes rupestoides	262376	Hohn	Achnanthes rupestoides	611528
+Achnanthes rupestoides	262376	M.H.Hohn	Achnanthes rupestoides	611528
 Achnanthes ziegleri	262380	Lange-Bert.	Achnanthes ziegleri	611530
-Brachysira neoexilis	262434	Lange-Bert.	Brachysira neoexilis	611558
-Brachysira procera	262435	Lange-Bert. & Moser	Brachysira procera	611559
+Brachysira neoexilis	6332545	s.str.	Brachysira neoexilis	611558
+Brachysira procera	262433	Lange-Bert. & Moser	Brachysira microcephala	611559
 Brachysira garrensis	262432	(Lange-Bert. & Krammer) Lange-Bert.	Brachysira garrensis	611560
 Eunotia genuflexa	262609	Nörpel-Schempp	Eunotia genuflexa	611625
 Encyonema auerswaldii	262540	Rabenh.	Encyonema auerswaldii	611626
@@ -4676,7 +4680,7 @@ Cyanobium bacillare	263204	(Butcher) Komárek, Kopeck & Cepák	Cyanobium bacilla
 Cyanodictyon filiforme	257630	Komárk.-Legn. & Cronberg	Cyanodictyon filiforme	612427
 Cyanodictyon iac	257631	Cronberg & Komárek	Cyanodictyon iac	612428
 Desmodesmus abundans	238841	(Kirchn.) E.Hegewald	Desmodesmus abundans	612498
-Desmodesmus armatus	238842	(Chodat) E.Hegewald, 2000	Desmodesmus armatus	612499
+Desmodesmus armatus	238842	(Chodat) E.Hegewald	Desmodesmus armatus	612499
 Desmodesmus brasiliensis	238844	(Bohlin) E.Hegewald	Desmodesmus brasiliensis	612500
 Desmodesmus denticulatus	238847	(Lagerh.) S.S.An, Friedl & E.Hegewald	Desmodesmus denticulatus	612501
 Desmodesmus dispar	238848	(Brébisson) E.Hegewald	Desmodesmus dispar	612502
@@ -4773,14 +4777,14 @@ Geissleria schoenfeldii	262731	(Hust.) Lange-Bert. & Metzeltin	Geissleria schoen
 Geissleria similis	262732	(Krasske) Lange-Bert. & Metzeltin	Geissleria similis	614184
 Hippodonta costulata	237552	(Grunow) Lange-Bert., Metzeltin & Witkowski	Hippodonta costulata	614201
 Hippodonta subcostulata	262815	(Hust.) Lange-Bert., Metzeltin & Witkowski	Hippodonta subcostulata	614203
-Navicula symmetrica	262897	Patrick	Navicula simulata	614247
+Navicula symmetrica	262897	R.M.Patrick	Navicula simulata	614247
 Pinnularia biceps	6006464	W.Greg.	Pinnularia biceps	614288
 Spirogyra calospora	262251	Cleve	Spirogyra calospora	614347
 Astasia klebsii	238605	Lemmerm.	Astasia klebsii	614373
 Cosmarium formosulum	256882	R.T. Hoff. ex Nordst.	Cosmarium formosulum	614439
 Fischerella ambigua	263707	(Kütz. ex Bornet & Flahault) Gomont	Fischerella ambigua	614448
 Mougeotia transeaui	262231	Collins	Mougeotia transeaui	614480
-Nostoc foliaceum	234980	C.Agardh	Nostoc foliaceum	614490
+Nostoc foliaceum	234980	Moug. ex Bornet & Flahault	Nostoc foliaceum	614490
 Nostoc zetterstedtii	232917	Aresch. ex Bornet & Flahault	Nostoc zetterstedtii	614492
 Ochrosphaera neapolitana	263280	Schussnig	Ochrosphaera neapolitana	614495
 Rhabdomonas costata	257714	(Korshikov) Pringsh.	Rhabdomonas costata	614517
@@ -4803,7 +4807,7 @@ Merismopedia marssonii	257611	Lemmerm.	Merismopedia marssonii	614938
 Merismopedia smithii	257613	De Toni	Merismopedia smithii	614945
 Microcrocis irregularis	263413	(Lagerh.) Geitler	Microcrocis irregularis	614953
 Woronichinia delicatula	257614	(Skuja) Komárek & Hindák	Woronichinia delicatula	614998
-Microcystis natans	257618	Lemmerm. ex Skuja	Microcystis natans	615006
+Microcystis natans	257618	Lemmerm.	Microcystis natans	615006
 Gloeocapsa siderochlamys	257603	(Skuja) Starmach	Gloeocapsa siderochlamys	615021
 Gloeocapsa coracina	263421	Kütz.	Gloeocapsa coracina	615023
 Gloeocapsa compacta	263420	Kütz.	Gloeocapsa compacta	615026
@@ -4856,18 +4860,18 @@ Hariotina reticulata	238795	P.A.Dang.	Hariotina reticulata	616367
 Granulocystopsis decorata	238862	(Svirenko) P.M.Tsarenko	Granulocystopsis decorata	616372
 Nephrocytium limneticum	238763	(G.M. Smith) G.M. Smith, 1933	Nephrocytium limneticum	616376
 Quadricoccus verrucosus	238868	Fott, 1948	Quadricoccus verrucosus	616377
-Raphidocelis danubiana	238742	(Hindák) Marvan & al.	Raphidocelis danubiana	616378
+Raphidocelis danubiana	238742	(Hindák) Marvan, Komárek & Comas	Raphidocelis danubiana	616378
 Rhodoplax schinzii	262114	Schmidle & Wellheim	Rhodoplax schinzii	616379
 Sporotetras pyriformis	262116	Butcher	Sporotetras pyriformis	616382
 Treubaria schmidlei	238786	(Schröd.) Fott & Kovácik	Treubaria schmidlei	616383
 Trochiscia planctonica	257431	E.M.Lind & Pearsall f.	Trochiscia planctonica	616385
 Bulbochaete angulosa	259519	Wittr. & P. Lundell ex Hirn	Bulbochaete angulosa	616386
-Bulbochaete borealis	259521	Wittr. & P.Lundell, nom. inval.	Bulbochaete borealis	616387
+Bulbochaete borealis	259521	Wittr.	Bulbochaete borealis	616387
 Bulbochaete brebissonii	259522	Kütz.	Bulbochaete brebissonii	616388
 Bulbochaete quadrata	259541	Wittr.	Bulbochaete quadrata	616389
 Bulbochaete repanda	259543	Wittr.	Bulbochaete repanda	616390
 Oedogonium ahlstrandii	258135	Wittr.	Oedogonium ahlstrandii	616391
-Oedogonium calcareum	258145	(Hass.) Wittr.	Oedogonium calcareum	616392
+Oedogonium calcareum	258145	Cleve & Wittrock	Oedogonium calcareum	616392
 Oedogonium capitellatum	258148	Wittr.	Oedogonium capitellatum	616393
 Oedogonium cleveanum	258151	Wittr.	Oedogonium cleveanum	616395
 Oedogonium curtum	258157	Wittr. & P. Lundell	Oedogonium curtum	616398
@@ -4946,7 +4950,7 @@ Encyonema jemtlandicum	262550	Krammer	Encyonema jemtlandicum	617537
 Encyonema lange-bertalotii	262551	Krammer	Encyonema lange-bertalotii	617542
 Encyonema minutiforme	262554	Krammer	Encyonema minutiforme	617555
 Encyonema neogracile	262555	Krammer	Encyonema neogracile	617556
-Encyonema pankowii	262558	Lange-Berg. & Krammer	Encyonema pankowii	617561
+Encyonema pankowii	262558	Lange-Bert. & Krammer	Encyonema pankowii	617561
 Encyonema pergracile	262559	Krammer	Encyonema pergracile	617564
 Encyonema perminutum	262560	Krammer	Encyonema perminutum	617565
 Encyonema procerum	262561	Krammer	Encyonema procerum	617568
@@ -4971,7 +4975,7 @@ Frustulia krammeri	262701	Lange-Bert. & Metzeltin	Frustulia krammeri	617764
 Frustulia septentrionalis	262704	Lange-Bert.	Frustulia septentrionalis	617777
 Gomphonema bozenae	262741	Lange-Bert. & E.Reichardt	Gomphonema bozenae	617791
 Gomphonema duplipunctatum	262751	Lange-Bert. & E.Reichardt	Gomphonema duplipunctatum	617795
-Gomphonema exilissimum	6008304	(Grunow) Lange-Bert. & E.Reichardt	Gomphonema varioreduncum	617796
+Gomphonema exilissimum	6008304	(Grunow) Lange-Bert. & E.Reichardt	Gomphonema exilissimum s.lat.	617796
 Gomphonema occultum	262773	E.Reichardt & Lange-Bert.	Gomphonema occultum	617805
 Gomphonema pala	262777	E.Reichardt	Gomphonema pala	617808
 Gomphonema parvulius	262780	Lange-Bert. & E.Reichardt	Gomphonema parvulius	617809
@@ -5044,10 +5048,10 @@ Tolypothrix limbata	263688	Thur. ex Bornet & Flahault	Tolypothrix limbata	618692
 Tolypothrix saviczii	263691	Kossinsk.	Tolypothrix saviczii	618693
 Anabaenopsis milleri	236929	Woron.	Anabaenopsis milleri	618706
 Anabaena levanderi	263630	Lemmerm.	Anabaena levanderi	618736
-Romeria gracilis	263585	Koczw. ex Geitler	Romeria gracilis	618741
+Romeria gracilis	263585	(Koczw.) Geitler	Romeria gracilis	618741
 Lanceola spatulifera	238717	(Korshikov) Hindák	Lanceola spatulifera	618770
 Planctococcus sphaerocystiformis	238886	Korshikov	Planctococcus sphaerocystiformis	618773
-Schizothrix pallida	263619	(Kütz. ex Forti) Geitler	Schizothrix pallida	618897
+Schizothrix pallida	263619	(Nägeli) Geitler	Schizothrix pallida	618897
 Komvophoron minutum	263475	(Skuja) Anagn. & Komárek	Komvophoron minutum	618928
 Komvophoron siderophilum	263478	(Skuja) Anagn. & Komárek	Komvophoron siderophilum	618933
 Pseudanabaena arcuata	263606	(Skuja) Anagn. & Komárek	Pseudanabaena arcuata	618934
@@ -5082,7 +5086,7 @@ Hemiselmis anomala	238043	Butcher, 1967	Hemiselmis anomala	619281
 Chroomonas monococca	238056	Butcher, 1967	Chroomonas monococca	619285
 Dinobryon belgicae	237040	Meunier	Dinobryon belgicae	619304
 Leptolyngbya protospira	263577	(Skuja) Anagn.	Leptolyngbya protospira	619392
-Limnothrix pseudovacuolata	263584	(Utermöhl) Anagn.	Limnothrix pseudovacuolata	619394
+Limnothrix pseudovacuolata	263584	(Utermöhl) M.-E.Meffert	Limnothrix pseudovacuolata	619394
 Phormidiochaete nordstedtii	263472	(Bornet & Flahault) Komárek in Anagn.	Phormidiochaete nordstedtii	619475
 Pseudanabaena dictyothalla	236757	(Skuja) Anagn.	Pseudanabaena dictyothalla	619481
 Pseudanabaena endophytica	263609	(Elenkin & Hollerb.) Schwabe	Pseudanabaena endophytica	619482
@@ -5145,9 +5149,9 @@ Discostella stelligera	237241	(Cleve & Grunow) Houk & Klee	Discostella stelliger
 Pseudopediastrum boryanum	257418	(Turpin) E.Hegewald	Pseudopediastrum boryanum	621601
 Pseudopediastrum kawraiskyi	238727	(Schmidle) E.Hegewald	Pseudopediastrum kawraiskyi	621602
 Cuspidothrix issatschenkoi	263645	(Usačev) P.Rajan., Komárek, Willame, Hrouzek, Katovská, L.Hoffm. & Sivonen	Cuspidothrix issatschenkoi	621617
-Achnanthes acares	262166	Hohn & Hellerman	Achnanthes acares	621627
+Achnanthes acares	262166	M.H.Hohn & Hellerman	Achnanthes acares	621627
 Achnanthes linearioides	262228	Lange-Bert.	Rossithidium anastasiae	621632
-Ardissonea formosa	238660	(Hantzsch) Grunow	Ardissonea formosa	621678
+Ardissonea formosa	238660	Hassall, 1850	Ardissonea formosa	621678
 Belonastrum berolinensis	262708	(Lemmerm.) Round & Maidana	Belonastrum berolinense	621696
 Chaetoceros salsugineus	263172	Takano	Chaetoceros salsugineus	621740
 Cyclotella costei	262477	Druart & F.Straub	Pantocsekiella costei	621783
@@ -5230,7 +5234,7 @@ Pinnularia pisciculus	263102	Ehrenb.	Pinnularia pisciculus	623616
 Pinnularia undula	6006466	(Schum.) Krammer	Pinnularia undula	623623
 Gymnodinium corollarium	263256	A.M.Sundström, Kremp & Daugbjerg	Gymnodinium corollarium	623645
 Cymbopleura naviculiformis	237850	(Auersw. ex Heib.) Krammer	Cymbopleura naviculiformis	623652
-Palatinus apiculatus	6012344	(Ehrenb.) Craveiro & al.	Palatinus apiculatus	623653
+Palatinus apiculatus	6012344	(Ehrenb.) Craveiro, Calado, Daugbjerg & Moestrup	Palatinus apiculatus	623653
 Pinnularia crucifera	263147	Cleve-Euler	Pinnularia crucifera	623665
 Pinnularia esoxiformis	263135	Fusey	Pinnularia esoxiformis	623667
 Navicula longicephala	262345	Hust.	Navicula longicephala	623741
@@ -5241,7 +5245,7 @@ Achnanthidium rosenstockii	237786	(Lange-Bert.) Lange-Bert.	Achnanthidium rosens
 Cymbopleura subaequalis	262513	(Grunow) Krammer	Cymbopleura subaequalis	623805
 Encyonopsis descripta	262573	(Hust.) Krammer	Encyonopsis descripta	623806
 Frustulia quadrisinuata	262702	Lange-Bert.	Frustulia quadrisinuata	623841
-Chloroidium saccharophilum	262147	(W.Krüger) Darienko, Gustavs, Mudimu, C.R.Menendez, R.Schum., U.Karst., Friedl & Pröschold	Chloroidium saccharophilum	623865
+Chloroidium saccharophilum	262147	(W.Krüger) Darienko & al.	Chloroidium saccharophilum	623865
 Chloroidium ellipsoideum	262144	(Gerneck) Darienko, Gustavs, Mudimu, C.R.Menendez, R.Schum., U.Karst., Friedl & Pröschold	Chloroidium ellipsoideum	623866
 Cymbopleura lata	262355	(Grunow ex Cleve) Krammer	Cymbopleura lata	623876
 Pectinodesmus pectinatus	238821	(Meyen) E.Hegewald, M.Wolf, Al.Keller, Friedl & Krienitz	Pectinodesmus pectinatus	623891
@@ -5276,12 +5280,12 @@ Pseudostaurosira elliptica	262856	(Schum.) Edlund, E.Morales & S.Spauld.	Pseudos
 Pseudostaurosira subsalina	262852	(Hust.) E.Morales	Pseudostaurosira subsalina	624359
 Mychonastes anomalus	257057	(Korshikov) Krienitz, C.Bock, Dadheech & Pröschold	Mychonastes anomalus	624369
 Mychonastes botrytella	257058	(Komárek & Perman) Krienitz, C.Bock, Dadheech & Pröschold	Mychonastes botrytella	624370
-Mychonastes jurisii	238837	(Hindák) Krienitz, C.Bock, P.K. Dadheech & Proschold	Mychonastes jurisii	624375
+Mychonastes jurisii	238837	(Hindák) Krienitz & al.	Mychonastes jurisii	624375
 Polytomella agilis	257542	Aragao	Polytomella agilis	624442
 Lacunastrum gracillimum	6001147	(West & G.S.West) H.McManus	Lacunastrum gracillimum	624469
 Chaetophora lobata	232862	Schrank	Chaetophora lobata	624480
 Archaeperidinium minutum	238268	(Kof.) Jørg.	Archaeperidinium minutum	624607
-Planothidium stewartii	262942	(R.M.Patrick) Lange-Bert.	Planothidium stewartii	624656
+Planothidium stewartii	262942	(R.M.Patrick) Lange-Bert.	Platessa stewartii	624656
 Planothidium lemmermannii	237776	(Hust.) E.Morales	Planothidium lemmermannii	624657
 Mucidosphaerium sphagnale	257062	(Hindák) C.Bock, Pröschold & Krienitz	Mucidosphaerium sphagnale	624694
 Mucidosphaerium pulchellum	238833	(H.C.Wood) C.Bock, Pröschold & Krienitz	Mucidosphaerium pulchellum	624695
@@ -5293,10 +5297,10 @@ Anathece minutissima	236798	(W.West) Komárk.-Legn. & Cronberg	Anathece minutiss
 Anathece bachmannii	236794	(Komárek & Cronberg) Komárek, Kastovsky & Jezberová	Anathece bachmannii	624957
 Anathece smithii	236800	(Komárk.-Legn. & Cronberg) Komárk, Kastovsky & Jezberová	Anathece smithii	624960
 Aphanothece paralleliformis	248675	Cronberg	Aphanothece paralleliformis	624961
-Prymnesium kappa	236986	(Parke & Manton) Edvardsen, Eikrem & Probert	Prymnesium kappa	624968
-Prymnesium chiton	236975	(Parke & Manton) Edvardsen, Eikrem & Probert	Prymnesium chiton	624969
+Prymnesium kappa	236986	(Parke & Manton) Edvardsen & al.	Prymnesium kappa	624968
+Prymnesium chiton	236975	(Parke & Manton) Edvardsen & al.	Prymnesium chiton	624969
 Prymnesium minus	236993	(Parke & Manton) Edvardsen, Eikrem & Probert	Prymnesium minus	624970
-Prymnesium pienaarii	263299	(Gayral & Fresnel) Edvardsen, Eikrem & Probert	Prymnesium pienaarii	624972
+Prymnesium pienaarii	263299	(Gayral & Fresnel) Edvardsen & al.	Prymnesium pienaarii	624972
 Prymnesium pigrum	263300	(Geitler) Edvardsen & al.	Prymnesium pigrum	624973
 Haptolina brevifila	236973	(Parke & Manton) Edvardsen & Eikrem	Haptolina brevifila	624975
 Haptolina ericina	236981	(Parke & Manton) Edvardsen & Eikrem	Haptolina ericina	624976
@@ -5316,11 +5320,11 @@ Gloeotila pulchra	257544	Skuja	Gloeotila pulchra	625375
 Gomphonema nathorstii	262772	Foged	Gomphonema nathorstii	625376
 Goniochloris triradiata	257525	Pascher	Goniochloris triradiata	625377
 Monoraphidium capricornutum	238783	(Printz) Nygaard	Monoraphidium capricornutum	625379
-Adlafia brockmannii	262407	(Hust.) Bruder & F.Hinz	Adlafia brockmannii	625380
+Adlafia brockmannii	262407	(Hust.) Bruder	Adlafia brockmannii	625380
 Monochrysis agilissima	263275	Skuja	Monochrysis agilissima	625381
 Amoenoscapa caudata	238096	NA	Amoenoscapa caudata	625383
 Aphanizomenon balticum	263640	nomen provis.	Aphanizomenon balticum	625384
-Aphanizomenon klebahnii	263641	(Elenkin) Pechar & Kalina	Aphanizomenon klebahnii	625385
+Aphanizomenon klebahnii	263641	Elenkin ex Pechar	Aphanizomenon klebahnii	625385
 Bitrichia danubiensis	263165	Juriš	Bitrichia danubiensis	625386
 Bulbochaete basispora	259520	Wittr. & P. Lundell	Bulbochaete basispora	625387
 Chlorogonium acutiforme	263174	Bourr.	Chlorogonium acutiforme	625388
@@ -5348,7 +5352,7 @@ Dolichospermum spiroides	236918	(Kleb.) Wacklin, L.Hoffm. & Komárek	Dolichosper
 Dolichospermum viguieri	257668	(Denis & Frémy) Wacklin, L.Hoffm. & Komárek	Dolichospermum viguieri	625412
 Dysmorphococcus feldmannii	6017852	(Bourrelly) Ettl, 1983	Dysmorphococcus variabilis	625413
 Fortiea rugulosa	263683	Skuja	Fortiea rugulosa	625415
-Fortiea striatula	263684	(F.C.Hy) De Toni	Fortiea striatula	625416
+Fortiea striatula	263684	(Hy) De Toni	Fortiea striatula	625416
 Gloeotila coronata	238925	Chodat	Gloeotila coronata	625417
 Hemiselmis oculata	238046	Butcher, 1967	Hemiselmis oculata	625420
 Hemitoma maeandrocystis	238910	Skuja, 1939	Hemitoma maeandrocystis	625421
@@ -5372,7 +5376,7 @@ Oedogonium herjedalicum	258170	Cedergren	Oedogonium herjedalicum	625444
 Oedogonium plusiosporum	258201	NA	Oedogonium plusiosporum	625445
 Pachysoeca ruttneri	257564	(Bourr.) Fott	Pachysoeca ruttneri	625447
 Percolomonas cuspidata	238636	Larsen & Patterson, 1990	Percolomonas cuspidata	625449
-Petalonema crustaceum	263696	C.Agardh ex Kirchn.	Petalonema crustaceum	625450
+Petalonema crustaceum	263696	Kirchn.	Petalonema crustaceum	625450
 Planonephros parvula	257573	(Skuja) T.A. Chr.	Planonephros parvula	625451
 Platessa holsatica	262941	(Hust.) Lange-Bert.	Platessa holsatica	625452
 Proterospongia dybsoeënsis	238136	Grøntved	Proterospongia dybsoeënsis	625453
@@ -5419,8 +5423,8 @@ Tapinothrix subtilis	263470	(Skuja) Bohunická & J.R.Johans.	Tapinothrix subtili
 Tapinothrix varians	263471	(Geitler) Bohunická & J.R.Johans.	Tapinothrix varians	625825
 Tyrannodinium edax	257872	(A.J.Schill.) Calado	Tyrannodinium edax	625986
 Opisthoaulax vorticella	238363	(F.Stein) Calado	Opisthoaulax vorticella	625987
-Biecheleria baltica	6049992	Moestrup, Lindberg & Daugbjerg, 2009	Biecheleria baltica	626297
-Biecheleria halophila	238445	(Biecheler) Moestrup & al.	Biecheleria halophila	626298
+Biecheleria baltica	6049992	Moestrup & al., 2009	Biecheleria baltica	626297
+Biecheleria halophila	238445	Moestrup, K.Lindb. & Daugbjerg	Biecheleria halophila	626298
 Desmatractum delicatissimum	257500	Korshikov	Desmatractum delicatissimum	626327
 Scrippsiella mexicana	6012267	Indel. & A.R.Loebl.	Scrippsiella mexicana	626371
 Cymbella lanceolata	237847	(C.Agardh) C.Agardh	Cymbella neolanceolata	626393
@@ -5430,7 +5434,7 @@ Komarekia rotundata	257447	(Teiling) Fott	Komarekia rotundata	626434
 Gloeotila subconstricta	263363	(G.S.West) Printz	Gloeotila subconstricta	626435
 Staurastrum clevei	256943	(Wittr.) J. Roy & Bisset	Staurastrum clevei	626469
 Anabaena laxa	263629	A.Braun ex Bornet & Flahault	Anabaena laxa	626483
-Cylindrospermum licheniforme	263646	Bory ex Bornet & Flahault	Cylindrospermum licheniforme	626486
+Cylindrospermum licheniforme	263646	(Bory) Bornet et Flahault	Cylindrospermum licheniforme	626486
 Microcoleus paludosus	263496	Gomont	Microcoleus paludosus	626489
 Gloeotrichia natans	257676	Rabenh. ex Bornet & Flahault	Gloeotrichia natans	626491
 Rivularia beccariana	263676	Bornet & Flahault	Rivularia beccariana	626492
@@ -5442,7 +5446,7 @@ Caloneis tenuis	262443	(W.Greg.) Krammer	Caloneis tenuis	626515
 Pinnularia hemiptera	237621	(Kützing) Rabenhorst, 1853	Pinnularia hemiptera	626519
 Pinnularia polyonca	263099	(Bréb. ex Kütz.) W.Sm.	Pinnularia polyonca	626521
 Chrysococcus minutus	237035	(Fritsch) Nygaard	Chrysococcus minutus	626529
-Dichothrix gypsophila	263670	(Kütz.) Bornet & Flahault	Dichothrix gypsophila	626535
+Dichothrix gypsophila	263670	Bornet & Flahault	Dichothrix gypsophila	626535
 Dichothrix orsiniana	263672	Bornet & Flahault	Dichothrix orsiniana	626537
 Gloeocapsa alpina	263417	Nägeli	Gloeocapsa alpina	626538
 Nostoc punctiforme	234989	Har.	Nostoc punctiforme	626540
@@ -5451,7 +5455,7 @@ Caloneis undulata	262444	(W.Greg.) Krammer	Caloneis undulata	626559
 Diatoma anceps	262529	(Ehrenb.) Kirchn.	Diatoma anceps	626561
 Fragilariforma constricta	262695	(Ehrenb.) D.M.Williams & Round	Fragilariforma constricta	626565
 Fragilariforma lata	262696	(Cleve-Euler) D.M.Williams & Round	Fragilariforma lata	626567
-Hantzschia vivax	237760	(W. Smith) M. Peragallo in Tempére & Peragallo, 1908	Hantzschia vivax	626570
+Hantzschia vivax	237760	(W.Sm.) Grunow	Hantzschia vivax	626570
 Navicula aboensis	262303	(Cleve) Hust.	Navicula aboensis	626571
 Psammothidium altaicum	262937	(V.S.Poretzky) Bukht.	Psammothidium altaicum	626597
 Psammothidium frigidum	262928	(Hust.) Bukht. & Round	Psammothidium frigidum	626599
@@ -5465,13 +5469,13 @@ Gyrosigma parkeri	237645	(Harrison) Elmore	Gyrosigma parkeri	626675
 Chamaepinnularia krookiformis	262454	(Krammer) Lange-Bert. & Krammer	Chamaepinnularia krookiformis	626837
 Chamaepinnularia krookii	262455	(Grunow) Lange-Bert. & Krammer	Chamaepinnularia krookii	626838
 Eucocconeis alpestris	262586	(Brun) Lange-Bert.	Eucocconeis alpestris	627013
-Eucocconeis laevis	237773	(Østrup) Lange-Bert.	Achnanthes laevis	627018
+Eucocconeis laevis	237773	(Østrup) Lange-Bert.	Eucocconeis laevis	627018
 Gomphosphenia lingulatiformis	262802	(Lange-Bert. & E.Reichardt) Lange-Bert.	Gomphosphenia lingulatiformis	627066
 Hindakochloris planktonica	257053	(Fott) Comas	Hindakochloris planktonica	627098
 Katablepharis remigera	238625	(Vørs) Clay & Kugrens	Katablepharis remigera	627117
 Limnothrix pseudominima	6331067	(Skuja) I.Umezaki & M.Watanabe	Limnothrix pseudominima	627139
 Microcostatus krasskei	237568	(Hust.) J.R.Johans. & Sray	Microcostatus krasskei	627161
-Pinnularia brauniana	237616	(Grunow) Mills	Pinnularia brauniana	627257
+Pinnularia brauniana	237616	(Grunow) Cleve	Pinnularia brauniana	627257
 Pinnularia krookii	263122	(Grunow) Cleve	Pinnularia ignobilis	627259
 Pseudogoniochloris tripus	237202	(Pascher) Krienitz, E.Hegewald, O.Reymond & Peschke	Pseudogoniochloris tripus	627304
 Pseudokirchneriella elongata	257505	(G.M.Sm.) Hindák	Pseudokirchneriella elongata	627308
@@ -5479,8 +5483,8 @@ Staurodesmus ralfsii	257000	(West) G.H.Tomaszewicz	Staurodesmus ralfsii	627415
 Cavinula intractata	262447	(Hust.) Lange-Bert.	Cavinula intractata	627518
 Cavinula scutelloides	262450	(W.Sm.) Lange-Bert.	Cavinula scutelloides	627519
 Chamaepinnularia begeri	262452	(Krasske) Lange-Bert.	Chamaepinnularia begeri	627520
-Chamaepinnularia soehrensis	262457	(Krasske) Lange-Bert. & Krammer	Chamaepinnularia soehrensis	627521
-Chamaepinnularia mediocris	262456	(Krasske) Lange-Bert.	Chamaepinnularia mediocris	627522
+Chamaepinnularia soehrensis	262457	(Krasske) Lange-Bert.	Chamaepinnularia soehrensis	627521
+Chamaepinnularia mediocris	262456	(Krasske) Lange-Bertalot	Chamaepinnularia mediocris	627522
 Stauroneis siberica	262712	(Grunow) Lange-Bert. & Krammer	Stauroneis siberica	627543
 Gloeothece tepidariorum	263403	(A.Braun) Lagerh.	Gloeothece tepidariorum	627612
 Aphanocapsa hyalina	263405	(Lyngb.) Hansg.	Aphanocapsa hyalina	627617
@@ -5496,7 +5500,7 @@ Cavinula mollicula	262449	(Hust.) Lange-Bert.	Cavinula mollicula	627783
 Eunotia satelles	262645	(Nörpel-Schempp & Lange-Bert.) Nörpel-Schempp & Lange-Bert.	Eunotia satelles	627786
 Planothidium joursacense	263006	(Hérib.) Lange-Bert.	Planothidium joursacense	627789
 Planothidium pericavum	262944	(J.R.Carter) Lange-Bert.	Planothidium pericavum	627793
-Planothidium pseudotanense	6330803	s.auct., non (A.Cleve) Lange-Bert.	Planothidium abbreviatum	627794
+Planothidium pseudotanense	6330803	s.auct, non Lange-Bert.	Planothidium abbreviatum	627794
 Psammothidium perpusillum	262887	(Østrup) Lange-Bert.	Psammothidium perpusillum	627796
 Petalonema velutinum	263697	Mig.	Petalonema velutinum	627860
 Anabaena miniata	263632	Skuja	Anabaena miniata	627974
@@ -5599,7 +5603,7 @@ Pseudostaurastrum gracile	237143	(Reinsch) Chodat	Tetraedron gracile	656319
 Vaucheria dillwynii	263217	(F.Weber & D.Mohr) C.Agardh	Vaucheria dillwynii	656435
 Cyclotella polymorpha	262479	Barb.Mey. & Håk.	Pantocsekiella polymorpha	656941
 Kirchneriella major	257507	C.Bernard	Kirchneriella major	657414
-Nodularia baltica	236922	Komárek, Hübel, M.Hübel & Smarda	Nodularia baltica	657648
+Nodularia baltica	236922	Komárek, Hübel & M.Hübel	Nodularia baltica	657648
 Oscillatoria quasiperforata	263490	Skuja	Oscillatoria quasiperforata	657702
 Pleurosigma tenuiforme	263307	C.H. von Quillfeldt	Pleurosigma tenuiforme	657881
 Oscillatoria putrida	263489	Schmidle	Oscillatoria putrida	658557
@@ -5612,13 +5616,13 @@ Trichodesmium erythraeum	236766	Ehrenb. ex Gomont	Trichodesmium erythraeum	66091
 Oscillatoria bonnemaisonii	236743	(P.Crouan & H.Crouan) P.Crouan & H.Crouan	Oscillatoria bonnemaisonii	660921
 Oscillatoria curviceps	236745	C.Agardh ex Gomont	Oscillatoria curviceps	660923
 Spirulina major	236150	Kütz. ex Gomont	Spirulina major	660933
-Phormidium corium	263525	Gomont ex Gomont	Phormidium corium	660946
+Phormidium corium	263525	Gomont	Phormidium corium	660946
 Symploca muscorum	263549	Gomont ex Gomont	Symploca muscorum	660964
 Phormidium uncinatum	263541	Gomont ex Gomont	Phormidium uncinatum	661044
 Fusola viridis	238740	J.Snow	Fusola viridis	661077
 Ulothrix oscillarina	263365	Kütz.	Ulothrix oscillarina	661104
 Onychonema filiforme	262238	(Ehrenb. ex Ralfs) J.Roy & Bisset	Onychonema filiforme	661117
-Staurastrum lanceolatum	6325826	W.Archer	Staurodesmus lanceolatus	661130
+Staurastrum lanceolatum	6325826	W.Archer	Staurastrum lanceolatum	661130
 Staurodesmus mamillatus	257410	(Nordst.) Teiling	Staurodesmus cuspidatus	661136
 Chroomonas nordstedtii	257591	Hansg.	Chroomonas nordstedtii	661151
 Nostoc caeruleum	234977	Lyngbye ex Bornet & Flahault	Nostoc caeruleum	661154
@@ -5638,7 +5642,7 @@ Achnanthes hintzii	262187	Lange-Bert. & Krammer	Psammothidium semiapertum	661346
 Fragilaria neoproducta	262687	Lange-Bert.	Fragilaria neoproducta	661357
 Navicula tantula	262898	Hust.	Sellaphora atomoides	661383
 Pinnularia silvatica	263092	J.B.Petersen	Pinnularia silvatica	661397
-Planothidium calcar	263014	(Cleve) Round & Bukht.	Gliwiczia calcar	661398
+Planothidium calcar	263014	(Cleve) Edlund	Gliwiczia calcar	661398
 Planothidium rostratum	237787	(Østrup) Lange-Bert.	Planothidium rostratum	661400
 Synedra tenera	256821	W.Sm.	Fragilaria tenera	661409
 Klebsormidium rivulare	232857	(Kütz.) M.O.Morison & Sheath	Ulothrix implexa	661431
@@ -5658,9 +5662,9 @@ Hapalosiphon pumilus	263709	Kirchner ex Bornet & Flahault	Hapalosiphon pumilus	6
 Nephrochlamys subsolitaria	238863	(G.S. West) Korshikov	Nephrochlamys rostrata	663025
 Protodinium simplex	238354	Lohmann	Protodinium simplex	663583
 Phytodinium globosum	257905	Pascher	Phytodinium simplex	663914
-Eolimna minima	6053320	 p.p, s.auct.	Sellaphora nigri	665106
+Eolimna minima	262898	p.p., s. auct.	Sellaphora atomoides	665106
 Craticula molestiformis	262469	(Hust.) Lange-Bert.	Craticula molestiformis	665148
-Eolimna subminuscula	262581	(Manguin) Moser, Lange-Bert. & Metzeltin	Craticula subminuscula	665154
+Eolimna subminuscula	262581	(Manguin) Gerd Moser, Lange-Bert. & Metzeltin	Craticula subminuscula	665154
 Fragilaria delicatissima	256820	(W.Sm.) Lange-Bert.	Fragilaria delicatissima	665157
 Fragilaria polonica	262690	Witak & Lange-Bert. in Witkowski, Lange-Bert. & Witak	Fragilaria polonica	665160
 Fragilaria quadrata	262691	(Hust.) Lange-Bert. & Metzeltin	Fragilaria quadrata	665161
@@ -5669,13 +5673,13 @@ Phormidium tinctorium	263540	Kütz. ex Gomont	Phormidium tinctorium	665181
 Hassallia pulvinata	263695	Frémy	Hassallia pulvinata	665267
 Spirulina rosea	263596	P.Crouan & H.Crouan ex Gomont	Spirulina rosea	665308
 Oscillatoria rupicola	263491	Hansg. ex Gomont	Oscillatoria rupicola	665345
-Oscillatoria major	263486	Vaucher	Oscillatoria major	665981
+Oscillatoria major	263486	Vaucher ex Hansg.	Oscillatoria major	665981
 Fragilaria capitellata	262674	(Grunow) J.B.Petersen	Fragilaria recapitellata	667263
 Crucigeniella lunaris	238802	Lemmermann, 1900	Crucigeniella lunaris	667720
 Puncticulata radiosa	237238	(Grunow) Håk.	Lindavia radiosa	667998
 Naviculadicta vitabunda	262933	(Hust.) Lange-Bert.	Sellaphora vitabunda	668398
 Platessa conspicua	237767	(Ant.Mayer) Lange-Bert.	Platessa conspicua	668407
-Staurosira venter	248619	(Ehrenb.) Cleve & J.D.Möller	Staurosira venter	668408
+Staurosira venter	248619	(Ehrenb.) H.Kobayasi	Staurosira venter	668408
 Monoraphidium subclavatum	257509	Nygaard	Monoraphidium subclavatum	668538
 Fallacia subhamulata	237664	(Grunow) D.G.Mann in Round & al.	Fallacia subhamulata	669021
 Stauroneis spicula	262889	Hickie	Haslea spicula	669081
@@ -5721,7 +5725,7 @@ Navicula arvensis var. major	262310	Lange-Bert.	Sellaphora cosmopolitana	671443
 Nitzschia linearis var. tenuis	263019	(W.Sm.) Grunow	Nitzschia tenuis	671467
 Nitzschia palea var. tenuirostris	263025	Grunow	Nitzschia palea var. tenuirostris	671470
 Pinnularia divergens var. sublinearis	263144	Cleve	Pinnularia divergens var. sublinearis	671477
-Staurosira construens var. exigua	262706	(W.Sm.) H.Kobayasi	Staurosira construens var. exigua	671497
+Staurosira construens var. exigua	262706	(W.Sm.) E.Y.Haw. & M.G.Kelly	Staurosira construens var. exigua	671497
 Staurosirella pinnata var. intercedens	262421	(Grunow) P.B. Hamilton	Staurosirella pinnata var. intercedens	671499
 Surirella brebissonii var. punctata	262402	Krammer	Surirella brebissonii var. punctata	671501
 Surirella brebissonii var. kuetzingii	262401	Krammer & Lange-Bert.	Surirella brebissonii var. kuetzingii	671502
@@ -5810,8 +5814,8 @@ Nitzschia filiformis var. conferta	262983	(P.G.Richt.) Lange-Bert.	Nitzschia fil
 Nitzschia frustulum var. bulnheimiana	262988	(Rabenh.) Grunow	Nitzschia frustulum var. bulnheimiana	675176
 Xanthidium tetracentrotum var. protuberans	257028	(W. & G.S. West) W. & G.S. West	Xanthidium tetracentrotum var. protuberans	675244
 Nitzschia palea var. minuta	237740	(Bleisch) Grunow	Nitzschia palea var. palea	675308
-Nitzschia sinuata var. sinuata	263038	(Thwaites ex W.Sm.) Grunow	Grunowia sinuata	675314
-Achnanthes laevis var. austriaca	262189	(Hust.) Lange-Bert.	Achnanthes laevis var. austriaca	675341
+Nitzschia sinuata var. sinuata	263038		Grunowia sinuata	675314
+Achnanthes laevis var. austriaca	262189	(Hust.) Lange-Bert.	Eucocconeis austriaca	675341
 Desmodesmus armatus var. longispina	257452	(Chodat) E.Hegewald	Desmodesmus armatus var. longispina	675363
 Desmodesmus armatus var. spinosus	248649	NA	Desmodesmus armatus var. spinosus	675366
 Desmodesmus intermedius var. acutispinus	257471	(Y.V.Roll) E.Hegewald	Desmodesmus intermedius var. acutispinus	675372
@@ -5841,10 +5845,10 @@ Trachelomonas planctonica f. oblonga	257751	(Drezep.) T.G.Popova	Trachelomonas p
 Chrysolykos angulatus f. bicornis	257800	(Willén) Nauwerck	Chrysolykos angulatus f. bicornis	689132
 Cavinula cocconeiformis f. elliptica	262446	(Hust.) Lange-Bert.	Cavinula cocconeiformis f. elliptica	689133
 Eunotia bilunaris var. linearis	262593	(Okuno) Lange-Bert. & Nörpel-Schempp	Eunotia ambivalens	694738
-Nitzschia sinuata var. tabellaria	6012162	(Grunow) Grunow in Van Heurck	Grunowia tabellaria	695114
+Nitzschia sinuata var. tabellaria	6012162	(Grunow) Grunow	Grunowia tabellaria	695114
 Eunotia paludosa var. trinacria	262632	(Krasske) Nörpel	Eunotia trinacria	695126
 Nitzschia sinuata var. delognei	6012161	(Grunow) Lange-Bert.	Grunowia solgensis	695170
-Staurosirella leptostauron var. dubia	262633	(Grunow) Edlund	Staurosira leptostauron var. dubia	695182
+Staurosirella leptostauron var. dubia	262633	(Grunow) Bukht.	Staurosira leptostauron var. dubia	695182
 Diatoma vulgaris var. vulgaris	248645		Diatoma vulgaris var. vulgaris	695320
 Gymnodinium inversum var. elongatum	257875	Nygaard	Gymnodinium inversum var. elongatum	695746
 Cosmarium abbreviatum var. planctonicum	256870	West & G.S.West	Cosmarium abbreviatum var. planctonicum	695965
@@ -5852,7 +5856,7 @@ Achnanthes lanceolata var. robusta	262204	Hust.	Planothidium robustius	696202
 Pinnularia divergens var. decrescens	263142	(Grunow) Krammer	Pinnularia divergens var. decrescens	696793
 Pinnularia interrupta var. minutissima	263077	Hust.	Pinnularia interrupta var. minutissima	696901
 Eunotia muscicola var. perminuta	262625	(Grunow) Nörpel & Lange-Bert.	Eunotia perminuta	697905
-Reimeria sinuata f. ovata	262846	(Hust.) Bukht.	Reimeria sinuata f. ovata	698177
+Reimeria sinuata f. ovata	262846	(Hust.) Bukht.	Reimeria ovata	698177
 Nitzschia intermedia f. actinastroides	257384	(Lemmerm.) Lange-Bert.	Nitzschia intermedia f. actinastroides	699055
 Netrium digitus	257030	(Ehrenberg ex Ralfs) Itzigsohn & Rothe	Netrium digitus	699368
 Diadesmis confervacea	262320	Kütz.	Diadesmis confervacea	699370
@@ -5879,9 +5883,9 @@ Brachysira zellensis	262438	(Grunow) Round & Mann	Brachysira zellensis	699624
 Dolichospermum circinale	263661	(Rabenhorst ex Bornet & Flahault) P.Wacklin, L.Hoffmann & J.Komárek	Dolichospermum sigmoideum	699631
 Chamaepinnularia hassiaca	262459	(Krasske) Cantonati & Lange-Bert.	Chamaepinnularia hassiaca	699637
 Auliscus sculptus	237387	(W. Smith) Ralfs in Pritchard, 1861	Auliscus sculptus	699641
-Biecheleria pseudopalustris	257881	(J.Schiller) Moestrup, K.Lindb. & Daugbjerg	Biecheleria pseudopalustris	699668
+Biecheleria pseudopalustris	257881	(J.Schiller) Moestrup & al.	Biecheleria pseudopalustris	699668
 Achnanthidium caledonicum	262235	(Lange-Bert.) Lange-Bert.	Achnanthidium caledonicum	699706
-Achnanthidium catenatum	262383	(J.Bílý & Marvan) Lange-Bert.	Achnanthidium catenatum	699707
+Achnanthidium catenatum	262383	(J.Bily & Marvan) Lange-Bert.	Achnanthidium catenatum	699707
 Chromista	5000055	Cavalier-Smith, 1981	Chromista	7
 Nitzschia garrensis	262990	Hust.	Nitzschia garrensis	700157
 Nitzschia lanceola	262998	Grunow	Nitzschia lanceola	700203
@@ -5896,7 +5900,7 @@ Uronema africanum	262108	Borge	Uronema africanum	700873
 Mayamaea atomus var. alcimonica	262837	(E.Reichardt) E.Reichardt	Mayamaea alcimonica	701903
 Nitzschia lanceola var. minutula	262999	Grunow	Nitzschia lanceola var. minutula	701932
 Dolichospermum circinale var. macrosporum	236913	(Klebahn)	Dolichospermum macrosporum	701933
-Diadesmis contenta var. biceps	262528	(Grunow) Hamilton	Diadesmis contenta var. biceps	702138
+Diadesmis contenta var. biceps	262528	(Grunow) P.B.Hamilton	Diadesmis contenta var. biceps	702138
 Mayamaea atomus var. permitis	262838	(Hust.) Lange-Bert.	Mayamaea permitis	702237
 Bulbochaete nordstedtii	259536	Wittr.	Bulbochaete nordstedtii	704054
 Cosmarium regnesi	256891	Reinsch	Cosmarium regnesi	704183
@@ -5928,7 +5932,7 @@ Menoidium curvatum	257715	Skvortsov	Menoidium curvatum	708025
 Raphidosphaera tenerrima	6012575	(J.Schiller) P.C.Silva	Raphidosphaera tenerrima	708245
 Tetrastrum hastiferum	257492	(Arnoldi) Korshikov	Tetrastrum hastiferum	708267
 Baldinia bernardiensis	238178	(Chodat & Zender) Moestrup & al.	Baldinia bernardiensis	708284
-Achnanthidium gracillimum	262384	(Meister) Lange-Bert. in Krammer & Lange-Bert.	Achnanthidium gracillimum	708289
+Achnanthidium gracillimum	262384	(Meister) Lange-Bert.	Achnanthidium gracillimum	708289
 Achnanthidium helveticum	262385	(Hust.) O.Monnier, Lange-Bert. & Ector	Psammothidium helveticum	708290
 Pseudoperanema trichophorum	238608	(Ehrenberg) Christen, 1962	Pseudoperanema trichophorum	708291
 Grammonema striatulum	263254	(Lyngb.) C.Agardh	Grammonema striatulum	708292
@@ -5938,13 +5942,13 @@ Bicosoeca planctonica var. multiannulata	257777	Skuja	Bicosoeca planctonica var.
 Achnanthidium kriegeri	262387	(Krasske) Hamilton, D.Anton. & Siver	Achnanthidium kriegeri	708715
 Chromophysomonas serrata	237089	(K.H.Nicholls) Preisig & D.J.Hibberd	Chromophysomonas serrata	708716
 Achnanthidium daonense	262179	(Lange-Bert.) Lange-Bert., Monnier & Ector	Psammothidium daonense	708730
-Achnanthidium lauenburgianum	262388	(Hust.) O.Monnier, Lange-Bert. & Ector	Psammothidium lauenburgianum	708731
+Achnanthidium lauenburgianum	262388	(Hust.) Monnier, Lange-Bert. & Ector	Psammothidium lauenburgianum	708731
 Didymoeca	6018125	Doweld, 2003	Didymoeca	724313
 Didymoeca costata	238119	(Valkanov) Doweld	Didymoeca costata	724314
-Ulvella wittrockii	232854	(Wille) R.Nielsen & al.	Ulvella wittrockii	732245
+Ulvella wittrockii	232854	(Wille) R.Nielsen, O'Kelly & B. Wysor	Ulvella wittrockii	732245
 Ulvella leptochaete	232851	R.Nielsen, O'Kelly & B. Wysor	Ulvella leptochaete	732246
 Ulvella repens	232852	(Pringsh.) R.Nielsen & al.	Ulvella repens	732257
-Ulvella viridis	232853	(Reinke) R.Nielsen, O'Kelly & B. Wysor	Ulvella viridis	732259
+Ulvella viridis	232853	(Reinke) R.Nielsen & al.	Ulvella viridis	732259
 Ulvella scutata	232770	(Reinke) R.Nielsen, O'Kelly & B. Wysor	Ulvella scutata	732330
 Chlamydomonadales	3000506	F.E.Fritsch	Chlamydomonadales	732333
 Strombidium emergens	238531	(Leegaard, 1915)	Strombidium emergens	732820
@@ -5964,7 +5968,7 @@ Limnoraphis	6018110	Komárek, E.Zapomelová, J.Smarda, J.Kopecky, E.Rejmánková
 Neostromatella	1008557	M.J.Wynne, G.Furnari & R.Nielsen	Neostromatella	836601
 Temnogyra punctata	262279	(Cleve) Yamagishi	Temnogyra punctata	836842
 Chrysotila gayraliae	263303	(Beuffe) R.A.Andersen & al., nom. inval.	Chrysotila gayraliae	836860
-Ankistrodinium semilunatum	238376	(Herdman) M. Hoppenrath & al.	Ankistrodinium semilunatum	836894
+Ankistrodinium semilunatum	238376	(Herdman) M. Hoppenrath, Sh.Murray, S.F. Sparmann & B.S. Leander	Ankistrodinium semilunatum	836894
 Chrysotila pseudoroscoffensis	263305	(Gayral & Fresnel) R.A.Andersen & al.	Chrysotila pseudoroscoffensis	837014
 Azadinium caudatum	238210	(Halldal) Nézan & Chomérat	Azadinium caudatum	837075
 Microcoleus setchellianus	263538	(Gomont) Strunecky, Komárek & J.R.Johansen	Microcoleus setchellianus	837151
@@ -5985,19 +5989,19 @@ Pinnularia acutobrebissonii	6017857	Kulikovskiy, Lange-Bert. & Metzeltin	Pinnula
 Desmodesmus aculeolatus	238808	(Reinsch) P.M.Tsarenko	Desmodesmus aculeolatus	838101
 Desmodesmus bicaudatus	257456	(Dedus.) P.M.Tsarenko	Desmodesmus bicaudatus	838103
 Ulvella testarum	232789	(Kylin) R.Nielsen, O'Kelly & B. Wysor	Ulvella testarum	838154
-Chimonodinium lomnickii	263288	(Wołosz.) Craveiro, Calado, Daugbjerg, Gert Hansen & Moestrup	Chimonodinium lomnickii	838278
+Chimonodinium lomnickii	263288	(Wołosz.) Craveiro & al.	Chimonodinium lomnickii	838278
 Parvodinium deflandrei	263290	(M.Lefèvre) Carty	Parvodinium deflandrei	838485
 Parvodinium goslaviense	257899	(Wołosz.) Carty	Parvodinium goslaviense	838486
 Parvodinium inconspicuum	238191	(Lemmerm.) Carty	Parvodinium inconspicuum	838487
 Parvodinium pusillum	238193	(Penard) Carty	Parvodinium pusillum	838488
-Gregiochloris lacustris	6327562	(Chodat) Marvan, Komárek & Comas	Quadrigula chodatii	838560
+Gregiochloris lacustris	6327562	(Chodat) Marvan, Komárek & Comas	Gregiochloris lacustris	838560
 Gomphoneis exigua	262753	(Kütz.) Medlin	Gomphonemopsis exigua	838656
 Dinobryon spirale	257818	Iwanoff	Dinobryon spirale	838716
 Dictyotales	3000329	Bory	Dictyotales	839
 Lemmermannia komarekii	257443	(Hindák) C.Bock & Krienitz	Crucigenia lauterbornii	839085
-Staurodesmus octocornis	256866	(Ehrenb. ex Ralfs) Stastny & al.	Staurodesmus octocornis	839096
+Staurodesmus octocornis	256866	(Ehrenb. ex Ralfs) Stastny, Škaloud & Neustupa	Staurodesmus octocornis	839096
 Chlorella elongata	238832	(Hindák) C.Bock, Krienitz & Pröschold	Chlorella elongata	839134
-Reckertia spinosa	238651	(H.A.Thomsen, G.Hällfors,S. Hällfors & J.Ikävalko, 1993) Cavalier-Smith, 2011	Reckertia spinosa	839151
+Reckertia spinosa	238651	(H.A.Thomsen & al., 1993) Cavalier-Smith, 2011	Reckertia spinosa	839151
 Willea apiculata	238800	(Lemmermann) D.M.John, M.J.Wynne & P.M.Tsarenko	Willea apiculata	839163
 Desmonostoc muscorum	234986	(C.Agardh ex Bornet & Flahault)	Desmonostoc muscorum	839172
 Verrucodesmus verrucosus	238823	(Y.V.Roll) E.Hegewald	Verrucodesmus verrucosus	839179
@@ -6005,23 +6009,23 @@ Staurodesmus cuspidicurvatus	6017750	Coesel & Meesters	Staurodesmus cuspidicurva
 Staurastrum nygaardii	6017723	Coesel & Meesters	Staurastrum nygaardii	839239
 Dolichospermum delicatulum	263153	(Lemmerm.) Wacklin, Hoffmann & Komárek	Dolichospermum delicatulum	839468
 Dolichospermum longicellulare	236912	(Pankow) Wacklin, Hoffmann & Komárek	Dolichospermum longicellulare	839474
-Raphidocelis arcuata	263270	(G.M.Sm.) Marvan & al.	Raphidocelis arcuata	839505
+Raphidocelis arcuata	263270	(G.M.Sm.) Marvan, Komárek & Comas	Raphidocelis arcuata	839505
 Chlorella chlorelloides	263215	(Naumann) C.Bock, L.Krienitz & T.Pröschold	Chlorella chlorelloides	839898
-Limnoraphis cryptovaginata	236769	(Schkorb.) Komárek & al.	Limnoraphis cryptovaginata	839905
-Chaetoceros gelidus	6018293	A. Chamnansinp & al.	Chaetoceros gelidus	839985
-Trieres mobiliensis	237376	(J.W.Bailey) M.P. Ashworth & E.C.Ther.	Trieres mobiliensis	839991
+Limnoraphis cryptovaginata	236769	(Shkorb.) Komárek, E. Zapomelová, J.Šmarda, J. Kopecky, E. Rejmámková, J. Woodhouse, B.A. Neilan & J. Komárková	Limnoraphis cryptovaginata	839905
+Chaetoceros gelidus	6018293	A. Chamnansinp, Y. Li, Lundholm & Moestrup	Chaetoceros gelidus	839985
+Trieres mobiliensis	237376	(Bailey) Ashworth & E.C.Ther.	Trieres mobiliensis	839991
 Trieres regia	237377	(M.Schultze) Ashworth & E.C.Ther.	Trieres regia	839996
-Microcoleus amoenus	263500	(Gomont) Strunecký & al.	Microcoleus amoenus	840001
+Microcoleus amoenus	263500	(Gomont) Strunecky, Komárek & J.R.Johansen	Microcoleus amoenus	840001
 Microcoleus autumnalis	236754	(Gomont) Strunecký & al.	Microcoleus autumnalis	840016
 Dicrateria rotunda	237009	(N.Reynolds) El M. Bendif & I. Probert, nom. inval.	Dicrateria rotunda	840109
 Neostromatella monostromatica	232774	M.J.Wynne, G.Furnari & R.Nielsen	Neostromatella monostromatica	840291
 Willea crucifera	238801	(Wolle) D.M.John, M.J.Wynne & P.M.Tsarenko	Willea crucifera	840470
 Willea rectangularis	238803	(A.Braun) D.M.John, M.J.Wynne & P.M.Tsarenko	Willea rectangularis	840472
-Willea truncata	238804	(G.M.Sm.) D.M.John & al.	Willea truncata	840474
+Willea truncata	238804	(G.M.Sm.) D.M.John, M.J.Wynne & P.M.Tsarenko	Willea truncata	840474
 Chrysotila placolithoides	263304	(Fresnel & Billard) R.A.Andersen & al.	Chrysotila placolithoides	840489
 Tripos fusus	238302	(Ehrenb.) F.Gómez	Tripos fusus	840626
 Tripos furca	238300	(Ehrenb.) F.Gómez	Tripos furca	840627
-Levanderina fissa	238332	(Levander) Moestrup, P. Hakanen, Gert Hansen, Daugbjerg & M. Ellegaard	Levanderina fissa	840689
+Levanderina fissa	238332	(Levander) Moestrup & al.	Levanderina fissa	840689
 Coenococcus nygaardii	6326642	(Komárek) Hindák	Coenococcus nygaardii	840848
 Kamptonema chlorinum	263524	(Kütz. ex Gomont) Strunecký, Komárek & J.Smarda	Kamptonema chlorinum	840966
 Kamptonema animale	263502	(C. Agardh ex Gomont) Strunecký, Komárek & J.Smarda	Kamptonema animale	840972
@@ -6036,9 +6040,9 @@ Parvodinium lubieniense	257901	(Wołosz.) Carty	Parvodinium lubieniense	841291
 Johanseninema constrictum	263474	(Szafer) Hasler, Dvorák & Poulícková	Johanseninema constrictum	841718
 Ectocarpales	3000323	Bessey	Ectocarpales	842
 Chrysotila dentata	263302	(J.R.Johans. & Doucette) R.A.Andersen & al.	Chrysotila dentata	842705
-Aulacoseira pseudodistans	262427	Lange-Bert. in ms	Aulacoseira pseudodistans	843863
+Aulacoseira pseudodistans	262427	Lange-Bert. & Krammer in ms	Aulacoseira pseudodistans	843863
 Fucales	3000331	Bory	Fucales	844
-Spirogyra setiformis	262281	(Roth) Martens ex Meneghini	Spirogyra setiformis	844028
+Spirogyra setiformis	262281	(Roth) Kütz.	Spirogyra setiformis	844028
 Laminariales	3000330	Mig.	Laminariales	845
 Lepidochromonas diademifera	237067	(E.Takahashi) J.Kristiansen	Lepidochromonas diademifera	845309
 Planothidium frequentissimum	263009	(Lange-Bert.) Lange-Bert.	Planothidium frequentissimum	845399
@@ -6076,12 +6080,12 @@ Cyclotella comta var. radiosa	237238	Grunow	Lindavia radiosa	984107
 Nitzschia palea f. major	263026	Rabenh.	Nitzschia palea var. major	984620
 Psammosiphonella discreta	257989	(Brady, 1881)	Psammosiphonella discreta	993559
 Biota	0	NA	Biota	1
-Harosa	6011755	Caval.-Sm.	Sar	582419
-Alveolata	6011759	Cavalier-Smith, 1991	Alveolata	536209
-Intramacronucleata	6049985	D.H.Lynn, 1996	Intramacronucleata	425401
+Harosa	6011755	Cavalier-Smith, 2010	Sar	582419
+Alveolata	6011759	Caval.-Sm.	Alveolata	536209
+Intramacronucleata	6049985	Lynn, 1996	Intramacronucleata	425401
 Oligotrichea	6323275	Bütschli, 1887	Oligotrichea	732974
-Choreotrichida	6009246	NA	Oligotrichida s.lat.	341353
-Leegaardiellina	6009256	Laval-Peuto, Grain & Deroux, 1994	Leegaardiellina	425492
+Choreotrichida	6009246	Small & Lynn, 1985	Choreotrichida	341353
+Leegaardiellina	6009256	Laval-Peuto et al. , 1994	Leegaardiellina	425492
 Lohmanniellina	6009257	Laval-Peuto, Grain & Deroux, 1994	Lohmanniellina	425494
 Strobilidiina	6009258	Small & Lynn, 1985	Strobilidiina	425495
 Strombidinopsina	6009259	Small & Lynn, 1985	Strombidinopsina	425496
@@ -6106,7 +6110,7 @@ Dinoflagellata	6011726	Bütschli, 1885	Dinoflagellata	146203
 Kolkwitziellaceae	2003227	Er.Lindem.	Kolkwitziellaceae	109430
 Amphilothales	3000619	(Kof. & Swezy) Er.Lindem.	Gymnodiniales	744375
 Amphilothaceae	6012103	Kof. ex Poche	Amphilothaceae	744376
-Tovelliaceae	6012235	Moestrup, K.Lindb. & Daugbjerg	Tovelliaceae	577245
+Tovelliaceae	6012235	Moestrup & al.	Tovelliaceae	577245
 Suessiales	6012148	Fensome & al.	Suessiales	109399
 Protoceratiaceae	6012211	Er.Lindem.	Protoceratiaceae	836360
 Corythodinium	6009237	Loeblich Jr. & Loeblich III, 1966	Corythodinium	109527
@@ -6116,7 +6120,7 @@ Monothalamea	6011702	Heackel, 1862	Monothalamea	744106
 Astrorhizida	6001359	Lankester, 1885	Astrorhizida	394016
 Rhabdamminidae	6001360	H.B.Brady, 1884	Rhabdamminidae	414878
 Prymnesiophycidae	6012363	Caval.-Sm.	Prymnesiophycidae	236093
-Chrysochromulinaceae	6012367	Edvardsen, Eikrem & Medlin	Chrysochromulinaceae	599689
+Chrysochromulinaceae	6012367	Edvardsern & al.	Chrysochromulinaceae	599689
 Excavata	6011685	Caval.-Sm.	Excavata	536210
 Loukozoa	6011687	Caval.-Sm.	Loukozoa	582163
 Jakobea	6011694	Caval.-Sm.	Jakobea	582179
@@ -6135,13 +6139,13 @@ Telonemida	6011704	Cavalier-Smith, 1993	Telonemida	582427
 Nanomonadea	6331410	Cavalier-Smith, 2013	Nanomonadea	1736249
 Uniciliatida	6331411	Cavalier-Smith, 2013	Uniciliatida	1736250
 Solenicolidae	6331412	Cavalier-Smith, 2013	Solenicolidae	1736256
-Solenicola	1010695	Pavill.	Solenicola	118027
+Solenicola	1010695	Pavillard, 1916	Solenicola	118027
 Percolozoa	5000105	Cavalier-Smith, 1991	Percolozoa	451648
 Heterolobosea	4000235	F.C.Page & Blanton, 1985	Heterolobosea	451649
 Schizopyrenida	6018278	B.N.Singh, 1952	Schizopyrenida	1316
 Vahlkampfiidae	6038824	Jollos, 1917	Vahlkampfiidae	21540
 Lobosa	6009266	W.B.Carpenter, 1861	Lobosa	582168
-Discosea	6009384	Cavalier-Smith & al., 2004	Discosea	582189
+Discosea	6009384	Cavalier-Smith, 2004	Discosea	582189
 Flabellinia	6009385	Smirnov & al., 2005	Flabellinia	582205
 Vannellida	6009386	Smirnov & al., 2005	Vannellida	451643
 Vannellidae	6009387	Bovee, 1970	Vannellidae	22724
@@ -6152,24 +6156,25 @@ Zygnematophyceae	4000126	Round ex Guiry	Conjugatophyceae	1634603
 Desmidiales	6008733	Bessey	Desmidiales	886288
 Pseudopediastrum	6001140	E.Hegewald	Pseudopediastrum	603098
 Chromophysomonas	6012521	Preisig & D.J.Hibberd	Chromophysomonas	600916
-Oscillatoriophycidae	6020338	L.Hoffm. & al.	Oscillatoriophycidae	368682
+Oscillatoriophycidae	6020338	L.Hoffm., Komárek & Kastovsky	Oscillatoriophycidae	368682
 Octactis	6329098	J.Schiller	Octactis	369960
 Lychaete	6328924	J.Agardh	Lychaete	603355
 Planosiphon	6328960	McDevit & G.W.Saunders	Planosiphon	1310310
-Rosenvingiellopsis	6046635	Heesch & al.	Rosenvingiellopsis	1312598
+Rosenvingiellopsis	6046635	Heesch, M.Pažoutová & Rindi	Rosenvingiellopsis	1312598
 Anagnostidinema	6018027	Strunecký et al.	Anagnostidinema	1313612
-Chaetophoropsis	6046636	B.Wen Liu & al.	Chaetophoropsis	1341820
+Chaetophoropsis	6046636	B.Wen Liu, Qian Xiong, X.Dong Liu, Z.Yu Hu & G.Xing Liu	Chaetophoropsis	1341820
 Chlorodendrophyceae	6011762	Masjuk	Chlorodendrophyceae	886257
 Pyramimonadophyceae	4000181	NA	Pyramimonadophyceae	886274
 Potamolinea	263499	(Gomont) M.D.Martins & Branco	Phormidium aerugineocaeruleum	1356530
 Microchloropsis	6329054	M.W.Fawley, I.Jameson & K.P.Fawley	Microchloropsis	1359174
+Apocalathium	6332737	Craveiro & al.	Apocalathium	1359178
 Monostromataceae	2002560	NA	Gomontiaceae	143793
 Allogromiida	6011720	Loeblich & Tappan, 1961	Allogromiida	163155
 Lagynidae	6011721	Schultze, 1854	Lagynidae	111894
 Euglyphida	3000634	H.F.Copeland, 1956	Euglyphida	22624
 Torodiniales	6331686	Boutrup & al.	Torodiniales	1368612
 Kapelodinium	238358	(F.Schütt) Boutrup & al.	Gymnodinium vestifici	1368614
-Nostocophycidae	6020337	L.Hoffm., Komárek & Kastovsky	Nostocophycidae	368681
+Nostocophycidae	6020337	L.Hoffm. & al.	Nostocophycidae	368681
 Barrufeta	6050008	N.Sampedro & S.Fraga, 2011	Barrufeta	603276
 Leptolyngbyaceae	6018025	(Anagnostidis & J.Komárek) J.Komárek et al.	Leptolyngbyaceae	836372
 Limnolyngbya	6331058	X.Li & R.Li	Limnolyngbya	1372705
@@ -6178,10 +6183,10 @@ Messastrum	6327541	T.S.Garcia	Messastrum	1372753
 Thaumatomastigaceae	2003606	NA	Thaumatomastigaceae	1653002
 Aphanizomenonaceae	6012635	Elenkin	Aphanizomenonaceae	836361
 Pseudococcomyxa	6326416	Korshikov	Pseudococcomyxa	600805
-Borghiellaceae	6012320	Moestrup, K.Lindb. & Daugbjerg	Borghiellaceae	599713
-Borghiella	6012329	Moestrup & al.	Borghiella	503083
+Borghiellaceae	6012320	Moestrup & al.	Borghiellaceae	599713
+Borghiella	6012329	Moestrup, K.Lindb. & Daugbjerg	Borghiella	503083
 Suessiaceae	6012150	Fensome & al.	Suessiaceae	231813
-Biecheleria	6012151	Moestrup & al.	Biecheleria	603334
+Biecheleria	6012151	Moestrup, K.Lindb. & Daugbjerg	Biecheleria	603334
 Jadwigia	6006518	Lange-Bert. & Reichardt	Gomphonema jadwigiae	602984
 Neglectella	6328922	Vodenicarov & Benderliev	Neglectella	601051
 Parvodinium	6012263	Carty	Parvodinium	707634
@@ -6199,10 +6204,10 @@ Glaucosphaeraceae	2003942	Skuja	Glaucosphaeraceae	599661
 Rhodella	1010702	L.V.Evans	Rhodella	144228
 Kinetoplastea	6011699	Honigb.	Kinetoplastea	562565
 Diplonemea	6011698	NA	Diplonemea	582176
-Microcoleaceae	6017988	O.Strunecky, J.R.Johansen & J.Komárek	Microcoleaceae	836366
+Microcoleaceae	6017988	Strunecký & al.	Microcoleaceae	836366
 Spirulinales	6012262	J.Komárek, J.Kastovsky, J.Mares & J.R.Johansen	Spirulinales	1293730
 Spirulinaceae	6012270	(Gomont) L.Hoffmann, J.Komárek & J.Ka	Spirulinaceae	599619
-Pleurocapsales	6012261	Geitler	Pleurocapsales	146712
+Pleurocapsales	6012261	Cavalier-Smith 2002	Pleurocapsales	146712
 Synechococcophycidae	6020339	L.Hoffm., Komárek & Kastovsky	Synechococcophycidae	493819
 Coelosphaeriaceae	6008727	Elenkin	Coelosphaeriaceae	1653573
 Gomontiellaceae	6017990	Elenkin ex Geitler	Gomontiellaceae	573262
@@ -6221,21 +6226,21 @@ Chrysococcaceae	2003890	NA	Dinobryaceae	160547
 Rhabdophora	6049987	Small, 1976	Rhabdophora	582432
 Litostomatea	4000249	Small & Lynn, 1981	Litostomatea	292892
 Haptorida	3000630	Corliss, 1974	Haptorida	163057
-Ctenophora	1016149	Meigen, 1803	Ctenophora	163921
+Ctenophora	1016149	Meigen 1803	Ctenophora (Ctenophora)	163921
 Schizochlamydaceae	6007670	Fuciková, P.O.Lewis & L.A.Lewis	Schizochlamydaceae	1307222
 Monaster	145	(J.Lahm ex Körb.) J.Lahm	Biatoridium monasteriense	1643673
 Chlorotetraedron	257944	(Teiling) Komárek & Kovácik	Chlorotetraedron incus	1648091
 Monema	237831	Berk.	Encyonema leibleinii	172271
 Chloromonas	6017818	Gobi	Chloromonas	600769
 Urostipulosphaera	6323116	Pusztai & Škaloud	Urostipulosphaera	1535827
-Sphaerella	6326109	Sommerfelt	Sphaerella	578530
+Sphaerella	1014216	(Fr.) Rabenh.	Ramularia	578530
 Synedra acus	248618	Kütz.	Ulnaria acus	149188
 Pseudoralfsia	1008532	Parente, Fletcher & G.W.Saunders	Pseudoralfsia	1771401
-Coleofasciculaceae	6017986	J.Komárek, J.Kastovsky, J.Mares & J.R.Johansen	Coleofasciculaceae	836365
+Coleofasciculaceae	6017986	J.Komárek et al.	Coleofasciculaceae	836365
 Endomyxa	6009272	Desportes & Ginsburger-Vogel, 1977	Endomyxa	562853
 Proteomyxidea	6009274	NA	Proteomyxidea	591230
 Cyclotrichiida	3000869	Jankowski, 1980	Cyclotrichiida	292893
-Mesodiniidae	6009241	NA	Mesodiniidae s.lat.	292894
+Mesodiniidae	6009241	NA	Didiniidae	292894
 Krasskella	6012509	R.Ross & P.A.Sims	Krasskella	180380
 Brachidiniaceae	6012105	Sournia	Brachydiniaceae	231768
 Takayama	6043343	Uchida, 1926	Menacanthus takayamai	231792
@@ -6246,9 +6251,9 @@ Sphaerocystidaceae	6007692	Fott ex. Tsarenko	Sphaerocystidaceae	599718
 Pelonematales	6331401	Skuja	Pelonematales	1738660
 Pelonemataceae	2003912	Skuja	Pelonemataceae	1738661
 Achroonema	1010269	Skuja	Achroonema	249690
-Pelagostrobilidium	6009248	Petz, Song & Wilbert, 1995	Pelagostrobilidium	101182
-Cyanothecaceae	6017992	J.Komárek, J.Kastovsky, J.Mares & J.R.Johansen	Cyanothecaceae	1308659
-Lepidodinium	6012229	M.Watan., Suda, I.Inouye, T. Sawaguchi & Chihara	Lepidodinium	231790
+Pelagostrobilidium	6009248	Petz et al. , 1995	Pelagostrobilidium	101182
+Cyanothecaceae	6017992	J.Komárek et al.	Cyanothecaceae	1308659
+Lepidodinium	6012229	M.Watan. & al.	Lepidodinium	231790
 Asteromonadaceae	2003299	NA	Dunaliellaceae	599637
 Pithophoraceae	6329152	Wittr.	Pithophoraceae	707601
 Holophryidae	6049999	Perty, 1852	Holophryidae	409633
@@ -6281,12 +6286,14 @@ Parapediastrum	6001138	E.Hegewald	Parapediastrum	577884
 Mychonastaceae	6007693	Fuciková et al.	Mychonastaceae	1649003
 Mychonastes	6001131	P.D.Simpson & Van Valk.	Mychonastes	578225
 Nephrocytiaceae	6331845	T.S.Garcia & al.	Nephrocytiaceae	1649241
-Comasiella	6001110	E.Hegewald, M.Wolf, Al.Keller, Friedl & Krienitz	Comasiella	578362
+Comasiella	6001110	E.Hegewald & al.	Comasiella	578362
 Comasiella arcuata	238812	(Lemmermann) E.Hegewald, M.Wolf, Al.Keller, Friedl & Krienitz	Comasiella arcuata	578364
 Hindakia	6001134	C.Bock & al.	Hindakia	578472
 Diacronema	6012378	Prauser	Diacronema	573853
 Thaumatomonadida	6012072	Shirkina	Thaumatomonadida	591250
 Reckertia	6012074	W.Conrad, 1920	Reckertia	137286
+Glaucophyta	5000068	Skuja	Glaucophyta	1486517
+Glaucophyta	5000068	Skuja	Glaucophyta	599656
 Porphyridiophyceae	4000244	Kylin	Porphyridiophyceae	493832
 Porphyridiales	3000306	Kylin	Porphyridiales	15324
 Porphyridiaceae	2002174	Kylin	Porphyridiaceae	143767
@@ -6303,7 +6310,7 @@ Gloeobacter	6012279	Rippka, J.B.Waterbury & Cohen-Bazire	Gloeobacter	601242
 Hariotina	6001148	P.A.Dang.	Hariotina	601687
 Neocystis	6018015	Hindák	Neocystis	602879
 Lanceola	6017991	Hindák	Lanceola	602910
-Tovellia	6012238	Moestrup & al.	Tovellia	577246
+Tovellia	6012238	Moestrup, K.Lindb. & Daugbjerg	Tovellia	577246
 Monactinus	6001143	Corda	Monactinus	603054
 Belonastrum	6012081	(Lemmerm.) Round & Maidana	Belonastrum	602341
 Grunowia	6012160	Rabenh.	Grunowia	602448
@@ -6319,25 +6326,25 @@ Parallela	6003484	E.A.Flint	Flintia	600980
 Macrospermum	6017688	Komarék	Macrospermum	603218
 Lacunastrum	6001146	H.A.McManus	Lacunastrum	603272
 Archaeperidinium	6012252	Jørg.	Archaeperidinium	604918
-Mucidosphaerium	6001133	C.Bock & al.	Mucidosphaerium	603282
+Mucidosphaerium	6001133	C.Bock, Pröschold & Krienitz	Mucidosphaerium	603282
 Anathece	6002988	(Komárek & Anagn.) Komárek, Kastovsky & Jezberová	Anathece	603288
 Haptolina	6012369	Edvardsen & Eikrem	Haptolina	603289
 Tapinothrix	6018049	Sauv.	Tapinothrix	602795
-Tyrannodinium	6012349	Calado, Craveiro, Daugbjerg & Moestrup	Tyrannodinium	603185
+Tyrannodinium	6012349	Calado & al.	Tyrannodinium	603185
 Opisthoaulax	6012237	Calado	Opisthoaulax	603302
 Balticola	6017844	Droop	Balticola	601390
-Fungi	5000039	R.T.Moore	Fungi	4
+Fungi	5000039	Bartl.	Fungi	4
 Asterothrix	238876	(Perty) Printz	Tetraëdron longispinum	603856
 Onychonema	6325784	Wallich	Onychonema	600843
 Protodinium	6331684	Lohmann	Protodinium	601993
 Euastrum humerosum	6014677	Ralfs	Euastrum humerosum	611198
 Achnanthes exigua	237770	Grunow	Achnanthidium exiguum	149382
-Achnanthes laevis	237773	Østrup	Achnanthes laevis	163554
+Achnanthes laevis	237773	Østrup	Eucocconeis laevis	163554
 Trigonium	6009231	Cleve	Trigonium	254445
 Vicicitus	6009235	F.H.Chang	Vicicitus	707571
 Raphidosphaera	6012574	(Pascher) P.C.Silva	Raphidosphaera	707624
 Baldinia	6012323	Gert Hansen & Daugbjerg	Baldinia	603146
-Globothalamea	6011709	Pawlowski & al., 2013	Globothalamea	744104
+Globothalamea	6011709	Pawlowski, Holzmann, Tyszka, 2013	Globothalamea	744104
 Textulariida	6001348	Delage & Hérouard, 1896	Textulariida	163159
 Peranemataceae	2003276	NA	Peranemaceae	1371671
 Temnogyra	6017789	I.F.Lewis	Temnogyra	602142
@@ -6347,16 +6354,16 @@ Microglena	6012511	Ehrenb.	Microglena	577490
 Marsupiomonadales	6018071	B.Marin	Marsupiomonadales	886261
 Resultomonadaceae	6018072	B.Marin	Resultomonadaceae	1648097
 Resultomonas	6018073	B.Marin	Resultomonas	836513
-Chimonodinium	6012346	Craveiro & al.	Chimonodinium	707628
+Chimonodinium	6012346	Craveiro, Calado, Daugbjerg, Gert Hansen & Moestrup	Chimonodinium	707628
 Gregiochloris	6327561	Marvan, Komárek & Comas	Gregiochloris	836558
 Gomphoneis	6012245	Cleve	Gomphoneis	176156
 Desmonostoc	6017806	P.Hrouzek & S.Ventura	Desmonostoc	836501
 Verrucodesmus	6018057	E.Hegewald	Verrucodesmus	836503
 Trieres	6009310	M.P.Ashworth & E.C.Ther.	Trieres	836581
 Acutodesmus	6001045	(Hegewald) Tsarenko	Acutodesmus	603183
-Levanderina	6012144	Moestrup & al.	Levanderina	836491
+Levanderina	6012144	Moestrup, P. Hakanen, Gert Hansen, Daugbjerg & M. Ellegaard	Levanderina	836491
 Glaucospira	6020356	Lagerh.	Glaucospira	602204
-Shionodiscus	6020322	A.J. Alverson, S.H.Kang & E.C.Ther.	Shionodiscus	450613
+Shionodiscus	6020322	A.J. Alverson & al.	Shionodiscus	450613
 Johanseninema	6017989	P.Hasler, P.Dvorák & A.Poulícková	Johanseninema	836655
 Spirogyra decimina	6017788	(Vaucher) O.A. Petlovany	Spirogyra elongata	609372
 Tetraselmis verrucosa	6017797	Butcher	Tetraselmis verrucosa	376160
@@ -6365,7 +6372,7 @@ Achnanthes dispar	237769	Cleve	Planothidium dispar	961097
 Achnanthes exilis	262186	Kütz.	Achnanthidium exile	961100
 Gomphonema exiguum	262753	Kütz.	Gomphonemopsis exigua	845370
 Achnanthidium delicatulum	237768	Kütz.	Planothidium delicatulum	961323
-Navicula cocconeiformis	262445	W.Greg. ex Grev.	Cavinula cocconeiformis	967227
+Navicula cocconeiformis	237507		Cavinula cocconeiformis f. cocconeiformis	967227
 Navicula pusilla	262872	W.Sm.	Navicula pusilla	963171
 Rhizosolenia eriensis	237463	H.L.Sm.	Urosolenia eriensis	966657
 Psammosiphonella	6325449	Avnimelech, 1952	Psammosiphonella	520950

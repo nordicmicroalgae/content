@@ -3412,3 +3412,5 @@ taxon_id	ncbi_id	url
 836636	2586438	https://www.ncbi.nlm.nih.gov/datasets/taxonomy/2586438
 450613	443637	https://www.ncbi.nlm.nih.gov/datasets/taxonomy/443637
 609372	416075	https://www.ncbi.nlm.nih.gov/datasets/taxonomy/416075
+689307	1174532	https://www.ncbi.nlm.nih.gov/datasets/taxonomy/1174532
+689306	1174531	https://www.ncbi.nlm.nih.gov/datasets/taxonomy/1174531

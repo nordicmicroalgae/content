@@ -11,6 +11,8 @@ taxon_id	scientific_name	id	toxin_group	recommended_name	recommended_acronym	url
 146585	Anabaena	465	Cylindrospermopsin	Cylindrospermopsin	CYN	https://toxins.hais.ioc-unesco.org/toxins/465/
 146585	Anabaena	474	Lyngbyatoxin	Lyngbyatoxin-A	LTX-A	https://toxins.hais.ioc-unesco.org/toxins/474/
 160567	Aphanizomenon	465	Cylindrospermopsin	Cylindrospermopsin	CYN	https://toxins.hais.ioc-unesco.org/toxins/465/
+248099	Aphanizomenon flosaquae	465	Cylindrospermopsin	Cylindrospermopsin	CYN	https://toxins.hais.ioc-unesco.org/toxins/465/
+248099	Aphanizomenon flosaquae	27	Microcystin	Microcystin-LR	MC-LR	https://toxins.hais.ioc-unesco.org/toxins/27/
 391509	Azadinium spinosum	2	Azaspiracid	Azaspiracid-1	AZA1	https://toxins.hais.ioc-unesco.org/toxins/2/
 391509	Azadinium spinosum	468	Azaspiracid	Azaspiracid-2	AZA2	https://toxins.hais.ioc-unesco.org/toxins/468/
 148985	Chaetoceros	11	β-N-methylamino-L-alanine	β-N-Methylamino-L-alanine	BMAA	https://toxins.hais.ioc-unesco.org/toxins/11/
