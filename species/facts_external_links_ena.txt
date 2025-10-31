@@ -3002,6 +3002,7 @@ taxon_id	ncbi_id	url
 688227	1056083	www.ebi.ac.uk/ena/browser/view/1056083
 688516	1407069	www.ebi.ac.uk/ena/browser/view/1407069
 688549	35144	www.ebi.ac.uk/ena/browser/view/35144
+689307	1174532	www.ebi.ac.uk/ena/browser/view/1174532
 699368	43946	www.ebi.ac.uk/ena/browser/view/43946
 699370	1837223	www.ebi.ac.uk/ena/browser/view/1837223
 699380	1574070	www.ebi.ac.uk/ena/browser/view/1574070
@@ -3386,6 +3387,7 @@ taxon_id	ncbi_id	url
 611198	416306	www.ebi.ac.uk/ena/browser/view/416306
 149382	442839	www.ebi.ac.uk/ena/browser/view/442839
 163554	1754005	www.ebi.ac.uk/ena/browser/view/1754005
+689306	1174531	www.ebi.ac.uk/ena/browser/view/1174531
 254445	1003143	www.ebi.ac.uk/ena/browser/view/1003143
 707571	1715698	www.ebi.ac.uk/ena/browser/view/1715698
 603146	424503	www.ebi.ac.uk/ena/browser/view/424503
@@ -3412,5 +3414,3 @@ taxon_id	ncbi_id	url
 836636	2586438	www.ebi.ac.uk/ena/browser/view/2586438
 450613	443637	www.ebi.ac.uk/ena/browser/view/443637
 609372	416075	www.ebi.ac.uk/ena/browser/view/416075
-689307	1174532	www.ebi.ac.uk/ena/browser/view/1174532
-689306	1174531	www.ebi.ac.uk/ena/browser/view/1174531

@@ -111,6 +111,7 @@ taxon_id	scientific_name	valid_name	strain_name	strain_link	species	species_link
 532029	Chlorella vulgaris	Chlorella vulgaris	K-1006	https://norcca.scrol.net/strain/k-1006	Chlorella vulgaris	https://norcca.scrol.net/species/chlorella-vulgaris	Freshwater	k-1006
 612499	Desmodesmus armatus	Desmodesmus armatus	K-1010	https://norcca.scrol.net/strain/k-1010	Desmodesmus armatus	https://norcca.scrol.net/species/desmodesmus-armatus	Freshwater	k-1010
 577672	Gonium pectorale	Gonium pectorale	K-1012	https://norcca.scrol.net/strain/k-1012	Gonium pectorale	https://norcca.scrol.net/species/gonium-pectorale	Freshwater	k-1012
+578347	Volvox aureus	Volvox aureus	K-1013	https://norcca.scrol.net/strain/k-1013	Volvox aureus	https://norcca.scrol.net/species/volvox-aureus	Freshwater	k-1013
 577877	Pandorina morum	Pandorina morum	K-1018	https://norcca.scrol.net/strain/k-1018	Pandorina morum	https://norcca.scrol.net/species/pandorina-morum	Freshwater	k-1018
 157188	Pylaiella littoralis	Pylaiella littoralis	K-1026	https://norcca.scrol.net/strain/k-1026	Pylaiella littoralis	https://norcca.scrol.net/species/pylaiella-littoralis	Brackish/Marine	k-1026
 619818	Tovellia coronata	Tovellia coronata	K-1044	https://norcca.scrol.net/strain/k-1044	Tovellia coronata	https://norcca.scrol.net/species/tovellia-coronata	Freshwater	k-1044
@@ -186,7 +187,6 @@ taxon_id	scientific_name	valid_name	strain_name	strain_link	species	species_link
 661559	Haematococcus lacustris	Haematococcus lacustris	K-1542	https://norcca.scrol.net/strain/k-1542	Haematococcus lacustris	https://norcca.scrol.net/species/haematococcus-lacustris	Freshwater	k-1542
 661559	Haematococcus lacustris	Haematococcus lacustris	K-1547	https://norcca.scrol.net/strain/k-1547	Haematococcus lacustris	https://norcca.scrol.net/species/haematococcus-lacustris	Freshwater	k-1547
 160584	Heterosigma	Heterosigma	K-1549	https://norcca.scrol.net/strain/k-1549	Heterosigma sp.	https://norcca.scrol.net/species/heterosigma-sp	Marine	k-1549
-160584	Heterosigma	Heterosigma	K-1550	https://norcca.scrol.net/strain/k-1550	Heterosigma sp.	https://norcca.scrol.net/species/heterosigma-sp	Marine	k-1550
 160584	Heterosigma	Heterosigma	K-1551	https://norcca.scrol.net/strain/k-1551	Heterosigma sp.	https://norcca.scrol.net/species/heterosigma-sp	Marine	k-1551
 160584	Heterosigma	Heterosigma	K-1552	https://norcca.scrol.net/strain/k-1552	Heterosigma sp.	https://norcca.scrol.net/species/heterosigma-sp	Marine	k-1552
 160584	Heterosigma	Heterosigma	K-1553	https://norcca.scrol.net/strain/k-1553	Heterosigma sp.	https://norcca.scrol.net/species/heterosigma-sp	Marine	k-1553
@@ -218,7 +218,6 @@ taxon_id	scientific_name	valid_name	strain_name	strain_link	species	species_link
 110183	Peridinium cinctum	Peridinium cinctum	K-1721	https://norcca.scrol.net/strain/k-1721	Peridinium cinctum	https://norcca.scrol.net/species/peridinium-cinctum	Freshwater	k-1721
 367250	Carteria	Carteria	K-1722	https://norcca.scrol.net/strain/k-1722	Carteria sp.	https://norcca.scrol.net/species/carteria-sp	Freshwater	k-1722
 612513	Desmodesmus serratus	Desmodesmus serratus	K-1726	https://norcca.scrol.net/strain/k-1726	Desmodesmus serratus	https://norcca.scrol.net/species/desmodesmus-serratus	Freshwater	k-1726
-109891	Hemidinium nasutum	Hemidinium nasutum	K-1730	https://norcca.scrol.net/strain/k-1730	Hemidinium nasutum	https://norcca.scrol.net/species/hemidinium-nasutum	Freshwater	k-1730
 146008	Epicladia perforans	Epicladia perforans	K-1733	https://norcca.scrol.net/strain/k-1733	Epicladia perforans	https://norcca.scrol.net/species/epicladia-perforans	Marine	k-1733
 145778	Phaeophila dendroides	Phaeophila dendroides	K-1734	https://norcca.scrol.net/strain/k-1734	Phaeophila dendroides	https://norcca.scrol.net/species/phaeophila-dendroides	Marine	k-1734
 144865	Bolbocoleon piliferum	Bolbocoleon piliferum	K-1735	https://norcca.scrol.net/strain/k-1735	Bolbocoleon piliferum	https://norcca.scrol.net/species/bolbocoleon-piliferum	Marine	k-1735
@@ -967,7 +966,6 @@ taxon_id	scientific_name	valid_name	strain_name	strain_link	species	species_link
 149073	Skeletonema	Skeletonema	UIO 431	https://norcca.scrol.net/strain/uio-431	Skeletonema sp.	https://norcca.scrol.net/species/skeletonema-sp	Marine plankton	uio-431
 148985	Chaetoceros	Chaetoceros	UIO 433	https://norcca.scrol.net/strain/uio-433	Chaetoceros sp.	https://norcca.scrol.net/species/chaetoceros-sp	Marine plankton	uio-433
 148985	Chaetoceros	Chaetoceros	UIO 437	https://norcca.scrol.net/strain/uio-437	Chaetoceros sp.	https://norcca.scrol.net/species/chaetoceros-sp	Marine plankton	uio-437
-841633	Shionodiscus bioculatus	Shionodiscus bioculatus	UIO 438	https://norcca.scrol.net/strain/uio-438	Shionodiscus bioculatus	https://norcca.scrol.net/species/shionodiscus-bioculatus	Marine plankton	uio-438
 149128	Chaetoceros diadema	Syndendrium diadema	UIO 440	https://norcca.scrol.net/strain/uio-440	Chaetoceros diadema	https://norcca.scrol.net/species/chaetoceros-diadema	Marine plankton	uio-440
 149128	Chaetoceros diadema	Syndendrium diadema	UIO 441	https://norcca.scrol.net/strain/uio-441	Chaetoceros diadema	https://norcca.scrol.net/species/chaetoceros-diadema	Marine plankton	uio-441
 149128	Chaetoceros diadema	Syndendrium diadema	UIO 442	https://norcca.scrol.net/strain/uio-442	Chaetoceros diadema	https://norcca.scrol.net/species/chaetoceros-diadema	Marine plankton	uio-442
@@ -995,7 +993,6 @@ taxon_id	scientific_name	valid_name	strain_name	strain_link	species	species_link
 148912	Thalassiosira	Thalassiosira	UIO 470	https://norcca.scrol.net/strain/uio-470	Thalassiosira sp.	https://norcca.scrol.net/species/thalassiosira-sp	Marine plankton	uio-470
 464322	Arcocellulus cornucervis	Arcocellulus cornucervis	UIO 471	https://norcca.scrol.net/strain/uio-471	Arcocellulus cornucervis	https://norcca.scrol.net/species/arcocellulus-cornucervis	Marine plankton	uio-471
 149073	Skeletonema	Skeletonema	UIO 472	https://norcca.scrol.net/strain/uio-472	Skeletonema sp.	https://norcca.scrol.net/species/skeletonema-sp	Marine plankton	uio-472
-840109	Dicrateria rotunda	Dicrateria rotunda	UIO 474	https://norcca.scrol.net/strain/uio-474	Dicrateria rotunda	https://norcca.scrol.net/species/dicrateria-rotunda	Marine plankton	uio-474
 149128	Chaetoceros diadema	Syndendrium diadema	UIO 475	https://norcca.scrol.net/strain/uio-475	Chaetoceros diadema	https://norcca.scrol.net/species/chaetoceros-diadema	Marine plankton	uio-475
 148985	Chaetoceros	Chaetoceros	UIO 476	https://norcca.scrol.net/strain/uio-476	Chaetoceros sp.	https://norcca.scrol.net/species/chaetoceros-sp	Marine plankton	uio-476
 149102	Thalassiosira gravida	Thalassiosira gravida	UIO 477	https://norcca.scrol.net/strain/uio-477	Thalassiosira gravida	https://norcca.scrol.net/species/thalassiosira-gravida	Marine plankton	uio-477
@@ -1011,11 +1008,8 @@ taxon_id	scientific_name	valid_name	strain_name	strain_link	species	species_link
 148985	Chaetoceros	Chaetoceros	UIO 510	https://norcca.scrol.net/strain/uio-510	Chaetoceros sp.	https://norcca.scrol.net/species/chaetoceros-sp	Marine plankton	uio-510
 106289	Rhodomonas	Rhodomonas	UIO 511	https://norcca.scrol.net/strain/uio-511	Rhodomonas sp.	https://norcca.scrol.net/species/rhodomonas-sp	Marine plankton	uio-511
 106289	Rhodomonas	Rhodomonas	UIO 512	https://norcca.scrol.net/strain/uio-512	Rhodomonas sp.	https://norcca.scrol.net/species/rhodomonas-sp	Marine plankton	uio-512
-148912	Thalassiosira	Thalassiosira	UIO 514	https://norcca.scrol.net/strain/uio-514	Thalassiosira sp.	https://norcca.scrol.net/species/thalassiosira-sp	Marine plankton	uio-514
-109925	Pentapharsodinium dalei	Pentapharsodinium dalei	UIO 517	https://norcca.scrol.net/strain/uio-517	Pentapharsodinium dalei	https://norcca.scrol.net/species/pentapharsodinium-dalei	Marine plankton	uio-517
 375971	Pelagococcus subviridis	Pelagococcus subviridis	UIO 518	https://norcca.scrol.net/strain/uio-518	Pelagococcus subviridis	https://norcca.scrol.net/species/pelagococcus-subviridis	Marine plankton	uio-518
 375971	Pelagococcus subviridis	Pelagococcus subviridis	UIO 520	https://norcca.scrol.net/strain/uio-520	Pelagococcus subviridis	https://norcca.scrol.net/species/pelagococcus-subviridis	Marine plankton	uio-520
-134529	Pyramimonas	Pyramimonas	UIO 525	https://norcca.scrol.net/strain/uio-525	Pyramimonas sp.	https://norcca.scrol.net/species/pyramimonas-sp	Marine plankton	uio-525
 134564	Micromonas pusilla	Micromonas pusilla	UIO 526	https://norcca.scrol.net/strain/uio-526	Micromonas pusilla	https://norcca.scrol.net/species/micromonas-pusilla	Marine plankton	uio-526
 148985	Chaetoceros	Chaetoceros	UIO 528	https://norcca.scrol.net/strain/uio-528	Chaetoceros sp.	https://norcca.scrol.net/species/chaetoceros-sp	Marine plankton	uio-528
 160519	Attheya	Attheya	UIO 530	https://norcca.scrol.net/strain/uio-530	Attheya sp.	https://norcca.scrol.net/species/attheya-sp	Sea ice	uio-530

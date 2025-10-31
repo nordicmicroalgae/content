@@ -727,7 +727,7 @@ worms	Chara hispida f. rudis	(A.Braun) R.D.Wood, 1962	1359190	7379219	2
 worms	Chara hispida subsp. rudis	A.Braun, 1882	1359190	7878611	1
 worms	Chara hispida var. rudis	A.Braun, 1857	1359190	8198760	5
 worms	Chara major subsp. rudis	(A.Braun) F.Hy, 1913	1359190	8131824	0
-worms	Chara rudis	(A.Braun) H.von Leonhardi, 1863	1359190	5270845	211
+worms	Chara rudis	(A.Braun) H.von Leonhardi, 1863	1359190	5270845	212
 worms	Acutodesmus obliquus	(Turpin) Hegewald & Hanagata, 2000	1359367	7753936	224
 worms	Arthrodesmus acutus	Ehrenberg ex Ralfs	1359367	5271583	0
 worms	Scenedesmus acutus	Meyen, 1829	1359367	2640684	0
@@ -2758,7 +2758,7 @@ worms	Aulacoseira distans var. distans	(Ehrenberg) Simonsen, 1979	149096	3192032
 worms	Gaillionella distans	Ehrenberg, 1836	149096	7729551	0
 worms	Melosira distans	(Ehrenberg) Kützing, 1844	149096	3193969	0
 worms	Coscinodiscus rotulus	(A.F.Meunier) Cleve-Euler, 1951	149102	4376723	0
-worms	Thalassiosira rotula	Meunier, 1910	149102	3193496	1336
+worms	Thalassiosira rotula	Meunier, 1910	149102	3193496	1339
 worms	Coscinodiscus leptopus	Grunow, 1883	149103	7442063	0
 worms	Actinocyclus tessellatus	(Roper) Ralfs ex Pritchard, 1861	149105	5421587	0
 worms	Eupodiscus tesselatus	Roper, 1858	149105	8357442	0
@@ -2868,6 +2868,9 @@ worms	Synedra palea	Kützing, 1844	149601	3192867	0
 worms	Fragilaria sigmoidea	Swirenko, 1941	149604	9624647	0
 worms	Nitzschia elongata	Hassal, 1845	149604	8208089	0
 worms	Iconella biseriata	(Brébisson) Ruck & Nakov	149611	10228845	0
+worms	Cerataulina bergonii	(H.Peragallo) Schütt, 1896	149619	5421729	0
+worms	Zygoceros pelagica	P.T. Cleve, 1889	149619		
+worms	Zygoceros pelagicum	Cleve, 1889	149619	8369347	0
 worms	Aulacoseira islandica subsp. islandica	(O.Müller) Simonsen, 1979	149648	7231685	0
 worms	Coscinodiscus nodulifer	A.W.F.Schmidt, 1878	149651	3191754	0
 worms	Coxliellidae	Kofoid & Campbell, 1929	150206	7909140	0
@@ -3667,7 +3670,7 @@ worms	Navicula lanceolata var. phylleta	(Kütz.) Van Heurck, 1885	172845	7522024
 worms	Aneumastus pseudotusculus	(Hustedt) E.J.Cox & D.M.Williams, 2000	172850	7380984	0
 worms	Mastogloia pseudotuscula	(Hustedt) Loseva, 1982	172850	7811781	0
 worms	Schizonema scutelloides	(W. Smith ex Gregory) Kuntze, 1898	172855	9424394	0
-worms	Dinophysiales	Lindemann, 1928	1732560	8998220	74271
+worms	Dinophysiales	Lindemann, 1928	1732560	8998220	74274
 worms	Dinophysida		1732560		
 worms	Prasinomonadina		17329		
 worms	Prasinophyta		17329		
@@ -4243,7 +4246,7 @@ worms	Gymnodinium galatheanum	Braarud, 1957	233037	7367323	4
 worms	Gymnodinium micrum	(B.Leadbeater & J.D.Dodge) Loeblich III, 1970	233037	8185969	1
 worms	Gymnodinium veneficum	D.Ballantine, 1956	233037	8144752	0
 worms	Gyrodinium galatheanum	(Baarud) Taylor, 1992	233037	7825982	0
-worms	Karlodinium micrum	(B.Leadbeater & J.D.Dodge) J.Larsen, 2000	233037	8346043	39
+worms	Karlodinium micrum	(B.Leadbeater & J.D.Dodge) J.Larsen, 2000	233037	8346043	40
 worms	Woloszynskia micra	B.Leadbeater & J.D.Dodge, 1966	233037	7672826	0
 worms	Gymnodinium vitiligo	D.Ballantine, 1956	233038	8233383	0
 worms	Gymnodinium pulchellum	J.Larsen, 1994	233084	7987357	0
@@ -4479,7 +4482,7 @@ worms	Syracorhabdus molischii	(J.Schiller) Lecal-Schlauder & Bernheim, 1960	2360
 worms	Syracosphaera corrugis	Okada & McIntyre, 1977	236039		
 worms	Syracosphaera elatensis	Winter, 1979	236039	4378002	0
 worms	Coccolithus huxleyi	(Lohmann) Kamptner, 1943	236056	3202212	3
-worms	Emiliania huxleyi	(Lohmann) W.W.Hay & H.Mohler, 1967	236056	5423960	9438
+worms	Emiliania huxleyi	(Lohmann) W.W.Hay & H.Mohler, 1967	236056	5423960	9451
 worms	Hymenomonas huxleyi	(Lohmann) Kamptner, 1930	236056	4378089	0
 worms	Pontosphaera huxleyi	Lohmann, 1902	236056	4267712	0
 worms	Gaarderia corolla	(Lecal-Schlauder) Kleijne, 1993	236074	5423949	0
@@ -4529,6 +4532,7 @@ worms	Phormidium simplicissimum	(Gomont) Anagnostidis & Komárek, 1988	239344	65
 worms	Amphorella subulata	(Ehrenberg, 1838)	240437	7457775	0
 worms	Tintinnus subulata		240437		
 worms	Tintinnus subulatus	Ehrenberg, 1838	240437	7354150	0
+worms	Tintinnus ussowi	Mereschkowsky 1879	240437	7839687	0
 worms	Conferva hieroglyphica	C.Agardh, 1827	240486	8007918	0
 worms	Microspora fontinalis	(Berkeley) De Toni, 1889	240486	5272321	1
 worms	Rhizoclonium aponinum	(Pollini) Kützing, 1845	240486		
@@ -5657,7 +5661,7 @@ worms	Ankistrodesmus pseudomirabilis	Korshikov, 1953	575733	2641580	0
 worms	Ankistrodesmus sabrinensis	J.H.Belcher & Swale, 1962	575733	2641581	0
 worms	Monoraphidium arcuatum	(Korshikov) Hindák, 1970	575733	2641578	58
 worms	Monoraphidium pseudomirabile	(Korshikov) Hindák & Zagorenko, 1992	575733		
-worms	Planctonema lauterbornii	Schmidle, 1903	575737	2646180	2187
+worms	Planctonema lauterbornii	Schmidle, 1903	575737	2646180	2188
 worms	Coenococcus fottii	Hindák, 1977	576226	2641724	0
 worms	Eutetramorus fottii	(Hindák) Komárek, 1979	576226	2641723	0
 worms	Radiococcus fottii	(F.Hindák) I.Kostikov, T.Darienko, A.Lukesová & L.Hoffmann, 2002	576226		
@@ -5920,7 +5924,7 @@ worms	Pavlova lutheri	(Droop) J.C.Green, 1975	590558	3202281	15
 worms	Phaeaster lutheri	(Droop) Bourrelly, 1957	590558	8090019	0
 worms	Phia	Özdikmen, 2009	590567	9588215	0
 worms	Bicosecophyceae	A.R. Loeblich III & L.A. Loeblich, 1979	590695		
-worms	Chaetocerotales	Round & Crawford, 1990	591197	1096	191937
+worms	Chaetocerotales	Round & Crawford, 1990	591197	1096	191944
 worms	Chaetocerotophycidae	Round & Crawford, 1990	591197		
 worms	Phaeaster aphanaster	(Skuja) Bourrelly, 1957	592861	8202472	0
 worms	Dismastigoaulax cornuta	(Ehrenberg) Diesing, 1866	592868	7564497	0
@@ -5935,7 +5939,7 @@ worms	Tetraspora lacustris	Lemmermann, 1898	592874	5271420	0
 worms	Aptogonum	Ralfs, 1848	592884	6784633	0
 worms	Leptozosma	W.B.Turner, 1885	592884	6784688	0
 worms	Prymnesiida		592906		
-worms	Prymnesiophyceae	Hibberd	592906	258	90391
+worms	Prymnesiophyceae	Hibberd	592906	258	90405
 worms	Prymnesiophyta		592906		
 worms	Thaumatomastix formosa	H.A.Thomsen, G.Hällfors, S.Hällfors & J.Ikävalko, 1993	593693	7737265	0
 worms	Stauroneis amphilepta	Ehrenberg, 1843	593815	8364233	0
@@ -6899,7 +6903,7 @@ worms	Chara hispida f. polyacantha	(A.Braun) R.D.Wood, 1962	614681	7401604	0
 worms	Chara hispida var. dasyacantha	A.Braun, 1847	614681		
 worms	Chara hispida var. polyacantha	(A.Braun) C.C.Babington, 1874	614681		
 worms	Chara pedunculata	Kützing, 1834	614681	5270798	0
-worms	Chara polyacantha	A.Braun, 1862	614681	5270797	134
+worms	Chara polyacantha	A.Braun, 1862	614681	5270797	135
 worms	Chara polyacantha f. dasyacantha	W.Migula, 1897	614681		
 worms	Chara pseudo-crinita	A.Braun, 1935	614681		
 worms	Chara spondylophylla	Kützing, 1843	614681		
@@ -7730,7 +7734,7 @@ worms	Aegagropila canescens	Kjellmann, 1898	664371
 worms	Aegagropila froelichiana	Kützing, 1845	664371		
 worms	Aegagropila holsatica	(Kützing) Kützing, 1854	664371	5272848	4
 worms	Aegagropila lagerheimii	Brand, 1906	664371		
-worms	Aegagropila linnaei	Kützing, 1843	664371	5272847	2304
+worms	Aegagropila linnaei	Kützing, 1843	664371	5272847	2306
 worms	Aegagropila martensii	(Meneghini ex Kützing) Kützing, 1854	664371		
 worms	Aegagropila minima	(Okada) Okada, 1957	664371		
 worms	Aegagropila muscoides	(Meneghini ex Kützing) Kützing, 1854	664371		
@@ -7868,8 +7872,8 @@ worms	Chara nolteana	A.Braun, 1834	674672
 worms	Chara hispida f. intermedia	(A.Braun) R.D.Wood, 1962	674673	7915518	0
 worms	Chara intermedia	A.Braun, 1859	674673	5270681	14
 worms	Chara intermedia f. thermalis	N.Filarszky, 1930	674673	8420431	0
-worms	Chara papillosa	Kützing, 1857	674673	7990539	479
-worms	Chara papillosa	Kützing, 1834	674673	7990539	479
+worms	Chara papillosa	Kützing, 1857	674673	7990539	478
+worms	Chara papillosa	Kützing, 1834	674673	7990539	478
 worms	Chara papillosa var. ornata	(A.Braun) S.Beguinot & L.Formiggini, 1908	674673	7585282	0
 worms	Chara papillosa var. pseudobaltica	(A.Braun) A.Beguinot & L.Formiggini, 1908	674673		
 worms	Chara vulgaris f. papillosa	(Kützing) R.D.Wood, 1962	674673		
@@ -7897,6 +7901,7 @@ worms	Prymnesium patelliferum	J.C.Green, D.J.Hibberd & R.N.Pienaar, 1982	688549	
 worms	Euglena oxyuris var. skvortzovii	Popowa	688617	3209857	0
 worms	Trachelomonas planctonica var. oblonga	Dreżepolski, 1923	688661	7670547	0
 worms	Tintinnopsis corniger	Hada, 1964	689307	7758088	0
+worms	Tintinnopsis nudicauda	Paumier 1997	689307		
 worms	Diatoma vulgare var. vulgare		695320		
 worms	Achnanthes lanceolata	(Hustedt) Lange-Bertalot in Krammer & Lange-Bertalot in H. Ettl et al., 1991	696202		
 worms	Achnanthes lanceolata	(Hustedt) Lange-Bertalot, 1993	696202	8143425	4
@@ -8153,7 +8158,7 @@ worms	Ankistrodesmus lacustris	(Chodat) Ostenfeld, 1907	838560	8263664	0
 worms	Quadrigula lacustris	(Chodat) G.M.Smith, 1920	838560	4268259	0
 worms	Rhaphidium braunii var. lacustre	Chodat, 1902	838560	10076802	0
 worms	Gomphonema exiguum	Kützing, 1844	838656	7819169	0
-worms	Crucigenia tetrapedia	(Kirchner) Kuntze, 1898	839081	8342650	163
+worms	Crucigenia tetrapedia	(Kirchner) Kuntze, 1898	839081	8342650	164
 worms	Crucigeniella tetrapedia	(Kirchner) West & G.S.West	839081	5271595	0
 worms	Pediastrum tetras var. quadratum	Playfair	839081	2641034	0
 worms	Pediastrum tetras var. tetrapedia	(Kirchner) Playfair	839081	2641035	0
