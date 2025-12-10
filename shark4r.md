@@ -16,6 +16,6 @@ With SHARK4R, you can easily query and work with microalgal data from:
 - [IOC-UNESCO Taxonomic Reference List of Harmful Micro Algae](https://www.marinespecies.org/hab/)
 - [IOC-UNESCO Toxins database](https://toxins.hais.ioc-unesco.org/)
   
-Learn more and get started here: [SHARK4R GitHub Pages](https://sharksmhi.github.io/SHARK4R/). 
+Learn more and get started here: [SHARK4R GitHub Pages](https://sharksmhi.github.io/SHARK4R/). It can also be accessed through [CRAN](https://cran.r-project.org/package=SHARK4R).
 
 SHARK4R is used to prepare and process the taxonomic backbone of Nordic Microalgae in our [data pipeline](https://github.com/nordicmicroalgae/pipeline).
