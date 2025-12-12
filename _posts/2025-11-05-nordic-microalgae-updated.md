@@ -5,8 +5,6 @@ author: Anders Torstensson
 date: 2025-11-05 11:15
 ---
 
-## Nordic Microalgae Update
-
 Nordic Microalgae has been updated with a security patch and several new features designed to improve usability and data accessibility (both backend and frontend).
 
 ### What’s New
