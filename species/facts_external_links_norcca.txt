@@ -167,8 +167,6 @@ taxon_id	scientific_name	valid_name	strain_name	strain_link	species	species_link
 163127	Euglena sanguinea	Euglena sanguinea	K-1464	https://norcca.scrol.net/strain/k-1464	Euglena sanguinea	https://norcca.scrol.net/species/euglena-sanguinea	Freshwater	k-1464
 163127	Euglena sanguinea	Euglena sanguinea	K-1465	https://norcca.scrol.net/strain/k-1465	Euglena sanguinea	https://norcca.scrol.net/species/euglena-sanguinea	Freshwater	k-1465
 163127	Euglena sanguinea	Euglena sanguinea	K-1467	https://norcca.scrol.net/strain/k-1467	Euglena sanguinea	https://norcca.scrol.net/species/euglena-sanguinea	Freshwater	k-1467
-109714	Alexandrium tamarense	Alexandrium tamarense	K-1471	https://norcca.scrol.net/strain/k-1471	Alexandrium tamarense	https://norcca.scrol.net/species/alexandrium-tamarense	Marine	k-1471
-110154	Kryptoperidinium foliaceum	Kryptoperidinium triquetrum	K-1472	https://norcca.scrol.net/strain/k-1472	Kryptoperidinium foliaceum	https://norcca.scrol.net/species/kryptoperidinium-foliaceum	Marine	k-1472
 106316	Rhodomonas salina	Rhodomonas salina	K-1487	https://norcca.scrol.net/strain/k-1487	Rhodomonas salina	https://norcca.scrol.net/species/rhodomonas-salina	Marine	k-1487
 573984	Storeatula	Storeatula	K-1488	https://norcca.scrol.net/strain/k-1488	Storeatula sp.	https://norcca.scrol.net/species/storeatula-sp	Marine	k-1488
 109712	Alexandrium ostenfeldii	Alexandrium ostenfeldii	K-1492	https://norcca.scrol.net/strain/k-1492	Alexandrium ostenfeldii	https://norcca.scrol.net/species/alexandrium-ostenfeldii	Brackish	k-1492
@@ -200,15 +198,11 @@ taxon_id	scientific_name	valid_name	strain_name	strain_link	species	species_link
 232376	Prorocentrum cordatum	Prorocentrum cordatum	K-1569	https://norcca.scrol.net/strain/k-1569	Prorocentrum cordatum	https://norcca.scrol.net/species/prorocentrum-cordatum	Marine	k-1569
 106281	Chroomonas	Chroomonas	K-1623	https://norcca.scrol.net/strain/k-1623	Chroomonas sp.	https://norcca.scrol.net/species/chroomonas-sp	Freshwater	k-1623
 106281	Chroomonas	Chroomonas	K-1624	https://norcca.scrol.net/strain/k-1624	Chroomonas sp.	https://norcca.scrol.net/species/chroomonas-sp	Freshwater	k-1624
-233037	Karlodinium veneficum	Karlodinium veneficum	K-1634	https://norcca.scrol.net/strain/k-1634	Karlodinium veneficum	https://norcca.scrol.net/species/karlodinium-veneficum	Marine	k-1634
-233037	Karlodinium veneficum	Karlodinium veneficum	K-1640	https://norcca.scrol.net/strain/k-1640	Karlodinium veneficum	https://norcca.scrol.net/species/karlodinium-veneficum	Marine	k-1640
 1380043	Apocalathium malmogiense	Apocalathium malmogiense	K-1647	https://norcca.scrol.net/strain/k-1647	Apocalathium malmogiense	https://norcca.scrol.net/species/apocalathium-malmogiense	Brackish	k-1647
 608656	Volvox globator	Volvox globator	K-1654	https://norcca.scrol.net/strain/k-1654	Volvox globator	https://norcca.scrol.net/species/volvox-globator	Freshwater	k-1654
 576237	Desmodesmus communis	Desmodesmus communis	K-1657	https://norcca.scrol.net/strain/k-1657	Desmodesmus communis	https://norcca.scrol.net/species/desmodesmus-communis	Freshwater	k-1657
 1289276	Tetradesmus lagerheimii	Tetradesmus lagerheimii	K-1658	https://norcca.scrol.net/strain/k-1658	Tetradesmus lagerheimii	https://norcca.scrol.net/species/tetradesmus-lagerheimii	Freshwater	k-1658
 621601	Pseudopediastrum boryanum	Pseudopediastrum boryanum	K-1659	https://norcca.scrol.net/strain/k-1659	Pseudopediastrum boryanum	https://norcca.scrol.net/species/pseudopediastrum-boryanum	Freshwater	k-1659
-163063	Chaetoceros holsaticus	Chaetoceros holsaticus	K-1664	https://norcca.scrol.net/strain/k-1664	Chaetoceros holsaticus	https://norcca.scrol.net/species/chaetoceros-holsaticus	Brackish	k-1664
-621740	Chaetoceros salsugineus	Chaetoceros salsugineus	K-1666	https://norcca.scrol.net/strain/k-1666	Chaetoceros salsugineus	https://norcca.scrol.net/species/chaetoceros-salsugineus	Brackish	k-1666
 732257	Ulvella repens	Ulvella repens	K-1689	https://norcca.scrol.net/strain/k-1689	Ulvella repens	https://norcca.scrol.net/species/ulvella-repens	Marine (Chorda filum)	k-1689
 732257	Ulvella repens	Ulvella repens	K-1690	https://norcca.scrol.net/strain/k-1690	Ulvella repens	https://norcca.scrol.net/species/ulvella-repens	Marine (Fucus vesiculosus)	k-1690
 732245	Ulvella witrockii	Ulvella wittrockii	K-1693	https://norcca.scrol.net/strain/k-1693	Ulvella witrockii	https://norcca.scrol.net/species/ulvella-witrockii	Marine (Pilayella littoralis)	k-1693
@@ -232,7 +226,6 @@ taxon_id	scientific_name	valid_name	strain_name	strain_link	species	species_link
 840689	Levanderina fissa	Levanderina fissa	K-1768	https://norcca.scrol.net/strain/k-1768	Levanderina fissa	https://norcca.scrol.net/species/levanderina-fissa	Brackish	k-1768
 390664	Eudorina	Eudorina	K-1771	https://norcca.scrol.net/strain/k-1771	Eudorina sp.	https://norcca.scrol.net/species/eudorina-sp	Freshwater	k-1771
 577672	Gonium pectorale	Gonium pectorale	K-1773	https://norcca.scrol.net/strain/k-1773	Gonium pectorale	https://norcca.scrol.net/species/gonium-pectorale	Freshwater	k-1773
-838487	Parvodinium inconspicuum	Parvodinium inconspicuum	K-1775	https://norcca.scrol.net/strain/k-1775	Parvodinium inconspicuum	https://norcca.scrol.net/species/parvodinium-inconspicuum	Freshwater	k-1775
 149228	Chaetoceros laciniosus	Chaetoceros laciniosus	K-1782	https://norcca.scrol.net/strain/k-1782	Chaetoceros laciniosus	https://norcca.scrol.net/species/chaetoceros-laciniosus	Marine	k-1782
 839985	Chaetoceros gelidus	Chaetoceros gelidus	K-1783	https://norcca.scrol.net/strain/k-1783	Chaetoceros gelidus	https://norcca.scrol.net/species/chaetoceros-gelidus	Marine	k-1783
 839985	Chaetoceros gelidus	Chaetoceros gelidus	K-1784	https://norcca.scrol.net/strain/k-1784	Chaetoceros gelidus	https://norcca.scrol.net/species/chaetoceros-gelidus	Marine	k-1784
@@ -265,10 +258,12 @@ taxon_id	scientific_name	valid_name	strain_name	strain_link	species	species_link
 373972	Microthamnion kuetzingianum	Microthamnion kuetzingianum	K-1857	https://norcca.scrol.net/strain/k-1857	Microthamnion kuetzingianum	https://norcca.scrol.net/species/microthamnion-kuetzingianum	Freshwater	k-1857
 571647	Synura petersenii	Synura petersenii	K-1875	https://norcca.scrol.net/strain/k-1875	Synura petersenii	https://norcca.scrol.net/species/synura-petersenii	Freshwater	k-1875
 572081	Selenastrum	Selenastrum	K-1877	https://norcca.scrol.net/strain/k-1877	Selenastrum sp.	https://norcca.scrol.net/species/selenastrum-sp	Freshwater	k-1877
+578347	Volvox aureus	Volvox aureus	K-1892	https://norcca.scrol.net/strain/k-1892	Volvox aureus	https://norcca.scrol.net/species/volvox-aureus	Freshwater	k-1892
 608924	Cosmarium subprotromidum	Cosmarium subprotumidum	K-1894	https://norcca.scrol.net/strain/k-1894	Cosmarium subprotromidum	https://norcca.scrol.net/species/cosmarium-subprotromidum	Freshwater	k-1894
 110183	Peridinium cinctum	Peridinium cinctum	K-1898	https://norcca.scrol.net/strain/k-1898	Peridinium cinctum	https://norcca.scrol.net/species/peridinium-cinctum	Freshwater	k-1898
 600726	Trentepohlia	Trentepohlia	K-1900	https://norcca.scrol.net/strain/k-1900	Trentepohlia sp.	https://norcca.scrol.net/species/trentepohlia-sp	Freshwater	k-1900
 376667	Skeletonema marinoi	Skeletonema marinoi	K-1903	https://norcca.scrol.net/strain/k-1903	Skeletonema marinoi	https://norcca.scrol.net/species/skeletonema-marinoi	Marine	k-1903
+578347	Volvox aureus	Volvox aureus	K-1907	https://norcca.scrol.net/strain/k-1907	Volvox aureus	https://norcca.scrol.net/species/volvox-aureus	Freshwater	k-1907
 163247	Trachelomonas	Trachelomonas	K-1909	https://norcca.scrol.net/strain/k-1909	Trachelomonas sp.	https://norcca.scrol.net/species/trachelomonas-sp	Freshwater	k-1909
 608765	Closterium venus	Closterium venus	K-1910	https://norcca.scrol.net/strain/k-1910	Closterium venus	https://norcca.scrol.net/species/closterium-venus	Freshwater	k-1910
 148912	Thalassiosira	Thalassiosira	K-1912	https://norcca.scrol.net/strain/k-1912	Thalassiosira sp.	https://norcca.scrol.net/species/thalassiosira-sp	Marine	k-1912
@@ -328,7 +323,6 @@ taxon_id	scientific_name	valid_name	strain_name	strain_link	species	species_link
 376667	Skeletonema marinoi	Skeletonema marinoi	NIVA-BAC 60	https://norcca.scrol.net/strain/niva-bac-60	Skeletonema marinoi	https://norcca.scrol.net/species/skeletonema-marinoi	Marine	niva-bac-60
 376667	Skeletonema marinoi	Skeletonema marinoi	NIVA-BAC 61	https://norcca.scrol.net/strain/niva-bac-61	Skeletonema marinoi	https://norcca.scrol.net/species/skeletonema-marinoi	Marine	niva-bac-61
 376667	Skeletonema marinoi	Skeletonema marinoi	NIVA-BAC 62	https://norcca.scrol.net/strain/niva-bac-62	Skeletonema marinoi	https://norcca.scrol.net/species/skeletonema-marinoi	Marine	niva-bac-62
-376667	Skeletonema marinoi	Skeletonema marinoi	NIVA-BAC 65	https://norcca.scrol.net/strain/niva-bac-65	Skeletonema marinoi	https://norcca.scrol.net/species/skeletonema-marinoi	Marine	niva-bac-65
 175584	Phaeodactylum tricornutum	Phaeodactylum tricornutum	NIVA-BAC 70	https://norcca.scrol.net/strain/niva-bac-70	Phaeodactylum tricornutum	https://norcca.scrol.net/species/phaeodactylum-tricornutum	Brackish	niva-bac-70
 148905	Cyclotella	Cyclotella	NIVA-BAC 73	https://norcca.scrol.net/strain/niva-bac-73	Cyclotella sp.	https://norcca.scrol.net/species/cyclotella-sp	Freshwater	niva-bac-73
 148905	Cyclotella	Cyclotella	NIVA-BAC 74	https://norcca.scrol.net/strain/niva-bac-74	Cyclotella sp.	https://norcca.scrol.net/species/cyclotella-sp	Freshwater	niva-bac-74
@@ -421,7 +415,6 @@ taxon_id	scientific_name	valid_name	strain_name	strain_link	species	species_link
 625389	Choricystis cf. coccoides	Choricystis coccoides	NIVA-CHL 88	https://norcca.scrol.net/strain/niva-chl-88	Choricystis cf. coccoides	https://norcca.scrol.net/species/choricystis-cf-coccoides	Freshwater	niva-chl-88
 837008	Choricystis cf. parasitica	Choricystis parasitica	NIVA-CHL 89	https://norcca.scrol.net/strain/niva-chl-89	Choricystis cf. parasitica	https://norcca.scrol.net/species/choricystis-cf-parasitica	Terrestric	niva-chl-89
 177583	Planktothrix mougeotii	Planktothrix mougeotii	NIVA-CYA 10	https://norcca.scrol.net/strain/niva-cya-10	Planktothrix mougeotii	https://norcca.scrol.net/species/planktothrix-mougeotii	Freshwater	niva-cya-10
-146690	Phormidium	Phormidium	NIVA-CYA 100	https://norcca.scrol.net/strain/niva-cya-100	Phormidium sp.	https://norcca.scrol.net/species/phormidium-sp	Freshwater	niva-cya-100
 177614	Tychonema	Tychonema	NIVA-CYA 102/1	https://norcca.scrol.net/strain/niva-cya-1021	Tychonema sp.	https://norcca.scrol.net/species/tychonema-sp	Freshwater	niva-cya-1021
 177614	Tychonema	Tychonema	NIVA-CYA 102/2	https://norcca.scrol.net/strain/niva-cya-1022	Tychonema sp.	https://norcca.scrol.net/species/tychonema-sp	Freshwater	niva-cya-1022
 248100	Aphanizomenon gracile	Aphanizomenon gracile	NIVA-CYA 103	https://norcca.scrol.net/strain/niva-cya-103	Aphanizomenon gracile	https://norcca.scrol.net/species/aphanizomenon-gracile	Freshwater	niva-cya-103
@@ -464,7 +457,6 @@ taxon_id	scientific_name	valid_name	strain_name	strain_link	species	species_link
 572062	Planktothrix prolifica	Planktothrix prolifica	NIVA-CYA 151	https://norcca.scrol.net/strain/niva-cya-151	Planktothrix prolifica	https://norcca.scrol.net/species/planktothrix-prolifica	Freshwater	niva-cya-151
 146690	Phormidium	Phormidium	NIVA-CYA 154	https://norcca.scrol.net/strain/niva-cya-154	Phormidium sp.	https://norcca.scrol.net/species/phormidium-sp	Freshwater, fish pond	niva-cya-154
 146690	Phormidium	Phormidium	NIVA-CYA 155	https://norcca.scrol.net/strain/niva-cya-155	Phormidium sp.	https://norcca.scrol.net/species/phormidium-sp	Freshwater, fish pond	niva-cya-155
-146690	Phormidium	Phormidium	NIVA-CYA 156/2	https://norcca.scrol.net/strain/niva-cya-1562	Phormidium sp.	https://norcca.scrol.net/species/phormidium-sp	Freshwater, fish pond	niva-cya-1562
 160572	Synechococcus	Synechococcus	NIVA-CYA 159	https://norcca.scrol.net/strain/niva-cya-159	Synechococcus sp.	https://norcca.scrol.net/species/synechococcus-sp	Freshwater	niva-cya-159
 627627	Merismopedia punctata	Merismopedia tranquilla	NIVA-CYA 16	https://norcca.scrol.net/strain/niva-cya-16	Merismopedia punctata	https://norcca.scrol.net/species/merismopedia-punctata	Freshwater	niva-cya-16
 146558	Microcystis aeruginosa	Microcystis aeruginosa	NIVA-CYA 160/1	https://norcca.scrol.net/strain/niva-cya-1601	Microcystis aeruginosa	https://norcca.scrol.net/species/microcystis-aeruginosa	Freshwater	niva-cya-1601
@@ -504,7 +496,6 @@ taxon_id	scientific_name	valid_name	strain_name	strain_link	species	species_link
 146994	Leptolyngbya	Leptolyngbya	NIVA-CYA 198	https://norcca.scrol.net/strain/niva-cya-198	Leptolyngbya sp.	https://norcca.scrol.net/species/leptolyngbya-sp	Soil	niva-cya-198
 450777	Phormidium tergestinum	Phormidium tergestinum	NIVA-CYA 201	https://norcca.scrol.net/strain/niva-cya-201	Phormidium tergestinum	https://norcca.scrol.net/species/phormidium-tergestinum	Freshwater	niva-cya-201
 840972	Kamptonema cf. animale	Kamptonema animale	NIVA-CYA 202	https://norcca.scrol.net/strain/niva-cya-202	Kamptonema cf. animale	https://norcca.scrol.net/species/kamptonema-cf-animale	Recent moraine	niva-cya-202
-146690	Phormidium	Phormidium	NIVA-CYA 203	https://norcca.scrol.net/strain/niva-cya-203	Phormidium sp.	https://norcca.scrol.net/species/phormidium-sp	Recent moraine.	niva-cya-203
 146994	Leptolyngbya	Leptolyngbya	NIVA-CYA 204	https://norcca.scrol.net/strain/niva-cya-204	Leptolyngbya sp.	https://norcca.scrol.net/species/leptolyngbya-sp	Recent moraine.	niva-cya-204
 146690	Phormidium	Phormidium	NIVA-CYA 205	https://norcca.scrol.net/strain/niva-cya-205	Phormidium sp.	https://norcca.scrol.net/species/phormidium-sp	Terrestrial	niva-cya-205
 146690	Phormidium	Phormidium	NIVA-CYA 206	https://norcca.scrol.net/strain/niva-cya-206	Phormidium sp.	https://norcca.scrol.net/species/phormidium-sp	Terrestrial	niva-cya-206
@@ -545,7 +536,6 @@ taxon_id	scientific_name	valid_name	strain_name	strain_link	species	species_link
 177504	Leptolyngbya tenuis	Leptolyngbya tenuis	NIVA-CYA 25	https://norcca.scrol.net/strain/niva-cya-25	Leptolyngbya tenuis	https://norcca.scrol.net/species/leptolyngbya-tenuis	Freshwater	niva-cya-25
 146690	Phormidium	Phormidium	NIVA-CYA 250/3	https://norcca.scrol.net/strain/niva-cya-2503	Phormidium sp.	https://norcca.scrol.net/species/phormidium-sp	Stream	niva-cya-2503
 578252	Cyanothece aeruginosa	Cyanothece aeruginosa	NIVA-CYA 258/1	https://norcca.scrol.net/strain/niva-cya-2581	Cyanothece aeruginosa	https://norcca.scrol.net/species/cyanothece-aeruginosa	Gravel,	niva-cya-2581
-146690	Phormidium	Phormidium	NIVA-CYA 26	https://norcca.scrol.net/strain/niva-cya-26	Phormidium sp.	https://norcca.scrol.net/species/phormidium-sp	Freshwater	niva-cya-26
 840001	Microcoleus cf. amoenus	Microcoleus amoenus	NIVA-CYA 260	https://norcca.scrol.net/strain/niva-cya-260	Microcoleus cf. amoenus	https://norcca.scrol.net/species/microcoleus-cf-amoenus	Bryophyte vegetation	niva-cya-260
 615642	Tychonema bourrellyi	Tychonema bourrellyi	NIVA-CYA 261/1	https://norcca.scrol.net/strain/niva-cya-2611	Tychonema bourrellyi	https://norcca.scrol.net/species/tychonema-bourrellyi	Freshwater	niva-cya-2611
 615642	Tychonema bourrellyi	Tychonema bourrellyi	NIVA-CYA 261/2	https://norcca.scrol.net/strain/niva-cya-2612	Tychonema bourrellyi	https://norcca.scrol.net/species/tychonema-bourrellyi	Freshwater	niva-cya-2612
@@ -592,7 +582,6 @@ taxon_id	scientific_name	valid_name	strain_name	strain_link	species	species_link
 610167	Phormidium cf. favosum	Phormidium favosum	NIVA-CYA 318	https://norcca.scrol.net/strain/niva-cya-318	Phormidium cf. favosum	https://norcca.scrol.net/species/phormidium-cf-favosum	Soil	niva-cya-318
 393172	Nostoc	Nostoc	NIVA-CYA 319	https://norcca.scrol.net/strain/niva-cya-319	Nostoc sp.	https://norcca.scrol.net/species/nostoc-sp	Soil	niva-cya-319
 572062	Planktothrix prolifica	Planktothrix prolifica	NIVA-CYA 320	https://norcca.scrol.net/strain/niva-cya-320	Planktothrix prolifica	https://norcca.scrol.net/species/planktothrix-prolifica	Freshwater	niva-cya-320
-840001	Microcoleus amoenus	Microcoleus amoenus	NIVA-CYA 321	https://norcca.scrol.net/strain/niva-cya-321	Microcoleus amoenus	https://norcca.scrol.net/species/microcoleus-amoenus		niva-cya-321
 178510	Symploca	Symploca	NIVA-CYA 322	https://norcca.scrol.net/strain/niva-cya-322	Symploca sp.	https://norcca.scrol.net/species/symploca-sp	Greenhouse	niva-cya-322
 177649	Anabaena subcylindrica	Anabaena cylindrica	NIVA-CYA 323	https://norcca.scrol.net/strain/niva-cya-323	Anabaena subcylindrica	https://norcca.scrol.net/species/anabaena-subcylindrica	Mineral spring	niva-cya-323
 146557	Microcystis	Microcystis	NIVA-CYA 324/1	https://norcca.scrol.net/strain/niva-cya-3241	Microcystis sp.	https://norcca.scrol.net/species/microcystis-sp	Freshwater	niva-cya-3241
@@ -678,7 +667,6 @@ taxon_id	scientific_name	valid_name	strain_name	strain_link	species	species_link
 146690	Phormidium	Phormidium	NIVA-CYA 46	https://norcca.scrol.net/strain/niva-cya-46	Phormidium sp.	https://norcca.scrol.net/species/phormidium-sp	Freshwater	niva-cya-46
 146690	Phormidium	Phormidium	NIVA-CYA 460	https://norcca.scrol.net/strain/niva-cya-460	Phormidium sp.	https://norcca.scrol.net/species/phormidium-sp	Freshwater	niva-cya-460
 146690	Phormidium	Phormidium	NIVA-CYA 461	https://norcca.scrol.net/strain/niva-cya-461	Phormidium sp.	https://norcca.scrol.net/species/phormidium-sp	Freshwater	niva-cya-461
-146690	Phormidium	Phormidium	NIVA-CYA 47	https://norcca.scrol.net/strain/niva-cya-47	Phormidium sp.	https://norcca.scrol.net/species/phormidium-sp	Freshwater	niva-cya-47
 146690	Phormidium	Phormidium	NIVA-CYA 48	https://norcca.scrol.net/strain/niva-cya-48	Phormidium sp.	https://norcca.scrol.net/species/phormidium-sp	Freshwater	niva-cya-48
 146690	Phormidium	Phormidium	NIVA-CYA 49	https://norcca.scrol.net/strain/niva-cya-49	Phormidium sp.	https://norcca.scrol.net/species/phormidium-sp	Freshwater	niva-cya-49
 146690	Phormidium	Phormidium	NIVA-CYA 491	https://norcca.scrol.net/strain/niva-cya-491	Phormidium sp.	https://norcca.scrol.net/species/phormidium-sp	Freshwater	niva-cya-491
@@ -851,7 +839,6 @@ taxon_id	scientific_name	valid_name	strain_name	strain_link	species	species_link
 625407	Anabaena planctonica	Dolichospermum planctonicum	NIVA-CYA 701	https://norcca.scrol.net/strain/niva-cya-701	Anabaena planctonica	https://norcca.scrol.net/species/anabaena-planctonica	Lake	niva-cya-701
 625407	Anabaena planctonica	Dolichospermum planctonicum	NIVA-CYA 702	https://norcca.scrol.net/strain/niva-cya-702	Anabaena planctonica	https://norcca.scrol.net/species/anabaena-planctonica	Lake	niva-cya-702
 248099	Aphanizomenon flos-aquae	Aphanizomenon flos-aquae	NIVA-CYA 704	https://norcca.scrol.net/strain/niva-cya-704	Aphanizomenon flos-aquae	https://norcca.scrol.net/species/aphanizomenon-flos-aquae	Lake	niva-cya-704
-146690	Phormidium	Phormidium	NIVA-CYA 71	https://norcca.scrol.net/strain/niva-cya-71	Phormidium sp.	https://norcca.scrol.net/species/phormidium-sp	Freshwater river	niva-cya-71
 621617	Cuspidothrix issatschenkoi	Cuspidothrix issatschenkoi	NIVA-CYA 711	https://norcca.scrol.net/strain/niva-cya-711	Cuspidothrix issatschenkoi	https://norcca.scrol.net/species/cuspidothrix-issatschenkoi	Lake	niva-cya-711
 625407	Anabaena planctonica	Dolichospermum planctonicum	NIVA-CYA 819	https://norcca.scrol.net/strain/niva-cya-819	Anabaena planctonica	https://norcca.scrol.net/species/anabaena-planctonica	Lake	niva-cya-819
 625408	Dolichospermum sigmoideum	Dolichospermum sigmoideum	NIVA-CYA 82	https://norcca.scrol.net/strain/niva-cya-82	Dolichospermum sigmoideum	https://norcca.scrol.net/species/dolichospermum-sigmoideum	Freshwater	niva-cya-82
@@ -959,7 +946,6 @@ taxon_id	scientific_name	valid_name	strain_name	strain_link	species	species_link
 148985	Chaetoceros	Chaetoceros	UIO 419	https://norcca.scrol.net/strain/uio-419	Chaetoceros sp.	https://norcca.scrol.net/species/chaetoceros-sp	Marine plankton	uio-419
 149219	Chaetoceros cf. debilis	Chaetoceros debilis	UIO 421	https://norcca.scrol.net/strain/uio-421	Chaetoceros cf. debilis	https://norcca.scrol.net/species/chaetoceros-cf-debilis	Marine plankton	uio-421
 149291	Chaetoceros cf. brevis	Chaetoceros brevis	UIO 423	https://norcca.scrol.net/strain/uio-423	Chaetoceros cf. brevis	https://norcca.scrol.net/species/chaetoceros-cf-brevis	Marine plankton	uio-423
-148985	Chaetoceros	Chaetoceros	UIO 424	https://norcca.scrol.net/strain/uio-424	Chaetoceros sp.	https://norcca.scrol.net/species/chaetoceros-sp	Marine plankton	uio-424
 149150	Nitzschia longissima / Cylindrotheca closterium	Nitzschia longissima	UIO 425	https://norcca.scrol.net/strain/uio-425	Nitzschia longissima / Cylindrotheca closterium	https://norcca.scrol.net/species/nitzschia-longissima-cylindrotheca-closterium	Marine plankton	uio-425
 149123	Chaetoceros socialis	Chaetoceros socialis	UIO 427	https://norcca.scrol.net/strain/uio-427	Chaetoceros socialis	https://norcca.scrol.net/species/chaetoceros-socialis	Marine plankton	uio-427
 149291	Chaetoceros cf. brevis	Chaetoceros brevis	UIO 429	https://norcca.scrol.net/strain/uio-429	Chaetoceros cf. brevis	https://norcca.scrol.net/species/chaetoceros-cf-brevis	Marine plankton	uio-429
@@ -975,14 +961,11 @@ taxon_id	scientific_name	valid_name	strain_name	strain_link	species	species_link
 149128	Chaetoceros diadema	Syndendrium diadema	UIO 446	https://norcca.scrol.net/strain/uio-446	Chaetoceros diadema	https://norcca.scrol.net/species/chaetoceros-diadema	Marine plankton	uio-446
 148985	Chaetoceros	Chaetoceros	UIO 449	https://norcca.scrol.net/strain/uio-449	Chaetoceros sp.	https://norcca.scrol.net/species/chaetoceros-sp	Marine plankton	uio-449
 148985	Chaetoceros	Chaetoceros	UIO 450	https://norcca.scrol.net/strain/uio-450	Chaetoceros sp.	https://norcca.scrol.net/species/chaetoceros-sp	Marine plankton	uio-450
-246609	Pseudo-nitzschia cf. turgidula	Pseudo-nitzschia turgidula	UIO 451	https://norcca.scrol.net/strain/uio-451	Pseudo-nitzschia cf. turgidula	https://norcca.scrol.net/species/pseudo-nitzschia-cf-turgidula	Marine plankton	uio-451
 376667	Skeletonema marinoi	Skeletonema marinoi	UIO 452	https://norcca.scrol.net/strain/uio-452	Skeletonema marinoi	https://norcca.scrol.net/species/skeletonema-marinoi	Marine plankton	uio-452
 376667	Skeletonema marinoi	Skeletonema marinoi	UIO 455	https://norcca.scrol.net/strain/uio-455	Skeletonema marinoi	https://norcca.scrol.net/species/skeletonema-marinoi	Marine plankton	uio-455
 464322	Arcocellulus cornucervis	Arcocellulus cornucervis	UIO 456	https://norcca.scrol.net/strain/uio-456	Arcocellulus cornucervis	https://norcca.scrol.net/species/arcocellulus-cornucervis	Marine plankton	uio-456
 236056	Emiliania huxleyi	Gephyrocapsa huxleyi	UIO 457	https://norcca.scrol.net/strain/uio-457	Emiliania huxleyi	https://norcca.scrol.net/species/emiliania-huxleyi	Marine plankton	uio-457
 148912	Thalassiosira	Thalassiosira	UIO 458	https://norcca.scrol.net/strain/uio-458	Thalassiosira sp.	https://norcca.scrol.net/species/thalassiosira-sp	Marine plankton	uio-458
-246609	Pseudo-nitzschia cf. turgidula	Pseudo-nitzschia turgidula	UIO 460	https://norcca.scrol.net/strain/uio-460	Pseudo-nitzschia cf. turgidula	https://norcca.scrol.net/species/pseudo-nitzschia-cf-turgidula	Marine plankton	uio-460
-148912	Thalassiosira	Thalassiosira	UIO 461	https://norcca.scrol.net/strain/uio-461	Thalassiosira sp.	https://norcca.scrol.net/species/thalassiosira-sp	Marine plankton	uio-461
 375971	Pelagococcus subviridis	Pelagococcus subviridis	UIO 462	https://norcca.scrol.net/strain/uio-462	Pelagococcus subviridis	https://norcca.scrol.net/species/pelagococcus-subviridis	Marine plankton	uio-462
 148912	Thalassiosira	Thalassiosira	UIO 463	https://norcca.scrol.net/strain/uio-463	Thalassiosira sp.	https://norcca.scrol.net/species/thalassiosira-sp	Marine plankton	uio-463
 148912	Thalassiosira	Thalassiosira	UIO 465	https://norcca.scrol.net/strain/uio-465	Thalassiosira sp.	https://norcca.scrol.net/species/thalassiosira-sp	Marine plankton	uio-465
@@ -1019,8 +1002,6 @@ taxon_id	scientific_name	valid_name	strain_name	strain_link	species	species_link
 573617	Synedropsis hyperborea	Synedra hyperborea var. hyperborea	UIO 543	https://norcca.scrol.net/strain/uio-543	Synedropsis hyperborea	https://norcca.scrol.net/species/synedropsis-hyperborea	Sea ice	uio-543
 573617	Synedropsis hyperborea	Synedra hyperborea var. hyperborea	UIO 547	https://norcca.scrol.net/strain/uio-547	Synedropsis hyperborea	https://norcca.scrol.net/species/synedropsis-hyperborea	Sea ice	uio-547
 573617	Synedropsis hyperborea	Synedra hyperborea var. hyperborea	UIO 552	https://norcca.scrol.net/strain/uio-552	Synedropsis hyperborea	https://norcca.scrol.net/species/synedropsis-hyperborea	Sea ice	uio-552
-134533	Micromonas 	Micromonas	UIO 566	https://norcca.scrol.net/strain/uio-566	Micromonas  sp.	https://norcca.scrol.net/species/micromonas-sp-0	Marine plankton	uio-566
-134529	Pyramimonas	Pyramimonas	UIO 569	https://norcca.scrol.net/strain/uio-569	Pyramimonas sp.	https://norcca.scrol.net/species/pyramimonas-sp	Marine plankton	uio-569
 134529	Pyramimonas	Pyramimonas	UIO 570	https://norcca.scrol.net/strain/uio-570	Pyramimonas sp.	https://norcca.scrol.net/species/pyramimonas-sp	Marine plankton	uio-570
 134529	Pyramimonas	Pyramimonas	UIO 571	https://norcca.scrol.net/strain/uio-571	Pyramimonas sp.	https://norcca.scrol.net/species/pyramimonas-sp	Marine plankton	uio-571
 134533	Micromonas 	Micromonas	UIO 576	https://norcca.scrol.net/strain/uio-576	Micromonas  sp.	https://norcca.scrol.net/species/micromonas-sp-0	Marine plankton, 0,5 m under ice flake	uio-576

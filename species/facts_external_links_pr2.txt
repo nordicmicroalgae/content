@@ -616,6 +616,7 @@ taxon_id	pr2_name	url
 134563	Mantoniella_squamata:plas	https://app.pr2-database.org/pr2-database/
 149043	Melosira_varians	https://app.pr2-database.org/pr2-database/
 149043	Melosira_varians:plas	https://app.pr2-database.org/pr2-database/
+1476503	Mesodinium_major	https://app.pr2-database.org/pr2-database/
 232069	Mesodinium_rubrum	https://app.pr2-database.org/pr2-database/
 375969	Mesopedinella_arctica	https://app.pr2-database.org/pr2-database/
 375969	Mesopedinella_arctica:plas	https://app.pr2-database.org/pr2-database/
