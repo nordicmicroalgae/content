@@ -975,6 +975,7 @@ taxon_id	pr2_name	url
 149074	Skeletonema_costatum	https://app.pr2-database.org/pr2-database/
 149074	Skeletonema_costatum:plas	https://app.pr2-database.org/pr2-database/
 608488	Sorastrum_spinulosum	https://app.pr2-database.org/pr2-database/
+1760858	Sourniaea_diacantha	https://app.pr2-database.org/pr2-database/
 109923	Spatulodinium_pseudonoctiluca	https://app.pr2-database.org/pr2-database/
 578433	Spermatozopsis_exsultans:plas	https://app.pr2-database.org/pr2-database/
 145902	Sphacelaria_rigidula	https://app.pr2-database.org/pr2-database/
