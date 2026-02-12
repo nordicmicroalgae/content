@@ -2,7 +2,7 @@
 layout: post
 title: Nordic Microalgae has been updated
 author: Anders Torstensson
-date: 2026-01-26 11:15
+date: 2026-02-16 11:15
 ---
 
 Nordic Microalgae has been updated with new features to help you find and use our image collections more easily.
