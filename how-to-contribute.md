@@ -30,6 +30,12 @@ How to contribute with images and image galleries: [Download pdf](https://www.sm
 
 &nbsp;  
 
+## Contributing images to the labeling guide
+
+Learn how to contribute reference images to the [image labeling guide](/image-labeling/): [Download pdf](https://www.smhi.se/oceanografi/oce_info_data/shark_web/downloads/sbdi/nordic_microalgae_image_labeling_contributor_guide.pdf)
+
+&nbsp;  
+
 ## About contribution of images
 
 Please contribute images for any organism in Nordic Microalgae. There is no restriction of the number of images per taxon but more than ten is seldom useful. Most important are images of organisms that are not yet well illustrated. Before you consider contribution make sure that you understand the implications for copyright holders by reading the [Terms of use](/terms-of-use). All types of high-quality images are requested, e.g.
