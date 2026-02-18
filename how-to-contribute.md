@@ -32,7 +32,7 @@ How to contribute with images and image galleries: [Download pdf](https://www.sm
 
 ## Contributing images to the labeling guide
 
-Learn how to contribute reference images to the [image labeling guide](/image-labeling/): [Download pdf](https://www.smhi.se/oceanografi/oce_info_data/shark_web/downloads/sbdi/nordic_microalgae_image_labeling_contributor_guide.pdf)
+Learn how to contribute reference images to the Image labeling guide: [Download pdf](https://www.smhi.se/oceanografi/oce_info_data/shark_web/downloads/sbdi/nordic_microalgae_image_labeling_contributor_guide.pdf)
 
 &nbsp;  
 
