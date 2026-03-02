@@ -8,4 +8,4 @@ Images are made available for use in lectures, lecture notes, and seminars for e
 
 ### Cite Nordic Microalgae as
 
-Torstensson, A., Loo, A., Sundqvist, L., Skjevik, A.-T., Karlberg, M., Johansen, M., Andreasson, A., Skogsfors, J., Karlson, B. (2024). _Nordic Microalgae v2.x_ (backend BACKEND_VERSION, frontend FRONTEND_VERSION), [www.nordicmicroalgae.org](http://nordicmicroalgae.org), searched on YYYY-MM-DD.
+Torstensson, A., Loo, A., Sundqvist, L., Skjevik, A.-T., Karlberg, M., Johansen, M., Andreasson, A., Skogsfors, J., Karlson, B. (2024). _Nordic Microalgae v2.x_ (backend {{BACKEND_VERSION}}, frontend {{FRONTEND_VERSION}}), [www.nordicmicroalgae.org](http://nordicmicroalgae.org), searched on {{YYYY-MM-DD}}.
