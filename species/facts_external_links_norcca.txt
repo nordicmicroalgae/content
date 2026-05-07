@@ -22,7 +22,7 @@ taxon_id	scientific_name	valid_name	strain_name	strain_link	species	species_link
 369816	Klebsormidium	Klebsormidium	K-0148	https://norcca.scrol.net/strain/k-0148	Klebsormidium sp.	https://norcca.scrol.net/species/klebsormidium-sp	Freshwater	k-0148
 610084	Tribonema minus	Tribonema minus	K-0162	https://norcca.scrol.net/strain/k-0162	Tribonema minus	https://norcca.scrol.net/species/tribonema-minus	Freshwater	k-0162
 145869	Scytosiphon lomentaria	Scytosiphon lomentaria	K-0183	https://norcca.scrol.net/strain/k-0183	Scytosiphon lomentaria	https://norcca.scrol.net/species/scytosiphon-lomentaria	Marine, On smaller stones and mussel shells	k-0183
-575737	Planctonema lauterbornii	Binuclearia lauterbornii	K-0187	https://norcca.scrol.net/strain/k-0187	Planctonema lauterbornii	https://norcca.scrol.net/species/planctonema-lauterbornii	Freshwater	k-0187
+162716	Planctonema lauterbornii	Planctonema lauterbornii	K-0187	https://norcca.scrol.net/strain/k-0187	Planctonema lauterbornii	https://norcca.scrol.net/species/planctonema-lauterbornii	Freshwater	k-0187
 840109	Dicrateria rotunda	Dicrateria rotunda	K-0280	https://norcca.scrol.net/strain/k-0280	Dicrateria rotunda	https://norcca.scrol.net/species/dicrateria-rotunda	Marine	k-0280
 149102	Thalassiosira gravida	Thalassiosira gravida	K-0282	https://norcca.scrol.net/strain/k-0282	Thalassiosira gravida	https://norcca.scrol.net/species/thalassiosira-gravida	Marine	k-0282
 134563	Mantoniella squamata	Mantoniella squamata	K-0284	https://norcca.scrol.net/strain/k-0284	Mantoniella squamata	https://norcca.scrol.net/species/mantoniella-squamata	Marine	k-0284
@@ -91,7 +91,7 @@ taxon_id	scientific_name	valid_name	strain_name	strain_link	species	species_link
 376667	Skeletonema marinoi	Skeletonema marinoi	K-0669	https://norcca.scrol.net/strain/k-0669	Skeletonema marinoi	https://norcca.scrol.net/species/skeletonema-marinoi	Marine	k-0669
 732246	Ulvella leptochaete	Ulvella leptochaete	K-0678	https://norcca.scrol.net/strain/k-0678	Ulvella leptochaete	https://norcca.scrol.net/species/ulvella-leptochaete	Marine, Rock pool	k-0678
 376160	Tetraselmis verrucosa	Tetraselmis verrucosa	K-0950	https://norcca.scrol.net/strain/k-0950	Tetraselmis verrucosa	https://norcca.scrol.net/species/tetraselmis-verrucosa	Marine	k-0950
-145064	Cladophora rupestris	Cladophora rupestris	K-0971	https://norcca.scrol.net/strain/k-0971	Cladophora rupestris	https://norcca.scrol.net/species/cladophora-rupestris	Marine	k-0971
+1738316	Cladophora rupestris	Rama rupestris	K-0971	https://norcca.scrol.net/strain/k-0971	Cladophora rupestris	https://norcca.scrol.net/species/cladophora-rupestris	Marine	k-0971
 1380043	Apocalathium malmogiense	Apocalathium malmogiense	K-0977	https://norcca.scrol.net/strain/k-0977	Apocalathium malmogiense	https://norcca.scrol.net/species/apocalathium-malmogiense	Brackish	k-0977
 1380043	Apocalathium malmogiense	Apocalathium malmogiense	K-0979	https://norcca.scrol.net/strain/k-0979	Apocalathium malmogiense	https://norcca.scrol.net/species/apocalathium-malmogiense	Brackish	k-0979
 1380043	Apocalathium malmogiense	Apocalathium malmogiense	K-0980	https://norcca.scrol.net/strain/k-0980	Apocalathium malmogiense	https://norcca.scrol.net/species/apocalathium-malmogiense	Brackish	k-0980
@@ -125,7 +125,6 @@ taxon_id	scientific_name	valid_name	strain_name	strain_link	species	species_link
 157188	Pylaiella littoralis	Pylaiella littoralis	K-1072	https://norcca.scrol.net/strain/k-1072	Pylaiella littoralis	https://norcca.scrol.net/species/pylaiella-littoralis	Marine	k-1072
 144986	Protectocarpusciosus	Protectocarpus speciosus	K-1073	https://norcca.scrol.net/strain/k-1073	Protectocarpus speciosus	https://norcca.scrol.net/species/protectocarpus-speciosus	Marine	k-1073
 367250	Carteria	Carteria	K-1074	https://norcca.scrol.net/strain/k-1074	Carteria sp.	https://norcca.scrol.net/species/carteria-sp	Freshwater	k-1074
-555953	Vaucheria frigida s.l.	Vaucheria frigida	K-1088	https://norcca.scrol.net/strain/k-1088	Vaucheria frigida s.l.	https://norcca.scrol.net/species/vaucheria-frigida-sl	Freshwater	k-1088
 1313613	Geitlerinema amphibium	Anagnostidinema amphibium	K-1090	https://norcca.scrol.net/strain/k-1090	Geitlerinema amphibium	https://norcca.scrol.net/species/geitlerinema-amphibium	Terrestrial (soil)	k-1090
 1313613	Geitlerinema amphibium	Anagnostidinema amphibium	K-1091	https://norcca.scrol.net/strain/k-1091	Geitlerinema amphibium	https://norcca.scrol.net/species/geitlerinema-amphibium	Terrestrial (soil)	k-1091
 177518	Oscillatoria sancta	Oscillatoria sancta	K-1092	https://norcca.scrol.net/strain/k-1092	Oscillatoria sancta	https://norcca.scrol.net/species/oscillatoria-sancta	Terrestrial (soil)	k-1092
@@ -260,7 +259,6 @@ taxon_id	scientific_name	valid_name	strain_name	strain_link	species	species_link
 572081	Selenastrum	Selenastrum	K-1877	https://norcca.scrol.net/strain/k-1877	Selenastrum sp.	https://norcca.scrol.net/species/selenastrum-sp	Freshwater	k-1877
 578347	Volvox aureus	Volvox aureus	K-1892	https://norcca.scrol.net/strain/k-1892	Volvox aureus	https://norcca.scrol.net/species/volvox-aureus	Freshwater	k-1892
 608924	Cosmarium subprotromidum	Cosmarium subprotumidum	K-1894	https://norcca.scrol.net/strain/k-1894	Cosmarium subprotromidum	https://norcca.scrol.net/species/cosmarium-subprotromidum	Freshwater	k-1894
-110183	Peridinium cinctum	Peridinium cinctum	K-1898	https://norcca.scrol.net/strain/k-1898	Peridinium cinctum	https://norcca.scrol.net/species/peridinium-cinctum	Freshwater	k-1898
 600726	Trentepohlia	Trentepohlia	K-1900	https://norcca.scrol.net/strain/k-1900	Trentepohlia sp.	https://norcca.scrol.net/species/trentepohlia-sp	Freshwater	k-1900
 376667	Skeletonema marinoi	Skeletonema marinoi	K-1903	https://norcca.scrol.net/strain/k-1903	Skeletonema marinoi	https://norcca.scrol.net/species/skeletonema-marinoi	Marine	k-1903
 578347	Volvox aureus	Volvox aureus	K-1907	https://norcca.scrol.net/strain/k-1907	Volvox aureus	https://norcca.scrol.net/species/volvox-aureus	Freshwater	k-1907
@@ -738,7 +736,6 @@ taxon_id	scientific_name	valid_name	strain_name	strain_link	species	species_link
 146552	Planktothrix agardhii	Planktothrix agardhii	NIVA-CYA 586	https://norcca.scrol.net/strain/niva-cya-586	Planktothrix agardhii	https://norcca.scrol.net/species/planktothrix-agardhii	Freshwater	niva-cya-586
 146552	Planktothrix agardhii	Planktothrix agardhii	NIVA-CYA 587	https://norcca.scrol.net/strain/niva-cya-587	Planktothrix agardhii	https://norcca.scrol.net/species/planktothrix-agardhii	Freshwater	niva-cya-587
 146552	Planktothrix agardhii	Planktothrix agardhii	NIVA-CYA 588	https://norcca.scrol.net/strain/niva-cya-588	Planktothrix agardhii	https://norcca.scrol.net/species/planktothrix-agardhii	Freshwater	niva-cya-588
-146552	Planktothrix agardhii	Planktothrix agardhii	NIVA-CYA 589	https://norcca.scrol.net/strain/niva-cya-589	Planktothrix agardhii	https://norcca.scrol.net/species/planktothrix-agardhii	Freshwater	niva-cya-589
 146552	Planktothrix agardhii	Planktothrix agardhii	NIVA-CYA 59	https://norcca.scrol.net/strain/niva-cya-59	Planktothrix agardhii	https://norcca.scrol.net/species/planktothrix-agardhii	Freshwater	niva-cya-59
 146552	Planktothrix agardhii	Planktothrix agardhii	NIVA-CYA 590	https://norcca.scrol.net/strain/niva-cya-590	Planktothrix agardhii	https://norcca.scrol.net/species/planktothrix-agardhii	Freshwater	niva-cya-590
 146552	Planktothrix agardhii	Planktothrix agardhii	NIVA-CYA 591	https://norcca.scrol.net/strain/niva-cya-591	Planktothrix agardhii	https://norcca.scrol.net/species/planktothrix-agardhii	Ferskvann	niva-cya-591
@@ -964,7 +961,6 @@ taxon_id	scientific_name	valid_name	strain_name	strain_link	species	species_link
 376667	Skeletonema marinoi	Skeletonema marinoi	UIO 452	https://norcca.scrol.net/strain/uio-452	Skeletonema marinoi	https://norcca.scrol.net/species/skeletonema-marinoi	Marine plankton	uio-452
 376667	Skeletonema marinoi	Skeletonema marinoi	UIO 455	https://norcca.scrol.net/strain/uio-455	Skeletonema marinoi	https://norcca.scrol.net/species/skeletonema-marinoi	Marine plankton	uio-455
 464322	Arcocellulus cornucervis	Arcocellulus cornucervis	UIO 456	https://norcca.scrol.net/strain/uio-456	Arcocellulus cornucervis	https://norcca.scrol.net/species/arcocellulus-cornucervis	Marine plankton	uio-456
-236056	Emiliania huxleyi	Gephyrocapsa huxleyi	UIO 457	https://norcca.scrol.net/strain/uio-457	Emiliania huxleyi	https://norcca.scrol.net/species/emiliania-huxleyi	Marine plankton	uio-457
 148912	Thalassiosira	Thalassiosira	UIO 458	https://norcca.scrol.net/strain/uio-458	Thalassiosira sp.	https://norcca.scrol.net/species/thalassiosira-sp	Marine plankton	uio-458
 375971	Pelagococcus subviridis	Pelagococcus subviridis	UIO 462	https://norcca.scrol.net/strain/uio-462	Pelagococcus subviridis	https://norcca.scrol.net/species/pelagococcus-subviridis	Marine plankton	uio-462
 148912	Thalassiosira	Thalassiosira	UIO 463	https://norcca.scrol.net/strain/uio-463	Thalassiosira sp.	https://norcca.scrol.net/species/thalassiosira-sp	Marine plankton	uio-463

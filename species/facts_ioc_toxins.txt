@@ -4,10 +4,10 @@ taxon_id	scientific_name	id	toxin_group	recommended_name	recommended_acronym	url
 109712	Alexandrium ostenfeldii	464	Gymnodimine	12-Methylgymnodimine-B	12-Me-GYM-B	https://toxins.hais.ioc-unesco.org/toxins/464/
 109712	Alexandrium ostenfeldii	463	Gymnodimine	12-Methylgymnodimine-A	12-MeGYM-A	https://toxins.hais.ioc-unesco.org/toxins/463/
 109712	Alexandrium ostenfeldii	462	Gymnodimine	16-Desmethylgymnodimine-D	16-desmethylGYM-D	https://toxins.hais.ioc-unesco.org/toxins/462/
-109712	Alexandrium ostenfeldii	12	Gymnodimine	Gymnodimine-A	GYM-A	https://toxins.hais.ioc-unesco.org/toxins/12/
+109712	Alexandrium ostenfeldii	12	Gymnodimine	Gymnodimine A	GYM-A	https://toxins.hais.ioc-unesco.org/toxins/12/
 109712	Alexandrium ostenfeldii	15	Gymnodimine	Gymnodimine-D	GYM-D	https://toxins.hais.ioc-unesco.org/toxins/15/
 109712	Alexandrium ostenfeldii	17	Gymnodimine	Gymnodimine-E	GYM-E	https://toxins.hais.ioc-unesco.org/toxins/17/
-109713	Alexandrium pseudogonyaulax	556	Goniodomin	34-desmethyl-goniodomin A	34-desmeGDA	https://toxins.hais.ioc-unesco.org/toxins/556/
+109713	Alexandrium pseudogonyaulax	556	Goniodomin	34-desmethylgoniodomin A	34-desMeGDA	https://toxins.hais.ioc-unesco.org/toxins/556/
 109713	Alexandrium pseudogonyaulax	548	Goniodomin	Goniodomin A	GDA	https://toxins.hais.ioc-unesco.org/toxins/548/
 109714	Alexandrium tamarense	476	Saxitoxin	Saxitoxin	STX	https://toxins.hais.ioc-unesco.org/toxins/476/
 146585	Anabaena	465	Cylindrospermopsin	Cylindrospermopsin	CYN	https://toxins.hais.ioc-unesco.org/toxins/465/

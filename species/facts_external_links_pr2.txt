@@ -213,7 +213,6 @@ taxon_id	pr2_name	url
 145045	Cladophora_flexuosa	https://app.pr2-database.org/pr2-database/
 145048	Cladophora_glomerata	https://app.pr2-database.org/pr2-database/
 145051	Cladophora_laetevirens	https://app.pr2-database.org/pr2-database/
-145064	Cladophora_rupestris	https://app.pr2-database.org/pr2-database/
 145065	Cladophora_sericea	https://app.pr2-database.org/pr2-database/
 145070	Cladophora_vagabunda	https://app.pr2-database.org/pr2-database/
 578389	Closterium_acerosum	https://app.pr2-database.org/pr2-database/
@@ -1166,7 +1165,6 @@ taxon_id	pr2_name	url
 660661	Ulva_australis	https://app.pr2-database.org/pr2-database/
 156078	Ulva_clathrata	https://app.pr2-database.org/pr2-database/
 234462	Ulva_compressa	https://app.pr2-database.org/pr2-database/
-145981	Ulva_curvata	https://app.pr2-database.org/pr2-database/
 234468	Ulva_flexuosa	https://app.pr2-database.org/pr2-database/
 234468	Ulva_flexuosa:plas	https://app.pr2-database.org/pr2-database/
 234471	Ulva_intestinalis	https://app.pr2-database.org/pr2-database/
